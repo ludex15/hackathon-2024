@@ -1,13 +1,14 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from app import query_openai
+
 
 app = Flask(__name__)
-cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
+CORS(app)
 
 # Custom error messages
 def error_response(message, status_code):
     return jsonify({"error": message}), status_code
-
 
 app = Flask(__name__)
 
@@ -26,10 +27,12 @@ def process_text():
 
         # Process the 'prompt' field
         user_prompt = data['prompt']
-        
-        # Example response
-        response = "je to ok"
-        return jsonify({"message": response}), 200
+        openai_response = query_openai(user_prompt)
+
+        if openai_response["return_code"] != 0:
+            return error_response("Openai error", 400) 
+
+        return jsonify({"message": openai_response["content"]}), 200
 
     except KeyError as e:
         # Handle specific KeyError issues
