@@ -31,8 +31,7 @@ def query_openai(inputprompt):
             model='gpt-4o-mini',  # Replace with the desired model name
             messages=[
                 {'role': 'user', 'content': inputprompt}
-            ],
-            temperature=0,
+            ]
         )
 
         # Extract the content of the response
@@ -45,3 +44,10 @@ def query_openai(inputprompt):
     except Exception as e:
         # Return error JSON
         error_response = {"return_code": 1, "content": str(e)}
+        return error_response
+
+# Example usage
+if __name__ == "__main__":
+    inputprompt = input("Enter your query: ")
+    result = query_openai(inputprompt)
+    print(result)
