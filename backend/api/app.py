@@ -45,4 +45,3 @@ def query_openai(inputprompt):
     except Exception as e:
         # Return error JSON
         error_response = {"return_code": 1, "content": str(e)}
-        return error_response
