@@ -46,9 +46,3 @@ def query_openai(inputprompt):
         # Return error JSON
         error_response = {"return_code": 1, "content": str(e)}
         return json.dumps(error_response)
-
-# Example usage
-if __name__ == "__main__":
-    inputprompt = input("Enter your query: ")
-    result = query_openai(inputprompt)
-    print(result)
