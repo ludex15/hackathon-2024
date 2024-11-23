@@ -7,8 +7,7 @@ const Response = ({ data }) => {
 
   return (
     <div className="response">
-      <h3>Response:</h3>
-      <pre>{JSON.stringify(data, null, 2)}</pre> {/* Format the response as needed */}
+      <pre>{JSON.stringify(data.message)}</pre>
     </div>
   );
 };
