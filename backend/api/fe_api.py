@@ -10,8 +10,6 @@ CORS(app)
 def error_response(message, status_code):
     return jsonify({"error": message}), status_code
 
-app = Flask(__name__)
-
 # Endpoint to handle free text data
 @app.route('/api/prompt', methods=['POST'])
 def process_text():
@@ -42,17 +40,6 @@ def process_text():
         # Handle unexpected errors
         return error_response(f"An unexpected error occurred: {str(e)}", 500)
       
-        # Extract data from JSON payload
-        data = request.get_json()
-        
-        if not data or 'prompt' not in data:
-            return jsonify({"error": "Missing 'prompt' field in request"}), 400
-        
-        response = "je to ok"
-        return response, 200
-
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
 
 # Run the server
 if __name__ == '__main__':
