@@ -1,102 +1,77 @@
-import json
 import pandas as pd
+import json
+from openai import OpenAI, embeddings, completions
 import os
-from openai import OpenAI
 from dotenv import load_dotenv
+import numpy as np
 
 # Load environment variables from .env file
-load_dotenv()
+load_dotenv(".env")
+api_key=os.getenv("OPENAI_API_KEY")
+user_query = "How many genders are depressed."
 
-# Load the dataset
-dataset_path = "../data/dataset.csv"
+def get_dataset():
+    df = pd.read_csv('../data/dataset.csv')
+    columns = df.columns.tolist()
+    description = df.describe()
 
-def query_openai(inputprompt):
-    """
-    Sends a query to OpenAI and returns the response content in JSON format.
+    print(columns, description)
 
-    Args:
-        inputprompt (str): The query to send to OpenAI.
+    non_numeric_columns = df.select_dtypes(exclude=['number'])
+    unique_values = {col: non_numeric_columns[col].unique().tolist() for col in non_numeric_columns.columns}
+    return df, columns, description, unique_values
 
-    Returns:
-        str: A JSON string containing the return code and response content.
-    """
-    # Get API key from environment variable
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        error_response = {"return_code": 1, "content": "Error: OPENAI_API_KEY not found in environment variables."}
-        return json.dumps(error_response)
+def generate_pandas_query(df, columns, description, unique_values, user_query):
+    client = OpenAI()
 
-    # Initialize OpenAI client
-    client = OpenAI(api_key=api_key)
+    context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description,unique_values)
 
-    try:
-        # Read dataset columns for AI prompt
-        df = pd.read_csv(dataset_path, nrows=0)
-        columns = ', '.join(df.columns)
-
-        # AI prompt
-        ai_prompt = f"""
-        The dataset contains the following columns: {columns}.
-        Write Python Pandas code to answer the query: "{inputprompt}".
-        - Ensure the code handles case sensitivity (e.g., for 'Gender', use `.str.lower()`).
-        - Assign the result to a variable named `result`.
-        Only return the Pandas code, no additional explanations or text.
-        """
-
-        # Call OpenAI API
-        response = client.chat.completions.create(
-            model='gpt-4',
-            messages=[{'role': 'user', 'content': ai_prompt}]
-        )
-
-        # Extract the generated code
-        generated_code = response.choices[0].message.content.strip()
-
-        # Remove code block formatting if present
-        if generated_code.startswith("```") and generated_code.endswith("```"):
-            generated_code = generated_code.split("\n", 1)[1].rsplit("\n", 1)[0]
-
-        # Debug: Log the generated code
-        print("Generated Code:", generated_code)
-
-        # Load the dataset
-        df = pd.read_csv(dataset_path)
-
-        # Prepare a secure execution environment
-        local_env = {'df': df}
-
-        # Validate and execute the code
-        exec(generated_code, {}, local_env)
-
-        # Retrieve the result from the execution environment
-        result = local_env.get('result', None)
-        if result is None:
-            raise ValueError("The AI-generated code did not produce a 'result' variable.")
-
-        # Convert result to JSON
-        if isinstance(result, pd.DataFrame):
-            result_json = result.to_json(orient="records")
-        else:
-            result_json = json.dumps(result)
-
-        # Return success JSON
-        success_response = {"return_code": 0, "content": result_json}
-        return json.dumps(success_response)
-
-    except Exception as e:
-        # Return error JSON with debug information
-        error_response = {
-            "return_code": 1,
-            "content": f"Error: {str(e)}",
-            "debug": {
-                "inputprompt": inputprompt,
-                "generated_code": locals().get("generated_code", "No code generated")
+    response = client.chat.completions.create(
+        model="o1-preview",
+        messages=[
+            {
+                "role": "user", 
+                "content": "Context: {} \nUser query: {}".format(context,user_query)
             }
-        }
-        return json.dumps(error_response)
+        ]
+    )
 
-# Example usage
-if __name__ == "__main__":
-    inputprompt = input("Enter your query: ")
-    result = query_openai(inputprompt)
-    print(result)
+    # Extract and return the generated query
+    query = response.choices[0].message.content.strip('"')
+    return query
+
+def structure_data_with_format(client, query):
+    context_type = '''{
+    "data": [
+        {
+        "type": "simple",
+        "value": <simple_data_value>
+        },
+        {
+        "type": "complex",
+        "data": {
+            <category_name_1>: <category_value_1>,
+            <category_name_2>: <category_value_2>,
+            ...
+        }
+        }
+    ]
+    }
+    '''
+
+    context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Raw formatting is must".format(context_type)
+
+    # Send the request to the OpenAI API
+    response = client.chat.completions.create(
+        model="o1-preview",
+        messages=[
+            {
+                "role": "user",
+                "content": f"Context: {context} \nData: {returned_vals}"
+            }
+        ]
+    )
+    
+    # Extract and return the formatted output
+    formatted_output = response.choices[0].message.content
+    return formatted_output
