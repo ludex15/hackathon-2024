@@ -15,15 +15,12 @@ def get_dataset():
     columns = df.columns.tolist()
     description = df.describe()
 
-    print(columns, description)
-
     non_numeric_columns = df.select_dtypes(exclude=['number'])
     unique_values = {col: non_numeric_columns[col].unique().tolist() for col in non_numeric_columns.columns}
     return df, columns, description, unique_values
 
-def generate_pandas_query(df, columns, description, unique_values, user_query):
+def generate_pandas_query(columns, description, unique_values, user_query):
     client = OpenAI()
-
     context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description,unique_values)
 
     response = client.chat.completions.create(
@@ -40,7 +37,8 @@ def generate_pandas_query(df, columns, description, unique_values, user_query):
     query = response.choices[0].message.content.strip('"')
     return query
 
-def structure_data_with_format(client, query):
+def structure_data_with_format(query_result):
+    client = OpenAI()
     context_type = '''{
     "data": [
         {
@@ -67,7 +65,7 @@ def structure_data_with_format(client, query):
         messages=[
             {
                 "role": "user",
-                "content": f"Context: {context} \nData: {returned_vals}"
+                "content": f"Context: {context} \nData: {query_result}"
             }
         ]
     )
