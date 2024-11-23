@@ -20,7 +20,7 @@ def query_openai(inputprompt):
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         error_response = {"return_code": 1, "content": "Error: OPENAI_API_KEY not found in environment variables."}
-        return json.dumps(error_response)
+        return error_response
 
     # Initialize OpenAI client
     client = OpenAI(api_key=api_key)
@@ -40,9 +40,10 @@ def query_openai(inputprompt):
 
         # Return success JSON
         success_response = {"return_code": 0, "content": content}
-        return json.dumps(success_response)
+        return success_response
 
     except Exception as e:
         # Return error JSON
         error_response = {"return_code": 1, "content": str(e)}
-        return json.dumps(error_response)
+        return error_response
+
