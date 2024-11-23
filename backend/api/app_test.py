@@ -31,7 +31,7 @@ print(unique_values)
 from openai import OpenAI
 client = OpenAI()
 
-context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}. Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description)
+context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}. Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description,unique_values)
 
 user_query = "How many genders are depressed."
 
@@ -71,7 +71,7 @@ context_type = '''{
 }
 '''
 
-context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Format it in raw json".format(context_type)
+context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Raw formatting is must".format(context_type)
 
 
 response = client.chat.completions.create(
