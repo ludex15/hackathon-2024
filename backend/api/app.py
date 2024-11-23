@@ -71,5 +71,4 @@ def structure_data_with_format(query_result):
     )
     
     # Extract and return the formatted output
-    formatted_output = response.choices[0].message.content
-    return formatted_output
+    return json.loads(response.choices[0].message.content)
