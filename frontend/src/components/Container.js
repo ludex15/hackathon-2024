@@ -34,10 +34,12 @@ const Container = () => {
       })),
     }));
   };
-
   useEffect(() => {
     if (listRef.current) {
-      listRef.current.scrollTop = listRef.current.scrollHeight;
+      const isAtBottom = listRef.current.scrollHeight === listRef.current.scrollTop + listRef.current.clientHeight;
+      if (!isAtBottom) {
+        listRef.current.scrollTop = listRef.current.scrollHeight;
+      }
     }
   }, [questions, answers]);
 
