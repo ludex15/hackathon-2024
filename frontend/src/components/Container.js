@@ -5,8 +5,8 @@ import LoadingDots from './LoadingDots';
 import GoogleChart from './GoogleChart';
 
 const Container = () => {
-  const [questions, setQuestions] = useState([]); // Stores all questions
-  const [answers, setAnswers] = useState({});    // Maps each question to its answer
+  const [questions, setQuestions] = useState([]); 
+  const [answers, setAnswers] = useState({}); 
   const listRef = useRef(null);
 
   const handleNewQuestion = (question) => {
@@ -34,10 +34,12 @@ const Container = () => {
       })),
     }));
   };
-
   useEffect(() => {
     if (listRef.current) {
-      listRef.current.scrollTop = listRef.current.scrollHeight;
+      const isAtBottom = listRef.current.scrollHeight === listRef.current.scrollTop + listRef.current.clientHeight;
+      if (!isAtBottom) {
+        listRef.current.scrollTop = listRef.current.scrollHeight;
+      }
     }
   }, [questions, answers]);
 
