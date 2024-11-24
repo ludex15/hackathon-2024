@@ -26,10 +26,9 @@ const Container = () => {
 
 
   const handleAnswerResponse = (question, data) => {
-    console.log(data)
     setAnswers((prevAnswers) => ({
       ...prevAnswers,
-      [question]: data.message,
+      [question]: data.content[0].data,
     }));
   };
 

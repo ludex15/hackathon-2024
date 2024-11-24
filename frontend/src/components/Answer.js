@@ -1,5 +1,6 @@
 import React from 'react';
 import GoogleChart from './GoogleChart';
+import ReactMarkdown from 'react-markdown';
 
 const Answer = ({ type, data }) => {
   if (type === 'complex') {
@@ -23,7 +24,8 @@ const Answer = ({ type, data }) => {
   if (type === 'text') {
     return (
       <p className='answer'>
-        <strong>Answer:</strong> {data}
+        <strong>Answer:</strong> <ReactMarkdown>{data}</ReactMarkdown>
+
       </p>
     );
   }
