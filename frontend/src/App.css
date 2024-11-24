@@ -1,16 +1,20 @@
-body {
+body, html{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #E5E3D4;
+  overflow: hidden;
 }
 
 .container {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   gap: 20px;
   height: 100vh;
+  width: 100%;
   padding: 20px;
+  box-sizing: border-box;
 }
 
 .list {
@@ -22,13 +26,30 @@ body {
   padding: 15px;
   background-color: #fff;
   border-top: 1px solid #ccc;
-  align-items: center;
   box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
+  overflow-y: auto;
+}
+
+.list::-webkit-scrollbar {
+  width: 12px;
+}
+
+.list::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.list::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 4px;
+}
+
+.list::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
 
 .qa {
-  max-width: 30%;
+  max-width: 40%;
 }
 
 .qa-item {
@@ -37,6 +58,7 @@ body {
   gap: 10px;
   padding: 15px;
   font-size: 18px;
+  margin: 0;
 }
 
 .question {
@@ -52,7 +74,7 @@ body {
 }
 
 .answer {
-  max-width: 60%;
+  width: 90%;
   margin: 10px 0; 
   padding: 10px 15px;
   background-color: #1C325B;
@@ -63,18 +85,12 @@ body {
   text-align: right;
 }
 
-.visuals {
-  max-width: 65%;
-}
-
 .prompt {
   position: fixed;
   bottom: 20px; 
-  left: 50%; 
-  transform: translateX(-50%); 
   width: 90%; 
   max-width: 600px;
-  padding: 15px;
+  padding: 10px;
   background-color: #fff;
   border-top: 1px solid #ccc;
   display: flex;
@@ -87,7 +103,7 @@ body {
 .prompt form {
   display: flex;
   width: 100%;
-  gap: 10px;
+  gap: 10px;  
 }
 
 .prompt input {
@@ -110,22 +126,11 @@ body {
   transition: background-color 0.3s ease;
 }
 
-/* Hover effect for button */
 .prompt button:hover {
   background-color: #514c9b;
 }
 
-/* Focus effect for input */
 .prompt input:focus {
   border-color: #514c9b;
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
 }
-
-/* @media (max-width: 768px) {
-  .prompt input {
-    width: 60%;
-  }
-  .prompt button {
-    width: 30%;
-  }
-} */
