@@ -119,15 +119,20 @@ def structure_data_with_format(query_result, user_prompt):
 def generate_additional_text(data, user_query):
     client = OpenAI()
     for idx, item in enumerate(data['content']):
+        if item["type"] == "complex" and len(item["data"]) == 1:
+            _, value = next(iter(item["data"].items())) 
+            item["type"] = "simple"
+            item["data"] = value
+
         if item['type'] == 'simple':
             # Extract the simple value
             simple_value = item['data']
             
             # Use the simple value in a prompt
-            prompt = "You have previously done quering dataset. Given value from last query: {}, generate answer to asked question about dataset {}.".format(simple_value, user_query)
+            prompt = "You have previously done quering my dataset. Answer only in boundaries of my dataset! Given value from last query: {}, generate answer to asked question about dataset {}.".format(simple_value, user_query)
             
             response = client.chat.completions.create(
-                model="gpt-4o",
+                model="o1-preview",
                 messages=[
                     {
                     "role": "user", 
@@ -138,4 +143,8 @@ def generate_additional_text(data, user_query):
             # Output the generated text
             generated_text = response.choices[0].message.content
             data['content'][idx]['data'] = generated_text
+        
+
+
     return data
+
