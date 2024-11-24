@@ -21,7 +21,7 @@ def get_dataset(dataset_name):
 
 def generate_pandas_query(columns, description, unique_values, user_query):
     client = OpenAI()
-    context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python. Only one query.".format(columns, description,unique_values)
+    context = "You are writting python duckdb query to use on pandas dataset called 'df'. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable duckdb sql string. Conditions: No formatting. Returned output should be able to run. Oneliner only. Absolutely make sure to select everything that is asked in prompt if it is possible!".format(columns, description,unique_values)
 
     response = client.chat.completions.create(
         model="o1-preview",
@@ -37,7 +37,7 @@ def generate_pandas_query(columns, description, unique_values, user_query):
     raw_output = response.choices[0].message.content.strip('"')
 
     # Remove unwanted backticks or "json" markers
-    if raw_output.startswith("```python"):
+    if raw_output.startswith("```sql"):
         raw_output = raw_output[7:]  # Remove the ```json prefix
     elif raw_output.startswith("```"):
         raw_output = raw_output[3:]  # Remove the ``` prefix
@@ -56,35 +56,36 @@ def structure_data_with_format(query_result):
     context_type = '''{
     "content": [
         {
-        "type": "simple",
-        "data": <simple_data_value>
+            "type": "simple",
+            "data": <simple_data_value-int,str,float,list-of(strings,ints,floats)>
         },
         {
-        "type": "complex",
-        "data": {
-            <category_name_1>: <category_value_1>,
-            <category_name_2>: <category_value_2>,
-            ...
-        }
+            "type": "complex",
+            "data": {
+                <category_name_1>: <category_value_1-integeronly>,
+                <category_name_2>: <category_value_2-integeronly>,
+                ...
+            }
         }
     ]
-    }
-    '''
+}
+'''
 
     context = (
         "Given the following data, structure it according to the following format: {}. "
         "If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. "
         "If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. "
         "Return only the structured JSON object without any additional text, backticks, or formatting markers. Must keep the structure."
+        "Absolutely make sure to follow predefined structure! Do not add new keys, that are not defined. No Null data!"
     ).format(context_type)
 
     # Send the request to the OpenAI API
     response = client.chat.completions.create(
-        model="o1-mini",
+        model="o1-preview",
         messages=[
             {
                 "role": "user",
-                "content": f"Context: {context} \nData: {query_result}"
+                "content": "Context: {} \nData: {}".format(context,query_result)
             }
         ]
     )
