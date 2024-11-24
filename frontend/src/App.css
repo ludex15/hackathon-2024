@@ -1,34 +1,64 @@
-body {
+:root {
+  --backgroud-color: black;
+  --inner-background-color: #2C2C2C;
+  --question-background-color: rgb(100, 94, 94);
+  --answer-background-color: rgb(56, 140, 168);
+  --border-color: #2C2C2C;
+  --text-color: white;
+}
+
+body, html{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #E5E3D4;
+  background-color: var(--backgroud-color);
+  overflow: hidden;
 }
 
 .container {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   gap: 20px;
   height: 100vh;
+  width: 100%;
   padding: 20px;
+  box-sizing: border-box;
 }
 
 .list {
   top: 20px;
   left: 5%; 
-  width: 90%; 
-  min-height: 85vh;
-  max-height: 85vh;
+  min-width: 100vh;
+  min-height: 75vh;
+  max-height: 75vh;
   padding: 15px;
-  background-color: #fff;
-  border-top: 1px solid #ccc;
-  align-items: center;
+  background-color: var(--inner-background-color);
+  border: 3px solid var(--border-color);
   box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
+  overflow-y: auto;
+}
+
+.list::-webkit-scrollbar {
+  width: 12px;
+}
+
+.list::-webkit-scrollbar-track {
+  background: var(--inner-background-color);
+}
+
+.list::-webkit-scrollbar-thumb {
+  background: #302f2f; 
+  border-radius: 4px;
+}
+
+.list::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
 
 .qa {
-  max-width: 30%;
+  max-width: 40%;
 }
 
 .qa-item {
@@ -37,47 +67,43 @@ body {
   gap: 10px;
   padding: 15px;
   font-size: 18px;
+  margin: 0;
 }
 
 .question {
   max-width: 60%;
-  margin: 10px 0; 
-  padding: 10px 15px;
-  background-color: #6A669D; 
-  color: white; 
+  background-color: var(--question-background-color); 
+  color: var(--text-color); 
   border-radius: 15px; 
+  padding: 5px;
   border-top-left-radius: 0;
   align-self: flex-start; 
   text-align: flex-start;
 }
 
 .answer {
-  max-width: 60%;
+  max-width: 90%;
   margin: 10px 0; 
   padding: 10px 15px;
-  background-color: #1C325B;
-  color: white;
+  background-color: var(--answer-background-color);
+  color: var(--text-color);
   border-radius: 15px;
   border-top-right-radius: 0;
   align-self: flex-end;
   text-align: right;
 }
 
-.visuals {
-  max-width: 65%;
-}
-
 .prompt {
   position: fixed;
+  min-width: 100vh;
   bottom: 20px; 
-  left: 50%; 
-  transform: translateX(-50%); 
-  width: 90%; 
-  max-width: 600px;
-  padding: 15px;
-  background-color: #fff;
-  border-top: 1px solid #ccc;
+  height: 13vh;
+  padding: 10px;
+  background-color: var(--inner-background-color);
+  border: 3px solid var(--border-color);
   display: flex;
+  flex-direction: column; /* Align items vertically */
+  gap: 15px;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
@@ -87,7 +113,8 @@ body {
 .prompt form {
   display: flex;
   width: 100%;
-  gap: 10px;
+  gap: 10px;  
+  padding: 0 10px 10px 10px;
 }
 
 .prompt input {
@@ -102,7 +129,7 @@ body {
 .prompt button {
   padding: 8px 12px;
   background-color: #6A669D;
-  color: white;
+  color: var(--text-color);
   border: none;
   border-radius: 4px;
   font-size: 24px;
@@ -110,22 +137,78 @@ body {
   transition: background-color 0.3s ease;
 }
 
-/* Hover effect for button */
 .prompt button:hover {
   background-color: #514c9b;
 }
 
-/* Focus effect for input */
 .prompt input:focus {
   border-color: #514c9b;
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
 }
 
-/* @media (max-width: 768px) {
-  .prompt input {
-    width: 60%;
-  }
-  .prompt button {
-    width: 30%;
-  }
-} */
+.dataset-dropdown {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 22px;
+  background-color: #fff;
+  color: #333;
+  outline: none;
+  width: 200px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.dataset-dropdown:focus {
+  border-color: #6a669d;
+  box-shadow: 0 0 5px rgba(106, 102, 157, 0.5);
+}
+
+.dataset-dropdown:disabled {
+  background-color: #f0f0f0;
+  color: #aaa;
+  cursor: not-allowed;
+}
+
+.dataset-dropdown option {
+  padding: 10px;
+  background-color: #fff;
+  color: #333;
+}
+
+.upload-component {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  background-color: var(--inner-backgroud-color);
+}
+
+.upload-component input[type=file] {
+  flex-grow: 1;
+}
+
+.upload-component label {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 24px;
+  text-align: center;
+  transition: background-color 0.3s ease;  
+}
+
+.upload-component button {
+  padding: 10px 20px;
+  background-color: #6a669d;
+  color: var(--text-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upload-component button:hover {
+  background-color: #514c9b;
+}

@@ -1,55 +1,70 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Question from './Question';
 import Answer from './Answer';
-import MenAgeChart from './GoogleChart';
+import LoadingDots from './LoadingDots';
 import GoogleChart from './GoogleChart';
 
 const Container = () => {
-  const [questionAndAnswers, setQuestionAndAnswers] = useState([]);
+  const [questions, setQuestions] = useState([]); 
+  const [answers, setAnswers] = useState({}); 
+  const listRef = useRef(null);
 
-  const menAgeData = [
-    ["Age Range", "Number of Men"],
-    ["18-24", 120],
-    ["25-34", 123],
-    ["35-44", 150],
-    ["45-54", 100],
-    ["55-64", 80],
-    ["65+", 50],
-  ];
+  const handleNewQuestion = (question) => {
+    setQuestions((prevQuestions) => [...prevQuestions, question]);
 
-  const handleResponse = (question, data) => {
-    setQuestionAndAnswers((prevState) => [
-      ...prevState,
-      { question, answer: data.message },
-    ]);
+    setTimeout(() => {
+      setAnswers((prevAnswers) => {
+        if (!prevAnswers[question]) {
+          return {
+            ...prevAnswers,
+            [question]: "We're sorry, but the server is taking too long to respond.",
+          };
+        }
+        return prevAnswers; 
+      });
+    }, 40000); 
   };
+
+  const handleAnswerResponse = (question, data) => {
+    setAnswers((prevAnswers) => ({
+      ...prevAnswers,
+      [question]: data.content.map(item => ({
+        data: item.data,
+        type: item.type,
+      })),
+    }));
+  };
+  useEffect(() => {
+    if (listRef.current) {
+      const isAtBottom = listRef.current.scrollHeight === listRef.current.scrollTop + listRef.current.clientHeight;
+      if (!isAtBottom) {
+        listRef.current.scrollTop = listRef.current.scrollHeight;
+      }
+    }
+  }, [questions, answers]);
 
   return (
     <div className="container">
-      <div className="list qa">
-        {questionAndAnswers.map((qa, index) => (
+      <div className="list qa" ref={listRef}>
+        {questions.map((question, index) => (
           <div key={index} className="qa-item">
-            <p className='question'>
-              <strong>Question:</strong> {qa.question}
-            </p>
-            <p className='answer'>
-              <strong>Answer:</strong> {qa.answer}
-            </p>
+            <div className="question">
+              <strong>Question:</strong> <p>{question}</p>
+            </div>
+            {answers[question] ? (
+              <div className="answer">
+                <Answer answers={answers[question]} />
+              </div>
+            ) : (
+              <div className="answer"><LoadingDots/></div>
+            )}
           </div>
         ))}
       </div>
-      <div className="list visuals">
-      <GoogleChart
-      chartType="BarChart"
-      data={menAgeData}
-      title="Distribution of Men's Age Groups"
-      hAxisTitle="Number of Men"
-      vAxisTitle="Age Range"
-      colors={["#34A853"]} // Google green
+      <Question 
+        onNewQuestion={handleNewQuestion} 
+        onResponse={handleAnswerResponse} 
       />
-      </div>
-
-      <Question onResponse={handleResponse} />
     </div>
   );
 };
