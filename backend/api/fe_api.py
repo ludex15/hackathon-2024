@@ -1,6 +1,11 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from app import get_dataset, generate_pandas_query, structure_data_with_format, generate_additional_text
+import app as openaiservice
+
+from pathlib import Path
+
+# Get the path of the current script
+script_dir = Path(__file__).resolve().parent
 
 
 app = Flask(__name__)
@@ -27,11 +32,13 @@ def process_text():
         user_prompt = request_data['prompt']
         user_dataset = request_data['datasetName']
 
-        df, columns, description, unique_values = get_dataset(user_dataset)
-        prompt1_result = generate_pandas_query(columns, description, unique_values, user_prompt)
+        dataset_path = script_dir /  '../data/{}'.format(user_dataset)
+
+        df, columns, description, unique_values = openaiservice.get_dataset(dataset_path)
+        prompt1_result = openaiservice.generate_pandas_query(columns, description, unique_values, user_prompt)
         evaluated_prompt1 = eval(prompt1_result)
-        data_struct = structure_data_with_format(str(evaluated_prompt1))
-        final_data = generate_additional_text(data_struct, user_prompt)
+        data_struct = openaiservice.structure_data_with_format(str(evaluated_prompt1))
+        final_data = openaiservice.generate_additional_text(data_struct, user_prompt)
         return jsonify({"message": final_data}), 200
 
     except KeyError as e:
