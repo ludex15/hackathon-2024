@@ -74,7 +74,7 @@ def structure_data_with_format(query_result):
             }
         ]
     )
-    print(response.choices[0].message.content)
+    #print(response.choices[0].message.content)
     raw_output = response.choices[0].message.content
     # Remove unwanted backticks or "json" markers
     if raw_output.startswith("```json"):

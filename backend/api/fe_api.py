@@ -17,32 +17,30 @@ def error_response(message, status_code):
 
 # Endpoint to handle free text data
 @app.route('/api/prompt', methods=['POST'])
+@app.route('/api/prompt', methods=['POST'])
 def process_text():
     try:
-        # Check if the request has a JSON body
-        if not request.is_json:
-            return error_response("Request must be in JSON format", 400)
-
         # Extract data from JSON payload
         request_data = request.get_json()
-        if 'prompt' not in request_data:
-            return error_response("Missing 'prompt' field in request body", 400)
 
-        # Process the 'prompt' field
+        # Define allowed keys
+        allowed_keys = {'prompt', 'datasetName'}
+
+        # Check for too many parameters
+        if not set(request_data.keys()).issubset(allowed_keys):
+            return error_response("Too many parameters in the request body", 400)
+
+        # Process the 'prompt' and 'datasetName' fields
         user_prompt = request_data['prompt']
         user_dataset = request_data['datasetName']
 
-        dataset_path = script_dir /  '../data/{}'.format(user_dataset)
+        dataset_path = script_dir / '../data/{}'.format(user_dataset)
 
         df, columns, description, unique_values = openaiservice.get_dataset(dataset_path)
         prompt1_result = openaiservice.generate_pandas_query(columns, description, unique_values, user_prompt)
-        print(prompt1_result)
         evaluated_prompt1 = eval(prompt1_result)
-        print(evaluated_prompt1)
         data_struct = openaiservice.structure_data_with_format(str(evaluated_prompt1))
-        print(data_struct)
         final_data = openaiservice.generate_additional_text(data_struct, user_prompt)
-        print(final_data)
         return jsonify(final_data), 200
 
     except KeyError as e:
