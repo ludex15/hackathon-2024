@@ -10,9 +10,23 @@ const Container = () => {
 
   const handleNewQuestion = (question) => {
     setQuestions((prevQuestions) => [...prevQuestions, question]);
+
+    setTimeout(() => {
+      setAnswers((prevAnswers) => {
+        if (!prevAnswers[question]) {
+          return {
+            ...prevAnswers,
+            [question]: "We're sorry, but the server is taking too long to respond.",
+          };
+        }
+        return prevAnswers; 
+      });
+    }, 30000); 
   };
 
+
   const handleAnswerResponse = (question, data) => {
+    console.log(data)
     setAnswers((prevAnswers) => ({
       ...prevAnswers,
       [question]: data.message,

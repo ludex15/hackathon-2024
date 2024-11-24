@@ -5,13 +5,13 @@ const LoadingDots = () => {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      setDots((prevDots) => (prevDots + 1) % 4); // Cycle between 0, 1, 2, 3
-    }, 500); // Change dots every 500ms
+      setDots((prevDots) => (prevDots + 1) % 4);
+    }, 500);
 
     return () => clearInterval(interval); // Cleanup on unmount
   }, []);
 
-  return <span className='answer'>{'.'.repeat(dots)}Loading Answer</span>;
+  return <span className='answer'>{'.'.repeat(dots)}</span>;
 };
 
 export default LoadingDots;
