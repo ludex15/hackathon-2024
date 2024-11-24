@@ -1,6 +1,14 @@
 import React from "react";
 import { Chart } from "react-google-charts";
 
+const supportedChartTypes = [
+  { label: "Bar Chart", value: "BarChart" },
+  { label: "Line Chart", value: "LineChart" },
+  { label: "Pie Chart", value: "PieChart" },
+  { label: "Column Chart", value: "ColumnChart" },
+  { label: "Area Chart", value: "AreaChart" },
+];
+
 const GoogleChart = ({
   // supported chart types
   // BarChart

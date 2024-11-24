@@ -1,55 +1,50 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Question from './Question';
 import Answer from './Answer';
-import MenAgeChart from './GoogleChart';
-import GoogleChart from './GoogleChart';
+import LoadingDots from './LoadingDots';
 
 const Container = () => {
-  const [questionAndAnswers, setQuestionAndAnswers] = useState([]);
+  const [questions, setQuestions] = useState([]); // Stores all questions
+  const [answers, setAnswers] = useState({});    // Maps each question to its answer
+  const listRef = useRef(null);
 
-  const menAgeData = [
-    ["Age Range", "Number of Men"],
-    ["18-24", 120],
-    ["25-34", 123],
-    ["35-44", 150],
-    ["45-54", 100],
-    ["55-64", 80],
-    ["65+", 50],
-  ];
-
-  const handleResponse = (question, data) => {
-    setQuestionAndAnswers((prevState) => [
-      ...prevState,
-      { question, answer: data.message },
-    ]);
+  const handleNewQuestion = (question) => {
+    setQuestions((prevQuestions) => [...prevQuestions, question]);
   };
+
+  const handleAnswerResponse = (question, data) => {
+    setAnswers((prevAnswers) => ({
+      ...prevAnswers,
+      [question]: data.message,
+    }));
+  };
+
+  useEffect(() => {
+    if (listRef.current) {
+      listRef.current.scrollTop = listRef.current.scrollHeight;
+    }
+  }, [questions, answers]);
 
   return (
     <div className="container">
-      <div className="list qa">
-        {questionAndAnswers.map((qa, index) => (
+      <div className="list qa" ref={listRef}>
+        {questions.map((question, index) => (
           <div key={index} className="qa-item">
-            <p className='question'>
-              <strong>Question:</strong> {qa.question}
+            <p className="question">
+              <strong>Question:</strong> {question}
             </p>
-            <p className='answer'>
-              <strong>Answer:</strong> {qa.answer}
-            </p>
+            {answers[question] ? (
+              <Answer type="text" data={answers[question]} />
+            ) : (
+              <p className="answer"><LoadingDots/></p>
+            )}
           </div>
         ))}
       </div>
-      <div className="list visuals">
-      <GoogleChart
-      chartType="BarChart"
-      data={menAgeData}
-      title="Distribution of Men's Age Groups"
-      hAxisTitle="Number of Men"
-      vAxisTitle="Age Range"
-      colors={["#34A853"]} // Google green
+      <Question 
+        onNewQuestion={handleNewQuestion} 
+        onResponse={handleAnswerResponse} 
       />
-      </div>
-
-      <Question onResponse={handleResponse} />
     </div>
   );
 };
