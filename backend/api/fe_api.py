@@ -62,7 +62,7 @@ def process_text():
 
         # Structure data
         step_start = time.time()
-        data_struct = openaiservice.structure_data_with_format(evaluated_prompt1)
+        data_struct = openaiservice.structure_data_with_format(evaluated_prompt1,user_prompt)
         print(data_struct)
         print(f"Step: Structure data took {time.time() - step_start:.4f} seconds")
 
@@ -136,4 +136,4 @@ def upload_file():
 
 # Run the server
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=8000, debug=True)
