@@ -1,0 +1,828 @@
+Age,Gender,Job_Role,Industry,Years_of_Experience,Work_Location,Hours_Worked_Per_Week,Number_of_Virtual_Meetings,Stress_Level,Mental_Health_Condition,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Physical_Activity,Sleep_Quality,Region
+59,Non-binary,Sales,IT,31,Hybrid,39,3,High,None,Unsatisfied,1,None,Average,South America
+59,Male,Software Engineer,Consulting,13,Remote,59,4,Medium,Anxiety,Neutral,1,Daily,Average,South America
+26,Female,Sales,Retail,33,Hybrid,21,1,Low,Burnout,Satisfied,1,Weekly,Poor,South America
+49,Male,Project Manager,Healthcare,23,Onsite,21,14,High,Burnout,Neutral,3,None,Good,South America
+57,Prefer not to say,HR,Retail,13,Remote,23,6,High,Anxiety,Neutral,2,Daily,Good,South America
+33,Male,Data Scientist,Education,33,Remote,35,15,Medium,Burnout,Unsatisfied,5,Weekly,Good,South America
+47,Male,Sales,Consulting,25,Remote,31,9,Low,None,Satisfied,1,None,Good,South America
+42,Female,Software Engineer,Retail,3,Onsite,26,14,Medium,None,Satisfied,2,Daily,Good,South America
+53,Prefer not to say,HR,IT,7,Onsite,49,6,Low,None,Satisfied,3,None,Average,South America
+22,Female,Software Engineer,Healthcare,5,Onsite,31,15,Medium,Depression,Satisfied,5,None,Good,South America
+32,Female,Designer,Manufacturing,23,Onsite,51,8,High,Anxiety,Neutral,1,Daily,Average,South America
+28,Female,Marketing,Healthcare,25,Remote,37,10,Medium,Anxiety,Satisfied,1,Daily,Average,South America
+29,Male,Data Scientist,Manufacturing,15,Remote,51,5,High,Burnout,Neutral,1,Daily,Average,South America
+42,Non-binary,Software Engineer,Finance,33,Onsite,44,9,High,Depression,Neutral,2,Daily,Poor,South America
+22,Female,Software Engineer,Manufacturing,9,Onsite,60,3,High,Burnout,Satisfied,5,Weekly,Good,South America
+48,Male,Designer,IT,32,Hybrid,25,1,Low,Burnout,Neutral,3,Weekly,Average,South America
+43,Non-binary,Data Scientist,Healthcare,18,Onsite,60,2,High,Burnout,Neutral,3,Daily,Good,South America
+29,Prefer not to say,HR,IT,25,Onsite,35,14,Medium,Anxiety,Neutral,2,Daily,Good,South America
+29,Male,Marketing,Education,35,Onsite,27,1,Medium,Anxiety,Unsatisfied,3,Weekly,Good,South America
+45,Prefer not to say,Project Manager,Manufacturing,29,Onsite,51,13,High,Anxiety,Neutral,5,Daily,Average,South America
+42,Non-binary,HR,Manufacturing,27,Remote,26,14,High,Depression,Unsatisfied,4,Daily,Average,South America
+53,Prefer not to say,Data Scientist,Finance,27,Hybrid,60,1,Low,Burnout,Unsatisfied,4,None,Average,South America
+53,Male,Marketing,Retail,4,Onsite,57,10,Medium,None,Neutral,2,Weekly,Good,South America
+44,Male,Data Scientist,Healthcare,14,Remote,26,9,High,Burnout,Neutral,5,Daily,Good,South America
+33,Prefer not to say,Project Manager,Finance,23,Hybrid,26,0,High,None,Satisfied,2,Weekly,Average,South America
+43,Male,Designer,Manufacturing,6,Onsite,50,14,Low,Depression,Unsatisfied,3,Daily,Average,South America
+29,Prefer not to say,Designer,Consulting,3,Hybrid,55,11,High,Depression,Unsatisfied,2,Weekly,Poor,South America
+35,Non-binary,Software Engineer,Finance,11,Hybrid,25,4,Medium,Burnout,Satisfied,3,Weekly,Good,South America
+56,Female,HR,Healthcare,32,Hybrid,57,10,High,None,Satisfied,4,None,Good,South America
+44,Non-binary,HR,Education,17,Hybrid,22,9,Medium,None,Unsatisfied,1,None,Good,South America
+49,Non-binary,Marketing,Consulting,29,Remote,45,9,Low,None,Unsatisfied,4,Weekly,Good,South America
+51,Female,Software Engineer,Healthcare,4,Onsite,43,1,Medium,Depression,Unsatisfied,2,Weekly,Average,South America
+52,Male,Sales,IT,29,Onsite,23,12,Medium,Depression,Neutral,1,Daily,Average,South America
+59,Non-binary,Marketing,Manufacturing,13,Hybrid,40,2,Low,None,Neutral,4,Weekly,Average,South America
+36,Female,Data Scientist,Finance,3,Remote,53,7,High,Burnout,Unsatisfied,2,Daily,Average,South America
+58,Male,Sales,Consulting,18,Hybrid,39,14,Low,Burnout,Neutral,1,Weekly,Good,South America
+46,Prefer not to say,Marketing,Consulting,30,Remote,33,8,Low,Depression,Neutral,4,Daily,Average,South America
+42,Male,Sales,Manufacturing,23,Hybrid,32,5,Low,Burnout,Unsatisfied,1,Weekly,Good,South America
+40,Female,Data Scientist,Healthcare,6,Remote,22,0,Medium,None,Satisfied,4,Weekly,Average,South America
+51,Prefer not to say,Software Engineer,Manufacturing,24,Hybrid,46,10,Low,None,Neutral,1,Daily,Poor,South America
+53,Female,Project Manager,IT,25,Hybrid,38,2,Low,Anxiety,Satisfied,3,None,Good,South America
+38,Male,Data Scientist,Healthcare,25,Remote,59,12,Low,Anxiety,Neutral,1,Weekly,Average,South America
+38,Non-binary,Project Manager,Manufacturing,26,Hybrid,50,9,High,Anxiety,Satisfied,2,Weekly,Good,South America
+48,Male,Project Manager,Manufacturing,33,Hybrid,58,13,Medium,Burnout,Satisfied,5,None,Average,South America
+43,Non-binary,HR,Consulting,15,Onsite,26,4,Medium,Anxiety,Unsatisfied,3,None,Average,South America
+44,Non-binary,HR,Finance,3,Onsite,57,5,High,Anxiety,Satisfied,5,Weekly,Good,South America
+41,Non-binary,Software Engineer,Education,20,Remote,21,0,High,None,Neutral,2,Weekly,Average,South America
+30,Non-binary,Sales,IT,15,Onsite,40,7,Low,Anxiety,Neutral,1,Daily,Good,South America
+23,Prefer not to say,Marketing,Education,31,Onsite,48,9,Medium,None,Unsatisfied,5,None,Good,South America
+33,Prefer not to say,HR,Healthcare,2,Onsite,24,12,High,Depression,Neutral,4,Daily,Poor,South America
+60,Female,Software Engineer,IT,31,Onsite,22,9,High,Burnout,Unsatisfied,2,Daily,Poor,South America
+42,Non-binary,Designer,IT,2,Onsite,41,5,High,None,Neutral,5,Weekly,Poor,South America
+42,Female,Data Scientist,Finance,15,Remote,21,7,High,Burnout,Satisfied,5,None,Average,South America
+25,Prefer not to say,Designer,Manufacturing,6,Remote,37,11,High,Burnout,Unsatisfied,2,Weekly,Average,South America
+33,Non-binary,Software Engineer,Retail,3,Onsite,31,3,Low,Depression,Satisfied,2,None,Good,South America
+48,Male,Sales,Healthcare,2,Remote,58,3,Low,Depression,Satisfied,2,None,Good,South America
+49,Male,Sales,Manufacturing,6,Remote,20,7,Medium,Anxiety,Neutral,4,Weekly,Average,South America
+38,Non-binary,Designer,Manufacturing,11,Onsite,22,10,Medium,None,Satisfied,4,None,Average,South America
+40,Male,Project Manager,IT,9,Onsite,32,4,High,Anxiety,Unsatisfied,2,Weekly,Good,South America
+33,Non-binary,Sales,IT,12,Hybrid,22,6,Medium,None,Neutral,2,Weekly,Poor,South America
+39,Female,Data Scientist,Manufacturing,33,Remote,34,5,High,Burnout,Satisfied,2,Daily,Good,South America
+31,Prefer not to say,Designer,IT,7,Hybrid,48,4,Medium,None,Neutral,4,None,Poor,South America
+59,Male,Project Manager,Education,18,Remote,34,14,Medium,Anxiety,Neutral,4,Weekly,Poor,South America
+32,Female,Sales,Consulting,18,Remote,28,0,High,Depression,Neutral,3,Weekly,Good,South America
+55,Female,Marketing,Retail,29,Remote,26,10,Medium,None,Unsatisfied,1,Weekly,Good,South America
+57,Male,Project Manager,Consulting,19,Remote,39,0,Low,Anxiety,Satisfied,1,Daily,Average,South America
+24,Prefer not to say,Project Manager,Healthcare,30,Onsite,60,4,High,None,Satisfied,3,None,Average,South America
+30,Non-binary,Project Manager,Consulting,20,Remote,27,14,Medium,Burnout,Unsatisfied,3,Weekly,Good,South America
+28,Non-binary,Designer,Retail,22,Hybrid,30,3,Medium,Anxiety,Unsatisfied,2,Daily,Good,South America
+47,Prefer not to say,Project Manager,Manufacturing,21,Onsite,47,7,Medium,Anxiety,Satisfied,1,Weekly,Average,South America
+57,Non-binary,Project Manager,Consulting,26,Hybrid,28,4,High,Burnout,Neutral,2,Weekly,Poor,South America
+23,Female,Data Scientist,Retail,34,Hybrid,35,14,Low,Depression,Satisfied,4,Daily,Good,South America
+22,Non-binary,Project Manager,Retail,2,Onsite,40,5,Medium,Burnout,Satisfied,2,Weekly,Poor,South America
+60,Female,Sales,Retail,10,Remote,59,15,Low,None,Satisfied,1,Daily,Poor,South America
+53,Non-binary,Project Manager,Retail,7,Onsite,51,9,Low,Depression,Satisfied,5,Weekly,Poor,South America
+55,Female,Sales,Finance,3,Onsite,36,1,Low,Depression,Unsatisfied,5,None,Good,South America
+58,Male,Software Engineer,Finance,12,Onsite,35,5,Low,Burnout,Neutral,2,Weekly,Poor,South America
+42,Male,Designer,Healthcare,32,Onsite,21,5,Low,Anxiety,Neutral,4,None,Poor,South America
+24,Prefer not to say,Designer,Education,23,Onsite,38,7,Medium,Anxiety,Neutral,3,Weekly,Average,South America
+50,Male,Software Engineer,Retail,29,Remote,40,5,Low,Depression,Neutral,4,Daily,Average,South America
+37,Male,HR,Finance,8,Hybrid,46,4,Low,Burnout,Unsatisfied,3,Daily,Poor,South America
+25,Male,Software Engineer,Finance,10,Remote,24,0,Low,Burnout,Unsatisfied,1,Weekly,Poor,South America
+50,Male,Designer,Retail,16,Hybrid,55,8,High,Anxiety,Unsatisfied,5,Daily,Poor,South America
+57,Non-binary,Designer,IT,35,Onsite,20,15,Medium,None,Satisfied,5,None,Poor,South America
+39,Prefer not to say,Software Engineer,Education,32,Hybrid,51,10,High,Depression,Neutral,4,Weekly,Poor,South America
+55,Prefer not to say,Data Scientist,Healthcare,8,Remote,49,10,Medium,Depression,Satisfied,5,Weekly,Good,South America
+23,Non-binary,HR,IT,23,Remote,32,6,Low,Anxiety,Unsatisfied,2,Weekly,Good,South America
+22,Male,Project Manager,Retail,35,Onsite,26,12,High,Burnout,Neutral,3,Daily,Poor,South America
+27,Non-binary,HR,Manufacturing,29,Onsite,39,11,High,Depression,Satisfied,1,Daily,Poor,South America
+54,Prefer not to say,Software Engineer,Education,8,Remote,23,6,High,Anxiety,Neutral,1,Weekly,Poor,South America
+24,Female,Sales,Education,3,Remote,27,11,Medium,Depression,Satisfied,1,None,Poor,South America
+48,Male,Designer,Manufacturing,4,Onsite,27,6,High,Anxiety,Satisfied,2,Weekly,Average,South America
+51,Male,Software Engineer,Education,11,Onsite,33,5,Medium,Anxiety,Unsatisfied,4,None,Good,South America
+44,Prefer not to say,Designer,Retail,2,Hybrid,40,0,High,None,Unsatisfied,5,None,Good,South America
+60,Male,HR,Retail,2,Hybrid,34,0,Medium,Depression,Neutral,1,None,Poor,South America
+56,Prefer not to say,Software Engineer,Education,27,Hybrid,53,2,Low,Anxiety,Satisfied,2,Daily,Average,South America
+40,Non-binary,Designer,Finance,21,Remote,24,8,Medium,Burnout,Satisfied,5,Weekly,Good,South America
+35,Female,Marketing,Retail,8,Remote,44,14,Medium,None,Neutral,5,Weekly,Average,South America
+58,Female,HR,Finance,19,Remote,45,12,High,Depression,Unsatisfied,4,Daily,Poor,South America
+26,Female,Marketing,Finance,12,Remote,59,5,Medium,Depression,Neutral,3,Daily,Good,South America
+27,Male,Designer,Retail,21,Hybrid,49,13,Low,Anxiety,Satisfied,4,None,Average,South America
+45,Prefer not to say,Marketing,Healthcare,30,Hybrid,44,15,High,Burnout,Unsatisfied,3,Weekly,Poor,South America
+54,Non-binary,Software Engineer,Retail,26,Onsite,42,14,Low,None,Satisfied,4,Daily,Average,South America
+25,Prefer not to say,Designer,IT,11,Hybrid,22,11,Medium,Anxiety,Neutral,5,None,Poor,South America
+35,Male,Designer,Manufacturing,23,Hybrid,23,5,High,Depression,Unsatisfied,1,None,Good,South America
+55,Male,Designer,Consulting,16,Onsite,47,8,Medium,None,Unsatisfied,5,None,Average,South America
+43,Male,Software Engineer,Retail,32,Remote,23,10,Low,Burnout,Satisfied,5,Daily,Good,South America
+46,Prefer not to say,Marketing,Consulting,25,Onsite,36,2,High,Anxiety,Unsatisfied,3,Daily,Poor,South America
+25,Prefer not to say,HR,IT,33,Onsite,39,15,Medium,None,Satisfied,3,None,Average,South America
+57,Male,Marketing,Education,11,Hybrid,25,0,High,Depression,Neutral,2,Daily,Average,South America
+31,Prefer not to say,Marketing,Finance,16,Onsite,49,7,Medium,Anxiety,Satisfied,3,None,Good,South America
+47,Non-binary,Designer,Consulting,18,Onsite,42,15,Medium,None,Satisfied,3,Daily,Poor,South America
+36,Male,Project Manager,Manufacturing,1,Onsite,45,4,Medium,Depression,Neutral,4,None,Average,South America
+38,Non-binary,Software Engineer,Healthcare,23,Onsite,57,14,Medium,Depression,Neutral,1,Weekly,Average,South America
+60,Prefer not to say,Software Engineer,IT,12,Hybrid,51,2,High,Depression,Satisfied,5,None,Good,South America
+30,Prefer not to say,Software Engineer,Finance,12,Hybrid,45,4,Medium,Anxiety,Satisfied,4,Daily,Good,South America
+60,Non-binary,Designer,Finance,35,Hybrid,59,11,Medium,Depression,Satisfied,3,Daily,Average,South America
+26,Non-binary,Designer,Healthcare,18,Remote,28,0,Medium,Burnout,Satisfied,2,Weekly,Good,South America
+22,Male,Sales,IT,18,Onsite,51,1,Low,Burnout,Unsatisfied,5,None,Poor,South America
+51,Non-binary,Data Scientist,IT,22,Remote,32,11,Medium,Anxiety,Neutral,5,Daily,Good,South America
+43,Female,Data Scientist,Healthcare,26,Remote,54,7,Medium,Burnout,Satisfied,1,Daily,Average,South America
+47,Male,Marketing,Manufacturing,11,Remote,24,5,Medium,Burnout,Satisfied,3,Weekly,Poor,South America
+49,Male,Software Engineer,Retail,19,Onsite,24,9,Low,Depression,Unsatisfied,5,Daily,Poor,South America
+35,Non-binary,Designer,Manufacturing,26,Remote,32,5,Low,Burnout,Neutral,4,None,Good,South America
+58,Non-binary,Software Engineer,Education,15,Hybrid,21,3,Medium,None,Neutral,1,None,Good,South America
+56,Male,Marketing,Retail,6,Remote,57,0,Low,None,Neutral,5,Weekly,Average,South America
+36,Male,Software Engineer,Healthcare,8,Remote,50,0,Low,None,Satisfied,1,Weekly,Good,South America
+58,Female,Project Manager,Manufacturing,26,Onsite,25,5,Medium,Burnout,Unsatisfied,3,Daily,Poor,South America
+46,Prefer not to say,HR,Education,19,Onsite,30,8,Low,Anxiety,Neutral,2,None,Good,South America
+25,Non-binary,Designer,Healthcare,23,Onsite,38,0,Medium,Depression,Satisfied,4,Daily,Poor,South America
+34,Non-binary,Software Engineer,Healthcare,33,Hybrid,35,7,High,Depression,Neutral,5,Weekly,Poor,South America
+28,Non-binary,Software Engineer,Retail,6,Hybrid,57,15,Low,Depression,Satisfied,1,None,Good,South America
+24,Female,Designer,Retail,9,Remote,58,7,Low,Burnout,Satisfied,3,Weekly,Average,South America
+32,Female,Sales,IT,33,Onsite,27,14,Medium,Anxiety,Satisfied,2,None,Average,South America
+50,Prefer not to say,Marketing,Healthcare,21,Hybrid,59,10,Medium,Depression,Neutral,3,Daily,Average,South America
+51,Non-binary,Designer,Manufacturing,3,Onsite,42,12,Low,Depression,Satisfied,2,None,Good,South America
+27,Non-binary,Software Engineer,Manufacturing,2,Hybrid,60,2,Low,Depression,Unsatisfied,4,Daily,Average,South America
+32,Male,Data Scientist,Finance,26,Onsite,58,9,Low,Depression,Neutral,4,None,Poor,South America
+53,Non-binary,Marketing,Consulting,25,Onsite,28,5,Low,None,Unsatisfied,3,Weekly,Average,South America
+30,Female,Sales,Finance,6,Remote,40,3,Medium,Anxiety,Unsatisfied,1,None,Good,South America
+49,Non-binary,Sales,Manufacturing,26,Remote,57,3,Low,Anxiety,Satisfied,4,Daily,Average,South America
+57,Male,Software Engineer,Consulting,34,Remote,53,1,High,Anxiety,Unsatisfied,2,None,Average,South America
+38,Prefer not to say,Data Scientist,Consulting,21,Remote,25,6,High,Anxiety,Neutral,2,None,Average,South America
+57,Non-binary,Software Engineer,Healthcare,10,Onsite,41,9,High,Burnout,Neutral,3,Daily,Poor,South America
+58,Prefer not to say,Software Engineer,IT,5,Remote,50,8,Low,Anxiety,Neutral,2,Weekly,Good,South America
+23,Non-binary,Data Scientist,Manufacturing,24,Onsite,59,9,Medium,None,Unsatisfied,3,Daily,Poor,South America
+35,Prefer not to say,Designer,Healthcare,10,Remote,46,15,High,Depression,Satisfied,3,Daily,Average,South America
+22,Male,Project Manager,Finance,15,Remote,39,10,Low,Anxiety,Neutral,1,Weekly,Average,South America
+22,Prefer not to say,Project Manager,Manufacturing,15,Remote,52,15,Medium,Depression,Satisfied,5,None,Good,South America
+29,Non-binary,Data Scientist,Retail,10,Hybrid,47,5,Medium,Burnout,Unsatisfied,4,None,Average,South America
+38,Prefer not to say,HR,Retail,5,Onsite,37,0,Medium,Anxiety,Neutral,1,Weekly,Average,South America
+49,Non-binary,Software Engineer,Finance,5,Remote,59,3,Low,Depression,Neutral,2,Daily,Good,South America
+34,Female,Project Manager,Education,14,Remote,44,7,High,Depression,Unsatisfied,2,None,Average,South America
+38,Female,Software Engineer,Manufacturing,9,Remote,60,2,High,Depression,Unsatisfied,3,Daily,Poor,South America
+44,Female,Sales,IT,23,Onsite,49,2,High,Depression,Satisfied,5,Weekly,Good,South America
+26,Non-binary,Data Scientist,Healthcare,5,Onsite,26,10,High,None,Neutral,4,Weekly,Average,South America
+25,Non-binary,Project Manager,IT,24,Hybrid,60,10,Medium,Anxiety,Unsatisfied,3,Daily,Average,South America
+49,Female,Software Engineer,Healthcare,8,Remote,23,5,Medium,Anxiety,Satisfied,4,Weekly,Good,South America
+41,Non-binary,Project Manager,Manufacturing,8,Hybrid,58,15,Low,None,Satisfied,2,Daily,Poor,South America
+53,Non-binary,Designer,Retail,10,Remote,41,2,High,Anxiety,Neutral,1,None,Poor,South America
+37,Female,Data Scientist,Consulting,8,Onsite,35,6,High,Depression,Neutral,5,Daily,Poor,South America
+57,Female,Designer,Healthcare,28,Hybrid,44,2,Medium,Anxiety,Satisfied,3,Daily,Average,South America
+31,Female,Designer,Healthcare,24,Hybrid,60,0,High,Depression,Unsatisfied,2,Weekly,Good,South America
+30,Male,Marketing,Finance,14,Remote,57,9,Medium,Anxiety,Neutral,4,Weekly,Average,South America
+54,Male,Sales,IT,17,Onsite,52,12,High,Anxiety,Satisfied,4,Daily,Good,South America
+25,Prefer not to say,HR,Finance,13,Remote,25,5,Medium,Burnout,Unsatisfied,4,Daily,Poor,South America
+60,Prefer not to say,HR,Finance,33,Hybrid,45,7,High,Depression,Neutral,3,Weekly,Good,South America
+27,Non-binary,Software Engineer,Retail,12,Remote,28,10,Medium,None,Unsatisfied,1,Weekly,Good,South America
+24,Male,Software Engineer,Retail,14,Onsite,35,13,High,Burnout,Unsatisfied,4,Weekly,Good,South America
+23,Non-binary,Project Manager,IT,35,Hybrid,45,11,Low,None,Unsatisfied,1,None,Poor,South America
+50,Non-binary,Marketing,Manufacturing,18,Hybrid,58,6,Low,None,Unsatisfied,3,Daily,Good,South America
+25,Male,Data Scientist,Healthcare,32,Onsite,45,15,Low,Depression,Unsatisfied,4,None,Average,South America
+45,Male,Sales,Retail,4,Remote,31,0,Medium,Depression,Satisfied,2,Weekly,Average,South America
+30,Non-binary,Marketing,Retail,27,Remote,40,4,High,None,Neutral,4,None,Average,South America
+40,Prefer not to say,HR,Finance,33,Onsite,20,13,Medium,Anxiety,Neutral,4,Weekly,Poor,South America
+31,Male,Designer,Manufacturing,24,Onsite,25,3,Low,Burnout,Neutral,4,None,Good,South America
+58,Female,Designer,Healthcare,18,Remote,46,15,Medium,Depression,Neutral,5,None,Average,South America
+35,Male,Data Scientist,Finance,20,Hybrid,23,2,Low,Anxiety,Satisfied,2,Weekly,Poor,South America
+54,Male,Marketing,Consulting,22,Hybrid,28,4,Medium,None,Satisfied,1,None,Poor,South America
+52,Male,Sales,Retail,20,Hybrid,22,11,Low,Depression,Satisfied,3,Weekly,Good,South America
+33,Male,Marketing,Consulting,21,Hybrid,39,10,Low,None,Satisfied,5,None,Average,South America
+53,Non-binary,Data Scientist,Healthcare,11,Onsite,49,8,Medium,Burnout,Satisfied,5,Daily,Good,South America
+26,Prefer not to say,Data Scientist,Healthcare,30,Hybrid,36,1,High,Burnout,Unsatisfied,4,None,Average,South America
+57,Male,Project Manager,Healthcare,35,Remote,25,9,High,None,Unsatisfied,3,Daily,Good,South America
+60,Non-binary,Sales,Retail,30,Hybrid,59,8,High,Depression,Unsatisfied,1,Daily,Poor,South America
+48,Prefer not to say,Data Scientist,Healthcare,6,Remote,27,7,High,None,Neutral,4,Daily,Average,South America
+42,Male,HR,IT,30,Onsite,35,3,Low,None,Neutral,1,Daily,Average,South America
+34,Prefer not to say,Sales,Retail,13,Remote,31,1,High,Anxiety,Unsatisfied,4,Weekly,Average,South America
+53,Prefer not to say,HR,Consulting,3,Onsite,27,1,Medium,Anxiety,Satisfied,1,Daily,Poor,South America
+60,Non-binary,Designer,Healthcare,28,Hybrid,39,7,High,Depression,Unsatisfied,2,Weekly,Poor,South America
+54,Prefer not to say,Data Scientist,IT,14,Onsite,41,15,Low,Anxiety,Unsatisfied,5,Weekly,Poor,South America
+56,Non-binary,Designer,Finance,9,Hybrid,36,7,Medium,Burnout,Neutral,3,None,Good,South America
+39,Female,Data Scientist,Finance,30,Remote,44,2,Medium,Burnout,Satisfied,4,None,Good,South America
+35,Non-binary,Data Scientist,Education,14,Onsite,52,11,Medium,Depression,Neutral,2,None,Average,South America
+53,Male,Project Manager,Consulting,21,Hybrid,54,15,Low,None,Neutral,4,Daily,Good,South America
+41,Male,Project Manager,Finance,3,Hybrid,33,11,Medium,Anxiety,Satisfied,3,None,Poor,South America
+32,Prefer not to say,Sales,Finance,14,Hybrid,31,3,Medium,Depression,Unsatisfied,2,Daily,Poor,South America
+39,Female,Project Manager,Education,9,Onsite,28,3,Low,None,Neutral,2,Weekly,Poor,South America
+28,Male,Marketing,Manufacturing,28,Hybrid,32,2,Medium,Anxiety,Satisfied,5,Weekly,Average,South America
+33,Non-binary,Marketing,Retail,4,Remote,35,6,Low,Anxiety,Unsatisfied,1,Daily,Good,South America
+42,Male,Designer,IT,22,Hybrid,54,15,High,None,Neutral,2,None,Average,South America
+48,Non-binary,Software Engineer,Finance,4,Onsite,50,11,Medium,Depression,Satisfied,5,Daily,Average,South America
+46,Non-binary,Marketing,Healthcare,15,Hybrid,41,5,Low,Anxiety,Unsatisfied,2,Daily,Poor,South America
+36,Prefer not to say,Sales,Consulting,22,Hybrid,23,4,Medium,Depression,Satisfied,4,Weekly,Poor,South America
+29,Non-binary,Designer,IT,1,Hybrid,22,7,High,Depression,Neutral,4,None,Poor,South America
+31,Non-binary,Data Scientist,Retail,27,Remote,34,9,High,Depression,Unsatisfied,2,Daily,Average,South America
+53,Female,Designer,Finance,33,Remote,31,7,Low,Depression,Neutral,4,Weekly,Average,South America
+49,Male,Marketing,Healthcare,26,Onsite,32,3,High,Burnout,Neutral,4,Daily,Poor,South America
+48,Female,Marketing,Finance,14,Hybrid,44,2,High,Burnout,Satisfied,3,None,Good,South America
+28,Female,HR,Consulting,25,Remote,38,7,Medium,Anxiety,Unsatisfied,4,Weekly,Good,South America
+50,Male,HR,Manufacturing,29,Hybrid,57,12,High,Burnout,Neutral,3,None,Average,South America
+23,Prefer not to say,Marketing,Finance,9,Hybrid,24,14,High,Anxiety,Unsatisfied,5,None,Good,South America
+59,Non-binary,Project Manager,Finance,34,Remote,43,6,Medium,Burnout,Neutral,2,Weekly,Average,South America
+59,Male,Project Manager,Healthcare,8,Onsite,39,15,High,Anxiety,Unsatisfied,3,None,Average,South America
+45,Prefer not to say,Designer,Retail,28,Hybrid,47,7,High,Burnout,Neutral,2,Weekly,Poor,South America
+32,Prefer not to say,Sales,Retail,2,Onsite,35,4,Low,None,Satisfied,5,Daily,Good,South America
+48,Prefer not to say,Designer,Finance,34,Onsite,44,11,High,Anxiety,Unsatisfied,2,Weekly,Average,South America
+43,Non-binary,Data Scientist,Manufacturing,28,Onsite,43,3,Medium,Anxiety,Satisfied,5,None,Average,South America
+52,Non-binary,Software Engineer,Education,19,Hybrid,30,9,Low,Depression,Satisfied,2,Weekly,Good,South America
+58,Non-binary,Data Scientist,IT,15,Onsite,58,9,High,Depression,Unsatisfied,4,Daily,Good,South America
+33,Male,Marketing,Consulting,34,Remote,53,7,High,Anxiety,Neutral,3,None,Good,South America
+23,Prefer not to say,Project Manager,Healthcare,13,Remote,51,14,Medium,Burnout,Neutral,1,Daily,Poor,South America
+34,Female,Project Manager,Education,1,Remote,60,0,Medium,Anxiety,Satisfied,2,Weekly,Average,South America
+56,Male,HR,Retail,27,Hybrid,35,14,High,Burnout,Neutral,1,None,Average,South America
+28,Non-binary,HR,Education,21,Remote,59,7,High,Anxiety,Neutral,1,None,Poor,South America
+36,Male,HR,IT,6,Hybrid,23,13,Medium,None,Unsatisfied,1,Weekly,Average,South America
+47,Male,Marketing,Consulting,7,Hybrid,50,7,Medium,Burnout,Satisfied,1,Daily,Good,South America
+60,Prefer not to say,Designer,Education,29,Remote,35,8,High,Burnout,Satisfied,2,Daily,Average,South America
+42,Non-binary,Software Engineer,Manufacturing,25,Onsite,54,15,Low,None,Satisfied,4,Daily,Good,South America
+36,Non-binary,Data Scientist,Retail,6,Hybrid,51,5,Medium,None,Neutral,3,Daily,Poor,South America
+40,Non-binary,Sales,Finance,9,Remote,45,4,Medium,None,Neutral,5,Weekly,Good,South America
+35,Non-binary,Software Engineer,Education,23,Hybrid,35,11,Medium,Depression,Unsatisfied,5,None,Poor,South America
+26,Female,Designer,Healthcare,10,Remote,39,0,Medium,Burnout,Unsatisfied,1,None,Good,South America
+31,Non-binary,Marketing,Consulting,11,Onsite,43,3,Low,None,Unsatisfied,5,None,Good,South America
+45,Female,Sales,Finance,29,Remote,28,1,High,None,Neutral,1,Daily,Poor,South America
+23,Non-binary,HR,Finance,1,Hybrid,43,13,High,None,Satisfied,1,Daily,Poor,South America
+24,Female,Sales,Education,29,Remote,38,1,Low,Burnout,Unsatisfied,1,Weekly,Poor,South America
+40,Female,Marketing,Education,6,Remote,49,15,Low,Depression,Satisfied,3,None,Average,South America
+37,Male,Software Engineer,Consulting,1,Remote,60,0,High,None,Satisfied,4,None,Average,South America
+22,Female,Marketing,Healthcare,24,Remote,31,10,High,Depression,Unsatisfied,1,None,Average,South America
+24,Non-binary,Sales,Manufacturing,33,Remote,23,5,High,Anxiety,Satisfied,4,None,Good,South America
+58,Non-binary,Project Manager,Healthcare,29,Remote,27,3,High,Depression,Unsatisfied,1,Daily,Average,South America
+56,Non-binary,Marketing,Retail,25,Onsite,40,7,High,None,Satisfied,5,Daily,Average,South America
+38,Female,Marketing,Retail,1,Hybrid,37,6,Low,Depression,Unsatisfied,2,None,Good,South America
+28,Female,Sales,Healthcare,23,Remote,40,13,Low,Depression,Unsatisfied,4,None,Average,South America
+32,Male,Project Manager,IT,22,Hybrid,51,11,Low,Anxiety,Neutral,2,Weekly,Poor,South America
+58,Male,Sales,Retail,27,Remote,35,4,High,Anxiety,Satisfied,5,None,Average,South America
+54,Male,Project Manager,Healthcare,26,Onsite,57,2,Low,Burnout,Satisfied,5,Weekly,Poor,South America
+26,Non-binary,Project Manager,Finance,24,Remote,41,11,Low,Anxiety,Satisfied,4,Weekly,Average,South America
+55,Non-binary,Project Manager,Healthcare,11,Remote,22,7,Low,Burnout,Neutral,5,Weekly,Poor,South America
+25,Prefer not to say,Sales,Consulting,24,Remote,57,14,Low,None,Neutral,5,Weekly,Average,South America
+39,Male,Project Manager,Manufacturing,4,Onsite,57,2,Medium,Anxiety,Unsatisfied,5,Weekly,Average,South America
+60,Male,HR,Consulting,32,Onsite,30,0,High,None,Satisfied,5,Weekly,Average,South America
+49,Prefer not to say,Software Engineer,Consulting,26,Onsite,32,13,Medium,None,Unsatisfied,5,None,Good,South America
+45,Prefer not to say,Software Engineer,Finance,19,Remote,49,11,Low,None,Unsatisfied,2,None,Good,South America
+44,Female,Software Engineer,Healthcare,12,Hybrid,56,15,Medium,None,Unsatisfied,3,Daily,Average,South America
+41,Prefer not to say,Data Scientist,IT,4,Remote,22,4,Low,Anxiety,Unsatisfied,2,Daily,Good,South America
+22,Prefer not to say,Data Scientist,IT,23,Onsite,35,13,Medium,None,Neutral,1,Daily,Good,South America
+50,Non-binary,Project Manager,Retail,9,Onsite,58,7,High,Depression,Unsatisfied,4,None,Average,South America
+43,Female,HR,Retail,5,Remote,25,0,High,Depression,Unsatisfied,3,Daily,Average,South America
+45,Non-binary,Designer,Consulting,1,Onsite,40,5,Low,Anxiety,Unsatisfied,5,Weekly,Poor,South America
+27,Non-binary,Sales,Manufacturing,30,Onsite,42,11,High,Anxiety,Satisfied,4,Weekly,Average,South America
+31,Non-binary,Marketing,Manufacturing,2,Hybrid,30,9,Low,None,Satisfied,5,None,Average,South America
+55,Non-binary,HR,Finance,8,Hybrid,58,14,High,Anxiety,Unsatisfied,2,Daily,Poor,South America
+47,Prefer not to say,Data Scientist,Education,14,Onsite,55,14,Medium,Burnout,Neutral,4,Daily,Good,South America
+25,Prefer not to say,HR,Education,8,Remote,40,6,High,None,Unsatisfied,5,None,Poor,South America
+57,Prefer not to say,HR,Education,27,Remote,56,11,Low,Depression,Neutral,4,None,Average,South America
+23,Female,Project Manager,Education,13,Hybrid,27,0,Low,Depression,Neutral,3,None,Average,South America
+38,Prefer not to say,HR,Retail,28,Hybrid,41,5,Low,Anxiety,Satisfied,1,Weekly,Good,South America
+51,Prefer not to say,Project Manager,IT,29,Onsite,26,13,Low,Depression,Unsatisfied,5,Daily,Good,South America
+47,Male,Sales,Manufacturing,11,Remote,22,8,High,None,Neutral,5,Weekly,Good,South America
+41,Prefer not to say,Designer,Healthcare,18,Onsite,29,6,Medium,Anxiety,Neutral,2,None,Average,South America
+35,Male,Marketing,Manufacturing,8,Hybrid,59,11,Low,Depression,Unsatisfied,3,Weekly,Poor,South America
+53,Prefer not to say,HR,Manufacturing,5,Onsite,21,5,Medium,None,Unsatisfied,4,Weekly,Good,South America
+46,Female,HR,Consulting,28,Onsite,31,6,High,None,Neutral,4,Weekly,Poor,South America
+47,Non-binary,Designer,Consulting,8,Hybrid,55,9,Medium,None,Unsatisfied,2,Daily,Average,South America
+58,Male,Marketing,IT,4,Hybrid,42,14,High,Anxiety,Unsatisfied,4,None,Average,South America
+53,Non-binary,Data Scientist,Retail,6,Onsite,44,6,High,Depression,Satisfied,4,Weekly,Average,South America
+32,Female,Software Engineer,Consulting,23,Hybrid,24,9,Medium,Depression,Neutral,5,Daily,Average,South America
+58,Female,Project Manager,IT,22,Hybrid,24,13,High,Burnout,Neutral,3,Daily,Average,South America
+37,Female,Designer,Finance,24,Remote,20,9,High,Depression,Neutral,2,Daily,Good,South America
+41,Female,Software Engineer,Retail,24,Onsite,22,4,Medium,Burnout,Neutral,2,Weekly,Poor,South America
+28,Prefer not to say,Data Scientist,Education,23,Remote,24,11,Medium,Anxiety,Neutral,4,None,Good,South America
+30,Prefer not to say,Data Scientist,IT,4,Hybrid,50,2,Low,Burnout,Neutral,2,Weekly,Poor,South America
+37,Prefer not to say,HR,Healthcare,27,Hybrid,25,2,Low,Burnout,Satisfied,5,Daily,Good,South America
+58,Male,Marketing,Retail,17,Onsite,50,10,High,None,Unsatisfied,1,Weekly,Average,South America
+35,Non-binary,Project Manager,Manufacturing,7,Onsite,56,11,Low,None,Unsatisfied,1,Weekly,Average,South America
+45,Male,Software Engineer,Consulting,28,Remote,30,13,High,None,Neutral,4,Daily,Good,South America
+34,Female,Data Scientist,Healthcare,3,Hybrid,45,5,High,Depression,Neutral,4,Daily,Good,South America
+54,Female,Data Scientist,Healthcare,25,Onsite,36,3,High,Burnout,Satisfied,1,None,Good,South America
+39,Non-binary,Data Scientist,Finance,12,Onsite,39,6,High,Anxiety,Satisfied,2,None,Poor,South America
+29,Male,Designer,Education,4,Onsite,44,7,Low,Depression,Neutral,5,Weekly,Average,South America
+59,Prefer not to say,Sales,Manufacturing,33,Hybrid,59,7,Medium,None,Unsatisfied,4,Weekly,Poor,South America
+57,Male,Marketing,Healthcare,9,Onsite,41,10,Medium,Burnout,Satisfied,4,None,Average,South America
+34,Female,HR,Finance,27,Hybrid,30,8,High,Burnout,Neutral,5,Daily,Poor,South America
+40,Female,Software Engineer,Healthcare,28,Onsite,60,9,Medium,Depression,Satisfied,3,Weekly,Average,South America
+37,Male,HR,Finance,27,Remote,36,15,High,None,Neutral,1,None,Good,South America
+46,Male,Marketing,IT,22,Hybrid,41,12,Low,Depression,Unsatisfied,5,None,Good,South America
+58,Female,Sales,IT,6,Remote,39,11,Medium,Anxiety,Unsatisfied,1,None,Good,South America
+49,Non-binary,Marketing,Manufacturing,14,Remote,36,9,High,Anxiety,Unsatisfied,2,Weekly,Poor,South America
+60,Prefer not to say,Designer,Manufacturing,21,Hybrid,24,4,Low,Burnout,Neutral,1,Weekly,Good,South America
+39,Female,Sales,Retail,32,Remote,48,6,Low,Depression,Neutral,1,Weekly,Poor,South America
+28,Female,HR,Finance,25,Onsite,32,15,Medium,Depression,Satisfied,2,Weekly,Average,South America
+48,Male,Software Engineer,Consulting,33,Hybrid,54,8,Low,Depression,Satisfied,2,None,Good,South America
+47,Prefer not to say,Sales,Healthcare,23,Hybrid,54,6,Medium,None,Neutral,3,Daily,Average,South America
+22,Non-binary,Data Scientist,Healthcare,11,Onsite,24,13,Low,Anxiety,Satisfied,4,Weekly,Good,South America
+49,Non-binary,Software Engineer,Retail,5,Onsite,29,5,Medium,Depression,Neutral,1,Weekly,Poor,South America
+36,Female,Project Manager,Education,29,Remote,30,12,High,Depression,Neutral,3,Weekly,Good,South America
+29,Female,Designer,Consulting,19,Remote,30,9,High,Burnout,Satisfied,3,Daily,Poor,South America
+51,Male,HR,Consulting,7,Onsite,36,0,Low,Depression,Satisfied,3,None,Good,South America
+28,Prefer not to say,Software Engineer,Finance,14,Hybrid,29,15,High,Depression,Unsatisfied,1,Weekly,Good,South America
+25,Male,Designer,Healthcare,20,Hybrid,55,0,Medium,Anxiety,Satisfied,5,Daily,Good,South America
+43,Prefer not to say,Designer,Manufacturing,32,Hybrid,22,3,High,Anxiety,Satisfied,5,None,Average,South America
+49,Female,Software Engineer,Manufacturing,25,Remote,25,11,Medium,Depression,Satisfied,2,None,Average,South America
+45,Female,Marketing,Retail,20,Remote,49,12,Low,None,Satisfied,4,Daily,Good,South America
+55,Non-binary,HR,Education,7,Remote,54,1,Low,None,Satisfied,3,Daily,Poor,South America
+40,Male,Marketing,Healthcare,25,Remote,29,3,High,Burnout,Unsatisfied,2,Weekly,Average,South America
+33,Male,Data Scientist,Manufacturing,19,Onsite,33,10,Low,Depression,Unsatisfied,2,Weekly,Good,South America
+27,Male,Data Scientist,IT,34,Hybrid,47,0,Medium,Burnout,Satisfied,3,Weekly,Average,South America
+25,Male,HR,Finance,3,Hybrid,47,12,Medium,Burnout,Satisfied,1,None,Good,South America
+40,Male,Designer,Retail,31,Remote,57,12,Low,Depression,Satisfied,3,Weekly,Poor,South America
+53,Male,Software Engineer,Manufacturing,27,Remote,32,9,Low,None,Neutral,3,None,Poor,South America
+32,Prefer not to say,Designer,Retail,18,Hybrid,23,14,High,Anxiety,Satisfied,1,Daily,Good,South America
+29,Male,Designer,Consulting,2,Hybrid,28,6,Medium,Anxiety,Unsatisfied,2,None,Average,South America
+27,Male,Project Manager,Education,14,Hybrid,43,4,Low,Anxiety,Unsatisfied,2,Daily,Poor,South America
+26,Female,Project Manager,Education,19,Onsite,55,1,Low,Depression,Unsatisfied,2,Weekly,Average,South America
+35,Prefer not to say,Marketing,Education,26,Remote,33,0,Low,None,Neutral,3,None,Poor,South America
+34,Non-binary,Designer,Manufacturing,32,Hybrid,59,14,Medium,Depression,Satisfied,2,Daily,Good,South America
+51,Female,Sales,IT,16,Onsite,35,14,High,Anxiety,Unsatisfied,2,Weekly,Average,South America
+36,Non-binary,Sales,IT,4,Remote,31,10,High,None,Satisfied,1,None,Poor,South America
+25,Non-binary,Software Engineer,Manufacturing,26,Remote,46,2,Low,None,Neutral,2,Daily,Average,South America
+38,Prefer not to say,Software Engineer,Manufacturing,27,Remote,49,13,High,Depression,Unsatisfied,2,None,Average,South America
+30,Non-binary,Sales,Healthcare,1,Hybrid,33,12,High,Burnout,Satisfied,2,Weekly,Average,South America
+25,Non-binary,HR,Education,2,Onsite,50,0,Low,Burnout,Unsatisfied,5,None,Average,South America
+25,Male,Software Engineer,Consulting,31,Hybrid,60,5,High,Depression,Unsatisfied,3,Daily,Poor,South America
+43,Non-binary,Software Engineer,Healthcare,16,Onsite,49,9,Medium,None,Neutral,4,None,Poor,South America
+58,Female,Project Manager,IT,2,Hybrid,54,6,Low,None,Unsatisfied,1,Weekly,Poor,South America
+25,Male,HR,Healthcare,4,Remote,56,10,Low,Anxiety,Neutral,4,Weekly,Good,South America
+45,Prefer not to say,HR,Retail,24,Remote,39,9,Medium,None,Neutral,3,None,Good,South America
+53,Non-binary,Sales,IT,11,Hybrid,22,4,High,Anxiety,Satisfied,4,Weekly,Poor,South America
+44,Female,Data Scientist,Finance,26,Remote,59,13,Medium,None,Unsatisfied,1,Daily,Average,South America
+49,Prefer not to say,Designer,Consulting,20,Onsite,57,9,High,Anxiety,Satisfied,1,None,Good,South America
+50,Prefer not to say,Data Scientist,Manufacturing,12,Onsite,59,9,High,Burnout,Unsatisfied,3,Weekly,Good,South America
+55,Prefer not to say,Marketing,Retail,3,Onsite,31,6,Low,Anxiety,Unsatisfied,4,Weekly,Average,South America
+47,Prefer not to say,Designer,Manufacturing,4,Hybrid,53,0,Low,Burnout,Satisfied,5,Weekly,Average,South America
+55,Female,HR,IT,14,Hybrid,55,0,Medium,Burnout,Satisfied,3,None,Good,South America
+34,Prefer not to say,HR,Healthcare,26,Remote,27,10,High,None,Unsatisfied,5,None,Poor,South America
+38,Male,Sales,Finance,26,Hybrid,25,2,High,Anxiety,Neutral,5,Weekly,Good,South America
+59,Female,Software Engineer,Education,16,Onsite,21,4,Medium,Anxiety,Satisfied,2,Weekly,Poor,South America
+44,Non-binary,Data Scientist,Retail,12,Onsite,43,11,Medium,Burnout,Satisfied,2,None,Poor,South America
+58,Prefer not to say,Project Manager,Education,4,Remote,48,15,High,Depression,Neutral,3,Daily,Poor,South America
+49,Prefer not to say,HR,Manufacturing,12,Remote,38,6,Low,Depression,Unsatisfied,2,Daily,Good,South America
+50,Female,Designer,Manufacturing,9,Hybrid,36,11,Medium,Burnout,Satisfied,3,None,Good,South America
+26,Female,HR,Healthcare,16,Hybrid,21,11,Medium,None,Satisfied,1,Daily,Good,South America
+22,Prefer not to say,Sales,IT,7,Hybrid,23,2,High,None,Unsatisfied,2,Weekly,Good,South America
+36,Non-binary,Project Manager,Finance,32,Hybrid,49,0,Low,None,Neutral,5,Weekly,Good,South America
+58,Female,Data Scientist,Education,25,Hybrid,43,8,High,Depression,Satisfied,4,None,Poor,South America
+57,Non-binary,Marketing,Consulting,10,Onsite,44,8,High,Depression,Satisfied,3,None,Poor,South America
+25,Female,Data Scientist,IT,10,Onsite,58,0,Low,Burnout,Unsatisfied,4,Weekly,Poor,South America
+48,Non-binary,Data Scientist,IT,3,Remote,54,2,High,Anxiety,Neutral,4,None,Good,South America
+38,Non-binary,Project Manager,Healthcare,33,Remote,26,15,Low,Burnout,Unsatisfied,4,Weekly,Average,South America
+39,Female,Designer,Education,28,Remote,51,12,Medium,None,Satisfied,4,Weekly,Good,South America
+27,Prefer not to say,Designer,Manufacturing,30,Remote,31,10,High,Depression,Neutral,1,Weekly,Poor,South America
+57,Male,Software Engineer,Education,7,Remote,46,1,Medium,Depression,Unsatisfied,5,None,Poor,South America
+30,Female,Designer,Retail,19,Remote,29,7,Low,Depression,Unsatisfied,3,Weekly,Good,South America
+51,Non-binary,Marketing,Retail,33,Onsite,24,9,Low,Anxiety,Unsatisfied,4,Weekly,Average,South America
+42,Male,Software Engineer,Consulting,31,Remote,51,10,High,Depression,Neutral,3,None,Average,South America
+50,Female,HR,Consulting,20,Onsite,42,1,High,Burnout,Satisfied,5,Daily,Poor,South America
+59,Male,Sales,Manufacturing,35,Hybrid,43,9,Medium,Depression,Satisfied,1,None,Poor,South America
+30,Non-binary,HR,Healthcare,29,Onsite,21,6,Medium,Burnout,Satisfied,3,Weekly,Poor,South America
+52,Male,Software Engineer,Education,17,Remote,31,3,Medium,None,Unsatisfied,3,None,Average,South America
+26,Non-binary,Designer,Education,29,Hybrid,52,4,Medium,Burnout,Satisfied,3,Daily,Good,South America
+28,Prefer not to say,HR,Manufacturing,30,Remote,44,12,Low,Depression,Neutral,3,None,Poor,South America
+37,Prefer not to say,Sales,Consulting,19,Remote,55,6,High,None,Satisfied,4,Daily,Good,South America
+42,Non-binary,Sales,Education,25,Onsite,46,15,Medium,Burnout,Unsatisfied,2,Weekly,Good,South America
+51,Male,HR,Consulting,5,Hybrid,51,11,High,None,Neutral,4,Weekly,Good,South America
+47,Prefer not to say,Data Scientist,Retail,4,Remote,45,10,Low,Anxiety,Satisfied,5,Daily,Good,South America
+49,Non-binary,Marketing,Consulting,14,Hybrid,52,7,High,Anxiety,Unsatisfied,5,None,Poor,South America
+26,Male,Marketing,Healthcare,27,Remote,56,5,High,Burnout,Unsatisfied,4,Weekly,Poor,South America
+40,Prefer not to say,Software Engineer,Education,8,Remote,49,0,Low,Depression,Satisfied,1,Weekly,Average,South America
+27,Non-binary,Marketing,IT,1,Onsite,57,11,High,Depression,Neutral,2,None,Poor,South America
+54,Male,HR,Consulting,9,Remote,36,4,Low,Depression,Unsatisfied,2,Weekly,Average,South America
+60,Male,Designer,Consulting,25,Onsite,56,14,Low,Depression,Satisfied,5,Daily,Good,South America
+51,Male,Marketing,Retail,33,Onsite,56,8,Medium,Depression,Satisfied,2,Daily,Poor,South America
+37,Prefer not to say,Data Scientist,Healthcare,29,Remote,57,4,High,Depression,Neutral,1,Daily,Average,South America
+45,Male,Project Manager,Consulting,19,Onsite,22,4,High,Anxiety,Satisfied,2,None,Average,South America
+35,Female,Project Manager,Retail,31,Hybrid,57,13,High,None,Unsatisfied,2,Weekly,Good,South America
+58,Prefer not to say,Sales,IT,25,Hybrid,26,6,High,Anxiety,Neutral,5,Daily,Poor,South America
+59,Male,Software Engineer,Finance,23,Onsite,47,5,Low,Depression,Unsatisfied,1,Daily,Average,South America
+58,Non-binary,HR,Consulting,24,Hybrid,33,7,Medium,None,Unsatisfied,1,None,Average,South America
+24,Female,Sales,Finance,29,Hybrid,29,8,Medium,Anxiety,Neutral,2,None,Average,South America
+32,Prefer not to say,Data Scientist,Retail,4,Onsite,22,5,Medium,Depression,Satisfied,5,Daily,Average,South America
+36,Non-binary,Marketing,Finance,16,Hybrid,52,0,Low,Depression,Neutral,2,None,Good,South America
+31,Female,HR,IT,12,Hybrid,40,6,High,None,Satisfied,1,None,Poor,South America
+41,Male,Sales,Consulting,9,Hybrid,50,12,High,Burnout,Neutral,1,Weekly,Average,South America
+48,Non-binary,Data Scientist,Retail,14,Remote,58,14,Medium,None,Satisfied,4,Weekly,Poor,South America
+47,Prefer not to say,Sales,Consulting,14,Remote,50,7,Low,Anxiety,Neutral,4,Daily,Good,South America
+34,Prefer not to say,HR,Education,3,Hybrid,22,5,Low,None,Unsatisfied,3,Weekly,Good,South America
+23,Non-binary,Marketing,Manufacturing,29,Remote,35,1,High,Anxiety,Neutral,2,Daily,Good,South America
+48,Female,HR,Healthcare,17,Hybrid,30,9,Medium,Burnout,Satisfied,5,Daily,Good,South America
+24,Female,Project Manager,Manufacturing,8,Onsite,33,5,Low,Anxiety,Unsatisfied,2,Daily,Good,South America
+29,Non-binary,Sales,Healthcare,33,Remote,27,12,High,Anxiety,Unsatisfied,1,Daily,Good,South America
+23,Non-binary,Software Engineer,Education,1,Hybrid,27,7,High,Burnout,Neutral,1,None,Good,South America
+36,Male,Sales,Education,2,Remote,54,12,High,Burnout,Unsatisfied,2,Daily,Average,South America
+59,Female,Data Scientist,Finance,24,Remote,48,3,Medium,Anxiety,Satisfied,5,Daily,Good,South America
+48,Male,Sales,Finance,27,Onsite,55,8,Medium,None,Neutral,4,None,Poor,South America
+40,Non-binary,Designer,Education,33,Onsite,57,14,High,Burnout,Unsatisfied,5,None,Average,South America
+43,Female,Data Scientist,Manufacturing,16,Remote,24,10,Medium,Depression,Unsatisfied,4,Weekly,Good,South America
+53,Female,Sales,Consulting,9,Hybrid,32,7,High,None,Neutral,3,Daily,Good,South America
+27,Male,Software Engineer,Manufacturing,11,Onsite,43,14,Medium,None,Satisfied,5,Daily,Poor,South America
+22,Non-binary,Sales,Retail,13,Remote,40,11,Medium,Depression,Satisfied,2,Daily,Good,South America
+44,Prefer not to say,Marketing,Consulting,14,Hybrid,47,14,High,None,Unsatisfied,1,Weekly,Good,South America
+59,Male,Sales,Retail,10,Onsite,44,0,High,Depression,Neutral,2,None,Good,South America
+30,Female,Data Scientist,Retail,20,Remote,57,7,High,Depression,Unsatisfied,3,None,Good,South America
+32,Prefer not to say,Project Manager,Retail,26,Hybrid,53,14,High,None,Satisfied,5,Weekly,Poor,South America
+59,Female,Sales,Consulting,9,Remote,27,8,Low,None,Satisfied,2,Daily,Average,South America
+32,Female,Designer,Retail,12,Hybrid,28,12,Medium,Depression,Unsatisfied,3,None,Average,South America
+43,Prefer not to say,Software Engineer,Manufacturing,18,Onsite,59,3,Medium,Burnout,Satisfied,2,Daily,Good,South America
+30,Female,Project Manager,Finance,10,Onsite,36,2,High,Depression,Satisfied,3,Weekly,Poor,South America
+43,Male,Designer,IT,19,Hybrid,52,11,Low,Burnout,Unsatisfied,1,None,Poor,South America
+43,Female,Software Engineer,Education,11,Hybrid,31,12,Low,None,Satisfied,5,Daily,Poor,South America
+45,Prefer not to say,Project Manager,Education,16,Onsite,42,0,Low,Depression,Satisfied,4,Daily,Good,South America
+47,Male,Project Manager,IT,19,Onsite,27,7,Low,Burnout,Neutral,4,Weekly,Average,South America
+22,Prefer not to say,HR,Consulting,26,Hybrid,49,14,Medium,Depression,Neutral,3,Weekly,Good,South America
+30,Prefer not to say,Sales,Healthcare,16,Remote,50,2,Low,Depression,Neutral,1,None,Poor,South America
+24,Male,Software Engineer,Retail,6,Onsite,43,6,High,None,Neutral,4,Weekly,Good,South America
+31,Female,HR,IT,24,Remote,57,11,Medium,Depression,Unsatisfied,5,Daily,Average,South America
+54,Male,HR,Consulting,31,Hybrid,32,2,Low,Depression,Unsatisfied,4,Weekly,Good,South America
+52,Non-binary,Designer,Manufacturing,19,Hybrid,50,8,High,None,Neutral,5,Daily,Poor,South America
+34,Prefer not to say,Sales,Finance,27,Hybrid,49,2,High,None,Unsatisfied,2,Daily,Good,South America
+33,Female,Data Scientist,Healthcare,6,Remote,24,12,Low,None,Unsatisfied,1,Weekly,Poor,South America
+42,Male,Marketing,Retail,22,Onsite,35,2,High,Depression,Neutral,2,Daily,Average,South America
+25,Male,Sales,Education,22,Hybrid,39,13,Medium,Burnout,Unsatisfied,4,Weekly,Poor,South America
+30,Prefer not to say,Data Scientist,Consulting,29,Onsite,23,4,High,Burnout,Satisfied,1,None,Average,South America
+47,Male,Project Manager,IT,6,Onsite,52,10,Medium,Burnout,Neutral,5,Weekly,Average,South America
+26,Prefer not to say,Software Engineer,IT,27,Hybrid,37,10,Medium,None,Unsatisfied,4,Weekly,Good,South America
+29,Male,Data Scientist,Manufacturing,19,Hybrid,33,5,Medium,Anxiety,Satisfied,2,Weekly,Average,South America
+33,Prefer not to say,HR,Manufacturing,21,Onsite,39,11,Medium,Anxiety,Neutral,1,Weekly,Good,South America
+25,Male,Data Scientist,Manufacturing,1,Onsite,40,1,Medium,Depression,Neutral,5,Weekly,Poor,South America
+58,Female,Sales,Consulting,25,Remote,49,0,Low,Depression,Satisfied,3,Weekly,Average,South America
+57,Male,Marketing,Finance,10,Remote,59,2,Low,Depression,Satisfied,4,Weekly,Poor,South America
+45,Non-binary,Marketing,Consulting,21,Remote,38,3,Medium,Burnout,Neutral,3,Weekly,Average,South America
+44,Prefer not to say,Sales,Retail,19,Hybrid,33,2,Low,Burnout,Neutral,1,Weekly,Poor,South America
+42,Female,HR,Education,7,Hybrid,45,4,Medium,Burnout,Unsatisfied,3,None,Poor,South America
+54,Female,Designer,Finance,24,Hybrid,28,13,Low,Anxiety,Satisfied,1,Daily,Average,South America
+25,Prefer not to say,Sales,IT,30,Onsite,34,8,Low,Burnout,Neutral,4,None,Average,South America
+35,Non-binary,Designer,IT,22,Remote,31,10,High,None,Satisfied,3,Weekly,Poor,South America
+53,Female,Project Manager,Education,35,Hybrid,23,13,Low,Depression,Satisfied,5,Daily,Average,South America
+59,Non-binary,Marketing,Consulting,29,Hybrid,40,9,Low,Depression,Satisfied,5,None,Good,South America
+40,Non-binary,Marketing,Retail,13,Onsite,22,14,High,None,Unsatisfied,1,None,Poor,South America
+43,Prefer not to say,Project Manager,Finance,1,Hybrid,30,13,Medium,Anxiety,Unsatisfied,5,None,Good,South America
+31,Non-binary,Software Engineer,Education,27,Onsite,53,6,High,Burnout,Unsatisfied,1,Weekly,Average,South America
+27,Prefer not to say,Data Scientist,Healthcare,27,Hybrid,37,11,High,Anxiety,Unsatisfied,1,None,Poor,South America
+22,Prefer not to say,HR,Manufacturing,30,Remote,20,15,Low,Depression,Satisfied,5,None,Good,South America
+27,Prefer not to say,Designer,Healthcare,17,Remote,42,0,Low,None,Unsatisfied,2,Daily,Good,South America
+27,Male,HR,Retail,4,Onsite,42,7,Low,Anxiety,Unsatisfied,1,Weekly,Average,South America
+58,Prefer not to say,Project Manager,Healthcare,31,Onsite,40,1,Medium,Burnout,Unsatisfied,2,Weekly,Average,South America
+57,Male,Marketing,Finance,13,Remote,22,8,High,None,Neutral,1,Weekly,Average,South America
+46,Female,Marketing,IT,32,Onsite,36,7,High,Anxiety,Satisfied,3,Daily,Good,South America
+28,Prefer not to say,Project Manager,Education,30,Hybrid,52,10,High,Anxiety,Neutral,1,Weekly,Good,South America
+25,Female,Sales,Finance,35,Onsite,53,14,Medium,Depression,Satisfied,4,None,Good,South America
+33,Non-binary,Designer,Education,30,Hybrid,46,8,Low,Depression,Neutral,4,Weekly,Average,South America
+47,Male,Data Scientist,Healthcare,28,Hybrid,42,8,Medium,Depression,Unsatisfied,5,None,Poor,South America
+24,Female,Designer,IT,31,Remote,59,1,High,Burnout,Satisfied,1,None,Poor,South America
+57,Female,Sales,Healthcare,17,Hybrid,40,11,Low,Burnout,Unsatisfied,3,None,Average,South America
+60,Prefer not to say,Sales,Finance,2,Onsite,34,3,High,Depression,Satisfied,2,Weekly,Average,South America
+27,Female,Data Scientist,Healthcare,35,Hybrid,23,15,Medium,None,Unsatisfied,5,None,Average,South America
+33,Non-binary,Designer,IT,28,Onsite,45,14,Low,Burnout,Unsatisfied,1,Daily,Poor,South America
+53,Non-binary,HR,Healthcare,19,Onsite,38,9,Medium,Depression,Unsatisfied,3,Weekly,Good,South America
+54,Female,Project Manager,Consulting,27,Remote,38,12,Low,Burnout,Neutral,5,None,Good,South America
+31,Prefer not to say,Designer,Consulting,24,Onsite,49,9,Medium,None,Unsatisfied,3,None,Average,South America
+50,Male,Sales,Manufacturing,16,Remote,26,0,Medium,Burnout,Unsatisfied,4,Daily,Average,South America
+29,Non-binary,Sales,Manufacturing,1,Onsite,32,9,High,Depression,Satisfied,2,None,Poor,South America
+26,Female,Data Scientist,Consulting,7,Onsite,33,4,Medium,Burnout,Neutral,5,Daily,Poor,South America
+52,Female,HR,Healthcare,33,Onsite,55,2,Low,None,Neutral,4,Daily,Good,South America
+39,Male,Software Engineer,Finance,13,Onsite,48,13,Low,Depression,Unsatisfied,3,Daily,Poor,South America
+25,Non-binary,HR,IT,3,Onsite,28,2,Medium,Depression,Satisfied,5,Weekly,Good,South America
+47,Female,Project Manager,Finance,30,Hybrid,57,10,Low,Depression,Unsatisfied,1,None,Poor,South America
+52,Female,Designer,Retail,17,Hybrid,37,10,High,Burnout,Unsatisfied,1,Weekly,Average,South America
+55,Male,Marketing,Retail,30,Remote,56,9,Medium,Anxiety,Neutral,3,None,Poor,South America
+33,Prefer not to say,Marketing,Finance,29,Remote,25,15,High,Depression,Satisfied,4,None,Average,South America
+28,Male,Project Manager,Education,16,Remote,36,3,High,None,Satisfied,1,Daily,Good,South America
+56,Male,HR,IT,11,Hybrid,54,15,Low,None,Unsatisfied,4,Weekly,Poor,South America
+31,Male,Designer,Finance,6,Remote,36,9,Low,None,Unsatisfied,1,None,Average,South America
+42,Female,Data Scientist,Consulting,17,Onsite,60,2,Medium,Burnout,Satisfied,2,None,Poor,South America
+27,Male,Project Manager,Healthcare,5,Onsite,48,1,Medium,None,Unsatisfied,3,Daily,Good,South America
+46,Male,Designer,IT,24,Onsite,30,0,Medium,Anxiety,Satisfied,2,None,Average,South America
+31,Male,Designer,Healthcare,15,Onsite,28,11,High,Depression,Satisfied,4,Weekly,Poor,South America
+31,Female,Project Manager,Finance,15,Onsite,35,0,Medium,Anxiety,Neutral,2,Weekly,Poor,South America
+50,Non-binary,HR,Retail,28,Remote,22,4,Low,Burnout,Neutral,5,Weekly,Poor,South America
+35,Female,Software Engineer,Healthcare,12,Onsite,41,13,Medium,None,Unsatisfied,3,Daily,Poor,South America
+56,Prefer not to say,Marketing,Finance,21,Remote,24,13,Medium,None,Satisfied,2,None,Good,South America
+59,Male,Data Scientist,Education,6,Hybrid,30,3,Low,Burnout,Satisfied,3,Weekly,Poor,South America
+27,Prefer not to say,Marketing,IT,4,Remote,26,1,Medium,Depression,Satisfied,3,Daily,Average,South America
+35,Prefer not to say,HR,IT,17,Remote,21,1,High,Burnout,Neutral,4,Weekly,Poor,South America
+60,Prefer not to say,Project Manager,IT,10,Remote,56,2,Low,Depression,Unsatisfied,5,None,Poor,South America
+54,Male,Data Scientist,Healthcare,22,Hybrid,38,6,Low,None,Unsatisfied,3,Weekly,Poor,South America
+29,Male,Designer,Consulting,23,Remote,43,9,Low,Anxiety,Satisfied,5,Weekly,Good,South America
+34,Male,Designer,Consulting,7,Hybrid,20,12,High,Depression,Unsatisfied,5,None,Poor,South America
+29,Male,Project Manager,Healthcare,6,Remote,20,11,Medium,Anxiety,Satisfied,3,None,Average,South America
+36,Non-binary,Marketing,Consulting,9,Hybrid,60,15,Low,None,Unsatisfied,1,Daily,Poor,South America
+31,Prefer not to say,HR,IT,27,Remote,38,10,High,None,Satisfied,1,Weekly,Good,South America
+24,Female,Sales,IT,23,Onsite,58,10,Medium,Anxiety,Satisfied,2,Weekly,Poor,South America
+53,Prefer not to say,Designer,Education,35,Remote,27,13,High,Burnout,Unsatisfied,2,Daily,Average,South America
+58,Female,Marketing,Retail,5,Onsite,41,7,High,Burnout,Unsatisfied,5,Daily,Good,South America
+35,Male,Software Engineer,Manufacturing,20,Remote,60,14,High,Anxiety,Neutral,2,Weekly,Good,South America
+44,Prefer not to say,Software Engineer,Retail,18,Hybrid,44,3,Medium,Anxiety,Unsatisfied,4,None,Good,South America
+31,Male,Designer,Healthcare,22,Hybrid,48,3,Medium,None,Unsatisfied,5,Daily,Poor,South America
+55,Male,Project Manager,Healthcare,28,Onsite,50,13,Medium,Depression,Satisfied,3,Daily,Good,South America
+54,Male,Software Engineer,Education,5,Remote,46,11,High,Depression,Satisfied,5,Weekly,Poor,South America
+47,Female,Project Manager,Healthcare,13,Hybrid,46,15,High,Depression,Neutral,3,Weekly,Average,South America
+52,Male,Designer,Education,16,Remote,59,8,Medium,Anxiety,Satisfied,3,None,Good,South America
+60,Prefer not to say,HR,Consulting,24,Onsite,31,15,Medium,Anxiety,Satisfied,2,None,Average,South America
+40,Prefer not to say,Sales,Finance,31,Onsite,46,7,Medium,Anxiety,Satisfied,1,Daily,Average,South America
+56,Non-binary,Sales,Finance,31,Remote,38,15,High,None,Satisfied,2,Daily,Good,South America
+51,Male,Marketing,Education,22,Hybrid,27,4,High,Depression,Satisfied,2,None,Good,South America
+48,Female,Designer,Consulting,18,Onsite,42,6,Low,Depression,Neutral,4,Daily,Good,South America
+37,Prefer not to say,HR,Manufacturing,16,Onsite,38,11,Medium,Burnout,Satisfied,2,Daily,Average,South America
+49,Female,Designer,Manufacturing,31,Remote,47,10,Medium,Burnout,Satisfied,3,None,Average,South America
+26,Female,Marketing,Healthcare,9,Onsite,51,4,Medium,Burnout,Satisfied,5,None,Good,South America
+49,Male,Designer,Education,4,Onsite,49,1,Medium,Anxiety,Unsatisfied,2,Daily,Average,South America
+24,Non-binary,Data Scientist,Manufacturing,4,Onsite,35,8,Low,Depression,Neutral,5,None,Poor,South America
+50,Male,Sales,IT,20,Onsite,58,14,High,Anxiety,Unsatisfied,3,Weekly,Poor,South America
+33,Female,Marketing,Retail,15,Onsite,28,15,Medium,Anxiety,Neutral,2,None,Poor,South America
+53,Male,Designer,Finance,26,Remote,24,11,High,Depression,Unsatisfied,2,Weekly,Average,South America
+36,Male,HR,Finance,9,Onsite,38,6,Low,Anxiety,Unsatisfied,5,Weekly,Good,South America
+55,Male,Sales,Manufacturing,34,Hybrid,57,11,High,Burnout,Neutral,3,Weekly,Poor,South America
+29,Female,Project Manager,Finance,25,Onsite,33,15,Low,None,Unsatisfied,1,Weekly,Good,South America
+47,Female,Designer,Finance,32,Hybrid,44,7,Medium,Anxiety,Satisfied,2,None,Poor,South America
+34,Male,HR,Education,17,Hybrid,55,12,Medium,Burnout,Unsatisfied,2,None,Poor,South America
+28,Male,Software Engineer,IT,33,Onsite,53,8,Medium,Anxiety,Neutral,2,None,Good,South America
+40,Female,Designer,Education,8,Onsite,36,5,High,None,Satisfied,3,Daily,Good,South America
+44,Prefer not to say,Marketing,Consulting,35,Hybrid,35,5,Low,Anxiety,Neutral,1,None,Average,South America
+41,Non-binary,Marketing,Healthcare,17,Onsite,52,4,Medium,Anxiety,Unsatisfied,2,Daily,Good,South America
+28,Prefer not to say,HR,Consulting,2,Remote,37,10,Medium,None,Neutral,3,Weekly,Poor,South America
+48,Non-binary,Designer,Retail,26,Onsite,55,9,Medium,Depression,Satisfied,4,Weekly,Good,South America
+22,Male,Sales,Manufacturing,11,Hybrid,28,0,Medium,Anxiety,Satisfied,1,Weekly,Poor,South America
+40,Prefer not to say,Sales,IT,12,Remote,46,11,Low,Depression,Neutral,5,None,Poor,South America
+47,Non-binary,Data Scientist,Education,22,Hybrid,30,13,Low,Anxiety,Unsatisfied,4,Daily,Average,South America
+39,Prefer not to say,Designer,Healthcare,24,Hybrid,49,4,High,None,Unsatisfied,3,None,Poor,South America
+22,Prefer not to say,Data Scientist,IT,34,Onsite,41,2,Low,None,Unsatisfied,2,Weekly,Good,South America
+28,Prefer not to say,Project Manager,Healthcare,11,Onsite,39,12,Low,None,Unsatisfied,5,None,Poor,South America
+28,Female,Data Scientist,Consulting,15,Remote,54,4,Low,Burnout,Neutral,5,Weekly,Poor,South America
+47,Female,HR,IT,11,Remote,57,4,High,Anxiety,Unsatisfied,1,Daily,Good,South America
+23,Female,Data Scientist,Consulting,14,Hybrid,46,9,Medium,None,Unsatisfied,4,Daily,Poor,South America
+28,Non-binary,Data Scientist,Consulting,33,Onsite,40,12,Medium,None,Unsatisfied,3,None,Average,South America
+23,Non-binary,Software Engineer,Manufacturing,10,Onsite,43,4,Medium,Anxiety,Unsatisfied,5,Daily,Poor,South America
+53,Non-binary,Data Scientist,Retail,20,Onsite,55,6,High,Anxiety,Unsatisfied,1,None,Poor,South America
+37,Non-binary,Project Manager,Consulting,34,Hybrid,31,7,High,Anxiety,Neutral,3,Weekly,Poor,South America
+29,Female,HR,Consulting,12,Hybrid,51,3,Medium,Depression,Unsatisfied,4,Daily,Good,South America
+48,Male,Software Engineer,Education,21,Onsite,20,5,Medium,Depression,Satisfied,1,Daily,Poor,South America
+45,Male,Marketing,Finance,31,Remote,39,14,Medium,Anxiety,Satisfied,5,Daily,Poor,South America
+51,Male,Designer,Retail,7,Remote,36,10,High,Anxiety,Unsatisfied,1,Weekly,Good,South America
+32,Prefer not to say,Data Scientist,Retail,15,Onsite,52,7,High,Burnout,Neutral,5,Weekly,Good,South America
+60,Prefer not to say,Sales,Retail,4,Onsite,60,15,Low,None,Neutral,5,None,Average,South America
+37,Male,Marketing,Healthcare,34,Remote,55,3,Medium,Anxiety,Satisfied,4,Daily,Average,South America
+43,Male,Project Manager,Manufacturing,32,Remote,40,15,Medium,None,Neutral,3,Daily,Poor,South America
+33,Non-binary,Designer,Retail,23,Onsite,33,2,High,Burnout,Neutral,5,None,Poor,South America
+41,Prefer not to say,HR,Education,33,Onsite,26,6,Medium,None,Unsatisfied,2,Weekly,Good,South America
+29,Non-binary,Sales,Manufacturing,10,Onsite,57,0,High,None,Satisfied,5,None,Poor,South America
+28,Female,Designer,Retail,34,Hybrid,21,15,High,Burnout,Unsatisfied,5,Weekly,Average,South America
+41,Male,Project Manager,Healthcare,32,Hybrid,27,0,Medium,Depression,Unsatisfied,5,None,Average,South America
+35,Female,Data Scientist,Education,13,Hybrid,41,9,Low,Depression,Satisfied,2,Daily,Poor,South America
+57,Prefer not to say,Designer,Finance,4,Remote,57,3,High,Anxiety,Unsatisfied,1,Weekly,Poor,South America
+59,Prefer not to say,HR,Finance,1,Hybrid,60,6,High,Anxiety,Unsatisfied,3,None,Good,South America
+23,Prefer not to say,Data Scientist,Healthcare,17,Hybrid,38,10,Low,Anxiety,Unsatisfied,4,None,Poor,South America
+34,Female,HR,Consulting,4,Onsite,23,9,Medium,Depression,Satisfied,1,Daily,Poor,South America
+42,Female,Designer,Healthcare,16,Hybrid,32,15,High,Depression,Neutral,3,None,Good,South America
+34,Non-binary,Data Scientist,Healthcare,13,Hybrid,31,9,Medium,None,Unsatisfied,5,None,Average,South America
+35,Prefer not to say,Project Manager,Consulting,7,Remote,57,7,High,Burnout,Neutral,5,Weekly,Poor,South America
+45,Male,Data Scientist,Manufacturing,6,Hybrid,54,6,High,None,Neutral,1,Weekly,Poor,South America
+47,Prefer not to say,Designer,Finance,5,Onsite,52,4,High,Depression,Neutral,5,Daily,Poor,South America
+45,Male,Sales,Education,1,Onsite,53,15,Medium,None,Unsatisfied,5,Daily,Good,South America
+54,Non-binary,Designer,Healthcare,2,Remote,44,2,Low,Burnout,Neutral,5,Weekly,Good,South America
+45,Male,Sales,Education,26,Hybrid,31,0,High,Depression,Unsatisfied,2,Daily,Good,South America
+41,Non-binary,Designer,Healthcare,2,Remote,54,12,High,Burnout,Neutral,5,Weekly,Average,South America
+27,Prefer not to say,Designer,Retail,13,Hybrid,20,1,High,Depression,Unsatisfied,4,Daily,Average,South America
+44,Male,Data Scientist,IT,29,Onsite,40,5,Medium,Anxiety,Neutral,3,Weekly,Poor,South America
+56,Male,Software Engineer,Education,3,Remote,27,9,High,Depression,Satisfied,4,Daily,Poor,South America
+42,Non-binary,Project Manager,Finance,2,Remote,47,1,Medium,None,Satisfied,1,Daily,Average,South America
+47,Prefer not to say,Sales,Retail,12,Hybrid,20,13,Medium,Burnout,Satisfied,5,Weekly,Good,South America
+37,Male,Software Engineer,Education,3,Onsite,48,0,High,Depression,Satisfied,5,Weekly,Poor,South America
+43,Female,Data Scientist,Education,14,Hybrid,45,8,High,Anxiety,Neutral,5,None,Good,South America
+27,Male,HR,IT,16,Remote,46,10,Medium,Burnout,Satisfied,3,Weekly,Poor,South America
+28,Female,Marketing,IT,9,Remote,59,10,Low,None,Satisfied,3,None,Poor,South America
+45,Female,Sales,Manufacturing,1,Remote,52,0,High,None,Unsatisfied,3,Weekly,Good,South America
+25,Prefer not to say,Project Manager,Consulting,10,Onsite,39,12,High,Burnout,Neutral,3,Weekly,Good,South America
+49,Female,Software Engineer,IT,20,Onsite,39,10,Low,Burnout,Unsatisfied,1,Weekly,Poor,South America
+29,Non-binary,HR,Consulting,7,Hybrid,57,8,High,Burnout,Satisfied,1,None,Good,South America
+39,Prefer not to say,Designer,Manufacturing,16,Hybrid,35,1,Medium,Depression,Unsatisfied,1,None,Average,South America
+56,Female,Designer,Education,7,Remote,53,12,Medium,Burnout,Unsatisfied,2,Daily,Average,South America
+33,Female,Project Manager,Consulting,30,Hybrid,53,14,Medium,Depression,Unsatisfied,4,Daily,Poor,South America
+43,Male,Marketing,Finance,27,Hybrid,60,6,High,Depression,Neutral,2,None,Average,South America
+30,Female,Software Engineer,Retail,28,Hybrid,35,3,Medium,Anxiety,Satisfied,4,Daily,Average,South America
+45,Male,Marketing,Finance,23,Hybrid,43,5,High,None,Neutral,5,Weekly,Average,South America
+51,Prefer not to say,HR,Education,1,Remote,57,0,Low,Depression,Unsatisfied,4,None,Poor,South America
+29,Male,Designer,Education,16,Hybrid,31,14,Low,Depression,Satisfied,2,None,Average,South America
+57,Female,HR,Manufacturing,9,Remote,32,11,Medium,Burnout,Unsatisfied,1,Daily,Good,South America
+50,Male,Sales,Consulting,24,Onsite,34,15,Low,Anxiety,Neutral,1,Weekly,Average,South America
+57,Prefer not to say,Marketing,IT,30,Onsite,26,15,Medium,Burnout,Unsatisfied,1,Weekly,Average,South America
+43,Prefer not to say,HR,Education,1,Onsite,23,14,Medium,Depression,Unsatisfied,3,None,Good,South America
+49,Prefer not to say,Data Scientist,Healthcare,12,Onsite,30,6,Medium,Anxiety,Satisfied,4,None,Poor,South America
+42,Female,HR,Retail,28,Remote,21,6,Low,Depression,Satisfied,4,Weekly,Average,South America
+33,Male,Software Engineer,Consulting,10,Onsite,36,3,Medium,Depression,Neutral,5,None,Poor,South America
+49,Prefer not to say,HR,Manufacturing,29,Remote,59,3,High,Depression,Neutral,1,None,Good,South America
+54,Non-binary,Sales,IT,34,Remote,52,11,Medium,Depression,Unsatisfied,3,None,Average,South America
+29,Prefer not to say,HR,Finance,32,Remote,21,2,High,None,Neutral,1,Daily,Poor,South America
+58,Male,Data Scientist,IT,8,Onsite,43,2,High,None,Neutral,4,Daily,Good,South America
+43,Non-binary,Software Engineer,Manufacturing,33,Hybrid,51,8,Medium,Burnout,Unsatisfied,5,None,Average,South America
+56,Prefer not to say,Sales,Finance,5,Hybrid,36,0,High,Anxiety,Satisfied,5,Daily,Average,South America
+25,Female,Project Manager,Finance,35,Hybrid,47,0,High,None,Unsatisfied,1,None,Average,South America
+28,Non-binary,Project Manager,IT,2,Remote,50,0,Low,None,Neutral,1,None,Poor,South America
+24,Non-binary,Software Engineer,Manufacturing,25,Hybrid,41,8,High,Anxiety,Neutral,1,Weekly,Poor,South America
+45,Female,Project Manager,Consulting,32,Remote,54,3,Low,None,Unsatisfied,3,Daily,Average,South America
+58,Prefer not to say,HR,Consulting,29,Onsite,23,7,High,Anxiety,Satisfied,5,None,Good,South America
+60,Female,Project Manager,Manufacturing,25,Remote,34,1,High,Anxiety,Satisfied,3,Daily,Good,South America
+51,Non-binary,Data Scientist,IT,10,Hybrid,24,5,Low,Depression,Neutral,5,None,Average,South America
+55,Prefer not to say,Designer,Finance,23,Onsite,49,10,Low,Anxiety,Unsatisfied,2,Weekly,Poor,South America
+58,Non-binary,Software Engineer,Education,3,Hybrid,48,3,Medium,Depression,Unsatisfied,2,None,Poor,South America
+33,Male,Marketing,Consulting,1,Remote,24,13,High,Depression,Satisfied,1,None,Average,South America
+24,Female,Designer,Education,18,Hybrid,33,2,Medium,Burnout,Unsatisfied,2,Daily,Good,South America
+51,Female,Designer,Healthcare,8,Hybrid,47,1,High,Depression,Satisfied,3,Daily,Good,South America
+45,Non-binary,Project Manager,IT,18,Onsite,22,7,Low,Anxiety,Unsatisfied,4,Weekly,Average,South America
+35,Non-binary,Software Engineer,Finance,27,Remote,47,8,Low,Depression,Unsatisfied,2,Daily,Average,South America
+53,Female,HR,Finance,35,Onsite,37,12,High,Anxiety,Satisfied,4,Weekly,Poor,South America
+22,Female,Marketing,Finance,8,Onsite,51,7,Medium,Depression,Satisfied,1,Daily,Good,South America
+45,Non-binary,Software Engineer,Healthcare,28,Onsite,60,9,Medium,None,Neutral,3,Weekly,Poor,South America
+29,Male,HR,Consulting,31,Onsite,37,6,Low,Depression,Satisfied,3,Daily,Average,South America
+32,Male,Designer,Consulting,26,Onsite,22,14,Medium,Burnout,Unsatisfied,4,None,Average,South America
+27,Non-binary,Data Scientist,Education,9,Hybrid,57,14,High,Burnout,Neutral,3,Weekly,Good,South America
+43,Non-binary,Sales,Manufacturing,7,Onsite,42,10,High,Depression,Satisfied,5,Daily,Average,South America
+27,Female,Marketing,Finance,34,Remote,32,0,Low,Anxiety,Unsatisfied,1,None,Poor,South America
+55,Non-binary,Software Engineer,Manufacturing,29,Hybrid,53,9,Low,Burnout,Satisfied,1,None,Good,South America
+54,Non-binary,Sales,Retail,21,Hybrid,51,4,Low,Depression,Neutral,5,None,Good,South America
+38,Non-binary,Sales,Retail,12,Hybrid,21,2,Medium,None,Satisfied,3,Weekly,Good,South America
+56,Non-binary,HR,Healthcare,24,Hybrid,23,15,Low,Anxiety,Satisfied,2,Weekly,Good,South America
+54,Non-binary,Data Scientist,Manufacturing,20,Remote,57,14,Medium,Anxiety,Unsatisfied,5,Daily,Average,South America
+36,Prefer not to say,HR,Manufacturing,2,Remote,32,3,Medium,None,Unsatisfied,2,None,Average,South America
+35,Prefer not to say,Designer,Manufacturing,35,Remote,59,14,Low,None,Unsatisfied,4,Weekly,Average,South America
+48,Female,Sales,Consulting,10,Hybrid,55,6,Medium,None,Neutral,5,Weekly,Poor,South America
+57,Prefer not to say,Software Engineer,Education,25,Onsite,31,14,High,Anxiety,Satisfied,4,Daily,Good,South America
+41,Male,Project Manager,Manufacturing,23,Onsite,58,15,Low,Burnout,Unsatisfied,5,Weekly,Average,South America
+51,Male,Project Manager,Education,35,Remote,55,2,Medium,None,Neutral,5,Weekly,Poor,South America
+24,Non-binary,Designer,Manufacturing,20,Hybrid,27,15,Low,Anxiety,Neutral,4,Daily,Average,South America
+37,Non-binary,Data Scientist,Retail,7,Remote,26,9,Medium,Depression,Neutral,5,Weekly,Average,South America
+54,Prefer not to say,Sales,Manufacturing,10,Hybrid,29,14,Medium,Depression,Unsatisfied,3,Daily,Good,South America
+39,Male,Project Manager,Education,6,Remote,26,0,High,Anxiety,Satisfied,2,None,Poor,South America
+27,Female,Software Engineer,Finance,26,Remote,33,8,High,Depression,Unsatisfied,2,Daily,Poor,South America
+22,Non-binary,HR,Manufacturing,10,Remote,53,1,Low,Burnout,Neutral,5,Weekly,Good,South America
+59,Prefer not to say,HR,Education,29,Remote,38,8,High,Burnout,Unsatisfied,3,Daily,Good,South America
+25,Female,Software Engineer,IT,24,Hybrid,32,12,Medium,Depression,Unsatisfied,4,Daily,Average,South America
+59,Prefer not to say,HR,Finance,32,Onsite,43,15,High,Burnout,Unsatisfied,3,None,Poor,South America
+25,Female,Sales,Retail,18,Onsite,55,15,High,Anxiety,Unsatisfied,2,None,Poor,South America
+45,Non-binary,Data Scientist,IT,11,Remote,49,14,Low,Anxiety,Unsatisfied,4,None,Average,South America
+23,Non-binary,HR,Healthcare,8,Remote,55,11,High,Burnout,Satisfied,3,Weekly,Good,South America
+29,Non-binary,Designer,Education,26,Remote,34,0,High,None,Neutral,5,None,Poor,South America
+32,Non-binary,Project Manager,Manufacturing,23,Remote,35,1,Low,None,Satisfied,2,None,Poor,South America
+48,Male,Marketing,Healthcare,18,Onsite,53,10,Low,Burnout,Satisfied,4,None,Poor,South America
+50,Non-binary,Sales,Manufacturing,1,Remote,23,13,High,None,Satisfied,3,Daily,Average,South America
+51,Prefer not to say,Software Engineer,Retail,32,Hybrid,57,9,Low,None,Neutral,1,Weekly,Poor,South America
+43,Non-binary,HR,Finance,19,Remote,33,6,Medium,None,Neutral,2,Daily,Average,South America
+25,Female,HR,Manufacturing,33,Onsite,53,13,Low,Anxiety,Neutral,4,Daily,Poor,South America
+59,Male,Software Engineer,Retail,24,Onsite,42,0,Medium,None,Satisfied,1,Weekly,Average,South America
+45,Non-binary,Sales,IT,25,Onsite,50,4,High,Burnout,Neutral,4,None,Average,South America
+44,Female,Data Scientist,Retail,9,Remote,27,5,Low,Anxiety,Neutral,1,Weekly,Good,South America
+23,Male,Marketing,Healthcare,5,Hybrid,50,9,Medium,None,Unsatisfied,5,None,Poor,South America
+40,Female,Project Manager,Consulting,1,Onsite,57,6,Medium,Burnout,Neutral,5,None,Good,South America
+49,Female,Software Engineer,Healthcare,8,Hybrid,32,14,Medium,Depression,Unsatisfied,4,Daily,Poor,South America
+47,Male,HR,Finance,3,Remote,28,12,Medium,Depression,Satisfied,2,None,Poor,South America
+34,Prefer not to say,Marketing,Finance,33,Remote,30,5,Low,Burnout,Neutral,2,Daily,Good,South America
+43,Male,Software Engineer,Manufacturing,21,Onsite,32,15,Low,Anxiety,Unsatisfied,1,Daily,Good,South America
+43,Prefer not to say,Designer,Finance,29,Hybrid,35,8,High,Burnout,Satisfied,2,Weekly,Good,South America
+34,Female,Designer,Retail,4,Onsite,57,8,Low,None,Neutral,2,Daily,Average,South America
+46,Non-binary,Sales,Healthcare,3,Remote,24,2,High,Burnout,Neutral,3,None,Average,South America
+27,Prefer not to say,Sales,Finance,7,Onsite,56,11,Medium,Anxiety,Unsatisfied,4,Weekly,Good,South America
+39,Prefer not to say,Sales,Healthcare,20,Hybrid,31,1,High,Anxiety,Satisfied,1,Daily,Average,South America
+44,Male,Sales,Finance,12,Remote,41,13,Low,Anxiety,Neutral,4,Daily,Good,South America
+52,Male,HR,IT,34,Hybrid,34,4,Medium,Burnout,Unsatisfied,2,Daily,Good,South America
+24,Non-binary,HR,Education,30,Onsite,54,9,Low,Burnout,Satisfied,1,None,Average,South America
+36,Non-binary,HR,Manufacturing,26,Remote,24,13,Medium,Depression,Unsatisfied,1,Weekly,Good,South America
+37,Male,HR,Healthcare,25,Onsite,37,1,Low,Anxiety,Satisfied,3,Daily,Average,South America
+59,Non-binary,Project Manager,Finance,7,Onsite,33,3,High,Depression,Unsatisfied,3,Weekly,Poor,South America
+39,Non-binary,Marketing,IT,24,Onsite,49,4,High,Depression,Neutral,2,None,Average,South America
+43,Male,Marketing,Finance,30,Hybrid,54,2,Medium,None,Satisfied,1,Weekly,Average,South America
+35,Non-binary,Marketing,Consulting,28,Onsite,20,3,Low,Depression,Satisfied,1,Daily,Good,South America
+23,Non-binary,Marketing,Retail,9,Hybrid,31,1,High,Burnout,Satisfied,2,Weekly,Average,South America
+55,Female,Designer,Finance,17,Onsite,60,3,High,Anxiety,Unsatisfied,5,Weekly,Average,South America
+49,Prefer not to say,Designer,IT,17,Remote,20,4,Medium,Burnout,Unsatisfied,2,Daily,Good,South America
+22,Male,Marketing,Retail,31,Hybrid,26,8,Medium,Depression,Neutral,4,Daily,Poor,South America
+35,Non-binary,Software Engineer,Finance,6,Remote,43,2,High,Burnout,Satisfied,1,Weekly,Average,South America
+34,Female,Project Manager,Retail,31,Hybrid,28,10,Medium,Burnout,Satisfied,3,None,Good,South America
+23,Male,Data Scientist,Finance,24,Hybrid,49,12,Medium,Anxiety,Unsatisfied,4,None,Good,South America
+50,Male,Marketing,Manufacturing,30,Onsite,27,12,Low,Burnout,Unsatisfied,3,Daily,Good,South America
+41,Prefer not to say,HR,Consulting,21,Hybrid,35,6,High,Burnout,Neutral,4,Weekly,Poor,South America
+27,Male,HR,Retail,25,Remote,45,15,High,Depression,Neutral,2,Daily,Average,South America
+31,Prefer not to say,HR,Education,28,Remote,54,4,Low,Depression,Unsatisfied,3,Weekly,Poor,South America
+53,Prefer not to say,Project Manager,Education,5,Onsite,57,14,High,Depression,Unsatisfied,2,Weekly,Good,South America
+49,Female,Data Scientist,Manufacturing,6,Hybrid,54,3,High,Burnout,Satisfied,2,Daily,Average,South America
+53,Male,Sales,Finance,12,Remote,30,8,Medium,Anxiety,Satisfied,4,Weekly,Poor,South America
+31,Prefer not to say,Project Manager,Manufacturing,21,Remote,60,9,Low,Burnout,Satisfied,3,None,Good,South America
+58,Non-binary,HR,Retail,20,Hybrid,48,6,Low,Burnout,Neutral,4,Daily,Poor,South America
+26,Female,Software Engineer,Healthcare,16,Hybrid,40,13,Medium,None,Unsatisfied,1,None,Poor,South America
+31,Female,Data Scientist,Finance,21,Onsite,35,15,Medium,None,Unsatisfied,3,Daily,Good,South America
+56,Non-binary,Sales,Finance,4,Onsite,60,12,Low,Anxiety,Satisfied,3,Daily,Poor,South America
+55,Male,Designer,Healthcare,19,Onsite,41,10,Medium,None,Satisfied,5,Weekly,Average,South America
+51,Female,Marketing,Education,16,Hybrid,56,3,Low,None,Satisfied,1,Daily,Good,South America
+34,Non-binary,HR,IT,20,Remote,42,1,Low,Depression,Satisfied,4,Weekly,Poor,South America
+42,Prefer not to say,Designer,IT,32,Onsite,21,0,Low,None,Satisfied,4,Daily,Good,South America
+57,Prefer not to say,HR,Healthcare,3,Onsite,52,3,Medium,Burnout,Neutral,3,Weekly,Good,South America
+49,Female,Sales,Education,11,Remote,37,1,High,Anxiety,Neutral,3,Weekly,Average,South America
+44,Male,Software Engineer,Retail,28,Remote,28,5,Medium,Anxiety,Unsatisfied,5,None,Average,South America
+49,Prefer not to say,Designer,Retail,30,Onsite,28,10,Medium,Anxiety,Neutral,2,Daily,Average,South America
+55,Male,HR,Manufacturing,22,Hybrid,39,8,High,Burnout,Unsatisfied,2,Weekly,Poor,South America
+58,Non-binary,Designer,Healthcare,8,Onsite,44,3,Low,Depression,Unsatisfied,1,Weekly,Poor,South America
+26,Prefer not to say,Project Manager,Finance,28,Onsite,50,14,Low,Anxiety,Satisfied,4,Weekly,Good,South America
+50,Male,HR,Finance,31,Onsite,57,5,Medium,Burnout,Satisfied,5,Daily,Average,South America
+28,Non-binary,Marketing,Consulting,17,Onsite,32,5,Medium,Anxiety,Neutral,2,None,Poor,South America
+38,Non-binary,Software Engineer,Consulting,32,Onsite,20,3,Medium,Anxiety,Unsatisfied,3,None,Poor,South America
+22,Female,Data Scientist,Retail,6,Remote,28,13,Low,Depression,Unsatisfied,1,None,Poor,South America
+58,Male,Project Manager,Education,30,Onsite,36,0,Medium,None,Satisfied,4,None,Average,South America
+32,Prefer not to say,Sales,IT,25,Hybrid,56,11,High,Burnout,Neutral,5,Daily,Average,South America
+55,Male,Project Manager,Retail,4,Onsite,37,8,Medium,Depression,Unsatisfied,3,Daily,Good,South America
+55,Non-binary,Project Manager,Healthcare,35,Hybrid,38,9,Medium,Burnout,Unsatisfied,4,Daily,Poor,South America
+58,Prefer not to say,Sales,Manufacturing,26,Hybrid,54,15,High,None,Unsatisfied,3,None,Poor,South America
+46,Non-binary,Sales,Manufacturing,20,Remote,41,8,Medium,None,Neutral,1,Daily,Average,South America
+60,Male,Data Scientist,Retail,11,Onsite,26,9,High,Burnout,Neutral,3,Weekly,Poor,South America
+30,Male,Sales,Healthcare,27,Remote,58,4,Low,Depression,Neutral,3,None,Good,South America
+43,Male,Marketing,Retail,26,Hybrid,50,11,High,None,Neutral,5,Daily,Good,South America
+26,Male,Marketing,IT,3,Hybrid,28,13,Low,Burnout,Unsatisfied,2,Weekly,Poor,South America
+23,Non-binary,Marketing,Manufacturing,34,Hybrid,44,3,High,Anxiety,Satisfied,3,None,Average,South America
+56,Male,Software Engineer,IT,30,Remote,60,3,Low,None,Satisfied,2,None,Good,South America
+27,Male,Software Engineer,Finance,31,Onsite,60,7,High,Depression,Unsatisfied,5,Weekly,Average,South America
+50,Prefer not to say,Project Manager,Consulting,29,Hybrid,33,12,Low,None,Neutral,3,None,Average,South America
+47,Male,Designer,Education,29,Onsite,43,1,High,Depression,Unsatisfied,4,Daily,Average,South America
+25,Female,Marketing,Retail,21,Hybrid,45,5,High,Anxiety,Satisfied,2,Weekly,Average,South America
+23,Female,Project Manager,Finance,31,Hybrid,51,7,High,None,Unsatisfied,1,None,Good,South America
+49,Non-binary,Designer,Healthcare,33,Remote,44,11,High,None,Unsatisfied,5,Daily,Poor,South America
+31,Prefer not to say,Marketing,IT,21,Onsite,22,14,High,Burnout,Neutral,4,Daily,Good,South America
+26,Non-binary,Software Engineer,IT,2,Hybrid,56,9,Low,Burnout,Unsatisfied,3,None,Good,South America
+50,Non-binary,Project Manager,Consulting,5,Remote,23,0,Medium,Anxiety,Unsatisfied,4,Daily,Poor,South America
+48,Male,Data Scientist,Healthcare,24,Remote,29,1,Low,Anxiety,Neutral,1,None,Good,South America
+31,Prefer not to say,Sales,Healthcare,12,Hybrid,29,9,High,None,Neutral,4,Weekly,Good,South America
+42,Male,Marketing,Finance,18,Remote,20,2,Low,Burnout,Unsatisfied,4,None,Average,South America
+52,Prefer not to say,Data Scientist,Consulting,22,Onsite,56,2,Low,Depression,Unsatisfied,2,Weekly,Good,South America
+30,Female,Marketing,Healthcare,16,Onsite,30,12,High,Depression,Satisfied,1,None,Average,South America
+28,Male,Project Manager,IT,18,Onsite,32,10,Medium,Burnout,Unsatisfied,4,None,Good,South America
+27,Prefer not to say,Software Engineer,IT,28,Onsite,54,12,Medium,Depression,Satisfied,4,None,Good,South America
+22,Female,Data Scientist,Retail,30,Hybrid,60,3,High,Burnout,Neutral,3,None,Good,South America
+33,Male,Designer,Finance,20,Onsite,44,6,Medium,Burnout,Satisfied,3,None,Poor,South America
+44,Non-binary,Data Scientist,Retail,9,Remote,49,6,Medium,Burnout,Neutral,5,None,Good,South America
+53,Non-binary,Designer,Manufacturing,5,Remote,38,2,Low,Burnout,Satisfied,2,Weekly,Poor,South America
+26,Prefer not to say,Sales,Healthcare,6,Remote,60,8,High,Anxiety,Unsatisfied,4,Weekly,Average,South America
+47,Male,Data Scientist,Retail,20,Hybrid,34,5,High,Depression,Neutral,1,None,Poor,South America
+27,Prefer not to say,HR,IT,23,Onsite,25,10,High,Depression,Neutral,2,None,Poor,South America
+60,Non-binary,Project Manager,Education,15,Onsite,47,4,Low,Burnout,Satisfied,1,Daily,Poor,South America
+28,Male,Sales,Finance,15,Hybrid,52,5,High,Anxiety,Neutral,1,Daily,Good,South America
+54,Non-binary,Sales,Healthcare,1,Hybrid,56,14,Low,Depression,Satisfied,3,Weekly,Good,South America
+55,Prefer not to say,Software Engineer,Consulting,25,Remote,59,12,Low,Burnout,Neutral,1,None,Good,South America
+49,Male,Project Manager,Healthcare,5,Onsite,40,5,Low,None,Satisfied,3,Weekly,Average,South America
+54,Prefer not to say,HR,Consulting,10,Hybrid,43,2,Low,Anxiety,Neutral,4,None,Average,South America
+41,Male,Marketing,IT,31,Remote,20,1,Low,Anxiety,Neutral,4,Weekly,Average,South America
+34,Male,Marketing,Healthcare,35,Hybrid,40,4,High,Anxiety,Neutral,4,None,Average,South America
+48,Prefer not to say,Data Scientist,Consulting,3,Remote,58,11,Low,Anxiety,Unsatisfied,4,Weekly,Poor,South America
+51,Female,Marketing,Healthcare,14,Onsite,49,11,Medium,Depression,Satisfied,5,Weekly,Poor,South America
+32,Prefer not to say,Software Engineer,Retail,9,Onsite,34,15,Medium,None,Unsatisfied,1,Weekly,Average,South America
+35,Female,Data Scientist,Consulting,34,Remote,48,7,Low,Anxiety,Neutral,4,Weekly,Good,South America
+48,Prefer not to say,Sales,Manufacturing,13,Onsite,41,12,Low,Depression,Unsatisfied,3,Daily,Poor,South America
+38,Prefer not to say,Data Scientist,IT,12,Hybrid,23,9,Low,None,Neutral,1,Weekly,Poor,South America
+26,Prefer not to say,Sales,IT,2,Onsite,36,14,Low,Burnout,Satisfied,1,None,Average,South America
+31,Female,HR,Education,32,Remote,20,8,High,Anxiety,Unsatisfied,1,None,Good,South America
+47,Female,Data Scientist,Retail,26,Onsite,48,10,Low,None,Satisfied,2,Daily,Poor,South America
+49,Prefer not to say,Sales,IT,7,Remote,36,5,High,Anxiety,Neutral,5,Weekly,Poor,South America
+58,Non-binary,Software Engineer,Consulting,8,Remote,49,0,Low,None,Unsatisfied,4,Daily,Poor,South America
+27,Non-binary,Designer,Retail,2,Onsite,24,0,Low,Depression,Neutral,3,Weekly,Poor,South America
+55,Prefer not to say,Designer,Retail,25,Hybrid,22,8,Medium,Depression,Neutral,5,None,Average,South America
+23,Female,HR,Manufacturing,14,Remote,39,12,Low,Burnout,Neutral,4,Weekly,Average,South America
+38,Female,HR,IT,11,Hybrid,33,14,High,None,Neutral,1,Daily,Average,South America
+24,Male,Data Scientist,Consulting,34,Hybrid,31,5,Low,Anxiety,Satisfied,5,Daily,Poor,South America
+51,Female,Data Scientist,Finance,9,Hybrid,32,1,High,Burnout,Unsatisfied,4,None,Poor,South America
+45,Male,HR,Finance,23,Hybrid,55,9,High,Depression,Neutral,5,None,Average,South America
+25,Female,HR,Manufacturing,21,Remote,57,0,Low,Burnout,Neutral,3,None,Good,South America
+27,Prefer not to say,Sales,Consulting,1,Onsite,57,4,Low,Burnout,Neutral,4,Weekly,Average,South America
+36,Non-binary,HR,Finance,14,Hybrid,25,3,Low,Depression,Unsatisfied,2,Daily,Poor,South America
+44,Non-binary,Marketing,Retail,23,Remote,26,2,Medium,None,Unsatisfied,5,None,Poor,South America
+54,Non-binary,Sales,Healthcare,33,Onsite,25,5,High,Depression,Unsatisfied,2,Weekly,Good,South America
+28,Prefer not to say,Designer,Finance,6,Onsite,35,9,High,Burnout,Satisfied,3,Weekly,Average,South America
+41,Non-binary,Sales,Manufacturing,27,Remote,30,13,Low,Depression,Neutral,2,Daily,Poor,South America
+43,Prefer not to say,Sales,Finance,32,Hybrid,50,13,High,None,Unsatisfied,2,Weekly,Good,South America
+52,Prefer not to say,Designer,Education,5,Onsite,40,14,High,None,Unsatisfied,4,Weekly,Poor,South America
+33,Prefer not to say,HR,Manufacturing,22,Hybrid,20,6,Low,Burnout,Neutral,4,None,Good,South America
+43,Non-binary,Project Manager,Education,23,Hybrid,28,9,Medium,Depression,Neutral,3,Weekly,Poor,South America
+36,Male,HR,Retail,21,Onsite,22,14,Low,Burnout,Satisfied,2,Weekly,Poor,South America
+26,Prefer not to say,Data Scientist,Manufacturing,24,Remote,56,8,High,Depression,Neutral,4,Weekly,Average,South America
+60,Prefer not to say,Marketing,Consulting,22,Hybrid,31,14,High,Burnout,Unsatisfied,5,None,Poor,South America
+32,Non-binary,Software Engineer,Consulting,22,Onsite,40,15,Low,Anxiety,Satisfied,3,Daily,Average,South America
+32,Non-binary,Designer,Consulting,25,Onsite,43,5,Low,None,Satisfied,1,None,Good,South America
+33,Male,HR,Finance,13,Onsite,31,0,High,Anxiety,Unsatisfied,4,Weekly,Good,South America
+41,Non-binary,Designer,IT,14,Hybrid,56,7,Low,Burnout,Neutral,5,None,Average,South America
+38,Female,HR,Consulting,7,Remote,53,6,Medium,Anxiety,Neutral,4,Daily,Average,South America
+49,Female,Sales,Finance,22,Onsite,56,0,Low,None,Unsatisfied,5,Daily,Poor,South America
+53,Male,Project Manager,Finance,22,Remote,37,12,High,Burnout,Satisfied,4,Weekly,Average,South America
+35,Male,HR,IT,16,Remote,44,9,Low,None,Unsatisfied,1,None,Average,South America
+25,Prefer not to say,Designer,Manufacturing,8,Remote,58,14,High,Burnout,Unsatisfied,1,Daily,Good,South America
+56,Female,HR,Finance,22,Onsite,33,13,Low,Anxiety,Unsatisfied,5,None,Good,South America
+56,Female,HR,IT,19,Remote,42,0,Medium,None,Satisfied,5,None,Average,South America
+39,Non-binary,HR,Consulting,13,Remote,40,2,Low,Depression,Satisfied,2,Weekly,Average,South America
+28,Prefer not to say,HR,IT,12,Hybrid,55,5,High,Burnout,Neutral,5,Daily,Poor,South America
+47,Prefer not to say,Data Scientist,Healthcare,4,Remote,21,11,High,Anxiety,Unsatisfied,5,Weekly,Average,South America
+31,Prefer not to say,Marketing,Manufacturing,3,Remote,40,13,Low,None,Unsatisfied,4,Weekly,Average,South America
+36,Prefer not to say,Marketing,Consulting,7,Onsite,55,4,High,Burnout,Neutral,5,None,Good,South America
+51,Female,Sales,IT,9,Hybrid,25,3,Medium,Depression,Neutral,2,Weekly,Good,South America
+32,Male,Software Engineer,Consulting,4,Onsite,26,1,Low,None,Satisfied,3,None,Good,South America
+22,Male,Project Manager,Healthcare,14,Remote,55,2,High,None,Unsatisfied,4,Weekly,Average,South America
+50,Male,HR,Education,13,Remote,26,5,Medium,None,Satisfied,3,Weekly,Good,South America
+53,Non-binary,Software Engineer,IT,23,Onsite,28,9,Medium,Anxiety,Satisfied,1,Weekly,Average,South America
+25,Male,Marketing,Education,8,Onsite,49,9,High,Anxiety,Neutral,3,Daily,Poor,South America
+46,Prefer not to say,HR,Consulting,18,Remote,31,3,High,Anxiety,Unsatisfied,5,Weekly,Poor,South America
+31,Male,HR,IT,19,Remote,25,12,Low,Depression,Unsatisfied,2,None,Average,South America
+50,Female,Designer,Retail,23,Remote,20,5,Low,Burnout,Unsatisfied,1,Daily,Average,South America
+44,Non-binary,Designer,Healthcare,35,Hybrid,28,6,High,Depression,Unsatisfied,4,Daily,Average,South America
+41,Prefer not to say,HR,Finance,6,Onsite,54,11,Low,Anxiety,Neutral,2,None,Poor,South America
+23,Male,HR,Finance,20,Hybrid,29,3,Medium,Burnout,Satisfied,4,None,Poor,South America
+26,Prefer not to say,Data Scientist,IT,13,Remote,30,7,Low,Depression,Unsatisfied,4,Daily,Poor,South America
+31,Prefer not to say,HR,Consulting,34,Remote,52,15,Low,Anxiety,Unsatisfied,5,None,Good,South America
+39,Female,Data Scientist,Education,11,Hybrid,20,0,Low,Burnout,Unsatisfied,2,Weekly,Average,South America
+31,Non-binary,Marketing,Retail,17,Onsite,46,1,Medium,None,Unsatisfied,3,Weekly,Average,South America
+52,Non-binary,Designer,Healthcare,33,Hybrid,39,12,Low,Depression,Unsatisfied,5,Weekly,Average,South America

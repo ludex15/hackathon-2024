@@ -1,0 +1,868 @@
+Age,Gender,Job_Role,Industry,Years_of_Experience,Work_Location,Hours_Worked_Per_Week,Number_of_Virtual_Meetings,Stress_Level,Mental_Health_Condition,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Physical_Activity,Sleep_Quality,Region
+33,Non-binary,Software Engineer,Finance,17,Remote,48,3,High,None,Satisfied,2,Weekly,Average,Oceania
+36,Prefer not to say,Project Manager,Retail,23,Remote,59,11,High,Anxiety,Neutral,3,Weekly,Average,Oceania
+49,Non-binary,Software Engineer,IT,30,Remote,36,6,High,Anxiety,Satisfied,2,Weekly,Good,Oceania
+53,Female,Project Manager,Retail,31,Onsite,56,4,Low,Depression,Unsatisfied,4,None,Poor,Oceania
+30,Female,Sales,Consulting,4,Remote,39,2,High,None,Unsatisfied,4,None,Good,Oceania
+26,Prefer not to say,Designer,Manufacturing,31,Remote,51,4,Low,None,Unsatisfied,3,Daily,Average,Oceania
+26,Prefer not to say,Data Scientist,IT,17,Remote,57,13,Medium,None,Satisfied,5,Daily,Poor,Oceania
+60,Prefer not to say,Data Scientist,Healthcare,18,Hybrid,37,0,Medium,Burnout,Unsatisfied,2,None,Good,Oceania
+45,Non-binary,Software Engineer,IT,6,Hybrid,46,3,Medium,Burnout,Satisfied,2,Daily,Good,Oceania
+60,Female,Marketing,Education,32,Remote,20,6,High,None,Unsatisfied,4,Weekly,Poor,Oceania
+50,Prefer not to say,Designer,Consulting,25,Remote,29,13,Medium,Depression,Neutral,2,Weekly,Average,Oceania
+56,Male,Designer,Retail,9,Hybrid,42,14,Low,None,Unsatisfied,5,None,Good,Oceania
+53,Prefer not to say,Marketing,Healthcare,23,Hybrid,38,4,Low,Depression,Unsatisfied,4,Daily,Poor,Oceania
+50,Prefer not to say,Software Engineer,Healthcare,2,Remote,50,2,Medium,Burnout,Satisfied,2,Weekly,Poor,Oceania
+53,Female,Designer,Healthcare,25,Remote,29,5,High,Anxiety,Neutral,3,None,Poor,Oceania
+22,Female,Sales,Retail,21,Hybrid,35,2,Low,None,Unsatisfied,3,None,Average,Oceania
+60,Male,Marketing,Finance,2,Hybrid,39,1,Medium,None,Unsatisfied,2,Weekly,Poor,Oceania
+51,Non-binary,Marketing,IT,26,Remote,46,4,Medium,Burnout,Unsatisfied,5,None,Good,Oceania
+48,Non-binary,Sales,IT,10,Remote,32,4,Medium,None,Satisfied,5,Weekly,Poor,Oceania
+41,Female,Designer,IT,10,Onsite,52,8,High,Depression,Satisfied,4,Daily,Good,Oceania
+50,Male,Designer,Consulting,17,Onsite,57,11,Low,Burnout,Unsatisfied,3,Weekly,Good,Oceania
+41,Female,Software Engineer,Consulting,34,Remote,32,15,High,Anxiety,Unsatisfied,3,Weekly,Average,Oceania
+57,Female,Designer,Consulting,20,Remote,31,6,Low,Burnout,Satisfied,4,Daily,Poor,Oceania
+43,Non-binary,Software Engineer,Healthcare,14,Onsite,52,0,High,Burnout,Satisfied,3,Weekly,Good,Oceania
+40,Male,Software Engineer,Healthcare,11,Onsite,20,13,Medium,Burnout,Neutral,1,None,Good,Oceania
+57,Non-binary,HR,Manufacturing,11,Hybrid,59,13,Medium,Anxiety,Unsatisfied,4,Weekly,Average,Oceania
+23,Prefer not to say,Software Engineer,Consulting,17,Onsite,60,13,High,None,Neutral,5,Daily,Good,Oceania
+40,Prefer not to say,Data Scientist,IT,35,Hybrid,43,4,High,Burnout,Unsatisfied,3,Weekly,Average,Oceania
+56,Female,Designer,Healthcare,28,Onsite,46,12,Low,Anxiety,Neutral,5,None,Good,Oceania
+28,Male,Project Manager,Retail,7,Remote,47,0,High,Burnout,Unsatisfied,3,Daily,Poor,Oceania
+45,Non-binary,Sales,Education,3,Hybrid,55,14,Medium,Burnout,Neutral,1,Daily,Average,Oceania
+52,Male,Data Scientist,Finance,5,Onsite,21,3,Low,Burnout,Satisfied,5,Daily,Poor,Oceania
+47,Female,Software Engineer,Manufacturing,11,Onsite,35,8,High,None,Satisfied,4,None,Good,Oceania
+30,Male,HR,Education,11,Onsite,56,13,Medium,Depression,Satisfied,4,None,Poor,Oceania
+42,Prefer not to say,Project Manager,Retail,18,Hybrid,48,9,Medium,None,Satisfied,5,None,Good,Oceania
+30,Female,Marketing,Consulting,32,Onsite,57,4,Medium,Burnout,Neutral,5,Weekly,Good,Oceania
+37,Male,Marketing,Healthcare,29,Onsite,34,3,Low,Burnout,Satisfied,2,Weekly,Poor,Oceania
+37,Male,Data Scientist,Finance,18,Remote,23,11,Low,Burnout,Unsatisfied,4,None,Average,Oceania
+35,Male,HR,Education,6,Onsite,58,15,High,Depression,Neutral,2,Weekly,Poor,Oceania
+34,Non-binary,Project Manager,Education,10,Remote,40,1,Medium,Depression,Neutral,4,Weekly,Good,Oceania
+32,Male,Project Manager,Manufacturing,17,Onsite,47,4,Medium,None,Unsatisfied,4,None,Poor,Oceania
+32,Male,Project Manager,Education,21,Hybrid,32,0,High,Depression,Unsatisfied,1,Weekly,Good,Oceania
+43,Prefer not to say,Sales,IT,21,Hybrid,23,8,Low,Anxiety,Neutral,3,Daily,Average,Oceania
+27,Male,Project Manager,Education,25,Hybrid,32,13,Medium,Burnout,Unsatisfied,5,Weekly,Average,Oceania
+43,Male,Designer,Healthcare,34,Hybrid,49,11,Medium,Burnout,Satisfied,3,None,Poor,Oceania
+31,Female,Data Scientist,Education,9,Remote,30,9,Medium,Anxiety,Satisfied,3,Daily,Average,Oceania
+41,Prefer not to say,HR,Finance,28,Hybrid,32,8,Medium,Depression,Satisfied,2,Daily,Poor,Oceania
+60,Prefer not to say,Sales,Consulting,7,Onsite,53,10,Low,Depression,Satisfied,3,Weekly,Poor,Oceania
+24,Non-binary,Project Manager,Manufacturing,12,Hybrid,20,14,Low,Depression,Neutral,2,Daily,Poor,Oceania
+47,Female,Data Scientist,Finance,6,Hybrid,28,0,Low,None,Satisfied,2,None,Poor,Oceania
+24,Non-binary,Designer,Retail,16,Remote,21,4,Medium,Anxiety,Neutral,3,Daily,Average,Oceania
+43,Female,Data Scientist,Finance,16,Onsite,37,8,Medium,None,Neutral,4,Weekly,Good,Oceania
+36,Female,Marketing,Finance,4,Hybrid,52,13,High,Anxiety,Unsatisfied,1,None,Good,Oceania
+50,Male,Designer,Manufacturing,2,Onsite,49,7,Low,None,Satisfied,3,Daily,Poor,Oceania
+54,Male,Designer,Healthcare,13,Remote,33,0,High,Depression,Satisfied,3,Weekly,Average,Oceania
+58,Male,Marketing,IT,11,Onsite,25,6,High,Anxiety,Unsatisfied,4,Daily,Poor,Oceania
+41,Non-binary,Data Scientist,Healthcare,33,Onsite,28,1,Medium,None,Satisfied,5,None,Average,Oceania
+34,Prefer not to say,Sales,Healthcare,25,Remote,39,8,Medium,None,Unsatisfied,2,Weekly,Average,Oceania
+39,Prefer not to say,Software Engineer,Healthcare,8,Hybrid,58,14,High,None,Unsatisfied,3,Daily,Poor,Oceania
+29,Non-binary,Designer,IT,26,Hybrid,34,3,Low,Anxiety,Neutral,2,Daily,Good,Oceania
+27,Male,Marketing,Consulting,15,Remote,32,14,High,Burnout,Neutral,1,None,Poor,Oceania
+31,Non-binary,Project Manager,Healthcare,4,Remote,25,9,High,Anxiety,Unsatisfied,2,Weekly,Average,Oceania
+43,Prefer not to say,Project Manager,Finance,3,Hybrid,55,12,Medium,Anxiety,Neutral,5,Weekly,Average,Oceania
+53,Female,HR,Retail,10,Remote,31,9,Low,Burnout,Satisfied,1,Daily,Poor,Oceania
+30,Male,Data Scientist,Manufacturing,14,Onsite,56,14,Medium,Burnout,Satisfied,5,Daily,Poor,Oceania
+50,Non-binary,HR,Consulting,22,Onsite,47,10,Medium,Burnout,Unsatisfied,5,Daily,Poor,Oceania
+23,Prefer not to say,Marketing,Finance,5,Remote,37,11,Medium,None,Satisfied,3,None,Good,Oceania
+41,Prefer not to say,Sales,IT,19,Onsite,29,4,Low,Anxiety,Satisfied,5,None,Average,Oceania
+33,Male,Project Manager,Consulting,10,Hybrid,42,12,High,None,Unsatisfied,2,None,Average,Oceania
+45,Female,Designer,Finance,11,Hybrid,41,10,Low,Burnout,Neutral,1,None,Poor,Oceania
+50,Female,Data Scientist,Consulting,25,Onsite,33,9,High,Anxiety,Satisfied,2,Daily,Poor,Oceania
+53,Non-binary,Marketing,Healthcare,3,Hybrid,46,13,Medium,None,Satisfied,3,Daily,Good,Oceania
+50,Non-binary,Designer,Consulting,24,Hybrid,34,12,High,Depression,Unsatisfied,5,None,Average,Oceania
+27,Female,HR,Retail,7,Hybrid,27,9,High,Burnout,Unsatisfied,1,Weekly,Poor,Oceania
+32,Prefer not to say,Data Scientist,Finance,21,Remote,36,5,High,Anxiety,Satisfied,5,Daily,Good,Oceania
+41,Female,Data Scientist,Finance,15,Hybrid,32,5,Low,Burnout,Unsatisfied,1,Daily,Average,Oceania
+33,Female,Sales,Manufacturing,27,Remote,49,10,Medium,Anxiety,Unsatisfied,3,None,Average,Oceania
+37,Non-binary,Project Manager,IT,26,Hybrid,27,9,Medium,Anxiety,Satisfied,1,Weekly,Poor,Oceania
+45,Male,Designer,Healthcare,23,Onsite,29,8,Medium,Depression,Unsatisfied,3,None,Good,Oceania
+53,Non-binary,Project Manager,IT,27,Onsite,33,5,High,None,Satisfied,5,None,Good,Oceania
+56,Prefer not to say,Data Scientist,Retail,25,Hybrid,27,13,High,None,Unsatisfied,5,Weekly,Average,Oceania
+45,Prefer not to say,Sales,Finance,10,Remote,28,14,Medium,Burnout,Neutral,1,Weekly,Poor,Oceania
+39,Prefer not to say,HR,Manufacturing,5,Remote,59,12,Low,Anxiety,Satisfied,4,Weekly,Poor,Oceania
+40,Female,Marketing,IT,27,Onsite,38,13,Low,Burnout,Neutral,5,Daily,Average,Oceania
+42,Female,Project Manager,Retail,29,Hybrid,42,14,Low,None,Satisfied,4,Weekly,Poor,Oceania
+60,Female,Data Scientist,Finance,33,Hybrid,60,0,Medium,Burnout,Neutral,4,Daily,Average,Oceania
+60,Male,Project Manager,Consulting,6,Hybrid,33,11,Medium,Anxiety,Satisfied,3,Weekly,Poor,Oceania
+58,Female,Designer,Retail,9,Onsite,44,2,Medium,Depression,Unsatisfied,4,None,Average,Oceania
+36,Female,Software Engineer,Retail,14,Onsite,34,1,High,Anxiety,Unsatisfied,3,Daily,Good,Oceania
+58,Prefer not to say,Marketing,Retail,1,Hybrid,43,14,High,Burnout,Neutral,4,Daily,Poor,Oceania
+48,Male,Data Scientist,Education,30,Remote,42,1,Medium,Depression,Unsatisfied,3,Weekly,Average,Oceania
+49,Female,Marketing,IT,5,Hybrid,51,6,Medium,Depression,Unsatisfied,5,Weekly,Average,Oceania
+24,Female,Designer,Manufacturing,20,Onsite,58,12,High,Anxiety,Unsatisfied,1,Daily,Good,Oceania
+39,Male,Sales,Healthcare,28,Hybrid,44,6,High,Depression,Satisfied,1,Weekly,Poor,Oceania
+53,Prefer not to say,HR,Manufacturing,2,Remote,27,11,Medium,Burnout,Satisfied,4,Weekly,Poor,Oceania
+37,Male,Sales,IT,25,Hybrid,39,9,Low,Anxiety,Satisfied,1,None,Poor,Oceania
+22,Male,Project Manager,Retail,26,Hybrid,23,0,High,Depression,Neutral,4,None,Good,Oceania
+41,Female,Software Engineer,Consulting,8,Remote,45,0,Medium,Anxiety,Satisfied,3,None,Good,Oceania
+28,Male,Project Manager,Retail,23,Hybrid,46,6,Medium,Anxiety,Satisfied,4,None,Average,Oceania
+29,Prefer not to say,Marketing,Manufacturing,15,Onsite,27,3,High,Anxiety,Satisfied,5,Daily,Average,Oceania
+50,Prefer not to say,HR,Finance,26,Remote,57,10,Medium,Anxiety,Unsatisfied,4,Weekly,Average,Oceania
+31,Prefer not to say,Project Manager,Healthcare,30,Remote,28,0,High,Anxiety,Neutral,3,None,Good,Oceania
+42,Prefer not to say,Designer,Consulting,22,Hybrid,54,9,Medium,Depression,Unsatisfied,1,None,Good,Oceania
+45,Non-binary,Software Engineer,Retail,31,Hybrid,20,1,Low,None,Neutral,5,Weekly,Poor,Oceania
+57,Female,Sales,Finance,8,Hybrid,46,9,High,Anxiety,Unsatisfied,4,None,Poor,Oceania
+56,Male,Sales,Education,10,Remote,36,13,High,Burnout,Unsatisfied,4,Weekly,Average,Oceania
+34,Non-binary,Project Manager,IT,30,Remote,56,15,Low,Depression,Unsatisfied,1,Weekly,Poor,Oceania
+28,Female,Project Manager,Finance,20,Remote,38,6,Low,Anxiety,Unsatisfied,1,None,Poor,Oceania
+53,Prefer not to say,Data Scientist,Retail,28,Hybrid,48,6,High,Depression,Satisfied,3,Daily,Average,Oceania
+35,Male,Marketing,Healthcare,26,Onsite,46,0,Low,None,Neutral,1,Weekly,Good,Oceania
+36,Male,Marketing,Retail,31,Onsite,53,3,Medium,Burnout,Neutral,4,None,Poor,Oceania
+34,Male,Sales,IT,26,Hybrid,39,3,Medium,None,Satisfied,5,Weekly,Average,Oceania
+26,Male,HR,Retail,9,Onsite,45,0,Medium,Burnout,Satisfied,5,Weekly,Poor,Oceania
+27,Female,Software Engineer,Education,14,Hybrid,46,5,Medium,Burnout,Unsatisfied,4,Daily,Good,Oceania
+33,Male,Marketing,Consulting,12,Remote,51,12,Low,Burnout,Neutral,2,None,Poor,Oceania
+38,Non-binary,Project Manager,Retail,29,Onsite,50,3,Low,Depression,Neutral,1,Weekly,Poor,Oceania
+50,Male,Sales,Education,31,Hybrid,32,15,Medium,None,Unsatisfied,4,Weekly,Good,Oceania
+32,Male,Sales,Manufacturing,6,Hybrid,44,15,Medium,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+39,Male,Project Manager,Finance,1,Hybrid,60,5,High,Depression,Satisfied,3,Daily,Poor,Oceania
+53,Prefer not to say,Data Scientist,IT,10,Onsite,53,15,Medium,Burnout,Neutral,4,Daily,Average,Oceania
+44,Female,Designer,Retail,6,Remote,54,10,Low,Depression,Neutral,5,Daily,Poor,Oceania
+47,Non-binary,HR,Finance,23,Hybrid,56,6,Medium,Burnout,Unsatisfied,3,Daily,Average,Oceania
+48,Male,Software Engineer,Healthcare,18,Remote,43,1,Low,None,Unsatisfied,1,Weekly,Poor,Oceania
+43,Prefer not to say,Data Scientist,Finance,12,Hybrid,28,6,High,Burnout,Satisfied,5,Weekly,Good,Oceania
+26,Male,Marketing,IT,5,Remote,37,2,Low,None,Satisfied,3,None,Good,Oceania
+37,Prefer not to say,HR,Education,14,Onsite,40,12,High,None,Satisfied,5,None,Average,Oceania
+45,Female,Sales,Healthcare,12,Remote,56,12,Medium,Burnout,Unsatisfied,3,Weekly,Poor,Oceania
+43,Prefer not to say,Data Scientist,Education,14,Hybrid,34,9,High,Anxiety,Neutral,4,Weekly,Average,Oceania
+24,Male,Marketing,Manufacturing,5,Remote,32,5,Low,Depression,Satisfied,2,Weekly,Average,Oceania
+56,Female,Data Scientist,Education,33,Remote,44,4,High,None,Satisfied,4,None,Average,Oceania
+40,Non-binary,Project Manager,Healthcare,9,Remote,27,6,Medium,Depression,Neutral,5,Daily,Good,Oceania
+40,Non-binary,HR,IT,21,Onsite,21,1,High,Burnout,Neutral,5,None,Good,Oceania
+60,Prefer not to say,Data Scientist,IT,8,Hybrid,50,12,High,Depression,Satisfied,5,Daily,Average,Oceania
+27,Male,Sales,Education,2,Onsite,45,13,Medium,None,Satisfied,5,Weekly,Good,Oceania
+39,Prefer not to say,Data Scientist,IT,6,Onsite,39,7,Low,Burnout,Unsatisfied,5,Weekly,Good,Oceania
+41,Prefer not to say,HR,Manufacturing,26,Hybrid,36,2,Low,Depression,Satisfied,3,Weekly,Average,Oceania
+42,Female,Designer,Retail,16,Onsite,52,7,Low,None,Neutral,2,Weekly,Average,Oceania
+45,Prefer not to say,Marketing,Retail,19,Hybrid,23,3,High,Burnout,Satisfied,5,Weekly,Good,Oceania
+46,Non-binary,Marketing,Healthcare,14,Onsite,40,12,Medium,Burnout,Unsatisfied,2,Weekly,Average,Oceania
+30,Female,Software Engineer,Manufacturing,2,Remote,58,4,High,None,Neutral,4,Daily,Average,Oceania
+31,Prefer not to say,Sales,Retail,15,Onsite,32,9,High,None,Unsatisfied,1,Daily,Poor,Oceania
+60,Prefer not to say,Project Manager,Education,12,Onsite,40,7,High,None,Unsatisfied,3,None,Average,Oceania
+27,Prefer not to say,Designer,Healthcare,28,Onsite,36,12,High,Burnout,Unsatisfied,5,Daily,Average,Oceania
+42,Non-binary,HR,Consulting,25,Onsite,56,9,High,None,Neutral,2,Daily,Poor,Oceania
+25,Male,Sales,IT,32,Remote,31,15,Low,Anxiety,Satisfied,1,Weekly,Poor,Oceania
+59,Female,Marketing,Healthcare,30,Hybrid,21,3,High,None,Neutral,1,None,Poor,Oceania
+37,Male,Sales,Healthcare,14,Remote,48,1,Low,Anxiety,Satisfied,2,Weekly,Poor,Oceania
+29,Male,Software Engineer,IT,28,Onsite,29,9,Low,None,Unsatisfied,5,Weekly,Good,Oceania
+47,Non-binary,Project Manager,Retail,30,Remote,23,14,High,Anxiety,Unsatisfied,1,Daily,Poor,Oceania
+30,Female,Software Engineer,Consulting,20,Onsite,50,5,Low,Burnout,Neutral,5,None,Good,Oceania
+57,Prefer not to say,HR,Consulting,2,Remote,35,4,Low,None,Neutral,5,Weekly,Average,Oceania
+28,Prefer not to say,Marketing,Retail,23,Onsite,60,15,Medium,None,Neutral,1,None,Poor,Oceania
+48,Prefer not to say,Sales,Healthcare,20,Hybrid,46,7,Medium,Depression,Satisfied,5,Weekly,Average,Oceania
+27,Female,Data Scientist,Finance,9,Hybrid,48,3,High,Depression,Satisfied,4,None,Poor,Oceania
+27,Male,Project Manager,Education,22,Hybrid,42,6,Low,Anxiety,Satisfied,4,None,Good,Oceania
+58,Male,Designer,Retail,28,Remote,58,15,Low,Anxiety,Neutral,3,Weekly,Poor,Oceania
+58,Female,Sales,Consulting,9,Onsite,32,11,High,Burnout,Satisfied,1,None,Average,Oceania
+41,Female,Software Engineer,Consulting,30,Remote,45,12,Low,Anxiety,Satisfied,5,Daily,Good,Oceania
+58,Male,Sales,Finance,32,Hybrid,47,7,Low,Depression,Satisfied,3,Weekly,Poor,Oceania
+52,Male,HR,Retail,17,Remote,20,13,Medium,None,Satisfied,2,Daily,Average,Oceania
+37,Prefer not to say,Sales,Education,20,Onsite,38,1,Medium,Anxiety,Satisfied,4,Weekly,Poor,Oceania
+46,Non-binary,Sales,Consulting,11,Remote,43,10,High,None,Unsatisfied,1,Daily,Poor,Oceania
+28,Prefer not to say,Data Scientist,Education,5,Hybrid,45,3,Medium,Depression,Neutral,3,None,Average,Oceania
+26,Male,HR,Education,3,Hybrid,24,5,Low,Depression,Neutral,5,Weekly,Average,Oceania
+25,Male,Project Manager,Education,12,Hybrid,26,1,Low,Burnout,Satisfied,3,Weekly,Average,Oceania
+60,Prefer not to say,Marketing,IT,8,Hybrid,52,15,High,None,Neutral,3,Weekly,Good,Oceania
+38,Non-binary,Software Engineer,Retail,24,Remote,21,13,Low,None,Satisfied,3,None,Poor,Oceania
+43,Male,Marketing,Retail,10,Onsite,28,5,Low,Burnout,Unsatisfied,3,None,Average,Oceania
+52,Female,Marketing,Education,4,Onsite,25,4,Medium,Anxiety,Neutral,4,Weekly,Good,Oceania
+59,Female,Marketing,Manufacturing,3,Remote,35,8,Medium,Burnout,Unsatisfied,2,Daily,Average,Oceania
+36,Male,Project Manager,Healthcare,2,Hybrid,35,2,Low,Burnout,Unsatisfied,4,Daily,Average,Oceania
+34,Non-binary,Software Engineer,Healthcare,16,Onsite,41,14,High,Depression,Neutral,5,Weekly,Good,Oceania
+24,Female,Data Scientist,Retail,35,Hybrid,34,8,Medium,Burnout,Satisfied,3,Weekly,Good,Oceania
+24,Prefer not to say,Marketing,Finance,15,Hybrid,44,1,High,Anxiety,Neutral,4,Weekly,Good,Oceania
+47,Female,Software Engineer,Manufacturing,15,Remote,46,12,Medium,None,Neutral,4,Weekly,Good,Oceania
+24,Non-binary,Designer,Education,23,Onsite,32,6,Medium,Anxiety,Unsatisfied,5,None,Average,Oceania
+28,Non-binary,Software Engineer,Consulting,7,Hybrid,59,15,High,Anxiety,Unsatisfied,2,Weekly,Average,Oceania
+57,Male,Software Engineer,IT,3,Remote,48,7,Medium,Burnout,Unsatisfied,1,Weekly,Average,Oceania
+37,Male,Marketing,Healthcare,27,Onsite,31,2,Medium,Burnout,Neutral,3,Daily,Poor,Oceania
+55,Non-binary,Marketing,Retail,23,Hybrid,52,1,High,None,Neutral,3,Daily,Good,Oceania
+45,Non-binary,Sales,Manufacturing,1,Hybrid,46,10,High,Depression,Satisfied,3,Daily,Good,Oceania
+33,Female,HR,Finance,21,Remote,34,14,High,None,Neutral,1,Daily,Good,Oceania
+38,Prefer not to say,Data Scientist,Consulting,16,Onsite,42,2,Low,None,Unsatisfied,1,None,Good,Oceania
+44,Female,Sales,Consulting,31,Onsite,34,13,Low,Anxiety,Satisfied,2,Weekly,Average,Oceania
+56,Non-binary,Designer,Consulting,35,Onsite,33,5,Low,None,Neutral,2,None,Average,Oceania
+23,Non-binary,Project Manager,Manufacturing,27,Hybrid,48,5,Medium,Anxiety,Neutral,5,None,Average,Oceania
+44,Female,Designer,IT,8,Remote,33,2,High,Burnout,Unsatisfied,1,Weekly,Poor,Oceania
+58,Male,Software Engineer,Finance,20,Onsite,28,15,Low,Anxiety,Neutral,4,Daily,Good,Oceania
+51,Female,Software Engineer,Manufacturing,4,Hybrid,50,1,Low,None,Satisfied,5,None,Average,Oceania
+30,Non-binary,Designer,Retail,20,Hybrid,25,3,High,Anxiety,Neutral,5,Daily,Poor,Oceania
+43,Female,Data Scientist,Finance,10,Onsite,26,11,Medium,Depression,Satisfied,2,Weekly,Average,Oceania
+46,Prefer not to say,Project Manager,Consulting,35,Remote,46,1,Medium,None,Satisfied,2,Weekly,Average,Oceania
+32,Non-binary,Data Scientist,IT,13,Remote,42,5,Medium,Depression,Unsatisfied,4,Weekly,Poor,Oceania
+36,Non-binary,Sales,Healthcare,21,Remote,24,14,High,None,Unsatisfied,1,None,Average,Oceania
+47,Prefer not to say,Designer,Retail,13,Remote,53,8,High,Burnout,Unsatisfied,5,None,Good,Oceania
+59,Female,Designer,Retail,33,Remote,26,7,High,Anxiety,Unsatisfied,3,None,Average,Oceania
+48,Prefer not to say,Marketing,Consulting,24,Onsite,58,12,Low,None,Neutral,2,Daily,Average,Oceania
+28,Non-binary,Marketing,Finance,7,Onsite,37,7,Low,Burnout,Unsatisfied,4,None,Good,Oceania
+56,Male,Designer,Retail,7,Onsite,44,2,High,Burnout,Neutral,2,Weekly,Good,Oceania
+24,Non-binary,Designer,Healthcare,15,Remote,41,8,Medium,None,Unsatisfied,1,None,Poor,Oceania
+30,Non-binary,HR,Finance,31,Remote,29,5,Medium,Depression,Neutral,1,None,Good,Oceania
+27,Prefer not to say,Data Scientist,Retail,24,Remote,39,7,High,Burnout,Neutral,4,None,Good,Oceania
+23,Non-binary,Sales,IT,35,Onsite,33,7,High,None,Unsatisfied,3,None,Good,Oceania
+51,Prefer not to say,Software Engineer,IT,19,Remote,55,0,Low,Anxiety,Unsatisfied,2,Daily,Poor,Oceania
+44,Female,Data Scientist,Finance,33,Remote,29,9,Medium,Burnout,Unsatisfied,5,None,Poor,Oceania
+32,Male,Software Engineer,Manufacturing,23,Hybrid,29,5,High,Burnout,Neutral,1,None,Poor,Oceania
+50,Prefer not to say,Sales,IT,28,Hybrid,27,2,High,Depression,Unsatisfied,4,Weekly,Poor,Oceania
+54,Female,Designer,Consulting,15,Hybrid,29,0,Medium,None,Neutral,3,Weekly,Average,Oceania
+57,Male,Software Engineer,Education,21,Hybrid,51,0,Medium,Burnout,Satisfied,3,Weekly,Good,Oceania
+45,Female,Designer,Retail,13,Onsite,54,9,High,None,Neutral,3,Daily,Good,Oceania
+33,Female,Data Scientist,Manufacturing,26,Onsite,27,3,Medium,Depression,Neutral,5,None,Poor,Oceania
+46,Male,HR,Healthcare,30,Onsite,60,2,High,Burnout,Neutral,5,Daily,Good,Oceania
+53,Non-binary,Designer,Retail,4,Hybrid,22,12,Low,Anxiety,Unsatisfied,5,Weekly,Average,Oceania
+48,Female,Data Scientist,Education,32,Hybrid,38,9,Medium,Burnout,Satisfied,5,Weekly,Good,Oceania
+42,Non-binary,Software Engineer,Education,10,Hybrid,24,14,Medium,Burnout,Neutral,5,None,Good,Oceania
+23,Non-binary,Software Engineer,Retail,23,Remote,31,2,High,None,Satisfied,5,None,Average,Oceania
+48,Prefer not to say,Marketing,Education,14,Hybrid,36,4,High,Anxiety,Unsatisfied,3,Weekly,Good,Oceania
+32,Prefer not to say,Marketing,Education,21,Remote,22,7,Low,Depression,Neutral,5,Daily,Average,Oceania
+41,Prefer not to say,Software Engineer,Consulting,32,Onsite,59,15,Low,Anxiety,Satisfied,2,Daily,Good,Oceania
+25,Female,Designer,Healthcare,10,Remote,53,6,Low,None,Unsatisfied,3,None,Good,Oceania
+31,Male,Data Scientist,Consulting,27,Onsite,57,2,High,Anxiety,Satisfied,5,Daily,Poor,Oceania
+56,Non-binary,Project Manager,Retail,35,Hybrid,58,13,Medium,Anxiety,Satisfied,3,Weekly,Good,Oceania
+50,Male,Designer,IT,6,Onsite,25,1,High,Anxiety,Unsatisfied,2,Weekly,Poor,Oceania
+28,Non-binary,Project Manager,Healthcare,2,Onsite,48,0,High,Depression,Unsatisfied,1,None,Good,Oceania
+60,Male,Marketing,Education,8,Hybrid,34,4,Low,Burnout,Neutral,3,Weekly,Average,Oceania
+23,Male,Marketing,Finance,19,Remote,22,5,High,Anxiety,Neutral,2,Weekly,Good,Oceania
+53,Non-binary,Marketing,Healthcare,8,Onsite,52,3,Low,None,Neutral,3,Daily,Poor,Oceania
+49,Female,Designer,Finance,7,Remote,28,3,Low,Burnout,Unsatisfied,5,Daily,Average,Oceania
+24,Prefer not to say,HR,Healthcare,6,Remote,43,4,Medium,None,Neutral,4,Daily,Poor,Oceania
+24,Prefer not to say,Marketing,Retail,22,Remote,36,3,Medium,None,Neutral,2,Weekly,Poor,Oceania
+46,Male,Marketing,Healthcare,17,Hybrid,40,9,Medium,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+24,Non-binary,Software Engineer,Education,7,Remote,33,15,Low,Depression,Satisfied,4,None,Good,Oceania
+59,Non-binary,Data Scientist,Manufacturing,7,Remote,38,10,High,Depression,Unsatisfied,1,None,Good,Oceania
+48,Non-binary,Software Engineer,IT,4,Remote,41,13,Low,Depression,Neutral,3,Weekly,Average,Oceania
+53,Female,Marketing,Consulting,12,Hybrid,43,11,Low,Anxiety,Satisfied,5,Daily,Good,Oceania
+26,Prefer not to say,Software Engineer,Manufacturing,2,Onsite,26,0,Low,Anxiety,Satisfied,3,Weekly,Average,Oceania
+25,Female,HR,Finance,13,Remote,32,0,Medium,None,Neutral,4,Daily,Good,Oceania
+29,Prefer not to say,Marketing,IT,12,Hybrid,49,4,High,Depression,Unsatisfied,1,Weekly,Good,Oceania
+45,Male,Data Scientist,Healthcare,17,Remote,26,13,High,Burnout,Unsatisfied,5,Weekly,Average,Oceania
+32,Male,Data Scientist,IT,20,Hybrid,22,7,Low,None,Neutral,2,Weekly,Poor,Oceania
+52,Non-binary,HR,Healthcare,19,Onsite,29,8,High,Burnout,Satisfied,3,None,Average,Oceania
+43,Prefer not to say,HR,Finance,26,Onsite,45,0,High,Burnout,Neutral,2,None,Poor,Oceania
+58,Prefer not to say,HR,IT,24,Onsite,23,1,Low,Burnout,Neutral,3,Weekly,Good,Oceania
+41,Prefer not to say,Data Scientist,Finance,4,Onsite,27,8,High,Burnout,Neutral,5,Daily,Good,Oceania
+46,Non-binary,Software Engineer,Finance,16,Onsite,28,5,High,Burnout,Satisfied,4,Daily,Good,Oceania
+34,Male,Marketing,Manufacturing,23,Onsite,44,9,Low,Depression,Neutral,2,None,Good,Oceania
+53,Prefer not to say,Software Engineer,IT,7,Onsite,51,13,Low,Anxiety,Satisfied,1,Weekly,Good,Oceania
+36,Female,Sales,Consulting,31,Remote,43,7,High,Anxiety,Neutral,3,Weekly,Poor,Oceania
+42,Non-binary,Marketing,Finance,7,Remote,34,8,Low,Depression,Satisfied,5,Daily,Poor,Oceania
+27,Male,Project Manager,Education,20,Onsite,46,6,Medium,None,Neutral,3,Weekly,Poor,Oceania
+45,Prefer not to say,HR,Manufacturing,16,Remote,22,1,Medium,Anxiety,Satisfied,4,Daily,Poor,Oceania
+57,Male,Marketing,Consulting,20,Onsite,46,7,Medium,None,Unsatisfied,1,None,Poor,Oceania
+40,Non-binary,Data Scientist,Retail,21,Remote,26,2,Low,None,Neutral,3,None,Good,Oceania
+55,Male,Project Manager,Finance,11,Hybrid,38,14,Medium,Anxiety,Unsatisfied,4,None,Poor,Oceania
+32,Male,Software Engineer,IT,6,Hybrid,25,9,Medium,None,Satisfied,2,None,Good,Oceania
+54,Non-binary,Marketing,Manufacturing,8,Hybrid,29,14,High,None,Neutral,3,Daily,Good,Oceania
+44,Male,Data Scientist,Retail,35,Onsite,39,12,High,Depression,Unsatisfied,1,Weekly,Poor,Oceania
+60,Prefer not to say,HR,Retail,4,Remote,47,6,High,None,Satisfied,3,Daily,Good,Oceania
+34,Male,HR,Education,12,Remote,32,15,High,Depression,Satisfied,4,Weekly,Average,Oceania
+40,Female,Software Engineer,Manufacturing,27,Onsite,24,7,Low,Anxiety,Neutral,2,Daily,Poor,Oceania
+28,Female,Designer,Consulting,35,Remote,20,8,Low,Depression,Satisfied,2,Daily,Poor,Oceania
+27,Prefer not to say,Software Engineer,Finance,17,Remote,39,1,Low,Burnout,Unsatisfied,2,Daily,Poor,Oceania
+43,Prefer not to say,Project Manager,Consulting,14,Onsite,50,4,Medium,Burnout,Neutral,4,None,Average,Oceania
+59,Female,Software Engineer,Finance,22,Onsite,39,11,Low,Depression,Neutral,4,None,Good,Oceania
+26,Female,Project Manager,Consulting,2,Onsite,54,12,High,Depression,Neutral,3,None,Poor,Oceania
+39,Prefer not to say,Project Manager,Finance,22,Remote,24,12,Low,Anxiety,Satisfied,2,Daily,Poor,Oceania
+24,Female,Sales,Retail,6,Hybrid,30,11,High,Depression,Satisfied,5,Daily,Average,Oceania
+28,Male,Project Manager,Retail,19,Remote,40,9,Medium,Burnout,Unsatisfied,1,Weekly,Average,Oceania
+47,Female,Software Engineer,Education,26,Remote,59,15,Medium,None,Satisfied,3,Daily,Poor,Oceania
+25,Female,Data Scientist,Finance,13,Hybrid,26,8,Medium,Depression,Unsatisfied,4,Daily,Poor,Oceania
+23,Non-binary,HR,Education,33,Remote,37,6,Low,Burnout,Satisfied,4,None,Poor,Oceania
+50,Prefer not to say,Sales,Manufacturing,32,Hybrid,54,8,Low,Anxiety,Neutral,5,Daily,Good,Oceania
+34,Non-binary,Designer,Consulting,33,Onsite,57,6,High,Depression,Neutral,1,Daily,Average,Oceania
+51,Female,Data Scientist,Retail,24,Hybrid,50,5,Low,Depression,Neutral,3,Weekly,Poor,Oceania
+31,Non-binary,Designer,Finance,27,Onsite,42,4,Medium,Depression,Neutral,5,Daily,Good,Oceania
+40,Prefer not to say,HR,Manufacturing,23,Hybrid,30,0,High,Depression,Unsatisfied,3,None,Poor,Oceania
+57,Male,Designer,Education,14,Onsite,27,4,High,None,Neutral,4,None,Average,Oceania
+40,Male,Project Manager,IT,16,Hybrid,59,9,Medium,Anxiety,Unsatisfied,3,Daily,Good,Oceania
+33,Female,Sales,Finance,29,Remote,45,4,Medium,None,Neutral,3,None,Poor,Oceania
+37,Female,Sales,Education,10,Hybrid,35,12,Low,None,Satisfied,1,None,Average,Oceania
+32,Male,HR,Finance,30,Hybrid,50,2,High,Depression,Satisfied,5,Weekly,Good,Oceania
+55,Male,Software Engineer,Consulting,3,Remote,51,2,Low,Depression,Satisfied,4,None,Good,Oceania
+58,Male,Software Engineer,Finance,8,Remote,47,13,Low,Burnout,Neutral,3,Weekly,Poor,Oceania
+47,Female,HR,IT,16,Onsite,40,3,Low,Anxiety,Neutral,3,Weekly,Average,Oceania
+47,Male,Designer,Healthcare,10,Hybrid,41,14,Low,Depression,Satisfied,3,Weekly,Average,Oceania
+57,Male,HR,IT,1,Onsite,27,6,Medium,Burnout,Satisfied,5,Daily,Good,Oceania
+44,Non-binary,Data Scientist,Consulting,24,Hybrid,52,2,Low,Depression,Satisfied,4,Weekly,Average,Oceania
+45,Male,Project Manager,Education,11,Onsite,26,12,Medium,Burnout,Unsatisfied,2,Weekly,Good,Oceania
+52,Non-binary,Software Engineer,Healthcare,7,Hybrid,29,4,Low,Burnout,Satisfied,4,Weekly,Good,Oceania
+35,Female,Software Engineer,IT,10,Hybrid,44,0,Medium,None,Neutral,1,Daily,Poor,Oceania
+31,Prefer not to say,Sales,Retail,10,Remote,33,4,High,Depression,Satisfied,1,Weekly,Poor,Oceania
+41,Non-binary,Project Manager,Healthcare,13,Remote,38,1,Low,Burnout,Neutral,5,Weekly,Average,Oceania
+27,Female,Marketing,IT,1,Hybrid,52,7,High,Anxiety,Satisfied,2,Weekly,Poor,Oceania
+31,Non-binary,Marketing,Healthcare,18,Remote,54,0,Medium,Depression,Unsatisfied,2,None,Good,Oceania
+53,Prefer not to say,HR,IT,23,Onsite,42,6,High,None,Neutral,4,Weekly,Good,Oceania
+24,Female,Marketing,Consulting,4,Remote,44,15,Medium,Anxiety,Unsatisfied,5,Weekly,Good,Oceania
+57,Non-binary,Sales,Education,3,Hybrid,22,7,High,Anxiety,Satisfied,1,None,Good,Oceania
+39,Non-binary,HR,Finance,4,Remote,43,7,High,Depression,Satisfied,3,Daily,Good,Oceania
+44,Non-binary,Marketing,IT,35,Onsite,59,5,Low,Anxiety,Neutral,3,Daily,Poor,Oceania
+32,Male,Marketing,Retail,22,Hybrid,26,0,Medium,None,Satisfied,4,Weekly,Average,Oceania
+44,Male,Project Manager,Education,30,Onsite,35,10,High,Depression,Satisfied,4,Daily,Poor,Oceania
+23,Male,HR,Consulting,30,Remote,28,11,Low,Burnout,Unsatisfied,5,None,Average,Oceania
+38,Non-binary,Software Engineer,Education,7,Onsite,38,13,Low,Anxiety,Neutral,3,Daily,Good,Oceania
+38,Male,Sales,Healthcare,18,Onsite,47,4,Medium,Anxiety,Satisfied,2,None,Poor,Oceania
+49,Female,Project Manager,Education,30,Hybrid,41,0,Medium,Anxiety,Neutral,5,None,Average,Oceania
+32,Non-binary,Sales,IT,28,Hybrid,39,9,Medium,Anxiety,Satisfied,4,None,Poor,Oceania
+29,Non-binary,Designer,Consulting,30,Hybrid,30,3,Low,Anxiety,Neutral,2,Daily,Good,Oceania
+44,Prefer not to say,HR,Consulting,9,Hybrid,21,3,Low,None,Unsatisfied,5,Daily,Good,Oceania
+27,Male,Sales,Consulting,1,Hybrid,22,3,Low,Depression,Satisfied,5,Weekly,Average,Oceania
+26,Prefer not to say,Marketing,Consulting,20,Remote,52,2,High,Burnout,Neutral,5,Daily,Average,Oceania
+28,Non-binary,HR,Consulting,18,Hybrid,51,12,Low,Depression,Satisfied,2,Weekly,Average,Oceania
+39,Male,HR,Consulting,1,Onsite,57,5,Medium,Anxiety,Satisfied,2,None,Average,Oceania
+32,Male,Marketing,Healthcare,21,Onsite,45,5,Low,Anxiety,Neutral,1,Weekly,Good,Oceania
+35,Male,Designer,Education,25,Remote,42,2,Medium,Depression,Satisfied,4,None,Good,Oceania
+60,Female,Marketing,Healthcare,10,Remote,29,12,High,None,Unsatisfied,3,None,Poor,Oceania
+39,Non-binary,HR,IT,3,Onsite,46,8,Medium,Anxiety,Satisfied,2,None,Average,Oceania
+24,Male,Sales,IT,23,Hybrid,47,15,High,Depression,Neutral,2,Weekly,Poor,Oceania
+49,Prefer not to say,Software Engineer,Manufacturing,14,Hybrid,60,8,Medium,Depression,Neutral,2,None,Average,Oceania
+31,Non-binary,Project Manager,Healthcare,28,Hybrid,22,6,High,Depression,Satisfied,3,Daily,Average,Oceania
+24,Male,Data Scientist,Healthcare,18,Hybrid,43,11,Low,Depression,Neutral,3,Daily,Good,Oceania
+53,Prefer not to say,Sales,Manufacturing,16,Hybrid,49,5,High,Anxiety,Satisfied,1,Daily,Average,Oceania
+39,Female,Marketing,Healthcare,15,Remote,20,9,Medium,Depression,Neutral,3,None,Good,Oceania
+55,Non-binary,Software Engineer,Consulting,13,Remote,38,8,Low,Anxiety,Satisfied,4,Daily,Good,Oceania
+42,Prefer not to say,Designer,Consulting,32,Hybrid,55,6,High,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+51,Male,HR,Healthcare,15,Remote,39,4,Low,Depression,Unsatisfied,3,Weekly,Poor,Oceania
+59,Female,Marketing,IT,13,Remote,23,15,Medium,None,Satisfied,4,Daily,Average,Oceania
+32,Non-binary,Sales,Manufacturing,25,Hybrid,48,15,High,None,Neutral,1,Weekly,Poor,Oceania
+58,Male,HR,Retail,3,Hybrid,57,10,High,None,Satisfied,4,Weekly,Poor,Oceania
+31,Female,Software Engineer,Education,34,Onsite,31,8,Low,Burnout,Satisfied,1,Weekly,Good,Oceania
+46,Non-binary,Data Scientist,Consulting,1,Onsite,48,11,Low,Depression,Satisfied,3,None,Average,Oceania
+45,Female,Sales,Education,34,Hybrid,57,15,Low,Anxiety,Satisfied,2,Weekly,Average,Oceania
+60,Prefer not to say,Data Scientist,Education,19,Hybrid,57,3,High,None,Unsatisfied,4,None,Good,Oceania
+22,Non-binary,Designer,IT,24,Onsite,25,12,High,Burnout,Unsatisfied,3,None,Poor,Oceania
+50,Non-binary,Data Scientist,Education,26,Hybrid,50,5,High,Burnout,Unsatisfied,4,None,Good,Oceania
+45,Female,Data Scientist,IT,32,Remote,25,5,Medium,Anxiety,Satisfied,5,Daily,Poor,Oceania
+59,Female,Project Manager,Consulting,23,Remote,34,14,High,Depression,Unsatisfied,4,Daily,Poor,Oceania
+28,Non-binary,Data Scientist,Finance,13,Hybrid,25,5,Medium,None,Unsatisfied,3,Daily,Average,Oceania
+39,Female,HR,Retail,20,Hybrid,58,12,Low,Anxiety,Satisfied,5,Weekly,Poor,Oceania
+46,Female,Software Engineer,Consulting,23,Remote,22,9,High,Anxiety,Satisfied,5,None,Good,Oceania
+22,Female,Software Engineer,Education,6,Remote,53,5,Low,Anxiety,Unsatisfied,5,None,Good,Oceania
+54,Prefer not to say,Project Manager,Finance,25,Onsite,37,7,Low,None,Neutral,1,Weekly,Good,Oceania
+56,Female,Project Manager,Retail,29,Onsite,28,6,High,Anxiety,Neutral,3,Weekly,Poor,Oceania
+52,Male,Designer,Education,13,Remote,42,13,Medium,None,Neutral,2,Daily,Poor,Oceania
+42,Prefer not to say,Designer,Healthcare,12,Hybrid,25,14,Low,Anxiety,Neutral,4,None,Good,Oceania
+31,Non-binary,Marketing,Education,3,Remote,54,7,Medium,Anxiety,Neutral,5,None,Average,Oceania
+23,Female,Software Engineer,Retail,9,Remote,44,14,Medium,Anxiety,Satisfied,1,Weekly,Good,Oceania
+48,Female,Data Scientist,Manufacturing,21,Onsite,38,11,High,None,Neutral,5,None,Good,Oceania
+57,Prefer not to say,HR,Consulting,12,Remote,24,2,Medium,None,Neutral,2,Weekly,Poor,Oceania
+55,Female,Software Engineer,Manufacturing,10,Remote,22,11,High,Burnout,Satisfied,3,Weekly,Good,Oceania
+45,Female,Data Scientist,Manufacturing,8,Hybrid,41,12,Low,None,Satisfied,3,Weekly,Poor,Oceania
+39,Prefer not to say,Data Scientist,Manufacturing,3,Hybrid,24,14,Medium,Depression,Satisfied,1,None,Average,Oceania
+60,Prefer not to say,Designer,Healthcare,31,Remote,56,2,Medium,Anxiety,Neutral,5,Daily,Average,Oceania
+33,Prefer not to say,Data Scientist,Finance,6,Onsite,38,4,Medium,Anxiety,Unsatisfied,5,Weekly,Good,Oceania
+23,Non-binary,HR,Consulting,4,Remote,59,12,High,Burnout,Neutral,3,Weekly,Poor,Oceania
+56,Prefer not to say,Designer,Finance,23,Hybrid,22,6,Low,None,Satisfied,3,Daily,Poor,Oceania
+24,Female,Designer,Healthcare,5,Onsite,50,7,High,None,Unsatisfied,2,Weekly,Average,Oceania
+33,Male,Software Engineer,Retail,3,Hybrid,26,5,Medium,Depression,Neutral,4,None,Good,Oceania
+30,Female,Software Engineer,Healthcare,15,Hybrid,29,2,Low,Anxiety,Neutral,4,Weekly,Poor,Oceania
+58,Male,Software Engineer,Consulting,15,Hybrid,54,1,High,None,Unsatisfied,1,Daily,Poor,Oceania
+49,Prefer not to say,Marketing,Finance,6,Hybrid,31,13,Medium,Burnout,Satisfied,3,None,Good,Oceania
+30,Non-binary,Sales,Consulting,5,Remote,48,9,Low,Anxiety,Neutral,3,Weekly,Poor,Oceania
+41,Non-binary,Marketing,Consulting,8,Onsite,35,2,High,None,Unsatisfied,3,None,Good,Oceania
+28,Prefer not to say,HR,IT,24,Remote,37,4,Medium,None,Satisfied,1,Weekly,Average,Oceania
+29,Prefer not to say,Data Scientist,Retail,27,Onsite,44,14,Medium,Burnout,Unsatisfied,1,Weekly,Poor,Oceania
+30,Non-binary,Data Scientist,Healthcare,10,Onsite,27,6,High,Burnout,Unsatisfied,4,Weekly,Average,Oceania
+56,Female,Software Engineer,Education,28,Remote,59,15,Medium,None,Satisfied,4,None,Poor,Oceania
+35,Prefer not to say,Project Manager,Education,4,Onsite,48,1,Medium,Burnout,Satisfied,2,Weekly,Good,Oceania
+58,Female,HR,Finance,3,Onsite,41,7,Medium,None,Unsatisfied,2,Weekly,Poor,Oceania
+27,Non-binary,Project Manager,Healthcare,34,Onsite,38,11,Medium,Anxiety,Unsatisfied,1,Daily,Average,Oceania
+40,Prefer not to say,Sales,Education,16,Remote,21,11,Low,None,Neutral,1,Weekly,Poor,Oceania
+42,Male,Designer,Finance,26,Hybrid,39,3,Low,Depression,Unsatisfied,1,None,Average,Oceania
+29,Male,Marketing,Consulting,7,Remote,47,9,Low,Anxiety,Satisfied,4,Weekly,Poor,Oceania
+31,Male,Software Engineer,Consulting,24,Onsite,22,11,Medium,Anxiety,Neutral,4,None,Poor,Oceania
+33,Male,Designer,IT,7,Remote,40,9,Low,None,Neutral,1,None,Average,Oceania
+38,Male,Marketing,Finance,11,Remote,25,7,Low,Depression,Satisfied,5,None,Poor,Oceania
+57,Non-binary,Project Manager,Finance,28,Hybrid,47,2,Medium,Anxiety,Unsatisfied,2,None,Good,Oceania
+26,Prefer not to say,Data Scientist,Finance,10,Onsite,24,3,Medium,Depression,Unsatisfied,4,Weekly,Good,Oceania
+36,Female,Marketing,Healthcare,21,Hybrid,34,3,Medium,Depression,Unsatisfied,2,Daily,Average,Oceania
+33,Non-binary,Marketing,Finance,25,Hybrid,37,9,Low,Anxiety,Unsatisfied,4,None,Good,Oceania
+26,Male,Sales,Consulting,17,Remote,46,8,Medium,Burnout,Satisfied,4,Weekly,Good,Oceania
+43,Male,Designer,Education,13,Remote,29,13,High,Depression,Unsatisfied,5,Weekly,Poor,Oceania
+50,Non-binary,Designer,Finance,16,Remote,21,13,High,Depression,Neutral,4,Weekly,Average,Oceania
+51,Prefer not to say,Software Engineer,Consulting,13,Onsite,50,14,Medium,Burnout,Unsatisfied,5,Weekly,Average,Oceania
+42,Female,Project Manager,Consulting,1,Onsite,33,10,High,Depression,Satisfied,4,Weekly,Average,Oceania
+24,Non-binary,Sales,Consulting,9,Remote,28,15,Medium,None,Unsatisfied,4,Weekly,Poor,Oceania
+32,Female,Designer,Manufacturing,13,Onsite,27,2,Low,None,Unsatisfied,3,Weekly,Poor,Oceania
+30,Female,Project Manager,Healthcare,24,Hybrid,24,0,Low,Depression,Neutral,2,Weekly,Average,Oceania
+39,Non-binary,Sales,IT,26,Remote,52,5,Medium,Burnout,Unsatisfied,4,Daily,Good,Oceania
+31,Prefer not to say,Marketing,Finance,35,Remote,43,12,Low,Anxiety,Unsatisfied,1,Daily,Good,Oceania
+49,Prefer not to say,Sales,Healthcare,26,Hybrid,45,12,High,Burnout,Unsatisfied,5,Daily,Average,Oceania
+28,Non-binary,Sales,Finance,23,Onsite,34,5,High,Depression,Satisfied,4,Daily,Average,Oceania
+25,Prefer not to say,Marketing,Education,23,Hybrid,47,12,High,Anxiety,Unsatisfied,1,Daily,Average,Oceania
+36,Non-binary,Software Engineer,Finance,9,Remote,32,10,Medium,Burnout,Neutral,1,Weekly,Poor,Oceania
+28,Prefer not to say,HR,Consulting,26,Remote,42,2,Medium,None,Satisfied,2,None,Good,Oceania
+51,Prefer not to say,Project Manager,IT,7,Onsite,31,15,High,Depression,Satisfied,2,Daily,Average,Oceania
+48,Prefer not to say,Sales,Retail,6,Remote,27,6,Medium,None,Unsatisfied,3,None,Poor,Oceania
+46,Male,Designer,Healthcare,9,Onsite,22,8,Low,Depression,Unsatisfied,1,None,Average,Oceania
+23,Male,HR,Finance,9,Remote,20,4,Medium,None,Unsatisfied,2,Daily,Poor,Oceania
+48,Non-binary,Marketing,Manufacturing,11,Remote,52,14,Low,Anxiety,Unsatisfied,1,None,Poor,Oceania
+57,Female,HR,Retail,6,Remote,28,10,High,Anxiety,Satisfied,1,Daily,Good,Oceania
+43,Non-binary,Designer,Manufacturing,26,Remote,51,15,High,Depression,Neutral,4,Weekly,Good,Oceania
+52,Female,Marketing,Education,35,Hybrid,57,0,Low,None,Satisfied,1,Weekly,Average,Oceania
+42,Prefer not to say,Data Scientist,Manufacturing,30,Onsite,33,1,High,Burnout,Unsatisfied,4,Daily,Poor,Oceania
+36,Prefer not to say,Designer,Consulting,10,Hybrid,49,11,Medium,Depression,Unsatisfied,5,Daily,Average,Oceania
+32,Female,HR,IT,22,Remote,48,6,High,Anxiety,Unsatisfied,3,Weekly,Average,Oceania
+58,Prefer not to say,Project Manager,Manufacturing,34,Remote,25,3,Medium,Anxiety,Unsatisfied,1,Weekly,Poor,Oceania
+56,Non-binary,Project Manager,Finance,2,Remote,20,7,High,None,Unsatisfied,1,None,Average,Oceania
+37,Non-binary,Software Engineer,Retail,10,Remote,35,0,Medium,Depression,Unsatisfied,1,Weekly,Average,Oceania
+45,Female,Marketing,IT,27,Remote,33,11,Low,Depression,Satisfied,3,Daily,Good,Oceania
+24,Non-binary,Data Scientist,Education,5,Remote,42,2,High,Burnout,Satisfied,5,None,Poor,Oceania
+40,Non-binary,HR,Manufacturing,7,Remote,48,0,High,Burnout,Unsatisfied,2,Daily,Good,Oceania
+60,Male,Marketing,Manufacturing,26,Remote,56,13,Medium,Burnout,Neutral,5,Daily,Good,Oceania
+58,Female,Data Scientist,Manufacturing,26,Remote,36,8,Low,Anxiety,Satisfied,5,None,Poor,Oceania
+50,Non-binary,Project Manager,Finance,17,Hybrid,42,4,High,Burnout,Neutral,3,Weekly,Poor,Oceania
+22,Prefer not to say,Marketing,Healthcare,20,Hybrid,25,10,Medium,Depression,Satisfied,1,Daily,Average,Oceania
+56,Non-binary,Marketing,IT,34,Onsite,24,8,Low,None,Satisfied,2,Weekly,Average,Oceania
+48,Female,Data Scientist,Healthcare,26,Onsite,50,0,Medium,Anxiety,Satisfied,5,Weekly,Good,Oceania
+23,Female,HR,Consulting,11,Remote,49,13,Medium,Burnout,Satisfied,2,None,Good,Oceania
+49,Prefer not to say,Project Manager,Finance,5,Remote,51,7,Medium,Burnout,Unsatisfied,4,None,Average,Oceania
+50,Non-binary,Marketing,Healthcare,17,Hybrid,54,0,Low,Burnout,Neutral,5,Weekly,Average,Oceania
+48,Prefer not to say,Software Engineer,Healthcare,7,Remote,36,9,Low,Depression,Satisfied,1,None,Poor,Oceania
+55,Prefer not to say,Software Engineer,Education,15,Onsite,41,15,Low,Anxiety,Unsatisfied,5,Weekly,Good,Oceania
+56,Female,Data Scientist,Healthcare,18,Remote,21,13,Medium,Depression,Neutral,3,Daily,Good,Oceania
+56,Prefer not to say,Marketing,Finance,21,Hybrid,48,8,Low,Depression,Satisfied,3,Weekly,Good,Oceania
+57,Male,Project Manager,Retail,25,Hybrid,44,0,Medium,Depression,Neutral,5,Weekly,Average,Oceania
+37,Male,Designer,Education,26,Remote,23,7,High,Depression,Satisfied,3,Weekly,Poor,Oceania
+40,Prefer not to say,Sales,IT,25,Onsite,34,3,Medium,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+49,Female,Project Manager,IT,27,Onsite,35,15,Medium,Anxiety,Unsatisfied,4,Daily,Good,Oceania
+56,Male,Data Scientist,Retail,20,Remote,53,3,Low,Depression,Satisfied,3,Daily,Poor,Oceania
+30,Non-binary,Data Scientist,Healthcare,25,Remote,20,15,Low,Depression,Satisfied,3,None,Poor,Oceania
+32,Female,Project Manager,Retail,11,Hybrid,29,8,Medium,Depression,Satisfied,3,Weekly,Good,Oceania
+60,Prefer not to say,Sales,Education,28,Onsite,22,12,Low,Depression,Unsatisfied,1,Weekly,Good,Oceania
+34,Non-binary,Designer,Retail,17,Remote,20,12,High,Anxiety,Satisfied,1,Weekly,Poor,Oceania
+39,Male,Sales,Manufacturing,3,Onsite,42,7,High,Anxiety,Satisfied,2,Weekly,Poor,Oceania
+27,Non-binary,HR,Consulting,28,Remote,45,15,Low,Anxiety,Neutral,5,Daily,Good,Oceania
+37,Prefer not to say,Software Engineer,Finance,18,Remote,47,14,High,None,Unsatisfied,4,Daily,Poor,Oceania
+27,Female,Sales,Finance,32,Onsite,34,15,Medium,Depression,Neutral,1,None,Average,Oceania
+47,Male,Data Scientist,Consulting,22,Onsite,27,14,Low,None,Neutral,4,None,Good,Oceania
+47,Prefer not to say,HR,Retail,26,Remote,33,13,Medium,Anxiety,Satisfied,2,None,Poor,Oceania
+57,Male,Project Manager,IT,21,Remote,29,0,Low,Anxiety,Neutral,3,Daily,Average,Oceania
+47,Prefer not to say,HR,Consulting,5,Remote,20,14,Low,Burnout,Satisfied,5,None,Poor,Oceania
+50,Female,HR,Retail,17,Remote,45,12,High,Anxiety,Unsatisfied,5,Weekly,Good,Oceania
+44,Female,Marketing,IT,10,Hybrid,40,12,Low,None,Unsatisfied,1,Weekly,Poor,Oceania
+46,Female,Sales,Healthcare,12,Remote,30,4,Low,Anxiety,Unsatisfied,1,Daily,Poor,Oceania
+27,Male,Data Scientist,Retail,11,Onsite,47,6,Medium,Burnout,Satisfied,3,Daily,Average,Oceania
+35,Female,Project Manager,Consulting,23,Remote,20,14,Low,Depression,Satisfied,4,Daily,Average,Oceania
+46,Male,Data Scientist,Education,11,Hybrid,41,13,Low,Anxiety,Neutral,4,Daily,Poor,Oceania
+47,Non-binary,Sales,Finance,3,Hybrid,30,15,Low,Depression,Satisfied,4,Daily,Poor,Oceania
+23,Male,Project Manager,Consulting,15,Remote,34,15,Medium,None,Neutral,5,None,Good,Oceania
+45,Non-binary,Designer,Retail,18,Remote,25,14,High,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+25,Male,HR,Retail,22,Onsite,60,2,Medium,Depression,Satisfied,5,Daily,Good,Oceania
+59,Female,Project Manager,Finance,27,Remote,38,7,Low,Burnout,Neutral,4,None,Poor,Oceania
+25,Non-binary,Marketing,Education,29,Onsite,44,1,Medium,None,Neutral,5,Weekly,Poor,Oceania
+34,Male,Designer,Manufacturing,29,Onsite,57,13,High,Anxiety,Unsatisfied,5,None,Poor,Oceania
+50,Female,Software Engineer,Healthcare,16,Hybrid,38,11,Medium,Burnout,Unsatisfied,2,Weekly,Poor,Oceania
+56,Non-binary,Software Engineer,IT,1,Hybrid,37,10,Medium,Anxiety,Satisfied,2,Daily,Average,Oceania
+42,Prefer not to say,Sales,IT,16,Remote,53,12,Low,None,Neutral,2,None,Poor,Oceania
+35,Female,Software Engineer,Retail,16,Onsite,45,12,Medium,None,Unsatisfied,2,None,Good,Oceania
+36,Prefer not to say,HR,IT,27,Remote,32,10,Medium,None,Unsatisfied,3,Weekly,Good,Oceania
+31,Female,Sales,Manufacturing,15,Onsite,25,7,High,None,Unsatisfied,3,Weekly,Poor,Oceania
+53,Non-binary,Software Engineer,Manufacturing,6,Hybrid,39,10,Low,Depression,Unsatisfied,3,None,Good,Oceania
+47,Prefer not to say,Data Scientist,Education,15,Onsite,28,0,High,Anxiety,Satisfied,1,Daily,Poor,Oceania
+34,Prefer not to say,Project Manager,IT,10,Hybrid,30,13,Low,Burnout,Satisfied,4,Weekly,Good,Oceania
+41,Prefer not to say,Project Manager,Manufacturing,3,Hybrid,56,5,Medium,None,Unsatisfied,2,None,Good,Oceania
+57,Prefer not to say,Sales,Retail,17,Hybrid,57,13,Low,Burnout,Neutral,5,Daily,Good,Oceania
+30,Male,Data Scientist,Consulting,21,Remote,38,15,High,None,Neutral,2,Weekly,Good,Oceania
+40,Non-binary,Project Manager,Manufacturing,4,Onsite,34,8,Low,Depression,Neutral,4,Daily,Poor,Oceania
+33,Male,Data Scientist,Finance,35,Hybrid,46,2,Low,Burnout,Unsatisfied,5,None,Average,Oceania
+44,Prefer not to say,Marketing,Retail,30,Hybrid,45,10,Low,Depression,Unsatisfied,3,Daily,Average,Oceania
+25,Prefer not to say,Project Manager,Retail,17,Remote,39,9,High,None,Neutral,2,Weekly,Poor,Oceania
+30,Male,Software Engineer,Consulting,34,Remote,51,6,Medium,None,Satisfied,3,Weekly,Average,Oceania
+32,Non-binary,HR,Education,18,Remote,46,12,Medium,None,Neutral,1,None,Good,Oceania
+45,Female,Marketing,Retail,3,Hybrid,30,0,Low,None,Satisfied,5,None,Good,Oceania
+58,Prefer not to say,Data Scientist,Finance,34,Onsite,20,15,Low,None,Unsatisfied,5,None,Good,Oceania
+46,Prefer not to say,Software Engineer,Consulting,33,Remote,52,10,High,None,Unsatisfied,1,Daily,Good,Oceania
+23,Non-binary,Software Engineer,Education,26,Remote,32,9,High,Burnout,Satisfied,4,Weekly,Poor,Oceania
+26,Prefer not to say,HR,Retail,24,Hybrid,44,4,Medium,Burnout,Satisfied,3,Daily,Poor,Oceania
+23,Male,Data Scientist,Consulting,19,Onsite,53,3,Low,Anxiety,Satisfied,3,Weekly,Poor,Oceania
+45,Non-binary,Software Engineer,Healthcare,25,Onsite,56,11,Low,Depression,Neutral,1,Daily,Good,Oceania
+24,Female,Software Engineer,Finance,10,Hybrid,45,7,High,Burnout,Unsatisfied,4,None,Poor,Oceania
+52,Female,Data Scientist,Retail,17,Remote,28,10,Low,Burnout,Satisfied,5,Weekly,Good,Oceania
+31,Non-binary,Data Scientist,Education,31,Onsite,24,5,Low,Depression,Satisfied,4,None,Good,Oceania
+23,Non-binary,HR,Consulting,32,Onsite,36,11,Low,Burnout,Unsatisfied,1,Daily,Average,Oceania
+50,Male,HR,Healthcare,18,Remote,56,2,Low,Anxiety,Unsatisfied,2,None,Good,Oceania
+22,Male,Marketing,IT,30,Remote,20,10,Medium,None,Satisfied,1,None,Poor,Oceania
+38,Female,Project Manager,Finance,22,Remote,23,13,Low,Burnout,Unsatisfied,3,Weekly,Good,Oceania
+38,Male,HR,Consulting,21,Onsite,39,0,High,None,Unsatisfied,4,None,Average,Oceania
+39,Non-binary,Project Manager,Healthcare,3,Hybrid,26,8,High,None,Neutral,1,Daily,Good,Oceania
+29,Male,Project Manager,Consulting,11,Onsite,39,12,Low,Anxiety,Satisfied,2,None,Poor,Oceania
+59,Non-binary,Sales,Consulting,3,Remote,31,2,Low,Anxiety,Neutral,2,None,Good,Oceania
+28,Prefer not to say,Data Scientist,IT,19,Remote,35,15,Medium,Burnout,Neutral,3,None,Poor,Oceania
+32,Female,Marketing,Education,24,Onsite,55,14,Medium,Burnout,Neutral,5,Weekly,Average,Oceania
+49,Non-binary,Sales,Finance,32,Remote,25,3,High,Burnout,Satisfied,3,Weekly,Good,Oceania
+22,Female,Marketing,Consulting,3,Remote,26,3,Low,Depression,Unsatisfied,3,Daily,Poor,Oceania
+54,Male,Sales,Consulting,8,Onsite,46,3,Low,None,Satisfied,4,None,Poor,Oceania
+33,Non-binary,Sales,Finance,17,Hybrid,47,0,High,Burnout,Unsatisfied,3,None,Good,Oceania
+30,Prefer not to say,Software Engineer,Retail,13,Onsite,41,7,High,Depression,Neutral,1,Daily,Poor,Oceania
+23,Prefer not to say,Project Manager,Finance,35,Remote,55,15,Low,Anxiety,Unsatisfied,2,None,Poor,Oceania
+44,Female,Project Manager,IT,6,Remote,27,15,Medium,Anxiety,Neutral,4,None,Average,Oceania
+28,Prefer not to say,Software Engineer,Retail,24,Hybrid,60,11,Medium,None,Neutral,4,None,Good,Oceania
+34,Prefer not to say,Project Manager,Manufacturing,28,Hybrid,21,3,Low,None,Satisfied,4,Daily,Good,Oceania
+22,Female,Software Engineer,Consulting,25,Onsite,38,5,Medium,Depression,Neutral,4,Weekly,Poor,Oceania
+48,Prefer not to say,Data Scientist,Education,22,Remote,39,15,High,Depression,Unsatisfied,1,None,Poor,Oceania
+31,Prefer not to say,Marketing,Manufacturing,31,Onsite,47,5,Medium,None,Neutral,2,None,Average,Oceania
+26,Male,Designer,Retail,17,Onsite,55,15,Medium,Burnout,Satisfied,3,None,Good,Oceania
+43,Female,Data Scientist,Retail,32,Hybrid,34,13,Medium,None,Neutral,1,Weekly,Poor,Oceania
+56,Prefer not to say,Data Scientist,Education,29,Onsite,53,5,High,None,Satisfied,5,None,Poor,Oceania
+39,Prefer not to say,Project Manager,Manufacturing,3,Onsite,49,13,Medium,None,Neutral,1,Daily,Average,Oceania
+49,Male,Data Scientist,Consulting,25,Remote,30,2,Low,Burnout,Satisfied,5,None,Average,Oceania
+25,Female,Data Scientist,Retail,19,Remote,22,12,Medium,Depression,Unsatisfied,2,None,Average,Oceania
+37,Female,Marketing,IT,25,Remote,35,6,High,Anxiety,Unsatisfied,4,None,Average,Oceania
+41,Non-binary,Data Scientist,Healthcare,16,Onsite,22,14,Low,Anxiety,Neutral,3,Weekly,Poor,Oceania
+58,Male,Sales,IT,22,Hybrid,60,15,High,Depression,Unsatisfied,2,None,Average,Oceania
+23,Male,Data Scientist,Manufacturing,21,Onsite,38,10,Medium,None,Satisfied,5,None,Average,Oceania
+22,Female,Data Scientist,Consulting,23,Onsite,56,4,Low,Burnout,Unsatisfied,4,Weekly,Poor,Oceania
+47,Female,Software Engineer,Manufacturing,29,Hybrid,23,2,High,Anxiety,Neutral,1,Weekly,Average,Oceania
+33,Female,Data Scientist,Finance,1,Onsite,47,12,Low,Depression,Neutral,2,None,Poor,Oceania
+26,Male,Designer,Consulting,25,Onsite,42,12,High,Burnout,Satisfied,1,Weekly,Good,Oceania
+41,Non-binary,Designer,Finance,18,Onsite,28,3,Low,Burnout,Neutral,2,Daily,Average,Oceania
+37,Male,Sales,Finance,33,Hybrid,22,9,High,Depression,Satisfied,5,Daily,Average,Oceania
+50,Non-binary,Marketing,Education,5,Hybrid,27,12,Low,Depression,Neutral,2,None,Good,Oceania
+32,Non-binary,Designer,Education,28,Hybrid,23,9,Medium,Anxiety,Unsatisfied,1,Weekly,Poor,Oceania
+34,Non-binary,Data Scientist,Finance,5,Remote,27,14,High,Burnout,Satisfied,3,Daily,Poor,Oceania
+58,Male,Data Scientist,Education,21,Hybrid,51,7,High,Burnout,Satisfied,1,Weekly,Poor,Oceania
+49,Male,Marketing,Retail,13,Hybrid,31,2,Medium,Anxiety,Satisfied,5,Weekly,Good,Oceania
+34,Female,HR,Manufacturing,35,Remote,52,4,Medium,Anxiety,Unsatisfied,5,None,Poor,Oceania
+33,Non-binary,Project Manager,Manufacturing,32,Remote,47,12,Medium,Burnout,Neutral,1,Daily,Average,Oceania
+35,Non-binary,Sales,Consulting,10,Hybrid,59,2,High,None,Unsatisfied,1,None,Average,Oceania
+23,Male,Software Engineer,Retail,15,Onsite,30,1,Medium,Depression,Satisfied,2,Weekly,Good,Oceania
+24,Female,HR,Finance,23,Hybrid,50,14,Medium,None,Unsatisfied,2,None,Poor,Oceania
+34,Male,Software Engineer,IT,19,Onsite,26,13,Medium,Depression,Neutral,3,Daily,Poor,Oceania
+29,Prefer not to say,Project Manager,IT,28,Remote,32,7,High,Burnout,Unsatisfied,2,None,Good,Oceania
+31,Female,Data Scientist,Manufacturing,27,Hybrid,46,6,Medium,Anxiety,Satisfied,4,None,Good,Oceania
+44,Non-binary,HR,Healthcare,19,Hybrid,45,1,High,Burnout,Satisfied,2,Daily,Average,Oceania
+32,Prefer not to say,Project Manager,Education,29,Onsite,55,4,Medium,Depression,Neutral,2,Weekly,Average,Oceania
+22,Male,Project Manager,Manufacturing,9,Remote,42,11,High,Anxiety,Neutral,2,None,Poor,Oceania
+54,Female,Project Manager,Education,34,Onsite,26,7,High,Anxiety,Neutral,2,None,Average,Oceania
+51,Non-binary,Data Scientist,Retail,6,Onsite,47,10,High,Burnout,Neutral,1,Weekly,Good,Oceania
+36,Female,Data Scientist,Healthcare,34,Hybrid,33,5,Low,Anxiety,Unsatisfied,5,Weekly,Average,Oceania
+41,Female,Project Manager,IT,7,Onsite,47,0,Low,Burnout,Neutral,3,Daily,Average,Oceania
+58,Male,HR,IT,28,Hybrid,59,7,Low,Burnout,Neutral,2,Daily,Average,Oceania
+37,Male,Data Scientist,Finance,6,Hybrid,53,0,High,Anxiety,Unsatisfied,5,Weekly,Good,Oceania
+54,Female,Sales,Consulting,28,Onsite,28,0,Low,None,Satisfied,1,None,Poor,Oceania
+54,Prefer not to say,Sales,Retail,22,Onsite,50,3,Low,Anxiety,Neutral,1,None,Good,Oceania
+38,Male,Designer,Education,15,Remote,54,4,High,Depression,Neutral,2,Weekly,Average,Oceania
+22,Non-binary,Project Manager,Consulting,3,Hybrid,23,8,High,Burnout,Unsatisfied,4,None,Poor,Oceania
+24,Prefer not to say,Software Engineer,Education,4,Onsite,42,5,High,Anxiety,Satisfied,1,None,Good,Oceania
+27,Male,Software Engineer,Retail,15,Remote,60,6,Low,Burnout,Satisfied,3,None,Good,Oceania
+57,Female,Software Engineer,IT,9,Remote,60,14,Medium,Burnout,Satisfied,4,Daily,Good,Oceania
+58,Non-binary,HR,Education,28,Remote,23,8,Medium,Depression,Unsatisfied,4,Daily,Good,Oceania
+52,Prefer not to say,Designer,Consulting,8,Hybrid,55,7,High,None,Satisfied,1,Daily,Poor,Oceania
+23,Non-binary,HR,Retail,7,Onsite,56,4,Low,Burnout,Unsatisfied,1,Weekly,Poor,Oceania
+31,Non-binary,Designer,Finance,31,Remote,42,8,Medium,Burnout,Satisfied,3,Daily,Average,Oceania
+34,Non-binary,Sales,Healthcare,35,Onsite,53,3,High,None,Satisfied,5,None,Good,Oceania
+58,Female,Designer,Education,31,Hybrid,24,12,Medium,Anxiety,Unsatisfied,3,Weekly,Poor,Oceania
+44,Prefer not to say,Project Manager,Consulting,12,Remote,23,1,Medium,Depression,Satisfied,5,Weekly,Average,Oceania
+50,Non-binary,Sales,IT,16,Remote,37,10,Medium,None,Neutral,2,Daily,Good,Oceania
+48,Male,Sales,IT,28,Hybrid,27,10,High,None,Unsatisfied,1,Weekly,Good,Oceania
+32,Male,Project Manager,IT,18,Onsite,30,2,Low,Anxiety,Neutral,3,Weekly,Average,Oceania
+48,Non-binary,Marketing,Healthcare,18,Hybrid,22,8,Medium,Burnout,Satisfied,3,Daily,Good,Oceania
+56,Prefer not to say,Project Manager,IT,21,Hybrid,32,15,Medium,Burnout,Satisfied,3,Daily,Poor,Oceania
+51,Non-binary,Designer,Healthcare,22,Hybrid,52,3,Low,None,Satisfied,5,Daily,Poor,Oceania
+39,Male,Designer,Finance,12,Hybrid,30,13,High,Burnout,Neutral,4,Daily,Poor,Oceania
+53,Non-binary,Data Scientist,Education,6,Onsite,40,0,Low,Anxiety,Satisfied,2,None,Poor,Oceania
+31,Non-binary,Project Manager,Education,20,Remote,40,2,High,Burnout,Satisfied,1,Weekly,Poor,Oceania
+46,Non-binary,Designer,Finance,22,Hybrid,24,13,Low,None,Neutral,2,Daily,Poor,Oceania
+59,Female,Designer,Manufacturing,5,Onsite,56,4,Low,Depression,Satisfied,1,Daily,Poor,Oceania
+46,Female,Marketing,IT,33,Onsite,31,8,High,Burnout,Satisfied,3,Weekly,Poor,Oceania
+48,Female,Marketing,Education,20,Onsite,50,9,Medium,Anxiety,Neutral,3,Daily,Average,Oceania
+39,Non-binary,Project Manager,IT,1,Remote,23,2,Low,Depression,Unsatisfied,1,Weekly,Poor,Oceania
+50,Prefer not to say,Data Scientist,Education,16,Hybrid,59,7,Low,Burnout,Neutral,3,Daily,Poor,Oceania
+35,Non-binary,HR,Education,29,Onsite,42,11,Low,Depression,Satisfied,5,Daily,Average,Oceania
+58,Prefer not to say,Sales,Manufacturing,19,Hybrid,30,6,Medium,Depression,Neutral,5,Daily,Poor,Oceania
+51,Prefer not to say,Designer,Finance,23,Onsite,36,13,Medium,Burnout,Unsatisfied,3,Weekly,Poor,Oceania
+60,Non-binary,Sales,Manufacturing,17,Hybrid,55,12,High,Depression,Unsatisfied,5,Daily,Poor,Oceania
+50,Female,Project Manager,Healthcare,2,Onsite,53,3,High,Depression,Unsatisfied,4,None,Poor,Oceania
+29,Male,Project Manager,Education,28,Hybrid,49,2,High,Anxiety,Neutral,2,Daily,Average,Oceania
+40,Male,Project Manager,Education,30,Remote,44,9,Medium,Burnout,Neutral,2,None,Good,Oceania
+22,Non-binary,Designer,Finance,17,Onsite,33,12,High,Depression,Satisfied,5,Daily,Average,Oceania
+60,Non-binary,HR,Finance,22,Onsite,39,2,High,Anxiety,Neutral,3,None,Average,Oceania
+34,Non-binary,Project Manager,Manufacturing,3,Onsite,57,5,High,Depression,Satisfied,1,Daily,Good,Oceania
+50,Male,Software Engineer,Consulting,1,Remote,45,3,Low,Burnout,Neutral,4,Weekly,Average,Oceania
+56,Male,Sales,Finance,23,Onsite,47,6,Medium,Depression,Unsatisfied,2,Weekly,Poor,Oceania
+46,Non-binary,Sales,Consulting,8,Onsite,30,7,Medium,Depression,Neutral,4,None,Good,Oceania
+32,Prefer not to say,Designer,Consulting,24,Hybrid,53,8,Medium,None,Neutral,4,Weekly,Poor,Oceania
+33,Non-binary,Project Manager,Manufacturing,12,Onsite,35,5,Low,Anxiety,Satisfied,2,Weekly,Average,Oceania
+42,Prefer not to say,Sales,Retail,19,Onsite,21,4,Low,Depression,Neutral,2,Daily,Good,Oceania
+51,Female,HR,Manufacturing,29,Onsite,48,14,High,Burnout,Neutral,4,None,Poor,Oceania
+27,Male,Sales,Retail,33,Hybrid,43,7,Medium,Depression,Unsatisfied,2,None,Poor,Oceania
+40,Non-binary,Data Scientist,Finance,27,Hybrid,47,11,High,Burnout,Neutral,5,None,Good,Oceania
+50,Female,Marketing,IT,4,Onsite,46,12,Medium,Anxiety,Satisfied,1,Daily,Average,Oceania
+52,Prefer not to say,Data Scientist,Healthcare,3,Remote,41,12,Low,Anxiety,Unsatisfied,4,None,Poor,Oceania
+43,Female,Data Scientist,Education,11,Remote,52,5,Medium,Anxiety,Unsatisfied,5,Daily,Poor,Oceania
+55,Male,Software Engineer,Finance,27,Hybrid,52,6,Medium,None,Satisfied,1,Daily,Good,Oceania
+39,Prefer not to say,Marketing,Retail,15,Hybrid,43,1,Low,None,Neutral,2,Weekly,Good,Oceania
+31,Female,HR,Manufacturing,34,Remote,47,2,High,Burnout,Satisfied,4,Daily,Average,Oceania
+57,Female,Designer,Healthcare,19,Hybrid,45,11,Medium,Burnout,Unsatisfied,1,Weekly,Good,Oceania
+36,Female,Designer,Consulting,28,Onsite,55,8,Medium,Depression,Satisfied,4,Weekly,Good,Oceania
+57,Female,Project Manager,Retail,24,Hybrid,30,9,High,Depression,Neutral,1,None,Average,Oceania
+40,Prefer not to say,Marketing,Healthcare,32,Onsite,46,10,Low,None,Unsatisfied,1,None,Average,Oceania
+23,Prefer not to say,Software Engineer,Education,9,Onsite,36,0,High,Anxiety,Satisfied,1,Weekly,Average,Oceania
+41,Non-binary,Data Scientist,Finance,31,Remote,30,1,Medium,Burnout,Neutral,2,Weekly,Good,Oceania
+51,Female,Software Engineer,Healthcare,10,Hybrid,59,4,Low,Depression,Unsatisfied,4,Daily,Good,Oceania
+44,Female,Marketing,Healthcare,23,Hybrid,33,1,High,Anxiety,Unsatisfied,2,Daily,Good,Oceania
+59,Non-binary,Designer,Healthcare,12,Hybrid,37,2,High,Depression,Unsatisfied,4,Weekly,Poor,Oceania
+60,Prefer not to say,Designer,Consulting,23,Onsite,28,9,Low,None,Unsatisfied,3,Weekly,Poor,Oceania
+31,Prefer not to say,Marketing,Consulting,13,Remote,24,10,Low,None,Neutral,3,Weekly,Average,Oceania
+49,Female,Marketing,Finance,6,Onsite,34,9,High,Depression,Neutral,5,None,Poor,Oceania
+52,Female,Project Manager,Retail,14,Hybrid,21,6,Medium,Anxiety,Satisfied,4,None,Average,Oceania
+59,Male,Marketing,Finance,31,Remote,35,1,High,Burnout,Neutral,4,None,Poor,Oceania
+26,Male,Sales,IT,9,Onsite,52,11,Low,Anxiety,Satisfied,1,Weekly,Good,Oceania
+32,Male,Marketing,Education,15,Onsite,41,9,High,None,Neutral,1,Daily,Good,Oceania
+36,Prefer not to say,Marketing,Finance,4,Hybrid,41,14,High,Anxiety,Neutral,5,Weekly,Average,Oceania
+42,Male,Software Engineer,Healthcare,34,Remote,49,14,High,Burnout,Satisfied,5,Weekly,Poor,Oceania
+44,Female,Sales,Retail,12,Onsite,28,10,High,Depression,Neutral,3,Weekly,Good,Oceania
+57,Male,Software Engineer,Retail,17,Hybrid,20,14,Low,Depression,Satisfied,3,Daily,Poor,Oceania
+47,Prefer not to say,Designer,Consulting,22,Onsite,43,5,Low,Depression,Unsatisfied,4,None,Poor,Oceania
+45,Non-binary,Sales,IT,9,Hybrid,45,9,Low,None,Satisfied,3,Weekly,Poor,Oceania
+31,Female,HR,Retail,32,Onsite,36,7,High,Burnout,Neutral,4,Daily,Average,Oceania
+48,Non-binary,Project Manager,Manufacturing,14,Hybrid,33,1,High,Depression,Neutral,3,Daily,Good,Oceania
+49,Non-binary,Sales,IT,5,Onsite,44,7,Low,Depression,Satisfied,2,None,Poor,Oceania
+51,Female,Data Scientist,Consulting,14,Remote,53,3,Medium,Burnout,Satisfied,1,Weekly,Good,Oceania
+59,Non-binary,Marketing,Healthcare,9,Onsite,27,7,Medium,Burnout,Neutral,5,None,Good,Oceania
+40,Male,Marketing,Finance,16,Onsite,42,1,Medium,Depression,Neutral,3,Weekly,Poor,Oceania
+36,Non-binary,HR,Education,22,Remote,27,5,Low,Burnout,Satisfied,3,None,Poor,Oceania
+49,Female,Software Engineer,Retail,33,Remote,53,8,Low,None,Neutral,3,None,Poor,Oceania
+51,Female,HR,Consulting,9,Hybrid,41,11,Medium,None,Neutral,5,None,Good,Oceania
+29,Female,HR,Consulting,18,Remote,51,9,Low,Depression,Unsatisfied,5,Daily,Good,Oceania
+36,Female,Designer,Healthcare,15,Hybrid,36,12,Medium,Depression,Neutral,3,None,Good,Oceania
+25,Prefer not to say,Marketing,IT,4,Onsite,26,14,Medium,Depression,Satisfied,4,Daily,Good,Oceania
+34,Non-binary,Marketing,Retail,12,Onsite,39,10,High,None,Satisfied,4,Daily,Poor,Oceania
+26,Prefer not to say,Data Scientist,IT,15,Remote,54,4,Low,Anxiety,Neutral,3,Daily,Good,Oceania
+53,Male,Project Manager,Consulting,31,Onsite,51,7,Medium,Depression,Satisfied,4,Weekly,Average,Oceania
+36,Prefer not to say,HR,Healthcare,8,Remote,37,10,High,None,Unsatisfied,2,Weekly,Poor,Oceania
+44,Female,HR,Healthcare,4,Onsite,46,11,High,Burnout,Unsatisfied,4,Daily,Good,Oceania
+32,Female,Software Engineer,Manufacturing,30,Remote,44,2,Medium,None,Neutral,3,Daily,Good,Oceania
+50,Male,Marketing,Healthcare,13,Remote,40,11,Medium,Burnout,Satisfied,3,None,Average,Oceania
+23,Prefer not to say,Project Manager,Manufacturing,22,Onsite,29,10,Low,Anxiety,Satisfied,1,Daily,Good,Oceania
+37,Female,Marketing,Manufacturing,22,Remote,56,4,Medium,None,Unsatisfied,3,Daily,Average,Oceania
+27,Prefer not to say,Designer,Education,32,Onsite,40,3,Low,None,Unsatisfied,5,None,Poor,Oceania
+43,Male,Sales,Retail,30,Onsite,41,14,Low,Depression,Unsatisfied,5,Daily,Good,Oceania
+51,Non-binary,Sales,Manufacturing,20,Remote,50,8,Medium,Anxiety,Unsatisfied,2,Weekly,Good,Oceania
+48,Non-binary,Sales,Finance,26,Hybrid,46,9,Low,Depression,Unsatisfied,5,None,Average,Oceania
+39,Male,Data Scientist,Consulting,12,Onsite,36,13,Medium,Anxiety,Satisfied,5,None,Poor,Oceania
+60,Non-binary,Designer,IT,35,Onsite,37,2,Low,Burnout,Unsatisfied,5,Daily,Good,Oceania
+57,Prefer not to say,Marketing,Finance,23,Onsite,51,9,Medium,Anxiety,Satisfied,2,None,Poor,Oceania
+46,Male,Marketing,Education,20,Onsite,60,1,Medium,None,Unsatisfied,2,Daily,Average,Oceania
+44,Female,Marketing,IT,29,Remote,37,11,Low,Burnout,Neutral,5,Weekly,Good,Oceania
+58,Prefer not to say,Marketing,Education,3,Hybrid,32,15,Low,Anxiety,Satisfied,5,Daily,Average,Oceania
+24,Non-binary,Designer,Education,6,Hybrid,38,0,Medium,Anxiety,Unsatisfied,2,Daily,Good,Oceania
+51,Non-binary,Data Scientist,Retail,8,Onsite,50,12,Medium,Depression,Neutral,5,Daily,Poor,Oceania
+41,Prefer not to say,Marketing,Finance,13,Remote,43,2,Low,None,Satisfied,5,Weekly,Good,Oceania
+44,Prefer not to say,Data Scientist,IT,32,Hybrid,32,1,High,None,Unsatisfied,4,Weekly,Good,Oceania
+28,Female,Marketing,IT,3,Onsite,27,7,High,Anxiety,Satisfied,1,Weekly,Good,Oceania
+27,Non-binary,Sales,Consulting,28,Remote,58,14,High,Burnout,Satisfied,3,None,Poor,Oceania
+48,Female,Marketing,Healthcare,29,Onsite,24,5,Medium,Burnout,Neutral,4,Weekly,Good,Oceania
+45,Prefer not to say,Data Scientist,Finance,23,Hybrid,46,0,Low,Burnout,Satisfied,1,Daily,Poor,Oceania
+29,Male,HR,Consulting,31,Hybrid,44,12,High,Burnout,Satisfied,1,None,Good,Oceania
+31,Female,Sales,Healthcare,26,Remote,20,12,Low,Depression,Unsatisfied,5,Weekly,Average,Oceania
+27,Male,Marketing,Consulting,1,Remote,41,4,Low,Depression,Satisfied,3,None,Average,Oceania
+24,Non-binary,Data Scientist,Education,9,Hybrid,23,7,High,Anxiety,Satisfied,4,Weekly,Poor,Oceania
+40,Female,Designer,IT,26,Onsite,40,9,Low,None,Unsatisfied,3,Weekly,Average,Oceania
+37,Non-binary,Data Scientist,Manufacturing,21,Onsite,38,2,Medium,Anxiety,Unsatisfied,3,Daily,Poor,Oceania
+37,Male,Data Scientist,IT,7,Remote,32,6,Medium,Anxiety,Unsatisfied,4,Weekly,Poor,Oceania
+42,Non-binary,Designer,Manufacturing,7,Hybrid,39,13,Low,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+33,Female,Sales,Education,14,Hybrid,31,11,High,Anxiety,Neutral,5,None,Good,Oceania
+53,Male,Marketing,IT,15,Remote,59,1,Medium,Anxiety,Neutral,1,Weekly,Average,Oceania
+25,Prefer not to say,Designer,IT,6,Onsite,45,1,High,Burnout,Unsatisfied,2,None,Poor,Oceania
+51,Male,HR,Finance,4,Onsite,31,14,Low,Burnout,Unsatisfied,5,None,Poor,Oceania
+47,Non-binary,Sales,Finance,19,Onsite,58,15,Medium,Burnout,Satisfied,3,Weekly,Good,Oceania
+34,Male,Project Manager,Finance,26,Onsite,38,10,Low,None,Neutral,5,Daily,Poor,Oceania
+33,Female,Project Manager,Finance,23,Onsite,20,13,Low,Depression,Neutral,4,Weekly,Poor,Oceania
+36,Non-binary,Sales,IT,10,Onsite,40,6,Low,Depression,Satisfied,1,None,Average,Oceania
+30,Male,Sales,Manufacturing,19,Onsite,54,7,High,Anxiety,Neutral,2,Weekly,Average,Oceania
+28,Non-binary,Marketing,IT,32,Hybrid,41,5,Medium,None,Satisfied,2,Daily,Poor,Oceania
+44,Male,Sales,Manufacturing,34,Onsite,40,1,Low,Burnout,Satisfied,4,None,Good,Oceania
+22,Non-binary,Software Engineer,Education,11,Remote,20,6,High,Burnout,Unsatisfied,4,None,Average,Oceania
+24,Non-binary,Marketing,Manufacturing,15,Hybrid,25,13,Medium,Anxiety,Satisfied,1,None,Good,Oceania
+50,Non-binary,Marketing,Finance,18,Hybrid,42,7,High,None,Neutral,3,None,Poor,Oceania
+29,Non-binary,Designer,Education,33,Hybrid,42,12,Low,Depression,Unsatisfied,5,Weekly,Average,Oceania
+52,Non-binary,HR,Consulting,22,Hybrid,23,5,High,None,Neutral,2,Weekly,Good,Oceania
+50,Non-binary,Project Manager,Healthcare,19,Hybrid,52,10,High,Burnout,Neutral,3,Weekly,Poor,Oceania
+33,Female,Software Engineer,Consulting,5,Remote,38,1,High,Depression,Satisfied,2,None,Poor,Oceania
+57,Male,Designer,Retail,30,Onsite,43,1,High,Burnout,Unsatisfied,1,Daily,Average,Oceania
+33,Female,HR,Consulting,31,Onsite,44,13,Low,None,Neutral,4,Daily,Poor,Oceania
+45,Prefer not to say,Software Engineer,Healthcare,4,Hybrid,44,11,High,Depression,Satisfied,3,None,Good,Oceania
+49,Female,Project Manager,Education,22,Hybrid,59,1,Medium,Depression,Satisfied,2,Daily,Good,Oceania
+30,Male,Designer,IT,19,Remote,37,1,Medium,Depression,Neutral,4,Daily,Average,Oceania
+56,Female,Project Manager,Manufacturing,35,Onsite,29,2,Medium,Burnout,Satisfied,5,None,Poor,Oceania
+40,Female,Designer,IT,12,Hybrid,48,8,Low,Burnout,Neutral,1,Weekly,Poor,Oceania
+35,Male,Sales,Retail,30,Onsite,37,10,High,None,Neutral,5,Daily,Good,Oceania
+41,Prefer not to say,Data Scientist,Retail,10,Remote,46,8,High,None,Satisfied,2,Daily,Average,Oceania
+58,Female,Designer,Manufacturing,2,Hybrid,30,1,Low,None,Satisfied,1,Daily,Average,Oceania
+57,Female,Data Scientist,IT,21,Remote,20,11,Low,Burnout,Unsatisfied,3,Daily,Average,Oceania
+27,Non-binary,Data Scientist,Finance,4,Remote,60,15,High,None,Satisfied,4,None,Good,Oceania
+22,Non-binary,Data Scientist,Retail,1,Hybrid,33,8,Low,None,Unsatisfied,3,Daily,Good,Oceania
+37,Female,HR,Manufacturing,34,Hybrid,31,13,High,Depression,Unsatisfied,2,Weekly,Good,Oceania
+29,Male,HR,Manufacturing,25,Onsite,38,14,Low,Anxiety,Unsatisfied,4,Weekly,Good,Oceania
+46,Prefer not to say,HR,Retail,22,Remote,28,2,Medium,Anxiety,Neutral,3,Weekly,Average,Oceania
+38,Prefer not to say,Designer,Education,18,Hybrid,32,13,Low,None,Satisfied,3,Daily,Good,Oceania
+58,Prefer not to say,Project Manager,Finance,2,Onsite,53,9,High,Depression,Satisfied,1,Weekly,Average,Oceania
+43,Prefer not to say,Sales,Healthcare,12,Onsite,38,2,Low,Anxiety,Satisfied,3,Weekly,Average,Oceania
+23,Prefer not to say,HR,Healthcare,28,Remote,45,1,Low,Depression,Unsatisfied,4,Weekly,Average,Oceania
+59,Female,Designer,Consulting,6,Hybrid,37,5,Low,None,Satisfied,5,Weekly,Poor,Oceania
+41,Prefer not to say,Designer,Healthcare,18,Hybrid,55,14,Low,Depression,Unsatisfied,2,None,Poor,Oceania
+52,Prefer not to say,HR,Retail,16,Onsite,56,4,Low,Burnout,Neutral,4,None,Average,Oceania
+37,Prefer not to say,Designer,Finance,21,Onsite,52,4,High,Depression,Satisfied,5,Weekly,Poor,Oceania
+53,Prefer not to say,Project Manager,Retail,22,Onsite,20,10,Medium,None,Satisfied,3,Daily,Good,Oceania
+26,Male,Marketing,IT,1,Onsite,27,3,Medium,Burnout,Unsatisfied,4,Daily,Average,Oceania
+47,Female,Project Manager,Manufacturing,19,Remote,53,9,High,Anxiety,Neutral,2,Daily,Average,Oceania
+53,Female,Marketing,Finance,10,Hybrid,57,8,High,Anxiety,Satisfied,1,None,Good,Oceania
+23,Male,Sales,Consulting,20,Onsite,50,10,Medium,Depression,Unsatisfied,2,Daily,Good,Oceania
+24,Male,Project Manager,Consulting,3,Hybrid,47,10,High,Depression,Unsatisfied,2,Daily,Good,Oceania
+57,Non-binary,Marketing,IT,5,Remote,32,2,High,Anxiety,Neutral,4,Weekly,Poor,Oceania
+46,Female,Marketing,Retail,29,Remote,22,8,Medium,None,Unsatisfied,1,Weekly,Poor,Oceania
+38,Male,Marketing,Finance,27,Remote,58,9,Low,None,Satisfied,4,None,Good,Oceania
+51,Non-binary,HR,Retail,19,Hybrid,49,15,Low,None,Satisfied,5,Weekly,Good,Oceania
+45,Prefer not to say,Data Scientist,Retail,31,Onsite,28,12,High,Burnout,Unsatisfied,5,Weekly,Average,Oceania
+37,Male,Data Scientist,Education,27,Hybrid,45,11,Low,Depression,Satisfied,2,None,Average,Oceania
+38,Male,Marketing,Education,10,Hybrid,24,11,High,Anxiety,Neutral,2,None,Poor,Oceania
+25,Female,Data Scientist,Education,34,Hybrid,52,11,High,Depression,Unsatisfied,1,Daily,Average,Oceania
+43,Prefer not to say,Designer,IT,14,Onsite,46,15,High,Burnout,Satisfied,3,Weekly,Good,Oceania
+58,Female,Data Scientist,IT,11,Hybrid,51,0,Low,Depression,Neutral,5,Daily,Good,Oceania
+36,Prefer not to say,Marketing,Manufacturing,3,Hybrid,21,4,Medium,None,Neutral,5,Daily,Average,Oceania
+32,Non-binary,Designer,Finance,7,Onsite,27,11,Low,Burnout,Neutral,2,Daily,Average,Oceania
+40,Non-binary,Sales,Manufacturing,12,Remote,51,8,Medium,Depression,Unsatisfied,4,Weekly,Good,Oceania
+59,Non-binary,Data Scientist,Education,6,Onsite,29,9,High,None,Unsatisfied,5,None,Average,Oceania
+24,Non-binary,Sales,Consulting,18,Remote,53,11,High,Burnout,Satisfied,4,Daily,Poor,Oceania
+49,Non-binary,Sales,Retail,21,Remote,46,2,High,Anxiety,Neutral,2,Daily,Average,Oceania
+30,Female,Designer,Healthcare,12,Remote,52,15,Low,Burnout,Unsatisfied,2,Daily,Average,Oceania
+44,Male,Sales,Consulting,31,Onsite,43,10,High,None,Neutral,3,Daily,Poor,Oceania
+42,Female,Designer,Education,7,Onsite,49,14,Low,Depression,Unsatisfied,2,None,Good,Oceania
+33,Non-binary,Software Engineer,Manufacturing,5,Hybrid,22,5,Low,None,Neutral,4,Weekly,Good,Oceania
+27,Non-binary,Software Engineer,Healthcare,10,Onsite,59,4,Low,None,Unsatisfied,2,None,Poor,Oceania
+33,Male,Marketing,Finance,1,Hybrid,25,14,Low,Anxiety,Unsatisfied,4,Daily,Average,Oceania
+40,Prefer not to say,HR,Finance,33,Hybrid,44,10,Medium,Anxiety,Satisfied,2,Weekly,Good,Oceania
+33,Female,Designer,Retail,4,Remote,20,10,High,Burnout,Neutral,4,Weekly,Poor,Oceania
+53,Female,Sales,IT,25,Onsite,44,0,Low,None,Satisfied,3,Weekly,Good,Oceania
+52,Female,Data Scientist,Retail,21,Hybrid,34,11,Medium,Anxiety,Satisfied,3,Weekly,Poor,Oceania
+58,Male,Sales,IT,9,Onsite,29,14,Low,Depression,Satisfied,2,None,Poor,Oceania
+43,Male,Software Engineer,Education,11,Hybrid,60,4,Low,Depression,Unsatisfied,3,None,Average,Oceania
+59,Prefer not to say,Software Engineer,Retail,17,Remote,40,6,Medium,Depression,Satisfied,5,Daily,Poor,Oceania
+47,Non-binary,Designer,Finance,12,Remote,36,5,High,Anxiety,Neutral,4,Weekly,Poor,Oceania
+34,Prefer not to say,HR,Education,9,Remote,35,8,Medium,Anxiety,Satisfied,4,Daily,Poor,Oceania
+39,Female,Sales,IT,20,Onsite,43,11,Low,Anxiety,Satisfied,4,Weekly,Poor,Oceania
+59,Non-binary,Designer,Education,9,Hybrid,52,15,Medium,Anxiety,Neutral,1,Weekly,Good,Oceania
+60,Non-binary,Designer,Healthcare,1,Hybrid,43,2,High,Burnout,Neutral,1,Weekly,Average,Oceania
+23,Non-binary,Designer,Manufacturing,24,Hybrid,47,11,Low,Burnout,Unsatisfied,4,None,Average,Oceania
+29,Male,Project Manager,Healthcare,18,Hybrid,57,15,Low,None,Satisfied,4,Weekly,Poor,Oceania
+36,Male,Project Manager,Finance,20,Onsite,36,14,High,Burnout,Satisfied,5,None,Poor,Oceania
+31,Female,Data Scientist,Consulting,30,Hybrid,23,5,Medium,Burnout,Satisfied,4,Daily,Average,Oceania
+45,Prefer not to say,Project Manager,Manufacturing,20,Hybrid,55,2,Medium,Anxiety,Neutral,5,Weekly,Good,Oceania
+45,Male,Sales,Retail,21,Onsite,31,4,Medium,Depression,Unsatisfied,1,Daily,Average,Oceania
+29,Non-binary,Software Engineer,Education,13,Onsite,44,15,Low,Depression,Satisfied,3,Weekly,Average,Oceania
+51,Male,Designer,Finance,26,Onsite,24,3,Medium,Anxiety,Neutral,1,Weekly,Good,Oceania
+32,Non-binary,Sales,Healthcare,28,Hybrid,53,3,High,Depression,Satisfied,3,Weekly,Poor,Oceania
+51,Prefer not to say,Data Scientist,Consulting,6,Remote,52,9,High,Burnout,Satisfied,1,Daily,Good,Oceania
+45,Prefer not to say,Designer,Manufacturing,3,Remote,27,15,Medium,Anxiety,Unsatisfied,4,Daily,Good,Oceania
+22,Non-binary,Software Engineer,Education,31,Remote,57,3,High,Burnout,Unsatisfied,1,Weekly,Good,Oceania
+51,Non-binary,Sales,Finance,34,Hybrid,29,2,Medium,Depression,Satisfied,3,Daily,Poor,Oceania
+57,Prefer not to say,Marketing,Finance,3,Remote,48,6,Medium,Depression,Unsatisfied,2,Daily,Good,Oceania
+44,Male,Data Scientist,Retail,21,Onsite,53,15,Low,Depression,Satisfied,5,None,Average,Oceania
+40,Female,Project Manager,Finance,27,Remote,41,4,High,Depression,Neutral,2,Daily,Poor,Oceania
+56,Male,Marketing,Finance,33,Remote,25,12,Low,None,Neutral,4,None,Average,Oceania
+57,Male,HR,Manufacturing,21,Onsite,42,15,Medium,Depression,Satisfied,3,None,Good,Oceania
+32,Male,Project Manager,Education,1,Onsite,23,14,Low,None,Unsatisfied,2,Daily,Poor,Oceania
+40,Female,Data Scientist,Healthcare,9,Remote,52,0,High,Depression,Neutral,3,Daily,Average,Oceania
+52,Non-binary,Data Scientist,Healthcare,30,Remote,32,7,Medium,Anxiety,Neutral,4,Daily,Good,Oceania
+58,Female,Marketing,Manufacturing,25,Remote,55,1,Medium,None,Unsatisfied,5,Daily,Poor,Oceania
+28,Non-binary,Designer,Finance,7,Remote,59,6,Low,Anxiety,Unsatisfied,1,Daily,Average,Oceania
+26,Female,Designer,IT,32,Hybrid,21,8,High,Anxiety,Unsatisfied,4,Daily,Good,Oceania
+38,Prefer not to say,HR,Consulting,6,Onsite,56,9,High,Burnout,Satisfied,3,None,Good,Oceania
+48,Prefer not to say,Project Manager,Finance,26,Onsite,40,4,High,Anxiety,Satisfied,1,None,Average,Oceania
+37,Female,Software Engineer,Education,25,Hybrid,57,2,High,Anxiety,Unsatisfied,1,Weekly,Good,Oceania
+40,Female,Data Scientist,Manufacturing,31,Remote,56,4,Low,Depression,Satisfied,2,Weekly,Good,Oceania
+39,Non-binary,Project Manager,Manufacturing,1,Onsite,45,5,High,Depression,Neutral,4,None,Average,Oceania
+26,Non-binary,Data Scientist,Healthcare,18,Remote,53,4,Low,Depression,Unsatisfied,4,Daily,Good,Oceania
+55,Male,Data Scientist,Manufacturing,19,Remote,20,6,High,None,Unsatisfied,3,Daily,Average,Oceania
+38,Prefer not to say,Sales,Healthcare,24,Remote,20,1,Low,Depression,Unsatisfied,4,Daily,Poor,Oceania
+52,Non-binary,Marketing,Retail,32,Hybrid,34,12,Medium,Burnout,Unsatisfied,1,Weekly,Good,Oceania
+60,Prefer not to say,Project Manager,Education,23,Onsite,31,4,Low,Burnout,Neutral,3,Weekly,Average,Oceania
+33,Female,Sales,Finance,13,Onsite,21,3,Medium,None,Satisfied,5,Daily,Poor,Oceania
+53,Male,Data Scientist,Healthcare,1,Hybrid,39,6,Low,Anxiety,Unsatisfied,3,None,Good,Oceania
+37,Female,Designer,Retail,10,Remote,48,12,Low,Anxiety,Unsatisfied,2,Daily,Average,Oceania
+28,Non-binary,Designer,Manufacturing,2,Onsite,28,2,High,None,Unsatisfied,1,Weekly,Average,Oceania
+49,Female,Designer,Manufacturing,15,Remote,50,9,Low,Depression,Neutral,3,None,Poor,Oceania
+47,Female,HR,Finance,10,Remote,21,15,Medium,Burnout,Satisfied,2,Weekly,Average,Oceania
+57,Prefer not to say,Project Manager,Finance,23,Onsite,20,6,Medium,None,Neutral,4,Daily,Poor,Oceania
+34,Non-binary,Designer,IT,13,Hybrid,50,15,High,Burnout,Neutral,5,None,Good,Oceania
+52,Female,Marketing,Education,18,Onsite,51,9,Medium,None,Unsatisfied,2,Daily,Good,Oceania
+30,Non-binary,Data Scientist,IT,27,Onsite,48,5,Low,Burnout,Satisfied,4,Weekly,Average,Oceania
+59,Female,Project Manager,IT,12,Remote,49,9,High,None,Unsatisfied,4,None,Good,Oceania
+60,Prefer not to say,Designer,Retail,35,Onsite,47,15,High,None,Neutral,5,Daily,Good,Oceania
+37,Prefer not to say,Designer,Healthcare,17,Hybrid,58,10,Low,Anxiety,Unsatisfied,4,Daily,Good,Oceania
+40,Prefer not to say,Data Scientist,Education,18,Onsite,42,3,Medium,Burnout,Neutral,4,Daily,Average,Oceania
+30,Non-binary,Data Scientist,Healthcare,21,Onsite,48,1,Medium,Burnout,Neutral,3,Daily,Good,Oceania
+25,Male,Software Engineer,Consulting,30,Hybrid,20,14,Medium,None,Neutral,1,Daily,Poor,Oceania
+22,Non-binary,Project Manager,Retail,26,Onsite,39,15,High,None,Satisfied,1,None,Good,Oceania
+32,Non-binary,Marketing,Manufacturing,17,Remote,33,1,Medium,None,Unsatisfied,5,None,Poor,Oceania
+57,Prefer not to say,Data Scientist,IT,14,Onsite,24,8,Low,Burnout,Satisfied,5,Daily,Poor,Oceania
+57,Non-binary,Designer,Healthcare,23,Onsite,25,9,High,Anxiety,Satisfied,3,Daily,Good,Oceania
+35,Non-binary,Data Scientist,Education,6,Remote,27,5,Low,None,Unsatisfied,2,Daily,Average,Oceania
+29,Non-binary,Marketing,Healthcare,26,Onsite,21,8,Medium,Anxiety,Neutral,5,Daily,Average,Oceania
+38,Non-binary,Software Engineer,Consulting,28,Remote,24,12,Medium,Anxiety,Unsatisfied,4,Daily,Average,Oceania
+35,Prefer not to say,HR,Manufacturing,24,Hybrid,35,9,High,Burnout,Unsatisfied,5,None,Good,Oceania
+34,Male,Software Engineer,Finance,15,Onsite,29,13,Medium,Burnout,Satisfied,1,Daily,Good,Oceania
+44,Female,Sales,Education,26,Onsite,23,8,Medium,Burnout,Satisfied,4,Daily,Good,Oceania
+52,Female,Designer,Retail,20,Remote,45,11,Low,Anxiety,Neutral,4,Weekly,Good,Oceania
+60,Prefer not to say,Designer,Retail,24,Onsite,36,11,High,Depression,Satisfied,1,Daily,Average,Oceania
+25,Male,Marketing,Manufacturing,14,Onsite,29,5,Low,Anxiety,Unsatisfied,4,Weekly,Poor,Oceania
+48,Prefer not to say,HR,Consulting,22,Onsite,43,10,High,None,Unsatisfied,2,Daily,Poor,Oceania
+37,Prefer not to say,Data Scientist,Healthcare,28,Hybrid,54,14,Low,Anxiety,Neutral,2,Daily,Average,Oceania
+43,Male,Marketing,Finance,16,Onsite,40,12,Medium,Depression,Satisfied,1,Weekly,Average,Oceania
+23,Non-binary,Software Engineer,Retail,8,Hybrid,20,7,High,None,Neutral,2,Daily,Good,Oceania
+49,Prefer not to say,Project Manager,Manufacturing,18,Remote,60,14,Medium,Depression,Neutral,1,None,Poor,Oceania
+30,Prefer not to say,Marketing,IT,1,Remote,40,2,Medium,Depression,Unsatisfied,4,Weekly,Poor,Oceania
+50,Prefer not to say,Data Scientist,Education,21,Onsite,38,8,Medium,Burnout,Neutral,5,Daily,Good,Oceania
+39,Female,Designer,Finance,17,Remote,38,5,Low,None,Satisfied,1,None,Average,Oceania
+58,Male,Marketing,Manufacturing,4,Remote,31,7,High,None,Satisfied,1,Weekly,Poor,Oceania
+54,Prefer not to say,Designer,Retail,18,Onsite,30,2,Medium,Depression,Satisfied,5,Weekly,Poor,Oceania
+52,Female,Designer,Finance,14,Remote,28,8,High,None,Satisfied,3,Weekly,Average,Oceania
+59,Non-binary,Software Engineer,Consulting,19,Remote,27,12,High,Depression,Satisfied,2,Daily,Good,Oceania
+25,Prefer not to say,Data Scientist,Consulting,7,Onsite,46,2,Medium,Burnout,Satisfied,5,Weekly,Poor,Oceania
+30,Prefer not to say,Sales,Education,23,Onsite,54,5,Medium,None,Satisfied,3,Daily,Average,Oceania
+54,Non-binary,Software Engineer,Education,21,Hybrid,59,1,Low,Depression,Satisfied,2,None,Poor,Oceania
+60,Prefer not to say,Project Manager,Education,15,Hybrid,40,11,High,None,Satisfied,5,None,Good,Oceania
+44,Male,Sales,Healthcare,34,Onsite,30,4,Medium,Anxiety,Neutral,3,Weekly,Average,Oceania
+53,Prefer not to say,Marketing,IT,27,Hybrid,29,4,Low,Anxiety,Satisfied,5,Weekly,Average,Oceania
+25,Female,Project Manager,Manufacturing,5,Remote,26,12,Low,Depression,Neutral,1,Weekly,Average,Oceania
+26,Prefer not to say,Software Engineer,IT,2,Remote,50,8,Medium,Burnout,Neutral,1,Weekly,Average,Oceania
+41,Prefer not to say,Project Manager,Finance,29,Hybrid,34,6,Low,Depression,Satisfied,5,Weekly,Poor,Oceania
+40,Female,Software Engineer,Manufacturing,23,Hybrid,38,14,Medium,Anxiety,Neutral,1,Weekly,Average,Oceania
+24,Prefer not to say,Designer,Finance,35,Hybrid,39,12,Low,None,Satisfied,5,Daily,Poor,Oceania
+36,Male,Sales,Education,25,Hybrid,50,4,Low,Anxiety,Satisfied,1,Weekly,Good,Oceania
+51,Female,Software Engineer,Consulting,14,Remote,31,0,Medium,Depression,Unsatisfied,1,Weekly,Average,Oceania
+40,Non-binary,Designer,Manufacturing,35,Onsite,30,0,Medium,Depression,Unsatisfied,1,None,Good,Oceania
+48,Prefer not to say,HR,Manufacturing,5,Remote,33,9,Low,Anxiety,Satisfied,1,None,Average,Oceania
+29,Female,Software Engineer,Manufacturing,5,Remote,33,14,Medium,Burnout,Satisfied,2,Weekly,Good,Oceania
+49,Non-binary,Project Manager,Retail,4,Remote,38,6,Medium,None,Neutral,1,Weekly,Poor,Oceania
+23,Male,Sales,IT,27,Hybrid,42,13,Low,Depression,Neutral,3,Weekly,Average,Oceania
+23,Male,Project Manager,Manufacturing,34,Hybrid,56,10,Medium,Depression,Neutral,1,None,Poor,Oceania
+39,Prefer not to say,Project Manager,Finance,7,Hybrid,52,0,High,None,Satisfied,1,None,Good,Oceania
+44,Prefer not to say,Sales,Education,27,Remote,29,10,High,Anxiety,Unsatisfied,3,Daily,Poor,Oceania
+51,Female,Data Scientist,Manufacturing,6,Hybrid,54,1,Medium,Anxiety,Neutral,2,Daily,Poor,Oceania
+57,Male,Data Scientist,Education,25,Onsite,29,12,Low,Depression,Satisfied,5,Weekly,Average,Oceania
+32,Prefer not to say,Data Scientist,Finance,11,Hybrid,24,14,Low,None,Unsatisfied,1,Weekly,Poor,Oceania
+31,Male,Project Manager,Finance,30,Onsite,56,4,High,Anxiety,Neutral,4,None,Average,Oceania
+54,Female,Designer,Healthcare,13,Remote,30,12,High,Burnout,Unsatisfied,4,Daily,Average,Oceania
+54,Prefer not to say,HR,Education,6,Onsite,59,12,High,Depression,Satisfied,5,Daily,Average,Oceania
+56,Prefer not to say,Data Scientist,Healthcare,24,Remote,33,10,High,Burnout,Satisfied,2,Weekly,Poor,Oceania
+58,Female,Marketing,Consulting,7,Hybrid,41,10,Medium,Anxiety,Unsatisfied,4,Weekly,Average,Oceania
+60,Non-binary,Sales,Education,16,Remote,51,14,Medium,Burnout,Satisfied,4,None,Poor,Oceania
+24,Female,Project Manager,Finance,9,Onsite,39,6,Medium,Depression,Satisfied,3,Daily,Average,Oceania
+42,Male,HR,Finance,5,Onsite,44,0,High,Burnout,Neutral,3,None,Poor,Oceania
+33,Female,Project Manager,Manufacturing,1,Hybrid,46,9,High,Burnout,Neutral,3,None,Average,Oceania
+30,Male,HR,Retail,17,Remote,25,12,Low,None,Unsatisfied,2,Weekly,Good,Oceania
+25,Prefer not to say,Software Engineer,Finance,30,Hybrid,57,13,Low,Anxiety,Unsatisfied,2,Weekly,Poor,Oceania
+57,Female,Data Scientist,IT,29,Hybrid,44,2,Low,Depression,Satisfied,2,Weekly,Poor,Oceania
+26,Female,Data Scientist,Manufacturing,4,Onsite,41,11,High,Burnout,Unsatisfied,3,None,Average,Oceania
+38,Prefer not to say,Software Engineer,IT,31,Onsite,38,2,High,Burnout,Unsatisfied,2,Daily,Poor,Oceania
+50,Female,Designer,Retail,11,Hybrid,35,1,Medium,Burnout,Satisfied,4,None,Good,Oceania
+41,Non-binary,Project Manager,Retail,7,Hybrid,46,2,Low,None,Unsatisfied,2,None,Good,Oceania
+53,Prefer not to say,Software Engineer,Retail,20,Onsite,32,5,Low,Anxiety,Neutral,5,Daily,Average,Oceania
+57,Male,Marketing,Consulting,17,Onsite,58,15,Medium,Anxiety,Satisfied,3,Weekly,Poor,Oceania
+60,Female,Data Scientist,IT,9,Hybrid,57,4,Low,Burnout,Satisfied,5,Weekly,Average,Oceania
+40,Prefer not to say,Marketing,IT,17,Hybrid,52,1,Medium,Burnout,Neutral,5,Daily,Good,Oceania
+42,Female,Sales,Healthcare,21,Hybrid,34,1,High,Burnout,Satisfied,1,Daily,Poor,Oceania

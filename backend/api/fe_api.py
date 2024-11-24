@@ -1,10 +1,12 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
 import app as openaiservice
 import os
 from pathlib import Path
 import duckdb
 import time
+
+
 
 # Get the path of the current script
 script_dir = Path(__file__).resolve().parent
@@ -17,6 +19,9 @@ CORS(app)
 # Custom error messages
 def error_response(message, status_code):
     return jsonify({"error": message}), status_code
+
+vectorstore = openaiservice.get_documents()
+rag_pipeline = openaiservice.create_llm(vectorstore)
 
 # Endpoint to handle free text data
 @app.route('/api/prompt', methods=['POST'])
@@ -40,12 +45,15 @@ def process_text():
         # Process the 'prompt' field
         step_start = time.time()
         user_prompt = request_data['prompt']
-        user_dataset = request_data['datasetName']
-        print(f"Step: Extract 'prompt' and 'datasetName' took {time.time() - step_start:.4f} seconds")
+        print(f"Step: Extract 'prompt' took {time.time() - step_start:.4f} seconds")
 
+
+        documents_paths = openaiservice.get_document_paths_from_rag(rag_pipeline, user_prompt)
+        print(documents_paths)
+        df, columns, description, unique_values = openaiservice.load_and_concatenate_csvs(documents_paths)
         # Load dataset
         step_start = time.time()
-        df, columns, description, unique_values = openaiservice.get_dataset(DATASETS_PATH / '{}'.format(user_dataset))
+        # df, columns, description, unique_values = openaiservice.get_dataset(DATASETS_PATH / '{}'.format(user_dataset))
         print(f"Step: Load dataset took {time.time() - step_start:.4f} seconds")
 
         # Generate query
@@ -53,6 +61,15 @@ def process_text():
         prompt1_result = openaiservice.generate_pandas_query(columns, description, unique_values, user_prompt)
         print(prompt1_result)
         print(f"Step: Generate Pandas query took {time.time() - step_start:.4f} seconds")
+        
+       # Check if "select" is in the result
+        try:
+            if "select" not in prompt1_result.lower():
+                raise Exception("Invalid query")
+        except Exception as e:
+            print(f"Query generation error: {e}")
+            return error_response(str(e), 404)
+
 
         # Execute query
         step_start = time.time()
@@ -83,7 +100,7 @@ def process_text():
 
     except Exception as e:
         # Handle unexpected errors
-        return error_response(f"An unexpected error occurred: {str(e)}", 500)
+        return error_response("Invalid prompt", 500)
       
 
 @app.route('/api/datasets', methods=['GET'])
@@ -110,6 +127,7 @@ def get_files():
 
 @app.route('/api/upload', methods=['POST'])
 def upload_file():
+    global vectorstore, rag_pipeline
     """
     Endpoint to upload a file to the data directory.
     """
@@ -127,6 +145,9 @@ def upload_file():
         # Save the file to the DATA_DIRECTORY
         file_path = os.path.join(DATASETS_PATH, file.filename)
         file.save(file_path)
+
+        vectorstore = openaiservice.get_documents()
+        rag_pipeline = openaiservice.create_llm(vectorstore)
         
         # Return a success message
         return jsonify({"message": f"File {file.filename} uploaded successfully"}), 201

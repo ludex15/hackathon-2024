@@ -1,0 +1,841 @@
+Age,Gender,Job_Role,Industry,Years_of_Experience,Work_Location,Hours_Worked_Per_Week,Number_of_Virtual_Meetings,Stress_Level,Mental_Health_Condition,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Physical_Activity,Sleep_Quality,Region
+32,Non-binary,HR,Healthcare,13,Hybrid,47,7,Medium,Depression,Unsatisfied,1,Weekly,Good,Europe
+27,Male,Software Engineer,Finance,20,Onsite,32,8,High,Depression,Unsatisfied,3,None,Poor,Europe
+56,Prefer not to say,Data Scientist,Healthcare,9,Hybrid,24,4,High,None,Unsatisfied,4,Daily,Poor,Europe
+40,Female,Marketing,Consulting,1,Remote,21,7,High,Depression,Neutral,1,Weekly,Good,Europe
+45,Non-binary,Data Scientist,Consulting,20,Onsite,37,8,Low,Burnout,Neutral,5,Weekly,Good,Europe
+47,Prefer not to say,Sales,IT,22,Onsite,33,10,High,Depression,Satisfied,1,Daily,Poor,Europe
+36,Male,Designer,IT,24,Hybrid,22,6,Medium,Depression,Unsatisfied,3,Weekly,Average,Europe
+46,Prefer not to say,Sales,Healthcare,28,Hybrid,57,8,Low,None,Neutral,5,None,Poor,Europe
+30,Non-binary,Data Scientist,IT,22,Remote,44,15,High,Burnout,Neutral,5,Daily,Poor,Europe
+54,Prefer not to say,Project Manager,Finance,26,Remote,58,6,High,None,Unsatisfied,3,Weekly,Poor,Europe
+54,Female,Designer,Manufacturing,12,Remote,53,12,Medium,Depression,Unsatisfied,3,None,Average,Europe
+35,Male,Project Manager,Retail,11,Onsite,37,3,Medium,Burnout,Satisfied,3,None,Average,Europe
+26,Non-binary,HR,Manufacturing,34,Onsite,28,10,High,Anxiety,Satisfied,4,Daily,Good,Europe
+25,Non-binary,Sales,Consulting,4,Hybrid,33,14,Medium,Depression,Unsatisfied,2,Daily,Good,Europe
+56,Male,HR,Finance,9,Remote,31,3,Medium,Anxiety,Satisfied,4,Weekly,Poor,Europe
+31,Non-binary,HR,Consulting,4,Onsite,55,8,High,Depression,Unsatisfied,2,Weekly,Good,Europe
+26,Female,Project Manager,Healthcare,15,Hybrid,43,6,High,Burnout,Unsatisfied,3,None,Poor,Europe
+46,Non-binary,Data Scientist,Education,34,Remote,54,12,High,Depression,Satisfied,4,None,Average,Europe
+44,Prefer not to say,Software Engineer,Healthcare,27,Hybrid,44,2,High,Anxiety,Satisfied,5,Weekly,Poor,Europe
+45,Female,Marketing,Retail,10,Remote,30,7,Low,Depression,Satisfied,5,None,Poor,Europe
+45,Prefer not to say,Data Scientist,Retail,21,Onsite,53,0,Low,None,Neutral,5,Daily,Poor,Europe
+58,Female,Data Scientist,Education,25,Remote,42,13,High,Burnout,Satisfied,3,Daily,Good,Europe
+38,Female,Data Scientist,Manufacturing,1,Hybrid,22,4,Medium,Burnout,Satisfied,3,Daily,Average,Europe
+43,Non-binary,Marketing,Retail,18,Hybrid,48,6,High,Depression,Unsatisfied,3,None,Good,Europe
+51,Female,Project Manager,Finance,21,Remote,34,0,High,None,Unsatisfied,2,None,Average,Europe
+27,Female,Designer,Consulting,15,Onsite,46,12,Medium,Burnout,Unsatisfied,2,Daily,Poor,Europe
+26,Non-binary,Marketing,Manufacturing,29,Hybrid,29,4,Low,None,Satisfied,2,Weekly,Good,Europe
+23,Female,Designer,Manufacturing,11,Hybrid,23,0,High,None,Unsatisfied,1,Weekly,Poor,Europe
+48,Non-binary,Marketing,Consulting,5,Remote,41,8,Medium,Depression,Satisfied,4,Weekly,Poor,Europe
+34,Prefer not to say,HR,Healthcare,15,Remote,50,13,Medium,None,Satisfied,2,Daily,Average,Europe
+50,Prefer not to say,Project Manager,Manufacturing,10,Hybrid,50,0,Low,Burnout,Satisfied,3,Daily,Poor,Europe
+36,Male,Data Scientist,Retail,33,Onsite,45,3,Medium,Depression,Unsatisfied,4,None,Good,Europe
+34,Non-binary,HR,Education,10,Onsite,60,3,Low,None,Unsatisfied,5,Daily,Good,Europe
+32,Prefer not to say,Project Manager,Healthcare,12,Remote,35,7,Low,Anxiety,Satisfied,4,Daily,Average,Europe
+40,Female,Project Manager,Finance,31,Onsite,47,10,Medium,None,Neutral,2,Weekly,Good,Europe
+30,Non-binary,Data Scientist,IT,22,Remote,43,5,Medium,Burnout,Neutral,2,Daily,Poor,Europe
+26,Male,Designer,Healthcare,21,Onsite,56,14,Low,Burnout,Satisfied,1,Weekly,Average,Europe
+24,Prefer not to say,HR,Manufacturing,13,Hybrid,60,0,Medium,Depression,Neutral,2,Daily,Good,Europe
+46,Female,Data Scientist,Finance,11,Hybrid,20,14,Low,None,Satisfied,2,Daily,Average,Europe
+35,Male,Designer,Retail,2,Remote,36,14,Low,Burnout,Unsatisfied,2,Weekly,Good,Europe
+49,Male,Project Manager,Manufacturing,31,Onsite,56,3,High,Anxiety,Satisfied,4,Daily,Poor,Europe
+27,Prefer not to say,Project Manager,Healthcare,22,Hybrid,52,3,Low,Anxiety,Satisfied,5,Weekly,Good,Europe
+25,Non-binary,Software Engineer,Manufacturing,22,Remote,47,9,Medium,Burnout,Neutral,4,None,Good,Europe
+38,Prefer not to say,Data Scientist,Education,35,Onsite,33,4,Low,Anxiety,Neutral,2,Daily,Average,Europe
+42,Female,HR,Manufacturing,10,Hybrid,48,14,Low,Burnout,Satisfied,1,Weekly,Good,Europe
+25,Male,HR,Healthcare,33,Hybrid,51,7,Medium,Depression,Neutral,1,Weekly,Average,Europe
+55,Female,Software Engineer,Manufacturing,13,Remote,32,11,Medium,Depression,Satisfied,4,Daily,Average,Europe
+37,Prefer not to say,Sales,Retail,32,Remote,56,3,High,Burnout,Neutral,1,Weekly,Poor,Europe
+54,Prefer not to say,Marketing,Retail,10,Onsite,51,0,Medium,Anxiety,Unsatisfied,2,Daily,Average,Europe
+57,Non-binary,Sales,Manufacturing,32,Remote,49,2,Medium,Anxiety,Satisfied,5,None,Average,Europe
+50,Prefer not to say,Sales,Retail,21,Onsite,34,5,Medium,Depression,Satisfied,4,Weekly,Good,Europe
+58,Female,Marketing,Retail,12,Onsite,36,7,Medium,Burnout,Unsatisfied,3,None,Poor,Europe
+27,Non-binary,Designer,Finance,34,Onsite,36,10,Low,Depression,Satisfied,4,Daily,Good,Europe
+58,Male,Designer,Education,10,Remote,60,7,Medium,Depression,Satisfied,3,Daily,Average,Europe
+42,Male,Sales,IT,32,Hybrid,53,12,High,None,Satisfied,3,Weekly,Average,Europe
+27,Male,Marketing,Healthcare,33,Hybrid,26,5,Low,Depression,Unsatisfied,4,Weekly,Average,Europe
+42,Female,Marketing,IT,11,Hybrid,28,14,Low,None,Satisfied,2,None,Poor,Europe
+48,Non-binary,HR,IT,2,Remote,56,13,Medium,Depression,Unsatisfied,5,Daily,Poor,Europe
+27,Prefer not to say,Data Scientist,Finance,16,Onsite,50,3,High,Burnout,Unsatisfied,5,Weekly,Good,Europe
+60,Male,HR,Education,6,Remote,37,7,Medium,Anxiety,Unsatisfied,2,Weekly,Poor,Europe
+48,Prefer not to say,HR,Retail,4,Hybrid,53,15,Low,None,Neutral,2,Weekly,Good,Europe
+38,Male,Sales,Education,25,Remote,44,10,Medium,Depression,Satisfied,5,Daily,Average,Europe
+31,Female,Sales,Finance,32,Hybrid,31,15,Low,Depression,Unsatisfied,1,None,Good,Europe
+56,Prefer not to say,HR,Finance,13,Hybrid,56,0,Medium,Depression,Satisfied,2,Daily,Good,Europe
+51,Female,Sales,Consulting,10,Hybrid,39,2,Medium,None,Satisfied,5,None,Average,Europe
+45,Male,Marketing,Manufacturing,28,Onsite,53,2,Medium,Depression,Neutral,2,None,Poor,Europe
+55,Non-binary,Sales,IT,32,Hybrid,33,11,Medium,Anxiety,Neutral,1,Daily,Good,Europe
+57,Prefer not to say,Marketing,Healthcare,16,Onsite,51,7,Medium,None,Unsatisfied,4,Weekly,Good,Europe
+30,Female,Designer,Healthcare,2,Remote,52,0,High,Burnout,Unsatisfied,5,Daily,Good,Europe
+28,Prefer not to say,Sales,Education,5,Remote,55,9,Medium,Anxiety,Satisfied,4,None,Poor,Europe
+37,Male,Software Engineer,Retail,31,Onsite,54,8,Medium,Burnout,Satisfied,1,Weekly,Poor,Europe
+30,Female,Data Scientist,Consulting,9,Hybrid,33,11,Low,Burnout,Unsatisfied,1,Daily,Average,Europe
+36,Male,Project Manager,Retail,4,Hybrid,21,4,High,Burnout,Neutral,1,None,Poor,Europe
+58,Prefer not to say,Designer,Manufacturing,17,Hybrid,28,13,Medium,Burnout,Neutral,5,Daily,Good,Europe
+57,Female,Designer,Healthcare,22,Hybrid,56,3,High,Burnout,Unsatisfied,1,Weekly,Poor,Europe
+42,Female,HR,Manufacturing,33,Hybrid,24,0,High,None,Neutral,1,None,Good,Europe
+22,Prefer not to say,Software Engineer,Healthcare,6,Remote,43,3,Medium,None,Unsatisfied,4,Daily,Good,Europe
+52,Non-binary,Sales,Education,25,Onsite,26,15,Medium,Burnout,Neutral,3,None,Average,Europe
+26,Male,Project Manager,Education,21,Hybrid,24,13,High,None,Unsatisfied,4,None,Average,Europe
+23,Prefer not to say,Sales,Finance,4,Remote,31,15,Low,Burnout,Neutral,3,Weekly,Average,Europe
+37,Non-binary,Sales,Consulting,9,Remote,58,8,High,Anxiety,Satisfied,5,Daily,Poor,Europe
+58,Prefer not to say,HR,Healthcare,29,Remote,25,9,High,Depression,Unsatisfied,1,Weekly,Good,Europe
+42,Prefer not to say,Sales,Manufacturing,28,Onsite,53,4,High,Burnout,Satisfied,3,Daily,Average,Europe
+57,Male,Project Manager,IT,8,Hybrid,56,15,High,Burnout,Unsatisfied,4,None,Poor,Europe
+40,Female,Project Manager,IT,12,Remote,22,5,Medium,Burnout,Satisfied,2,None,Poor,Europe
+36,Non-binary,Designer,Manufacturing,28,Hybrid,48,1,Medium,Burnout,Neutral,2,None,Good,Europe
+54,Prefer not to say,Designer,Healthcare,27,Remote,20,1,High,Burnout,Satisfied,3,None,Average,Europe
+55,Female,Sales,Consulting,15,Hybrid,22,9,High,Anxiety,Unsatisfied,2,None,Poor,Europe
+34,Prefer not to say,Marketing,Finance,19,Onsite,58,4,High,None,Unsatisfied,2,None,Average,Europe
+43,Prefer not to say,Project Manager,IT,17,Hybrid,58,2,Medium,Anxiety,Neutral,2,None,Average,Europe
+33,Female,Sales,IT,26,Onsite,43,7,Low,Depression,Neutral,2,Daily,Good,Europe
+50,Male,Designer,Manufacturing,17,Remote,30,14,Medium,None,Satisfied,1,Weekly,Average,Europe
+24,Female,Data Scientist,Consulting,20,Remote,33,14,Low,Anxiety,Satisfied,5,None,Average,Europe
+44,Male,Marketing,Finance,24,Remote,40,4,High,Burnout,Unsatisfied,5,None,Average,Europe
+40,Prefer not to say,HR,Retail,19,Hybrid,28,4,Low,None,Neutral,2,None,Average,Europe
+58,Female,Data Scientist,Consulting,7,Onsite,53,2,Low,Burnout,Unsatisfied,1,None,Good,Europe
+36,Non-binary,Sales,Healthcare,22,Hybrid,50,3,Low,Anxiety,Satisfied,5,Daily,Average,Europe
+40,Non-binary,Designer,Consulting,18,Remote,27,1,Medium,Depression,Unsatisfied,2,None,Average,Europe
+59,Female,HR,IT,32,Remote,47,10,Low,Depression,Neutral,3,Daily,Good,Europe
+33,Non-binary,Software Engineer,Retail,6,Onsite,45,2,Medium,Anxiety,Unsatisfied,5,Daily,Good,Europe
+23,Prefer not to say,Marketing,Retail,15,Onsite,34,4,High,None,Satisfied,5,Weekly,Average,Europe
+57,Male,Marketing,IT,28,Hybrid,33,3,Medium,Depression,Neutral,1,Daily,Average,Europe
+60,Male,Designer,IT,11,Hybrid,50,2,Medium,None,Unsatisfied,5,None,Average,Europe
+60,Prefer not to say,Software Engineer,Finance,20,Onsite,44,6,Low,None,Unsatisfied,3,Daily,Poor,Europe
+45,Male,Designer,Retail,18,Remote,55,8,Medium,Burnout,Unsatisfied,4,None,Average,Europe
+28,Prefer not to say,Sales,Manufacturing,10,Hybrid,30,2,Low,Anxiety,Unsatisfied,3,None,Poor,Europe
+50,Non-binary,Sales,Finance,12,Remote,25,10,High,Anxiety,Satisfied,4,Weekly,Average,Europe
+43,Prefer not to say,Project Manager,Healthcare,35,Hybrid,29,4,Low,Anxiety,Unsatisfied,1,None,Poor,Europe
+30,Prefer not to say,Marketing,Manufacturing,23,Hybrid,59,2,Medium,Burnout,Unsatisfied,3,Daily,Average,Europe
+43,Female,Sales,Education,13,Onsite,20,5,Low,Burnout,Neutral,1,Daily,Good,Europe
+53,Prefer not to say,Sales,Manufacturing,3,Hybrid,53,7,High,Burnout,Unsatisfied,3,Daily,Poor,Europe
+35,Male,Designer,IT,35,Remote,23,10,Low,Anxiety,Unsatisfied,5,Weekly,Good,Europe
+50,Non-binary,Sales,Retail,30,Hybrid,27,15,Medium,None,Unsatisfied,4,None,Poor,Europe
+48,Female,HR,Manufacturing,1,Remote,53,2,High,Anxiety,Satisfied,2,Weekly,Poor,Europe
+40,Female,Software Engineer,Manufacturing,19,Remote,38,0,High,Burnout,Unsatisfied,4,Weekly,Good,Europe
+36,Female,Project Manager,Education,20,Onsite,54,15,Medium,Burnout,Satisfied,2,None,Good,Europe
+45,Male,Data Scientist,IT,5,Remote,27,9,High,Burnout,Neutral,5,Daily,Good,Europe
+54,Non-binary,HR,Retail,32,Remote,55,5,Low,None,Satisfied,4,Weekly,Good,Europe
+47,Non-binary,Software Engineer,Retail,9,Onsite,54,14,High,Burnout,Neutral,3,Daily,Good,Europe
+42,Prefer not to say,Software Engineer,Education,5,Remote,57,12,Medium,Depression,Unsatisfied,4,Weekly,Good,Europe
+22,Non-binary,Designer,Retail,27,Remote,25,12,High,Burnout,Satisfied,2,Weekly,Poor,Europe
+32,Non-binary,HR,IT,33,Remote,52,3,High,Depression,Satisfied,2,Daily,Poor,Europe
+43,Male,Data Scientist,Consulting,32,Hybrid,40,7,Medium,Depression,Unsatisfied,1,Weekly,Average,Europe
+54,Non-binary,HR,Retail,16,Hybrid,57,6,Low,None,Unsatisfied,1,Daily,Average,Europe
+29,Male,HR,IT,29,Onsite,44,4,Medium,Depression,Satisfied,1,Weekly,Poor,Europe
+54,Prefer not to say,Software Engineer,Retail,8,Hybrid,30,9,Low,Burnout,Neutral,4,Daily,Poor,Europe
+28,Male,Designer,Healthcare,15,Hybrid,38,8,Medium,Burnout,Unsatisfied,4,Weekly,Good,Europe
+49,Prefer not to say,HR,Consulting,1,Hybrid,54,14,Low,Depression,Neutral,1,None,Average,Europe
+49,Male,Marketing,Manufacturing,27,Hybrid,37,13,Medium,Depression,Neutral,5,None,Good,Europe
+55,Non-binary,Software Engineer,Finance,16,Onsite,35,10,Low,Depression,Unsatisfied,4,Daily,Good,Europe
+41,Male,Sales,Healthcare,10,Remote,59,4,Medium,Burnout,Unsatisfied,3,Weekly,Average,Europe
+53,Non-binary,Project Manager,Consulting,19,Onsite,45,6,Medium,None,Satisfied,2,Weekly,Average,Europe
+43,Male,Designer,IT,11,Remote,34,9,Medium,Depression,Unsatisfied,3,None,Good,Europe
+53,Male,HR,IT,1,Hybrid,32,9,Medium,None,Unsatisfied,5,Daily,Average,Europe
+22,Female,Data Scientist,IT,13,Onsite,59,14,High,None,Neutral,1,Weekly,Poor,Europe
+33,Male,Designer,Retail,24,Hybrid,23,15,High,Anxiety,Neutral,1,None,Average,Europe
+41,Non-binary,Marketing,Retail,20,Onsite,34,8,Low,Anxiety,Satisfied,1,Weekly,Average,Europe
+40,Female,Marketing,Consulting,3,Remote,45,0,Medium,Anxiety,Neutral,3,Daily,Good,Europe
+40,Non-binary,Marketing,Healthcare,8,Onsite,41,6,Low,None,Satisfied,1,Daily,Good,Europe
+28,Prefer not to say,Software Engineer,IT,15,Remote,42,7,High,None,Satisfied,3,None,Poor,Europe
+25,Prefer not to say,Sales,Education,7,Onsite,48,1,Low,Depression,Satisfied,1,Daily,Poor,Europe
+30,Non-binary,Software Engineer,Finance,13,Onsite,42,10,Low,Burnout,Unsatisfied,4,None,Good,Europe
+46,Male,Data Scientist,Education,23,Onsite,59,6,High,None,Satisfied,4,None,Good,Europe
+46,Female,Marketing,Manufacturing,3,Remote,32,10,Medium,Burnout,Satisfied,4,Daily,Good,Europe
+58,Prefer not to say,Designer,Education,8,Remote,24,9,Low,Anxiety,Unsatisfied,5,None,Good,Europe
+42,Non-binary,Designer,IT,35,Hybrid,56,5,Low,Anxiety,Unsatisfied,3,Weekly,Poor,Europe
+58,Female,Software Engineer,Manufacturing,31,Hybrid,22,6,Medium,Depression,Neutral,3,None,Average,Europe
+48,Prefer not to say,Sales,Healthcare,6,Onsite,45,3,Low,Burnout,Neutral,5,Weekly,Good,Europe
+43,Prefer not to say,HR,IT,30,Onsite,59,11,High,None,Unsatisfied,1,Daily,Poor,Europe
+55,Non-binary,Sales,IT,23,Remote,25,10,Low,Anxiety,Neutral,5,Daily,Good,Europe
+32,Prefer not to say,Marketing,IT,4,Remote,34,7,High,Burnout,Unsatisfied,1,Daily,Good,Europe
+41,Female,HR,IT,5,Remote,29,13,High,None,Satisfied,1,None,Poor,Europe
+48,Prefer not to say,Data Scientist,IT,15,Onsite,21,8,High,None,Satisfied,2,Weekly,Good,Europe
+35,Prefer not to say,Marketing,Healthcare,27,Onsite,20,8,High,Burnout,Unsatisfied,4,None,Poor,Europe
+59,Female,Software Engineer,Education,22,Hybrid,29,2,Medium,Anxiety,Neutral,2,Weekly,Average,Europe
+37,Non-binary,Software Engineer,Retail,2,Remote,34,14,Low,Depression,Satisfied,2,Daily,Average,Europe
+60,Prefer not to say,Project Manager,Healthcare,3,Onsite,30,10,Medium,Depression,Unsatisfied,5,None,Average,Europe
+33,Male,Data Scientist,IT,11,Onsite,58,2,High,Depression,Satisfied,2,Weekly,Average,Europe
+33,Female,Project Manager,IT,5,Remote,51,0,Medium,Burnout,Unsatisfied,1,Daily,Average,Europe
+22,Prefer not to say,Designer,IT,29,Hybrid,21,5,Low,None,Unsatisfied,1,Weekly,Good,Europe
+40,Non-binary,Data Scientist,Education,30,Remote,22,13,Low,Anxiety,Unsatisfied,3,Daily,Average,Europe
+36,Non-binary,HR,Retail,11,Remote,29,4,Low,Depression,Unsatisfied,3,None,Average,Europe
+46,Prefer not to say,Designer,Finance,26,Hybrid,22,13,High,Depression,Satisfied,4,Daily,Good,Europe
+23,Non-binary,Sales,IT,22,Hybrid,32,5,High,Anxiety,Unsatisfied,3,Daily,Average,Europe
+57,Male,Software Engineer,IT,9,Onsite,29,11,Medium,Burnout,Satisfied,3,Daily,Good,Europe
+43,Female,HR,Consulting,24,Remote,22,3,High,Burnout,Satisfied,5,None,Average,Europe
+43,Prefer not to say,HR,Finance,26,Remote,21,0,Medium,Burnout,Satisfied,2,Daily,Average,Europe
+28,Female,Project Manager,IT,19,Remote,50,13,Low,Depression,Unsatisfied,3,Weekly,Poor,Europe
+32,Female,Designer,IT,32,Hybrid,26,5,High,None,Unsatisfied,1,Weekly,Poor,Europe
+28,Female,Data Scientist,Education,14,Onsite,30,9,High,None,Unsatisfied,3,Weekly,Average,Europe
+57,Non-binary,Software Engineer,Finance,17,Onsite,49,6,Low,Depression,Unsatisfied,5,None,Good,Europe
+28,Non-binary,Marketing,Healthcare,2,Remote,48,9,Medium,Anxiety,Neutral,5,None,Poor,Europe
+36,Non-binary,Sales,IT,5,Remote,28,14,Medium,None,Neutral,2,Weekly,Poor,Europe
+25,Prefer not to say,Software Engineer,Education,26,Remote,40,10,High,None,Satisfied,4,Weekly,Average,Europe
+50,Female,Marketing,Finance,13,Hybrid,23,7,Low,Depression,Neutral,5,Weekly,Good,Europe
+37,Male,Software Engineer,Manufacturing,24,Onsite,48,13,High,Anxiety,Satisfied,3,None,Poor,Europe
+31,Male,HR,Finance,14,Hybrid,48,8,Medium,Anxiety,Neutral,1,Weekly,Average,Europe
+22,Prefer not to say,Designer,Healthcare,6,Remote,29,11,High,Burnout,Unsatisfied,1,None,Good,Europe
+45,Non-binary,Project Manager,Education,7,Onsite,51,2,High,Burnout,Unsatisfied,2,None,Average,Europe
+40,Male,Sales,Manufacturing,31,Onsite,46,5,High,Depression,Satisfied,2,None,Poor,Europe
+24,Female,Data Scientist,IT,19,Hybrid,29,6,High,Burnout,Satisfied,2,Daily,Average,Europe
+42,Non-binary,Sales,IT,18,Remote,31,1,Low,Anxiety,Neutral,3,Daily,Average,Europe
+40,Non-binary,Sales,Consulting,10,Remote,60,13,High,Depression,Satisfied,5,None,Average,Europe
+27,Non-binary,Marketing,Finance,20,Hybrid,33,2,High,None,Satisfied,5,Weekly,Average,Europe
+23,Female,HR,IT,13,Onsite,60,8,Low,Anxiety,Neutral,4,None,Good,Europe
+25,Male,Project Manager,IT,10,Onsite,43,12,Low,None,Neutral,1,Daily,Average,Europe
+60,Prefer not to say,Designer,Consulting,20,Hybrid,58,12,High,Anxiety,Neutral,3,Weekly,Poor,Europe
+60,Prefer not to say,Marketing,Retail,11,Remote,28,14,High,Anxiety,Satisfied,5,None,Poor,Europe
+24,Female,Designer,Retail,4,Hybrid,46,5,Medium,None,Neutral,5,None,Good,Europe
+35,Male,HR,Manufacturing,4,Hybrid,49,15,Low,Anxiety,Neutral,5,None,Average,Europe
+27,Non-binary,HR,Education,3,Onsite,24,15,High,Depression,Unsatisfied,4,None,Average,Europe
+23,Female,Data Scientist,Retail,17,Hybrid,47,12,High,Depression,Satisfied,3,None,Good,Europe
+22,Prefer not to say,Marketing,Consulting,24,Onsite,43,14,Medium,None,Satisfied,2,Weekly,Poor,Europe
+22,Prefer not to say,HR,Consulting,24,Onsite,52,6,Medium,Depression,Satisfied,5,Daily,Good,Europe
+42,Prefer not to say,HR,Manufacturing,2,Onsite,57,15,Low,Anxiety,Unsatisfied,1,None,Average,Europe
+57,Male,Software Engineer,Education,6,Remote,51,1,Low,Depression,Satisfied,3,None,Average,Europe
+38,Female,HR,Education,28,Onsite,58,8,Medium,None,Satisfied,4,None,Poor,Europe
+48,Female,Sales,Retail,21,Onsite,45,11,Low,Burnout,Unsatisfied,2,None,Average,Europe
+36,Non-binary,Sales,IT,21,Remote,53,15,Medium,Burnout,Satisfied,1,Weekly,Good,Europe
+30,Female,Software Engineer,Finance,25,Onsite,34,13,High,Depression,Unsatisfied,3,Daily,Good,Europe
+38,Non-binary,Marketing,IT,18,Onsite,45,3,Low,Burnout,Neutral,4,Daily,Good,Europe
+26,Non-binary,Software Engineer,Education,23,Hybrid,59,0,High,Burnout,Satisfied,5,None,Poor,Europe
+46,Male,Software Engineer,Retail,27,Remote,31,9,Medium,Burnout,Satisfied,4,Weekly,Average,Europe
+51,Non-binary,Project Manager,Healthcare,17,Remote,52,4,Low,Burnout,Unsatisfied,4,None,Good,Europe
+25,Prefer not to say,HR,Manufacturing,22,Hybrid,29,9,Medium,Burnout,Unsatisfied,5,Daily,Poor,Europe
+45,Prefer not to say,Marketing,Finance,21,Remote,46,1,Low,Depression,Satisfied,1,Daily,Good,Europe
+27,Female,Sales,Education,21,Onsite,50,12,Medium,Anxiety,Unsatisfied,2,None,Poor,Europe
+43,Prefer not to say,Project Manager,Retail,29,Onsite,21,7,Medium,Anxiety,Satisfied,3,None,Poor,Europe
+26,Non-binary,Designer,Retail,24,Hybrid,22,13,High,Burnout,Neutral,4,Weekly,Poor,Europe
+41,Prefer not to say,Data Scientist,Finance,29,Remote,48,12,High,Burnout,Neutral,5,Daily,Poor,Europe
+23,Male,Project Manager,IT,7,Hybrid,20,10,High,Depression,Neutral,2,Daily,Good,Europe
+59,Non-binary,Designer,Manufacturing,34,Onsite,55,9,Low,Burnout,Satisfied,4,Weekly,Good,Europe
+27,Female,Sales,Consulting,29,Onsite,32,15,Low,Anxiety,Neutral,5,Weekly,Average,Europe
+32,Non-binary,Project Manager,Consulting,25,Remote,34,14,Medium,Depression,Neutral,4,None,Good,Europe
+26,Male,Project Manager,Finance,13,Remote,39,0,Medium,None,Satisfied,5,Daily,Average,Europe
+52,Female,Sales,Education,7,Hybrid,57,6,Medium,Depression,Neutral,5,None,Good,Europe
+55,Non-binary,Software Engineer,Healthcare,28,Onsite,32,1,Low,Anxiety,Satisfied,4,Weekly,Average,Europe
+28,Prefer not to say,Marketing,Healthcare,16,Hybrid,38,11,Low,Anxiety,Unsatisfied,2,Daily,Good,Europe
+27,Non-binary,HR,Consulting,16,Onsite,39,3,Low,Depression,Satisfied,2,None,Good,Europe
+40,Male,Data Scientist,Consulting,1,Hybrid,47,9,Medium,Burnout,Satisfied,2,None,Average,Europe
+57,Female,Data Scientist,Consulting,19,Hybrid,55,7,High,Burnout,Neutral,3,None,Good,Europe
+56,Non-binary,Data Scientist,Finance,22,Hybrid,28,4,Medium,Anxiety,Satisfied,1,None,Poor,Europe
+35,Non-binary,Marketing,IT,21,Hybrid,44,2,Medium,None,Neutral,4,Daily,Average,Europe
+40,Female,Project Manager,Education,16,Onsite,54,0,Medium,Burnout,Neutral,4,Daily,Average,Europe
+24,Non-binary,HR,IT,30,Onsite,25,0,High,Burnout,Satisfied,1,Weekly,Good,Europe
+57,Non-binary,Project Manager,IT,32,Remote,53,9,Medium,None,Unsatisfied,2,Daily,Average,Europe
+44,Prefer not to say,Data Scientist,Healthcare,23,Remote,32,15,High,Burnout,Unsatisfied,5,None,Average,Europe
+42,Non-binary,Software Engineer,Manufacturing,20,Hybrid,44,6,High,Burnout,Neutral,3,Daily,Poor,Europe
+43,Non-binary,Software Engineer,Consulting,25,Onsite,24,5,High,Anxiety,Unsatisfied,4,Weekly,Average,Europe
+58,Male,Sales,Manufacturing,33,Remote,47,14,High,Burnout,Neutral,1,None,Poor,Europe
+44,Female,Data Scientist,Healthcare,7,Remote,49,11,Medium,Anxiety,Satisfied,3,Daily,Good,Europe
+25,Prefer not to say,HR,Manufacturing,6,Remote,20,5,Low,Depression,Neutral,4,None,Good,Europe
+53,Female,Software Engineer,Consulting,32,Hybrid,32,13,High,Depression,Neutral,5,None,Good,Europe
+46,Prefer not to say,Designer,Healthcare,19,Hybrid,26,12,Low,Depression,Satisfied,3,Daily,Poor,Europe
+36,Prefer not to say,Data Scientist,Healthcare,33,Remote,33,0,Medium,Anxiety,Unsatisfied,3,None,Average,Europe
+50,Female,Project Manager,Finance,35,Remote,45,1,Medium,None,Neutral,3,Weekly,Good,Europe
+57,Female,Designer,IT,31,Hybrid,35,6,Low,Burnout,Unsatisfied,3,Daily,Good,Europe
+37,Non-binary,Software Engineer,Manufacturing,27,Hybrid,28,13,Low,None,Neutral,1,None,Good,Europe
+28,Female,Marketing,IT,14,Hybrid,37,10,Medium,None,Satisfied,5,Daily,Good,Europe
+52,Male,Project Manager,Consulting,35,Remote,56,10,Medium,Depression,Unsatisfied,3,Weekly,Poor,Europe
+36,Female,HR,Education,32,Remote,39,5,High,Anxiety,Satisfied,5,None,Poor,Europe
+35,Male,Software Engineer,Consulting,24,Remote,41,4,Low,Burnout,Satisfied,5,Weekly,Good,Europe
+48,Female,Software Engineer,Retail,6,Onsite,20,4,High,Burnout,Unsatisfied,3,Daily,Poor,Europe
+47,Male,Marketing,Retail,21,Hybrid,55,11,Low,Anxiety,Unsatisfied,3,Daily,Poor,Europe
+54,Prefer not to say,Project Manager,IT,35,Hybrid,44,15,High,Anxiety,Unsatisfied,2,None,Average,Europe
+37,Male,Software Engineer,IT,27,Remote,43,11,Low,Burnout,Neutral,2,Weekly,Average,Europe
+23,Female,Marketing,IT,1,Hybrid,33,10,Medium,Burnout,Satisfied,1,Weekly,Poor,Europe
+36,Female,Software Engineer,IT,4,Onsite,49,12,High,Anxiety,Neutral,3,Weekly,Average,Europe
+49,Non-binary,Designer,Finance,11,Hybrid,20,9,Low,None,Satisfied,2,Daily,Good,Europe
+60,Prefer not to say,Designer,Manufacturing,28,Onsite,43,12,High,None,Satisfied,5,Daily,Average,Europe
+28,Male,Marketing,Retail,23,Onsite,55,12,Low,None,Satisfied,3,Weekly,Average,Europe
+45,Female,Data Scientist,Healthcare,20,Remote,31,14,Low,Burnout,Neutral,2,Weekly,Average,Europe
+41,Non-binary,Marketing,Manufacturing,4,Remote,60,11,High,Anxiety,Neutral,3,Daily,Poor,Europe
+27,Male,Software Engineer,IT,29,Remote,44,14,Low,Depression,Unsatisfied,1,Weekly,Poor,Europe
+51,Non-binary,Designer,Finance,25,Remote,60,1,Medium,Burnout,Neutral,3,Weekly,Poor,Europe
+47,Female,Project Manager,Finance,6,Hybrid,53,5,High,None,Unsatisfied,3,Weekly,Good,Europe
+34,Non-binary,Project Manager,IT,10,Hybrid,40,11,High,Anxiety,Neutral,5,Daily,Poor,Europe
+47,Female,Data Scientist,Retail,2,Remote,33,3,High,Depression,Neutral,5,None,Good,Europe
+52,Non-binary,HR,Education,25,Remote,31,7,Low,Burnout,Unsatisfied,4,None,Poor,Europe
+49,Prefer not to say,Marketing,Consulting,30,Onsite,38,3,High,None,Satisfied,4,None,Poor,Europe
+35,Female,Sales,Consulting,35,Hybrid,50,3,Low,Anxiety,Neutral,2,None,Good,Europe
+47,Prefer not to say,Software Engineer,Retail,4,Remote,23,13,Low,None,Unsatisfied,3,Daily,Average,Europe
+25,Prefer not to say,Sales,IT,12,Onsite,44,9,Low,Burnout,Neutral,5,Daily,Poor,Europe
+36,Female,Data Scientist,Retail,2,Hybrid,27,6,Low,Depression,Satisfied,2,Daily,Average,Europe
+26,Female,Designer,Retail,17,Onsite,32,9,Low,Anxiety,Satisfied,1,Weekly,Average,Europe
+56,Male,Data Scientist,Education,8,Onsite,41,15,High,None,Unsatisfied,2,None,Poor,Europe
+33,Female,Project Manager,Manufacturing,16,Remote,34,9,Medium,Burnout,Neutral,5,Daily,Average,Europe
+22,Prefer not to say,Marketing,Manufacturing,8,Hybrid,35,2,Low,Burnout,Unsatisfied,4,Daily,Average,Europe
+55,Prefer not to say,Data Scientist,Consulting,22,Hybrid,36,8,High,Depression,Neutral,3,None,Poor,Europe
+28,Non-binary,Sales,Consulting,23,Remote,43,10,High,Depression,Neutral,1,Daily,Average,Europe
+26,Female,Software Engineer,Healthcare,18,Remote,36,9,Low,Anxiety,Satisfied,2,None,Average,Europe
+54,Prefer not to say,Software Engineer,Consulting,26,Onsite,35,13,Medium,Burnout,Satisfied,3,None,Good,Europe
+55,Prefer not to say,Designer,Manufacturing,19,Remote,22,2,High,Burnout,Neutral,5,None,Poor,Europe
+22,Male,Designer,Healthcare,25,Onsite,41,7,High,None,Satisfied,4,None,Average,Europe
+34,Non-binary,Designer,Healthcare,7,Onsite,28,4,Medium,Depression,Satisfied,4,Daily,Good,Europe
+50,Male,Sales,Finance,18,Onsite,20,2,High,Anxiety,Satisfied,2,None,Poor,Europe
+44,Non-binary,Software Engineer,Consulting,20,Remote,32,4,Medium,Anxiety,Unsatisfied,3,Daily,Average,Europe
+37,Non-binary,Project Manager,Retail,29,Remote,53,5,High,Burnout,Neutral,1,Daily,Poor,Europe
+40,Male,Software Engineer,IT,29,Hybrid,26,3,Low,Anxiety,Unsatisfied,3,None,Good,Europe
+39,Female,Project Manager,IT,31,Hybrid,41,14,Low,Burnout,Satisfied,3,Daily,Average,Europe
+46,Non-binary,Sales,Education,35,Onsite,35,7,High,Burnout,Satisfied,2,Daily,Average,Europe
+37,Prefer not to say,Sales,Healthcare,28,Onsite,44,7,High,Depression,Satisfied,4,None,Poor,Europe
+37,Non-binary,Sales,Finance,11,Hybrid,21,3,Low,Depression,Neutral,3,Daily,Average,Europe
+36,Female,Project Manager,Retail,12,Onsite,29,5,Low,Depression,Neutral,2,None,Poor,Europe
+57,Prefer not to say,Project Manager,IT,13,Remote,38,13,High,Burnout,Neutral,2,Weekly,Average,Europe
+43,Non-binary,Sales,Finance,13,Onsite,44,11,Low,Anxiety,Satisfied,3,None,Good,Europe
+34,Prefer not to say,Software Engineer,Manufacturing,6,Hybrid,36,15,High,Anxiety,Neutral,4,Weekly,Good,Europe
+45,Prefer not to say,Sales,Healthcare,18,Remote,23,14,Medium,Burnout,Neutral,4,Daily,Good,Europe
+54,Female,HR,Healthcare,31,Onsite,50,6,Low,Depression,Satisfied,3,Weekly,Good,Europe
+32,Prefer not to say,Project Manager,IT,32,Hybrid,38,12,High,Burnout,Satisfied,4,Daily,Average,Europe
+34,Prefer not to say,Data Scientist,Consulting,31,Remote,42,7,High,Anxiety,Satisfied,1,None,Average,Europe
+59,Non-binary,Software Engineer,IT,26,Remote,56,13,High,Depression,Satisfied,2,Weekly,Poor,Europe
+45,Male,Software Engineer,Healthcare,24,Remote,34,13,High,Burnout,Unsatisfied,1,None,Poor,Europe
+42,Prefer not to say,Designer,Finance,1,Hybrid,31,10,Low,Anxiety,Satisfied,4,None,Poor,Europe
+40,Prefer not to say,HR,Manufacturing,26,Hybrid,55,7,Medium,None,Satisfied,1,Daily,Good,Europe
+44,Male,Data Scientist,Education,6,Onsite,30,1,Low,Burnout,Neutral,4,Weekly,Average,Europe
+36,Non-binary,HR,Education,35,Onsite,28,5,High,Burnout,Satisfied,1,Weekly,Poor,Europe
+28,Prefer not to say,Data Scientist,Finance,9,Remote,25,2,High,Depression,Satisfied,3,Daily,Good,Europe
+25,Non-binary,Data Scientist,Consulting,15,Hybrid,27,14,Low,None,Neutral,5,Daily,Poor,Europe
+37,Female,Sales,Retail,15,Onsite,25,7,Low,Burnout,Unsatisfied,5,None,Good,Europe
+39,Female,Sales,Education,17,Hybrid,41,9,Medium,Anxiety,Neutral,1,Daily,Poor,Europe
+39,Prefer not to say,Data Scientist,Manufacturing,4,Hybrid,33,12,Medium,Anxiety,Unsatisfied,1,None,Good,Europe
+25,Female,Data Scientist,IT,8,Remote,35,11,High,Depression,Neutral,5,None,Poor,Europe
+55,Female,Sales,Education,16,Onsite,54,15,Low,Anxiety,Satisfied,1,Daily,Average,Europe
+58,Male,Software Engineer,IT,21,Remote,48,11,High,Burnout,Neutral,5,Weekly,Average,Europe
+22,Prefer not to say,Designer,Healthcare,1,Remote,26,7,High,Burnout,Unsatisfied,4,Weekly,Poor,Europe
+47,Prefer not to say,Designer,Healthcare,26,Hybrid,55,15,Medium,Anxiety,Neutral,1,None,Average,Europe
+41,Male,Sales,Consulting,11,Onsite,38,14,High,None,Neutral,2,Daily,Average,Europe
+53,Male,Project Manager,IT,33,Hybrid,41,7,Low,Anxiety,Satisfied,5,Daily,Average,Europe
+38,Male,Data Scientist,Healthcare,30,Hybrid,27,15,High,Depression,Satisfied,3,None,Good,Europe
+35,Prefer not to say,Designer,Education,20,Onsite,59,8,Low,Anxiety,Neutral,3,Daily,Good,Europe
+47,Female,Sales,Consulting,34,Hybrid,33,2,High,Burnout,Unsatisfied,3,Weekly,Good,Europe
+25,Non-binary,Marketing,Manufacturing,17,Remote,47,15,Medium,Depression,Unsatisfied,4,None,Average,Europe
+48,Prefer not to say,Marketing,Healthcare,30,Remote,23,15,Low,Depression,Unsatisfied,5,None,Average,Europe
+42,Male,Designer,Manufacturing,7,Remote,24,2,Low,None,Satisfied,2,Weekly,Poor,Europe
+60,Female,Project Manager,Consulting,9,Hybrid,33,11,High,Depression,Neutral,2,Daily,Good,Europe
+53,Male,HR,Finance,18,Onsite,45,11,Low,Depression,Neutral,4,Daily,Average,Europe
+32,Prefer not to say,Marketing,Healthcare,35,Remote,27,4,Medium,None,Satisfied,4,Daily,Poor,Europe
+50,Female,Software Engineer,Manufacturing,13,Remote,42,5,Low,None,Neutral,1,Weekly,Average,Europe
+47,Male,Software Engineer,Consulting,15,Onsite,28,12,Low,Depression,Unsatisfied,3,None,Good,Europe
+38,Female,Data Scientist,Consulting,4,Hybrid,22,14,High,Burnout,Satisfied,2,None,Poor,Europe
+51,Male,Sales,Manufacturing,20,Remote,41,1,High,Depression,Unsatisfied,2,Daily,Poor,Europe
+36,Male,Designer,Healthcare,13,Onsite,37,13,High,Depression,Satisfied,3,Weekly,Average,Europe
+56,Prefer not to say,Sales,Healthcare,18,Remote,59,14,Medium,Depression,Unsatisfied,3,Weekly,Good,Europe
+47,Non-binary,Sales,Finance,2,Hybrid,46,4,High,None,Unsatisfied,5,Weekly,Average,Europe
+60,Male,Designer,Healthcare,34,Onsite,37,8,High,Burnout,Unsatisfied,5,None,Poor,Europe
+47,Female,HR,Finance,8,Hybrid,33,10,Low,Anxiety,Satisfied,4,Weekly,Good,Europe
+23,Prefer not to say,Marketing,Healthcare,28,Remote,59,14,High,None,Neutral,1,Daily,Good,Europe
+30,Prefer not to say,Data Scientist,Manufacturing,9,Hybrid,58,14,Medium,None,Satisfied,1,None,Average,Europe
+22,Female,Software Engineer,IT,12,Onsite,30,6,Low,None,Neutral,5,Daily,Good,Europe
+24,Male,Software Engineer,Healthcare,32,Hybrid,39,1,High,Anxiety,Neutral,1,None,Poor,Europe
+49,Male,Sales,Finance,10,Onsite,23,4,High,Anxiety,Unsatisfied,5,Daily,Average,Europe
+55,Female,Data Scientist,Finance,10,Hybrid,23,7,Low,None,Unsatisfied,2,Daily,Poor,Europe
+52,Prefer not to say,Data Scientist,Education,23,Remote,26,4,Medium,Anxiety,Unsatisfied,3,Weekly,Poor,Europe
+24,Prefer not to say,Designer,Manufacturing,1,Remote,34,11,Low,Depression,Unsatisfied,3,None,Average,Europe
+36,Non-binary,Data Scientist,Education,18,Hybrid,35,12,High,None,Neutral,5,Weekly,Poor,Europe
+51,Female,Data Scientist,Retail,6,Hybrid,20,15,High,Burnout,Neutral,1,None,Good,Europe
+22,Male,Project Manager,Manufacturing,27,Onsite,43,7,High,Burnout,Neutral,5,Weekly,Average,Europe
+45,Female,Sales,Retail,20,Hybrid,56,12,Medium,Anxiety,Neutral,1,Daily,Poor,Europe
+40,Prefer not to say,Sales,Manufacturing,30,Onsite,57,9,High,Anxiety,Satisfied,3,Weekly,Good,Europe
+29,Male,Marketing,Education,33,Hybrid,23,15,Medium,Anxiety,Satisfied,4,Weekly,Good,Europe
+50,Prefer not to say,Software Engineer,Retail,2,Onsite,40,6,Low,Burnout,Satisfied,4,None,Good,Europe
+31,Prefer not to say,Designer,Finance,7,Onsite,36,12,Medium,Anxiety,Satisfied,1,None,Poor,Europe
+47,Male,Software Engineer,Consulting,13,Hybrid,45,15,Low,Burnout,Unsatisfied,2,Daily,Good,Europe
+53,Prefer not to say,Sales,Education,12,Remote,32,6,Low,None,Neutral,3,None,Average,Europe
+47,Non-binary,Software Engineer,Consulting,1,Hybrid,55,10,High,Anxiety,Neutral,1,None,Poor,Europe
+40,Prefer not to say,Software Engineer,Finance,19,Hybrid,43,13,Low,Burnout,Neutral,5,Daily,Good,Europe
+47,Male,Designer,Retail,4,Remote,24,4,Low,Burnout,Neutral,1,Daily,Good,Europe
+22,Non-binary,Sales,Finance,5,Onsite,33,9,Medium,Anxiety,Unsatisfied,5,None,Average,Europe
+33,Prefer not to say,Marketing,Manufacturing,22,Hybrid,58,3,Medium,Burnout,Neutral,2,Weekly,Average,Europe
+52,Prefer not to say,Designer,Manufacturing,9,Onsite,32,7,Low,None,Neutral,2,None,Good,Europe
+44,Female,HR,Finance,13,Onsite,27,12,Medium,Burnout,Unsatisfied,3,Weekly,Average,Europe
+32,Male,Software Engineer,Manufacturing,15,Onsite,60,8,High,None,Satisfied,5,Weekly,Poor,Europe
+42,Non-binary,Marketing,Retail,12,Hybrid,31,0,High,None,Neutral,4,Daily,Average,Europe
+39,Prefer not to say,Marketing,Consulting,24,Onsite,38,9,Low,None,Neutral,2,None,Poor,Europe
+30,Male,HR,Retail,13,Remote,34,7,Low,Burnout,Neutral,1,Weekly,Poor,Europe
+40,Female,HR,Finance,27,Onsite,39,14,High,None,Neutral,4,Weekly,Good,Europe
+37,Female,Data Scientist,IT,10,Onsite,31,12,Low,Burnout,Unsatisfied,5,None,Poor,Europe
+58,Non-binary,HR,Finance,21,Hybrid,53,1,Low,Depression,Satisfied,3,None,Average,Europe
+30,Male,Sales,Finance,25,Onsite,31,14,Medium,Burnout,Neutral,4,Weekly,Poor,Europe
+52,Non-binary,Marketing,Finance,31,Onsite,32,9,High,Burnout,Satisfied,5,Weekly,Good,Europe
+42,Male,HR,Education,10,Onsite,27,15,Low,Anxiety,Neutral,5,Daily,Average,Europe
+52,Prefer not to say,Project Manager,Retail,28,Remote,57,11,High,Depression,Unsatisfied,1,Weekly,Poor,Europe
+51,Prefer not to say,Marketing,Finance,5,Hybrid,51,6,Low,None,Satisfied,2,None,Average,Europe
+26,Male,Data Scientist,Finance,18,Onsite,55,7,Low,Depression,Unsatisfied,2,Daily,Average,Europe
+59,Prefer not to say,Data Scientist,IT,18,Hybrid,37,2,Low,Depression,Neutral,3,Daily,Average,Europe
+27,Male,Software Engineer,Consulting,25,Remote,41,6,Low,Anxiety,Neutral,4,Weekly,Average,Europe
+54,Male,Designer,Manufacturing,28,Remote,38,7,Low,Anxiety,Neutral,4,None,Average,Europe
+46,Female,Designer,Consulting,20,Hybrid,20,4,Medium,None,Neutral,4,None,Average,Europe
+30,Non-binary,Data Scientist,Consulting,29,Onsite,58,8,Medium,Depression,Neutral,5,None,Good,Europe
+53,Prefer not to say,HR,Consulting,8,Onsite,38,2,High,Burnout,Unsatisfied,3,Weekly,Poor,Europe
+57,Prefer not to say,Project Manager,Finance,18,Remote,35,12,High,Anxiety,Neutral,4,Daily,Poor,Europe
+39,Prefer not to say,Designer,Retail,33,Hybrid,42,9,High,Depression,Neutral,2,Weekly,Good,Europe
+32,Non-binary,Designer,Consulting,24,Remote,50,0,High,Anxiety,Satisfied,4,Weekly,Average,Europe
+31,Female,Marketing,Healthcare,22,Onsite,37,1,Low,None,Neutral,4,Weekly,Poor,Europe
+35,Male,Data Scientist,Retail,18,Remote,47,9,Low,Depression,Unsatisfied,4,Daily,Average,Europe
+43,Prefer not to say,Project Manager,Finance,19,Hybrid,52,6,Medium,Anxiety,Neutral,2,Weekly,Poor,Europe
+59,Male,HR,Finance,16,Hybrid,45,14,Medium,None,Satisfied,1,None,Poor,Europe
+28,Non-binary,Designer,Finance,5,Remote,53,5,Low,Anxiety,Neutral,2,Weekly,Poor,Europe
+31,Male,Designer,Retail,35,Remote,46,13,Medium,Depression,Neutral,1,Daily,Average,Europe
+38,Female,HR,Manufacturing,21,Onsite,26,8,Low,Burnout,Satisfied,5,Daily,Good,Europe
+42,Non-binary,Sales,Finance,15,Remote,42,10,High,Anxiety,Satisfied,2,Weekly,Average,Europe
+51,Female,Designer,Manufacturing,13,Remote,25,11,High,Depression,Satisfied,2,Daily,Poor,Europe
+55,Non-binary,Project Manager,IT,34,Hybrid,52,7,Medium,Depression,Satisfied,3,Weekly,Average,Europe
+25,Non-binary,Sales,Consulting,12,Hybrid,22,2,Low,Anxiety,Unsatisfied,1,Weekly,Poor,Europe
+36,Female,Designer,IT,8,Remote,33,14,Medium,None,Unsatisfied,4,Weekly,Good,Europe
+36,Non-binary,HR,Finance,1,Hybrid,48,1,Low,Depression,Satisfied,1,None,Good,Europe
+53,Non-binary,Software Engineer,IT,8,Onsite,53,12,High,Burnout,Unsatisfied,5,Daily,Average,Europe
+35,Non-binary,Sales,Manufacturing,24,Remote,29,13,Medium,Anxiety,Neutral,4,None,Poor,Europe
+29,Male,Software Engineer,Consulting,23,Remote,42,11,Medium,Anxiety,Satisfied,4,Weekly,Poor,Europe
+27,Female,Designer,Retail,10,Onsite,44,9,Low,None,Unsatisfied,2,Weekly,Average,Europe
+24,Non-binary,Project Manager,Healthcare,17,Onsite,26,13,Low,Anxiety,Satisfied,1,Daily,Average,Europe
+33,Non-binary,Designer,Education,30,Hybrid,20,9,High,None,Unsatisfied,1,Daily,Good,Europe
+43,Male,Sales,Finance,31,Onsite,21,1,Low,Depression,Satisfied,3,None,Good,Europe
+25,Prefer not to say,Project Manager,Education,21,Onsite,49,2,Medium,Anxiety,Unsatisfied,1,Daily,Average,Europe
+50,Non-binary,Sales,Retail,10,Onsite,27,7,Low,Anxiety,Neutral,3,Daily,Poor,Europe
+48,Female,Data Scientist,Consulting,12,Remote,33,2,High,Burnout,Satisfied,2,None,Good,Europe
+41,Prefer not to say,Data Scientist,Consulting,33,Onsite,21,9,High,Burnout,Unsatisfied,2,Weekly,Good,Europe
+32,Male,Marketing,Finance,29,Remote,26,12,Low,Burnout,Neutral,3,Daily,Poor,Europe
+28,Female,Sales,Retail,16,Remote,53,13,High,Anxiety,Unsatisfied,5,None,Good,Europe
+42,Male,Designer,Consulting,25,Onsite,31,2,Low,Burnout,Unsatisfied,5,Weekly,Average,Europe
+53,Female,HR,Healthcare,7,Onsite,36,6,Low,None,Neutral,2,Weekly,Good,Europe
+42,Male,Software Engineer,Consulting,8,Remote,35,0,High,Burnout,Satisfied,2,Daily,Poor,Europe
+29,Prefer not to say,Software Engineer,Manufacturing,24,Remote,28,7,Low,None,Unsatisfied,2,None,Average,Europe
+39,Prefer not to say,Project Manager,Education,13,Hybrid,43,3,High,Anxiety,Satisfied,3,Weekly,Average,Europe
+38,Male,Sales,IT,16,Onsite,32,1,Low,Burnout,Unsatisfied,2,None,Poor,Europe
+25,Prefer not to say,Designer,Retail,13,Onsite,51,2,Low,Burnout,Satisfied,3,None,Average,Europe
+42,Prefer not to say,Designer,Retail,29,Remote,29,9,High,Anxiety,Neutral,4,Weekly,Poor,Europe
+33,Male,Software Engineer,Finance,24,Onsite,53,7,Low,None,Satisfied,5,Weekly,Poor,Europe
+51,Male,Project Manager,Retail,21,Hybrid,33,11,Low,Depression,Unsatisfied,1,None,Poor,Europe
+28,Female,Sales,IT,22,Onsite,28,6,High,Burnout,Satisfied,5,Weekly,Good,Europe
+59,Prefer not to say,HR,Education,15,Onsite,27,14,Medium,None,Satisfied,4,Daily,Poor,Europe
+48,Male,Marketing,IT,13,Onsite,27,3,Low,Depression,Unsatisfied,1,Daily,Good,Europe
+32,Prefer not to say,Project Manager,IT,24,Onsite,60,4,Low,Anxiety,Satisfied,1,None,Average,Europe
+43,Male,Project Manager,Retail,25,Remote,58,10,Low,None,Satisfied,5,Daily,Poor,Europe
+59,Prefer not to say,HR,Retail,27,Hybrid,53,15,Medium,Burnout,Unsatisfied,3,None,Poor,Europe
+24,Male,Sales,Education,24,Onsite,33,2,Low,Burnout,Satisfied,2,None,Average,Europe
+29,Prefer not to say,Software Engineer,Education,14,Hybrid,23,8,Medium,None,Unsatisfied,1,Daily,Poor,Europe
+59,Male,HR,Education,12,Onsite,24,12,High,Anxiety,Unsatisfied,4,Daily,Poor,Europe
+41,Female,Sales,Healthcare,30,Hybrid,59,3,High,None,Unsatisfied,1,None,Average,Europe
+32,Male,Software Engineer,Finance,7,Remote,47,10,Medium,None,Satisfied,2,None,Good,Europe
+45,Prefer not to say,Marketing,Consulting,32,Hybrid,20,4,Low,Burnout,Neutral,1,None,Good,Europe
+39,Female,HR,Finance,26,Hybrid,24,10,High,Anxiety,Unsatisfied,3,Weekly,Good,Europe
+23,Male,HR,Education,26,Hybrid,42,13,Medium,Burnout,Satisfied,2,Weekly,Good,Europe
+35,Non-binary,Sales,Finance,7,Remote,53,10,Medium,None,Satisfied,2,None,Good,Europe
+30,Female,Software Engineer,IT,4,Hybrid,57,14,Medium,Burnout,Unsatisfied,3,None,Average,Europe
+54,Female,HR,Finance,24,Hybrid,54,5,Low,Anxiety,Satisfied,5,Weekly,Good,Europe
+55,Non-binary,Sales,Healthcare,26,Hybrid,45,12,High,None,Unsatisfied,2,Daily,Average,Europe
+41,Non-binary,Project Manager,Retail,31,Remote,21,12,High,Anxiety,Satisfied,1,Weekly,Poor,Europe
+36,Non-binary,Sales,IT,8,Remote,23,3,Low,Burnout,Neutral,2,Daily,Good,Europe
+28,Female,Project Manager,Consulting,18,Hybrid,39,15,Medium,None,Neutral,1,Weekly,Good,Europe
+45,Male,Software Engineer,Healthcare,31,Hybrid,53,12,High,Anxiety,Neutral,2,Weekly,Poor,Europe
+34,Male,Project Manager,Retail,23,Remote,48,0,Medium,Depression,Neutral,2,Daily,Good,Europe
+28,Male,Software Engineer,Manufacturing,26,Hybrid,26,9,High,Burnout,Neutral,4,None,Average,Europe
+36,Prefer not to say,HR,Education,13,Hybrid,44,9,Medium,Burnout,Neutral,1,Daily,Poor,Europe
+33,Female,Project Manager,IT,4,Hybrid,33,5,High,Burnout,Unsatisfied,2,Weekly,Poor,Europe
+55,Male,HR,Healthcare,2,Remote,41,9,High,Depression,Satisfied,5,Daily,Good,Europe
+47,Prefer not to say,Marketing,Retail,17,Remote,49,8,Low,Burnout,Unsatisfied,4,Weekly,Poor,Europe
+56,Non-binary,HR,Education,30,Remote,30,10,Medium,Depression,Neutral,1,Weekly,Good,Europe
+23,Male,Designer,Education,34,Onsite,31,12,Low,None,Satisfied,2,Daily,Good,Europe
+54,Prefer not to say,Data Scientist,Healthcare,21,Remote,27,7,Medium,Burnout,Unsatisfied,1,Weekly,Average,Europe
+48,Male,Software Engineer,Education,9,Remote,50,13,Low,Depression,Satisfied,5,None,Poor,Europe
+36,Non-binary,Marketing,IT,21,Onsite,37,6,Low,Burnout,Satisfied,5,Weekly,Good,Europe
+35,Prefer not to say,HR,Finance,7,Onsite,46,15,High,Burnout,Satisfied,2,Daily,Average,Europe
+46,Prefer not to say,Marketing,Retail,8,Onsite,37,3,Medium,Anxiety,Unsatisfied,3,Daily,Average,Europe
+59,Non-binary,Project Manager,Manufacturing,21,Remote,59,6,High,Anxiety,Neutral,5,Daily,Poor,Europe
+50,Prefer not to say,Data Scientist,Manufacturing,16,Remote,38,0,High,Burnout,Neutral,4,Weekly,Poor,Europe
+56,Male,Sales,Manufacturing,15,Onsite,59,7,Low,None,Satisfied,4,None,Poor,Europe
+26,Male,HR,Manufacturing,6,Remote,41,11,Low,Depression,Unsatisfied,4,None,Poor,Europe
+49,Prefer not to say,Project Manager,Education,29,Onsite,41,5,High,None,Satisfied,5,Weekly,Average,Europe
+60,Female,Designer,Finance,13,Hybrid,21,2,Medium,Anxiety,Satisfied,3,Weekly,Poor,Europe
+25,Non-binary,Project Manager,Education,14,Onsite,55,0,Low,Burnout,Unsatisfied,3,Weekly,Good,Europe
+53,Male,Data Scientist,Consulting,4,Onsite,30,1,Low,Depression,Satisfied,2,Daily,Average,Europe
+32,Female,Designer,Healthcare,1,Hybrid,47,12,High,Anxiety,Satisfied,5,Daily,Poor,Europe
+47,Non-binary,Project Manager,Healthcare,24,Hybrid,50,7,High,Anxiety,Neutral,3,Weekly,Good,Europe
+47,Prefer not to say,Marketing,Consulting,26,Remote,46,7,Medium,None,Neutral,5,Daily,Poor,Europe
+50,Male,Marketing,Consulting,20,Onsite,33,5,Medium,Anxiety,Satisfied,2,None,Good,Europe
+54,Non-binary,Sales,Finance,28,Hybrid,59,12,Low,None,Satisfied,2,None,Good,Europe
+53,Female,Designer,Retail,4,Remote,34,11,Low,Burnout,Satisfied,1,None,Poor,Europe
+36,Male,HR,Manufacturing,21,Remote,34,14,Medium,Burnout,Satisfied,5,None,Good,Europe
+32,Prefer not to say,Sales,IT,1,Hybrid,29,8,High,Depression,Unsatisfied,4,Daily,Average,Europe
+26,Male,Sales,Retail,13,Remote,22,1,Medium,Burnout,Satisfied,4,Weekly,Average,Europe
+43,Male,Sales,Finance,18,Hybrid,30,15,Low,Burnout,Unsatisfied,1,Weekly,Poor,Europe
+32,Non-binary,Software Engineer,Finance,8,Onsite,42,2,Medium,Depression,Satisfied,5,Daily,Good,Europe
+36,Prefer not to say,HR,Education,33,Hybrid,52,3,Medium,Anxiety,Unsatisfied,5,None,Average,Europe
+31,Prefer not to say,Data Scientist,Manufacturing,29,Onsite,55,4,Low,Anxiety,Satisfied,1,Weekly,Poor,Europe
+22,Male,Sales,Retail,9,Hybrid,34,14,Medium,Anxiety,Neutral,4,Weekly,Good,Europe
+35,Non-binary,HR,Retail,28,Remote,46,10,Low,Anxiety,Neutral,5,Weekly,Poor,Europe
+42,Male,Sales,Healthcare,3,Hybrid,47,5,Low,Anxiety,Neutral,4,Daily,Average,Europe
+25,Female,Designer,Retail,35,Hybrid,23,14,Medium,Depression,Satisfied,1,Daily,Average,Europe
+32,Female,Designer,Consulting,10,Onsite,31,0,Medium,Anxiety,Satisfied,1,Weekly,Good,Europe
+60,Prefer not to say,Project Manager,Retail,12,Remote,59,2,Medium,Burnout,Unsatisfied,4,Weekly,Average,Europe
+36,Non-binary,Marketing,Healthcare,33,Remote,23,7,Low,Burnout,Unsatisfied,1,Weekly,Good,Europe
+52,Male,Software Engineer,Healthcare,4,Remote,41,10,Medium,Depression,Neutral,4,Daily,Good,Europe
+35,Male,Sales,Healthcare,10,Remote,32,8,Medium,None,Neutral,3,Weekly,Poor,Europe
+30,Prefer not to say,Sales,Healthcare,29,Remote,51,13,Low,Anxiety,Unsatisfied,1,Weekly,Poor,Europe
+22,Non-binary,Software Engineer,Manufacturing,14,Hybrid,39,15,Low,None,Satisfied,1,Daily,Good,Europe
+38,Non-binary,Project Manager,Consulting,16,Onsite,27,7,Medium,Depression,Satisfied,2,Daily,Average,Europe
+38,Prefer not to say,Data Scientist,Manufacturing,26,Hybrid,55,2,High,Depression,Neutral,2,None,Average,Europe
+40,Male,Project Manager,Healthcare,9,Hybrid,22,3,Low,None,Unsatisfied,3,Weekly,Good,Europe
+52,Female,Designer,IT,29,Onsite,49,2,Medium,Depression,Neutral,2,Weekly,Good,Europe
+28,Male,Marketing,Education,12,Onsite,54,3,High,None,Satisfied,3,Daily,Average,Europe
+32,Male,Data Scientist,IT,7,Onsite,57,8,Medium,Burnout,Neutral,1,None,Poor,Europe
+60,Female,Software Engineer,IT,27,Onsite,49,2,Medium,Burnout,Unsatisfied,5,None,Poor,Europe
+42,Non-binary,Data Scientist,Manufacturing,14,Onsite,57,6,Medium,Burnout,Neutral,3,None,Average,Europe
+47,Female,Sales,Consulting,10,Remote,45,13,High,Anxiety,Neutral,5,Daily,Average,Europe
+28,Prefer not to say,HR,Consulting,6,Hybrid,27,5,High,Burnout,Unsatisfied,5,Weekly,Average,Europe
+26,Female,Project Manager,Consulting,15,Remote,31,8,Medium,Anxiety,Unsatisfied,5,None,Poor,Europe
+33,Female,Software Engineer,Finance,26,Onsite,45,15,High,None,Satisfied,5,None,Good,Europe
+54,Male,Project Manager,IT,12,Remote,41,11,Medium,Burnout,Satisfied,2,Daily,Good,Europe
+37,Female,Software Engineer,Finance,30,Remote,47,7,Medium,Burnout,Unsatisfied,1,Weekly,Average,Europe
+22,Male,Marketing,Consulting,3,Remote,60,11,High,Depression,Unsatisfied,2,Weekly,Good,Europe
+45,Male,Project Manager,Education,29,Remote,37,12,Medium,Depression,Neutral,2,Weekly,Average,Europe
+35,Non-binary,Marketing,Healthcare,25,Onsite,55,11,High,Burnout,Satisfied,2,Weekly,Average,Europe
+39,Prefer not to say,Data Scientist,Retail,20,Hybrid,59,10,Medium,Anxiety,Satisfied,5,Daily,Poor,Europe
+30,Non-binary,HR,Healthcare,11,Hybrid,49,8,Medium,Depression,Neutral,5,None,Poor,Europe
+35,Prefer not to say,HR,Education,12,Hybrid,34,8,Medium,None,Neutral,5,Daily,Average,Europe
+52,Female,Data Scientist,Finance,31,Remote,42,9,High,Burnout,Unsatisfied,5,Daily,Average,Europe
+34,Non-binary,HR,Healthcare,13,Hybrid,41,3,High,Anxiety,Neutral,2,None,Average,Europe
+44,Male,Sales,Manufacturing,17,Remote,29,6,Low,None,Unsatisfied,1,Daily,Poor,Europe
+52,Female,HR,Education,5,Onsite,36,6,Low,None,Satisfied,5,Weekly,Average,Europe
+33,Female,Project Manager,Finance,26,Hybrid,25,11,Medium,Burnout,Unsatisfied,5,Daily,Poor,Europe
+59,Prefer not to say,Project Manager,Healthcare,9,Onsite,37,6,High,Anxiety,Neutral,3,Weekly,Poor,Europe
+56,Prefer not to say,Data Scientist,IT,17,Remote,30,9,Low,Depression,Satisfied,5,Daily,Poor,Europe
+52,Prefer not to say,Software Engineer,Manufacturing,30,Hybrid,39,2,Medium,Depression,Satisfied,4,Weekly,Poor,Europe
+27,Non-binary,Software Engineer,Manufacturing,29,Onsite,24,0,High,None,Neutral,2,Daily,Good,Europe
+48,Prefer not to say,Designer,Retail,35,Onsite,43,11,Medium,Burnout,Neutral,4,Daily,Average,Europe
+31,Female,Marketing,Manufacturing,26,Hybrid,26,3,Medium,Burnout,Neutral,5,Weekly,Poor,Europe
+35,Male,Sales,Education,9,Onsite,42,9,Low,Anxiety,Neutral,4,Weekly,Good,Europe
+49,Prefer not to say,Sales,Education,26,Onsite,31,3,High,Burnout,Satisfied,2,Weekly,Poor,Europe
+25,Male,Software Engineer,Consulting,32,Hybrid,35,10,Medium,Anxiety,Unsatisfied,2,None,Good,Europe
+48,Prefer not to say,HR,Education,22,Remote,28,7,Low,Burnout,Satisfied,4,Weekly,Average,Europe
+40,Female,Software Engineer,Healthcare,16,Remote,20,11,High,Depression,Neutral,5,Weekly,Good,Europe
+43,Male,Designer,Education,4,Hybrid,36,13,High,Anxiety,Neutral,3,Daily,Poor,Europe
+53,Female,Designer,Retail,23,Onsite,35,11,Low,Anxiety,Unsatisfied,2,Daily,Average,Europe
+45,Non-binary,Sales,IT,9,Hybrid,24,7,High,Depression,Satisfied,2,Weekly,Average,Europe
+52,Prefer not to say,Software Engineer,IT,16,Remote,36,14,Medium,None,Satisfied,1,None,Good,Europe
+35,Female,Data Scientist,IT,2,Remote,35,13,High,Anxiety,Neutral,3,Weekly,Good,Europe
+29,Male,Software Engineer,Retail,9,Hybrid,36,10,Low,Depression,Unsatisfied,1,Weekly,Average,Europe
+22,Non-binary,Sales,Manufacturing,24,Hybrid,46,3,Low,Anxiety,Unsatisfied,5,Daily,Good,Europe
+34,Male,Data Scientist,Manufacturing,21,Remote,47,11,Medium,Depression,Unsatisfied,1,Weekly,Poor,Europe
+47,Female,Designer,Consulting,23,Onsite,45,10,Low,Burnout,Satisfied,3,Daily,Poor,Europe
+47,Male,HR,Education,2,Onsite,38,2,High,Depression,Satisfied,1,Daily,Average,Europe
+46,Female,Data Scientist,Education,20,Remote,28,5,Low,Depression,Neutral,5,Daily,Average,Europe
+39,Male,Marketing,IT,9,Onsite,24,5,Medium,None,Neutral,3,None,Average,Europe
+31,Female,Project Manager,Education,2,Onsite,44,13,High,Anxiety,Satisfied,1,Weekly,Good,Europe
+25,Male,Marketing,Education,25,Onsite,57,11,High,Depression,Neutral,1,None,Poor,Europe
+43,Non-binary,Data Scientist,Healthcare,2,Onsite,41,2,Low,None,Satisfied,5,Daily,Good,Europe
+27,Non-binary,Sales,Healthcare,29,Hybrid,54,5,Medium,Burnout,Unsatisfied,5,Daily,Good,Europe
+45,Male,HR,Retail,13,Onsite,45,12,Low,Depression,Neutral,5,None,Poor,Europe
+30,Female,Marketing,Healthcare,17,Remote,54,7,High,Burnout,Satisfied,5,Daily,Good,Europe
+60,Female,HR,Manufacturing,25,Onsite,31,6,High,Burnout,Neutral,5,None,Average,Europe
+30,Non-binary,Software Engineer,Education,21,Remote,23,9,Low,Anxiety,Unsatisfied,2,None,Poor,Europe
+25,Prefer not to say,Designer,Finance,14,Remote,29,2,High,None,Unsatisfied,3,Weekly,Average,Europe
+38,Prefer not to say,HR,Consulting,22,Onsite,33,10,Medium,Burnout,Neutral,5,None,Poor,Europe
+46,Prefer not to say,Designer,Education,18,Hybrid,33,5,High,Anxiety,Satisfied,4,None,Good,Europe
+22,Female,Software Engineer,Healthcare,9,Remote,39,4,Medium,Anxiety,Unsatisfied,1,None,Average,Europe
+44,Prefer not to say,Marketing,Education,12,Hybrid,54,8,Medium,None,Satisfied,5,Weekly,Good,Europe
+26,Prefer not to say,Marketing,Retail,21,Onsite,58,8,High,None,Satisfied,4,Daily,Average,Europe
+45,Female,Project Manager,IT,15,Remote,58,13,Medium,None,Satisfied,2,None,Good,Europe
+36,Prefer not to say,Sales,Finance,23,Onsite,43,14,High,None,Satisfied,4,Daily,Average,Europe
+33,Non-binary,Designer,Manufacturing,19,Hybrid,43,15,High,Anxiety,Neutral,4,Daily,Poor,Europe
+51,Prefer not to say,Project Manager,Retail,7,Remote,35,2,Medium,Depression,Unsatisfied,2,Daily,Good,Europe
+36,Male,Designer,Manufacturing,3,Remote,22,12,Medium,Burnout,Neutral,2,Weekly,Good,Europe
+58,Prefer not to say,Sales,Education,18,Hybrid,41,12,Low,None,Unsatisfied,2,Daily,Poor,Europe
+48,Male,Marketing,Manufacturing,7,Remote,34,13,High,Anxiety,Satisfied,1,Weekly,Poor,Europe
+60,Male,HR,Healthcare,6,Hybrid,31,6,Low,Anxiety,Neutral,4,None,Average,Europe
+49,Prefer not to say,Data Scientist,Healthcare,20,Remote,30,10,High,None,Unsatisfied,4,None,Poor,Europe
+53,Male,Designer,Consulting,25,Remote,31,7,Low,Depression,Satisfied,3,Daily,Good,Europe
+33,Male,Software Engineer,Consulting,35,Onsite,37,1,Medium,Depression,Unsatisfied,1,None,Poor,Europe
+52,Female,Data Scientist,Manufacturing,24,Remote,57,14,Medium,Depression,Satisfied,4,Daily,Poor,Europe
+51,Prefer not to say,Sales,IT,15,Hybrid,32,12,High,Burnout,Neutral,1,Weekly,Average,Europe
+31,Female,Sales,Retail,6,Remote,50,2,Low,None,Satisfied,3,None,Average,Europe
+33,Male,Marketing,Finance,30,Hybrid,57,8,Low,Burnout,Satisfied,3,Daily,Good,Europe
+34,Prefer not to say,Sales,Education,6,Onsite,43,3,High,None,Neutral,2,Weekly,Poor,Europe
+43,Non-binary,Sales,Healthcare,15,Onsite,35,9,Medium,Depression,Unsatisfied,1,Daily,Average,Europe
+42,Male,HR,Manufacturing,7,Remote,42,2,Medium,None,Unsatisfied,2,Daily,Poor,Europe
+37,Female,Project Manager,Education,25,Hybrid,53,8,High,Anxiety,Neutral,1,Weekly,Average,Europe
+30,Female,Data Scientist,Healthcare,14,Onsite,33,9,High,None,Neutral,3,Daily,Average,Europe
+45,Male,HR,Manufacturing,16,Onsite,43,15,Low,Depression,Neutral,5,Weekly,Poor,Europe
+39,Non-binary,Software Engineer,Consulting,17,Onsite,44,0,Medium,None,Unsatisfied,3,Daily,Good,Europe
+55,Female,HR,Retail,35,Remote,40,13,High,Anxiety,Neutral,3,Weekly,Poor,Europe
+39,Female,Marketing,Retail,20,Remote,57,5,Low,Depression,Satisfied,4,None,Good,Europe
+30,Female,HR,Consulting,18,Remote,33,13,Medium,Anxiety,Unsatisfied,3,Weekly,Good,Europe
+55,Male,Project Manager,Education,14,Onsite,41,14,High,Burnout,Satisfied,1,None,Average,Europe
+48,Prefer not to say,Designer,Consulting,16,Onsite,59,11,High,None,Satisfied,1,None,Good,Europe
+57,Female,Sales,Manufacturing,12,Remote,29,10,Low,Depression,Satisfied,3,Weekly,Poor,Europe
+35,Male,Software Engineer,Consulting,26,Onsite,23,12,High,Burnout,Unsatisfied,1,Daily,Poor,Europe
+46,Male,Marketing,Healthcare,9,Remote,25,13,Low,Depression,Neutral,5,None,Good,Europe
+32,Male,HR,Education,21,Onsite,35,7,Medium,Depression,Satisfied,4,Daily,Good,Europe
+44,Prefer not to say,Designer,Consulting,3,Remote,42,7,Medium,None,Unsatisfied,1,None,Average,Europe
+50,Male,Designer,Education,28,Remote,20,0,High,None,Unsatisfied,5,Weekly,Poor,Europe
+46,Male,Data Scientist,Consulting,13,Remote,47,10,High,Burnout,Satisfied,3,Weekly,Good,Europe
+25,Female,HR,Manufacturing,34,Hybrid,33,2,High,Depression,Unsatisfied,4,Weekly,Good,Europe
+27,Non-binary,Project Manager,Education,28,Onsite,42,8,Low,Depression,Neutral,2,Weekly,Good,Europe
+60,Male,HR,Consulting,3,Remote,33,2,Low,Anxiety,Neutral,3,Daily,Average,Europe
+31,Prefer not to say,Marketing,Manufacturing,15,Hybrid,24,15,Medium,Burnout,Unsatisfied,5,None,Poor,Europe
+43,Female,Marketing,IT,5,Hybrid,48,0,High,Anxiety,Satisfied,3,Weekly,Average,Europe
+44,Male,Data Scientist,IT,12,Hybrid,47,6,High,None,Unsatisfied,3,None,Good,Europe
+39,Prefer not to say,Sales,Retail,15,Remote,20,4,Low,Anxiety,Neutral,3,Daily,Poor,Europe
+25,Male,Data Scientist,Education,29,Hybrid,58,15,Medium,Burnout,Satisfied,3,Daily,Good,Europe
+60,Female,Software Engineer,IT,24,Hybrid,49,9,Medium,Anxiety,Neutral,3,Daily,Good,Europe
+25,Female,Sales,Healthcare,21,Remote,54,3,High,None,Satisfied,4,Weekly,Average,Europe
+39,Non-binary,Software Engineer,Healthcare,35,Onsite,34,1,High,None,Unsatisfied,1,Daily,Good,Europe
+35,Female,Marketing,Finance,12,Remote,57,8,High,Burnout,Neutral,5,Weekly,Good,Europe
+27,Female,HR,Manufacturing,16,Onsite,20,6,Medium,Anxiety,Unsatisfied,3,Weekly,Average,Europe
+22,Non-binary,Data Scientist,Education,33,Hybrid,27,5,Medium,Depression,Unsatisfied,1,Daily,Good,Europe
+52,Female,HR,Finance,35,Remote,51,15,High,Depression,Neutral,3,None,Average,Europe
+43,Female,HR,Manufacturing,9,Hybrid,49,2,High,Burnout,Unsatisfied,4,Weekly,Good,Europe
+57,Female,Sales,Healthcare,35,Hybrid,28,4,Medium,None,Neutral,4,None,Poor,Europe
+57,Prefer not to say,HR,Manufacturing,23,Onsite,22,14,Low,None,Neutral,5,Weekly,Good,Europe
+38,Prefer not to say,Project Manager,Education,7,Remote,58,4,High,Depression,Satisfied,3,Daily,Good,Europe
+47,Non-binary,HR,Consulting,28,Hybrid,26,0,Medium,None,Unsatisfied,3,None,Average,Europe
+42,Male,Designer,Retail,14,Hybrid,31,14,Medium,Depression,Satisfied,3,Weekly,Average,Europe
+42,Female,Software Engineer,IT,18,Remote,47,3,Medium,None,Satisfied,5,Daily,Poor,Europe
+59,Male,HR,Consulting,18,Remote,25,11,High,Depression,Unsatisfied,5,None,Good,Europe
+32,Non-binary,HR,Finance,31,Remote,36,4,Medium,None,Satisfied,4,None,Good,Europe
+47,Male,Data Scientist,Education,28,Onsite,54,7,High,Depression,Satisfied,4,Daily,Average,Europe
+49,Prefer not to say,Designer,Consulting,29,Onsite,55,4,Low,Depression,Unsatisfied,3,None,Good,Europe
+44,Non-binary,Software Engineer,Retail,4,Hybrid,35,7,Medium,Burnout,Neutral,3,Weekly,Average,Europe
+58,Female,Sales,Healthcare,16,Hybrid,24,5,High,Depression,Neutral,1,None,Average,Europe
+43,Prefer not to say,HR,Finance,3,Hybrid,23,8,Medium,Depression,Unsatisfied,3,Daily,Poor,Europe
+45,Non-binary,Project Manager,Education,7,Onsite,49,3,Medium,Depression,Unsatisfied,2,Weekly,Good,Europe
+59,Female,Designer,IT,34,Hybrid,45,1,High,Depression,Neutral,1,Weekly,Poor,Europe
+41,Prefer not to say,Marketing,Manufacturing,22,Hybrid,38,13,Low,None,Neutral,3,Weekly,Poor,Europe
+39,Non-binary,Software Engineer,IT,11,Hybrid,37,4,Low,Anxiety,Satisfied,1,Weekly,Poor,Europe
+37,Non-binary,Sales,Retail,30,Remote,33,10,High,Burnout,Unsatisfied,1,None,Good,Europe
+22,Female,Sales,Healthcare,2,Onsite,40,9,High,Burnout,Satisfied,2,None,Poor,Europe
+58,Male,Data Scientist,Education,9,Remote,24,11,High,None,Unsatisfied,3,Daily,Poor,Europe
+22,Prefer not to say,Designer,Consulting,35,Remote,42,6,High,Anxiety,Satisfied,5,None,Poor,Europe
+25,Male,Marketing,IT,5,Onsite,49,6,High,None,Satisfied,3,Weekly,Good,Europe
+40,Prefer not to say,Project Manager,Consulting,34,Hybrid,23,11,Medium,Anxiety,Satisfied,1,None,Good,Europe
+40,Female,Data Scientist,Consulting,8,Remote,53,13,Low,Burnout,Satisfied,2,Daily,Good,Europe
+26,Female,Designer,IT,16,Hybrid,21,0,Medium,None,Neutral,1,None,Good,Europe
+52,Female,Designer,Education,12,Hybrid,44,3,High,Depression,Unsatisfied,2,Weekly,Good,Europe
+57,Female,Data Scientist,Consulting,30,Hybrid,36,3,High,None,Unsatisfied,1,Daily,Poor,Europe
+39,Non-binary,Data Scientist,Manufacturing,26,Remote,37,11,Medium,Burnout,Satisfied,1,Weekly,Average,Europe
+39,Male,Project Manager,Finance,29,Onsite,21,8,High,Burnout,Satisfied,4,Weekly,Average,Europe
+42,Non-binary,Data Scientist,Finance,15,Remote,33,12,Low,Burnout,Satisfied,3,Daily,Poor,Europe
+56,Prefer not to say,Project Manager,Healthcare,1,Onsite,31,2,Medium,Anxiety,Neutral,1,None,Average,Europe
+53,Female,Software Engineer,Manufacturing,26,Remote,60,5,Medium,Depression,Neutral,4,None,Good,Europe
+45,Female,Data Scientist,Manufacturing,34,Remote,56,13,High,Anxiety,Neutral,1,None,Average,Europe
+41,Prefer not to say,Software Engineer,Manufacturing,21,Onsite,50,8,Medium,Burnout,Unsatisfied,3,Weekly,Average,Europe
+28,Non-binary,Data Scientist,Consulting,28,Onsite,60,14,Medium,None,Neutral,3,Weekly,Poor,Europe
+36,Male,Software Engineer,IT,33,Remote,55,12,High,Depression,Unsatisfied,5,Weekly,Good,Europe
+60,Prefer not to say,Software Engineer,Education,29,Remote,36,3,Medium,None,Unsatisfied,4,None,Poor,Europe
+46,Male,Project Manager,Consulting,13,Remote,57,6,Medium,Burnout,Neutral,3,Daily,Good,Europe
+41,Non-binary,Project Manager,Healthcare,18,Remote,48,12,Low,None,Satisfied,5,None,Average,Europe
+27,Female,Data Scientist,Consulting,26,Onsite,41,9,Medium,Depression,Satisfied,4,Weekly,Average,Europe
+36,Male,Software Engineer,Consulting,13,Remote,34,6,High,None,Satisfied,4,None,Good,Europe
+50,Male,Designer,IT,23,Onsite,21,14,Medium,Burnout,Unsatisfied,1,None,Poor,Europe
+48,Male,HR,IT,19,Onsite,53,8,Medium,Depression,Satisfied,5,Weekly,Average,Europe
+53,Non-binary,Marketing,Retail,7,Hybrid,44,10,Medium,Depression,Unsatisfied,2,None,Good,Europe
+45,Prefer not to say,Project Manager,Finance,12,Onsite,39,1,Low,Depression,Satisfied,3,Daily,Good,Europe
+44,Non-binary,Designer,Healthcare,29,Onsite,54,3,Low,Anxiety,Satisfied,5,None,Average,Europe
+60,Female,Software Engineer,Retail,9,Onsite,23,1,Medium,None,Unsatisfied,2,None,Average,Europe
+51,Non-binary,Designer,Manufacturing,3,Onsite,24,1,Low,Anxiety,Neutral,4,Daily,Good,Europe
+40,Non-binary,Project Manager,Consulting,3,Hybrid,20,4,High,None,Satisfied,5,Daily,Average,Europe
+36,Prefer not to say,Project Manager,Healthcare,34,Hybrid,49,13,Medium,None,Satisfied,3,Daily,Good,Europe
+46,Prefer not to say,HR,Healthcare,32,Remote,56,13,High,Anxiety,Neutral,1,Weekly,Average,Europe
+47,Prefer not to say,Data Scientist,Consulting,27,Onsite,31,1,Low,Depression,Satisfied,1,None,Good,Europe
+49,Prefer not to say,Project Manager,Education,7,Remote,49,4,Low,Anxiety,Unsatisfied,2,Weekly,Average,Europe
+32,Male,Software Engineer,Education,19,Remote,37,2,Medium,Burnout,Neutral,2,None,Average,Europe
+59,Prefer not to say,Marketing,Finance,7,Onsite,53,0,Medium,None,Satisfied,3,None,Good,Europe
+42,Non-binary,Project Manager,Retail,28,Remote,21,7,High,Burnout,Neutral,3,Weekly,Poor,Europe
+49,Female,Marketing,Finance,33,Onsite,51,15,High,Anxiety,Satisfied,2,None,Poor,Europe
+39,Prefer not to say,Data Scientist,Manufacturing,10,Remote,52,2,High,Burnout,Neutral,2,None,Good,Europe
+56,Female,Sales,IT,21,Onsite,28,2,Low,None,Neutral,2,None,Poor,Europe
+44,Female,HR,Retail,9,Remote,57,1,High,Depression,Unsatisfied,5,Weekly,Poor,Europe
+38,Non-binary,Marketing,Retail,7,Hybrid,38,15,High,Anxiety,Satisfied,2,Weekly,Poor,Europe
+36,Prefer not to say,Project Manager,IT,17,Remote,27,12,Low,Anxiety,Neutral,4,None,Average,Europe
+42,Male,Project Manager,IT,34,Onsite,33,11,High,Anxiety,Unsatisfied,5,None,Good,Europe
+52,Male,Project Manager,Finance,23,Remote,41,0,Low,None,Satisfied,3,None,Good,Europe
+51,Prefer not to say,Software Engineer,Consulting,22,Hybrid,36,14,Medium,Depression,Unsatisfied,3,Daily,Good,Europe
+26,Female,Data Scientist,Finance,7,Remote,54,5,Low,Anxiety,Unsatisfied,2,Weekly,Poor,Europe
+28,Female,Project Manager,Healthcare,35,Onsite,44,8,High,Depression,Unsatisfied,3,Weekly,Poor,Europe
+27,Prefer not to say,Sales,Finance,14,Onsite,20,4,Medium,Anxiety,Neutral,5,Daily,Average,Europe
+43,Male,Marketing,IT,35,Remote,53,7,High,Depression,Unsatisfied,1,Daily,Good,Europe
+30,Prefer not to say,Data Scientist,Consulting,9,Remote,28,7,Medium,Burnout,Satisfied,2,Daily,Average,Europe
+55,Non-binary,HR,Healthcare,16,Onsite,23,13,High,Anxiety,Satisfied,1,None,Poor,Europe
+55,Non-binary,Data Scientist,Consulting,32,Hybrid,43,14,High,Anxiety,Satisfied,1,None,Poor,Europe
+49,Female,Designer,Finance,8,Onsite,21,15,High,Depression,Neutral,3,Weekly,Good,Europe
+38,Female,Project Manager,IT,3,Remote,28,3,High,Burnout,Unsatisfied,2,Daily,Poor,Europe
+51,Non-binary,Marketing,Healthcare,24,Remote,49,13,Low,None,Unsatisfied,2,Weekly,Good,Europe
+58,Non-binary,Software Engineer,IT,14,Remote,37,11,Low,Burnout,Neutral,3,Daily,Average,Europe
+55,Prefer not to say,Project Manager,Finance,10,Hybrid,34,3,Low,Anxiety,Unsatisfied,3,None,Poor,Europe
+28,Female,Sales,Finance,33,Onsite,51,7,High,Depression,Neutral,3,Weekly,Poor,Europe
+42,Non-binary,Project Manager,Education,13,Remote,32,8,High,Depression,Neutral,2,None,Average,Europe
+50,Non-binary,Designer,Healthcare,19,Remote,20,15,High,Depression,Neutral,3,Weekly,Average,Europe
+53,Non-binary,Data Scientist,Retail,21,Hybrid,46,6,Medium,None,Neutral,3,Daily,Poor,Europe
+36,Male,Data Scientist,Manufacturing,14,Onsite,29,8,Medium,Burnout,Neutral,2,Daily,Poor,Europe
+60,Male,HR,Retail,34,Remote,54,4,Low,Anxiety,Unsatisfied,1,Daily,Average,Europe
+42,Non-binary,Project Manager,Education,2,Hybrid,58,12,Medium,Anxiety,Unsatisfied,3,Daily,Good,Europe
+44,Male,Project Manager,IT,7,Hybrid,57,3,Low,Anxiety,Satisfied,2,Daily,Average,Europe
+50,Male,Designer,Finance,6,Hybrid,21,8,High,None,Neutral,5,None,Poor,Europe
+24,Non-binary,HR,Consulting,11,Onsite,34,4,Low,Burnout,Unsatisfied,1,Daily,Average,Europe
+38,Non-binary,Project Manager,Retail,33,Onsite,26,11,Low,Anxiety,Neutral,2,Daily,Good,Europe
+52,Non-binary,Software Engineer,Healthcare,3,Onsite,48,2,High,Anxiety,Satisfied,4,Weekly,Average,Europe
+57,Non-binary,Software Engineer,Retail,8,Hybrid,49,9,Medium,Anxiety,Satisfied,2,None,Poor,Europe
+52,Prefer not to say,Designer,Education,25,Hybrid,54,1,Low,Anxiety,Neutral,2,Weekly,Poor,Europe
+44,Male,Software Engineer,Finance,9,Onsite,35,3,Medium,None,Unsatisfied,2,Weekly,Average,Europe
+30,Male,Sales,Healthcare,9,Hybrid,38,10,Medium,None,Unsatisfied,3,None,Good,Europe
+41,Male,Designer,Retail,25,Onsite,55,7,Low,Anxiety,Unsatisfied,2,Daily,Poor,Europe
+23,Male,Marketing,Education,31,Remote,57,12,High,None,Unsatisfied,2,None,Poor,Europe
+54,Male,Data Scientist,Retail,24,Remote,40,9,High,None,Neutral,5,Weekly,Average,Europe
+27,Prefer not to say,Marketing,Consulting,22,Hybrid,51,6,Low,Depression,Neutral,5,Weekly,Average,Europe
+28,Female,Sales,Education,13,Remote,41,6,Medium,Anxiety,Satisfied,3,Daily,Good,Europe
+55,Male,Designer,Education,5,Onsite,44,13,High,Burnout,Satisfied,3,Weekly,Average,Europe
+23,Male,Sales,Manufacturing,34,Remote,58,8,High,Anxiety,Neutral,3,None,Average,Europe
+50,Male,HR,Education,27,Hybrid,45,1,Medium,None,Neutral,1,None,Poor,Europe
+41,Female,Data Scientist,IT,16,Hybrid,32,3,Low,Anxiety,Unsatisfied,1,Weekly,Average,Europe
+36,Non-binary,Data Scientist,IT,9,Hybrid,33,10,High,None,Unsatisfied,1,None,Average,Europe
+22,Prefer not to say,Project Manager,Retail,23,Onsite,22,8,Low,Depression,Unsatisfied,5,Weekly,Poor,Europe
+59,Non-binary,Marketing,Consulting,8,Onsite,33,13,Medium,Depression,Unsatisfied,3,Weekly,Poor,Europe
+33,Prefer not to say,Marketing,Consulting,3,Hybrid,45,2,Medium,Anxiety,Unsatisfied,2,None,Average,Europe
+44,Non-binary,Data Scientist,Finance,9,Hybrid,42,15,Medium,Depression,Unsatisfied,4,None,Average,Europe
+45,Male,HR,Finance,26,Onsite,57,10,Low,Burnout,Unsatisfied,3,Daily,Poor,Europe
+53,Prefer not to say,HR,IT,12,Onsite,39,4,Low,Burnout,Satisfied,1,Weekly,Poor,Europe
+44,Prefer not to say,Software Engineer,Consulting,15,Onsite,59,3,High,Depression,Neutral,2,Daily,Average,Europe
+26,Female,Project Manager,Healthcare,15,Onsite,58,8,Medium,Burnout,Satisfied,3,None,Poor,Europe
+32,Prefer not to say,Marketing,Education,5,Onsite,23,10,High,Depression,Unsatisfied,1,None,Good,Europe
+49,Male,Software Engineer,IT,3,Hybrid,52,13,High,None,Neutral,3,Weekly,Good,Europe
+53,Female,Project Manager,Finance,33,Hybrid,23,2,High,Burnout,Unsatisfied,1,Weekly,Average,Europe
+42,Male,HR,Education,4,Hybrid,30,0,Medium,Depression,Neutral,2,None,Poor,Europe
+35,Non-binary,Designer,Healthcare,31,Onsite,36,14,Medium,Depression,Unsatisfied,3,None,Good,Europe
+48,Non-binary,HR,Retail,17,Onsite,49,7,High,Depression,Unsatisfied,5,Daily,Poor,Europe
+52,Male,Sales,Education,23,Onsite,34,8,Medium,None,Unsatisfied,2,Weekly,Good,Europe
+49,Prefer not to say,Software Engineer,Finance,33,Onsite,21,5,Medium,Burnout,Unsatisfied,2,None,Good,Europe
+32,Female,Sales,IT,32,Remote,21,13,Medium,Anxiety,Unsatisfied,5,Daily,Good,Europe
+27,Non-binary,Designer,Education,6,Onsite,22,0,Medium,Burnout,Satisfied,5,None,Average,Europe
+22,Male,Sales,Healthcare,23,Hybrid,37,11,High,None,Unsatisfied,1,Weekly,Good,Europe
+37,Non-binary,Sales,Finance,10,Hybrid,56,10,Medium,Depression,Unsatisfied,4,Daily,Poor,Europe
+60,Female,Sales,Manufacturing,34,Hybrid,60,11,Medium,Anxiety,Neutral,2,Weekly,Good,Europe
+27,Non-binary,Marketing,IT,14,Hybrid,30,4,Medium,None,Unsatisfied,2,Weekly,Poor,Europe
+36,Non-binary,Marketing,Manufacturing,11,Remote,38,1,High,Burnout,Satisfied,2,Weekly,Poor,Europe
+55,Female,Project Manager,Consulting,1,Remote,59,6,Low,Burnout,Neutral,1,Weekly,Average,Europe
+57,Prefer not to say,Data Scientist,Education,16,Remote,26,6,High,Depression,Neutral,3,Daily,Poor,Europe
+28,Female,Software Engineer,Retail,31,Remote,35,8,High,None,Unsatisfied,4,None,Good,Europe
+50,Male,Designer,Finance,30,Onsite,27,9,Low,Depression,Satisfied,1,Weekly,Poor,Europe
+48,Non-binary,Designer,Consulting,15,Hybrid,60,14,Medium,Depression,Satisfied,1,Daily,Poor,Europe
+44,Female,Sales,Manufacturing,33,Remote,55,0,High,Burnout,Neutral,2,Weekly,Good,Europe
+47,Prefer not to say,Data Scientist,Healthcare,19,Remote,33,1,Medium,Burnout,Unsatisfied,2,None,Poor,Europe
+56,Female,Marketing,Manufacturing,1,Remote,44,0,High,None,Neutral,2,Daily,Good,Europe
+51,Non-binary,Project Manager,Finance,28,Remote,29,3,Low,None,Neutral,5,None,Good,Europe
+56,Female,Designer,Education,28,Onsite,29,7,High,Anxiety,Satisfied,4,Daily,Good,Europe
+38,Prefer not to say,Project Manager,Finance,25,Onsite,37,6,Low,None,Unsatisfied,5,None,Good,Europe
+47,Prefer not to say,Marketing,Healthcare,19,Onsite,26,11,Low,Burnout,Neutral,1,Daily,Good,Europe
+50,Female,Software Engineer,Finance,22,Onsite,39,1,Low,Anxiety,Neutral,3,None,Average,Europe
+54,Prefer not to say,Project Manager,Finance,1,Hybrid,48,11,High,None,Neutral,5,Weekly,Good,Europe
+23,Female,Data Scientist,Manufacturing,26,Onsite,33,6,High,None,Neutral,3,Daily,Good,Europe
+22,Female,Project Manager,Education,22,Onsite,60,3,High,Burnout,Unsatisfied,2,Weekly,Poor,Europe
+52,Female,Data Scientist,Healthcare,23,Hybrid,21,11,High,Anxiety,Neutral,3,None,Good,Europe
+47,Prefer not to say,Project Manager,Education,19,Remote,30,4,High,None,Satisfied,4,Weekly,Poor,Europe
+46,Female,Data Scientist,IT,5,Remote,56,5,High,Burnout,Unsatisfied,3,None,Good,Europe
+53,Prefer not to say,Designer,Retail,9,Onsite,25,7,Low,None,Unsatisfied,3,None,Poor,Europe
+44,Male,Software Engineer,Retail,20,Onsite,20,10,Low,Depression,Satisfied,4,None,Average,Europe
+57,Prefer not to say,Software Engineer,Healthcare,35,Remote,28,10,Medium,None,Satisfied,3,None,Average,Europe
+40,Prefer not to say,Software Engineer,Manufacturing,2,Remote,30,4,Low,Anxiety,Satisfied,2,None,Good,Europe
+54,Female,Sales,IT,22,Onsite,60,8,High,Burnout,Satisfied,1,Weekly,Average,Europe
+31,Female,Marketing,Healthcare,31,Remote,38,9,Medium,Burnout,Neutral,2,Weekly,Poor,Europe
+43,Prefer not to say,Software Engineer,IT,27,Onsite,54,0,High,Burnout,Unsatisfied,2,Weekly,Poor,Europe
+25,Male,Software Engineer,Finance,22,Hybrid,58,10,High,None,Unsatisfied,4,Weekly,Poor,Europe
+58,Prefer not to say,Software Engineer,Healthcare,3,Hybrid,59,7,High,Anxiety,Satisfied,3,None,Good,Europe
+45,Male,Software Engineer,Consulting,13,Onsite,37,7,Medium,Burnout,Satisfied,4,Weekly,Poor,Europe
+24,Non-binary,HR,Manufacturing,4,Onsite,25,8,Medium,Anxiety,Satisfied,4,Weekly,Average,Europe
+43,Prefer not to say,HR,Retail,2,Hybrid,54,14,Low,None,Neutral,5,None,Poor,Europe
+56,Male,Project Manager,Education,35,Onsite,25,13,Medium,None,Unsatisfied,3,Weekly,Good,Europe
+27,Female,Sales,Consulting,5,Remote,22,2,Medium,None,Satisfied,1,Weekly,Good,Europe
+49,Male,HR,Consulting,14,Hybrid,36,3,High,Depression,Satisfied,2,Weekly,Poor,Europe
+56,Non-binary,Marketing,IT,16,Hybrid,44,12,High,None,Satisfied,4,Weekly,Average,Europe
+54,Prefer not to say,HR,Finance,18,Remote,45,14,Medium,Burnout,Unsatisfied,1,Daily,Poor,Europe
+59,Prefer not to say,Project Manager,IT,8,Hybrid,22,13,High,Anxiety,Unsatisfied,3,Daily,Poor,Europe
+29,Female,Data Scientist,Manufacturing,9,Hybrid,24,9,Medium,Anxiety,Neutral,1,Weekly,Average,Europe
+25,Non-binary,HR,Healthcare,31,Hybrid,30,5,Low,Depression,Neutral,5,Weekly,Good,Europe
+23,Non-binary,Sales,Manufacturing,24,Remote,46,8,Medium,None,Neutral,5,Daily,Good,Europe
+45,Female,HR,Healthcare,29,Hybrid,36,9,Medium,Depression,Satisfied,5,Daily,Poor,Europe
+46,Prefer not to say,Designer,Consulting,10,Hybrid,25,4,Low,Anxiety,Neutral,2,Weekly,Good,Europe
+56,Male,Designer,Finance,27,Remote,48,15,High,None,Unsatisfied,3,None,Poor,Europe
+34,Female,Marketing,Manufacturing,3,Remote,51,10,Medium,Depression,Satisfied,1,Daily,Average,Europe
+28,Non-binary,Data Scientist,IT,28,Hybrid,56,10,High,Depression,Neutral,1,None,Average,Europe
+37,Prefer not to say,Marketing,Education,27,Remote,23,1,Medium,None,Satisfied,3,Weekly,Poor,Europe
+41,Prefer not to say,Software Engineer,Retail,22,Onsite,33,3,Low,Anxiety,Unsatisfied,5,Daily,Average,Europe
+42,Female,Software Engineer,IT,32,Hybrid,53,2,Low,Depression,Satisfied,3,Daily,Poor,Europe
+56,Female,Project Manager,Consulting,35,Onsite,51,2,Low,Anxiety,Unsatisfied,4,Daily,Good,Europe
+44,Female,Sales,Manufacturing,22,Hybrid,49,2,Medium,Burnout,Satisfied,3,Daily,Poor,Europe
+48,Non-binary,Data Scientist,IT,3,Hybrid,20,5,Low,Depression,Satisfied,4,Daily,Average,Europe
+53,Female,Sales,Retail,20,Onsite,23,0,High,None,Satisfied,3,Daily,Good,Europe
+54,Non-binary,Designer,Healthcare,32,Hybrid,27,7,Medium,Anxiety,Neutral,2,Daily,Poor,Europe
+57,Non-binary,Marketing,Education,25,Onsite,35,12,Low,Anxiety,Satisfied,2,Weekly,Poor,Europe
+47,Female,Designer,Retail,6,Onsite,20,6,Low,Anxiety,Unsatisfied,2,Weekly,Good,Europe
+53,Prefer not to say,Software Engineer,Consulting,24,Hybrid,28,11,High,Burnout,Satisfied,5,None,Good,Europe
+28,Prefer not to say,Sales,Consulting,31,Onsite,20,11,Low,None,Satisfied,3,Weekly,Poor,Europe
+49,Female,HR,IT,16,Hybrid,41,2,Medium,Depression,Satisfied,5,Daily,Poor,Europe
+41,Female,Designer,IT,23,Hybrid,48,2,Low,None,Unsatisfied,3,None,Poor,Europe
+33,Prefer not to say,Sales,Retail,2,Onsite,53,1,Medium,Depression,Satisfied,1,Weekly,Good,Europe
+51,Female,HR,IT,8,Hybrid,46,3,Medium,Depression,Neutral,5,Daily,Good,Europe
+31,Prefer not to say,Sales,Education,11,Onsite,22,11,High,Anxiety,Neutral,1,Daily,Good,Europe
+57,Female,Software Engineer,Education,4,Remote,35,3,High,Anxiety,Unsatisfied,4,None,Poor,Europe
+34,Female,Data Scientist,IT,20,Hybrid,21,6,Low,Anxiety,Satisfied,4,Weekly,Average,Europe
+59,Female,HR,Retail,33,Hybrid,39,12,Medium,Depression,Unsatisfied,1,Weekly,Good,Europe
+25,Prefer not to say,Project Manager,Education,19,Hybrid,49,9,High,Anxiety,Unsatisfied,3,None,Good,Europe
+30,Female,Sales,IT,4,Hybrid,46,2,Medium,None,Satisfied,1,None,Good,Europe
+43,Male,Sales,Education,32,Onsite,35,6,Low,None,Satisfied,3,None,Poor,Europe
+24,Male,Software Engineer,Finance,2,Hybrid,52,6,High,Anxiety,Neutral,1,Daily,Average,Europe
+29,Female,Project Manager,Finance,29,Onsite,60,5,High,None,Satisfied,5,None,Average,Europe
+60,Female,Sales,Consulting,14,Hybrid,40,12,Medium,Burnout,Unsatisfied,5,Weekly,Poor,Europe
+24,Female,Sales,Healthcare,19,Hybrid,34,10,Medium,None,Neutral,2,None,Good,Europe
+40,Non-binary,Data Scientist,Manufacturing,15,Hybrid,24,11,Medium,Anxiety,Unsatisfied,2,Weekly,Poor,Europe
+30,Male,Designer,Education,4,Onsite,58,9,Medium,None,Unsatisfied,4,Weekly,Poor,Europe
+60,Prefer not to say,Marketing,Retail,32,Hybrid,47,11,High,Anxiety,Unsatisfied,5,Daily,Poor,Europe
+51,Female,HR,Healthcare,19,Remote,48,15,Medium,Depression,Satisfied,5,Weekly,Poor,Europe
+52,Non-binary,Software Engineer,Healthcare,15,Onsite,42,11,High,Anxiety,Satisfied,5,Daily,Good,Europe
+25,Prefer not to say,Data Scientist,Education,6,Remote,32,4,Low,Anxiety,Neutral,2,None,Good,Europe
+60,Non-binary,Software Engineer,Consulting,34,Onsite,39,4,High,Depression,Satisfied,2,Daily,Average,Europe
+45,Female,Sales,IT,15,Remote,52,5,Medium,Burnout,Unsatisfied,4,Weekly,Average,Europe
+31,Male,Data Scientist,Manufacturing,29,Onsite,48,10,Medium,None,Unsatisfied,3,Weekly,Poor,Europe
+50,Non-binary,Sales,IT,8,Onsite,23,10,Medium,Anxiety,Neutral,5,None,Good,Europe
+33,Female,HR,Education,1,Remote,52,8,High,None,Neutral,1,None,Average,Europe
+26,Female,Software Engineer,Education,20,Hybrid,31,2,Medium,Burnout,Unsatisfied,1,Weekly,Poor,Europe
+54,Male,Data Scientist,Manufacturing,7,Remote,25,1,High,Depression,Satisfied,4,None,Poor,Europe
+31,Female,Data Scientist,Consulting,25,Remote,30,12,Low,Anxiety,Neutral,3,Weekly,Good,Europe
+53,Non-binary,Marketing,Finance,2,Hybrid,37,2,Medium,Burnout,Unsatisfied,5,Weekly,Good,Europe
+35,Non-binary,Designer,Healthcare,30,Onsite,32,3,Medium,Anxiety,Neutral,2,None,Good,Europe
+28,Female,Software Engineer,Finance,9,Remote,21,0,Medium,Depression,Unsatisfied,1,Daily,Good,Europe
+46,Female,Sales,Consulting,19,Hybrid,24,8,Medium,Anxiety,Unsatisfied,2,Weekly,Poor,Europe
+38,Male,Data Scientist,IT,1,Onsite,58,10,Medium,Depression,Neutral,4,Daily,Good,Europe
+47,Prefer not to say,Software Engineer,Retail,9,Hybrid,59,10,High,Depression,Neutral,1,None,Average,Europe
+50,Female,Designer,IT,17,Onsite,45,10,Low,Anxiety,Unsatisfied,2,Daily,Average,Europe
+32,Prefer not to say,Software Engineer,Healthcare,32,Remote,53,8,High,Depression,Unsatisfied,5,Daily,Average,Europe
+60,Male,Marketing,IT,8,Onsite,51,15,High,None,Unsatisfied,4,None,Poor,Europe
+44,Female,Sales,IT,30,Hybrid,49,1,High,Anxiety,Neutral,4,Weekly,Good,Europe
+39,Female,HR,Education,18,Remote,25,13,Low,None,Neutral,4,Weekly,Good,Europe
+41,Female,HR,Retail,28,Remote,51,4,Medium,Depression,Unsatisfied,3,Weekly,Poor,Europe
+54,Prefer not to say,Project Manager,Education,34,Remote,56,10,Medium,None,Satisfied,2,None,Poor,Europe
+51,Non-binary,Data Scientist,Manufacturing,29,Remote,24,1,High,Burnout,Satisfied,3,None,Good,Europe
+34,Non-binary,Project Manager,Consulting,26,Onsite,21,12,Low,Burnout,Neutral,5,None,Good,Europe
+23,Female,HR,Manufacturing,18,Remote,27,7,Low,Burnout,Neutral,3,None,Good,Europe
+43,Prefer not to say,Sales,Manufacturing,11,Onsite,43,15,Low,Anxiety,Unsatisfied,1,None,Average,Europe
+38,Non-binary,HR,Manufacturing,10,Remote,28,4,Medium,None,Unsatisfied,2,Weekly,Poor,Europe
+50,Non-binary,Software Engineer,Healthcare,11,Hybrid,53,10,High,Depression,Neutral,4,Weekly,Average,Europe
+49,Non-binary,Software Engineer,Finance,14,Hybrid,60,7,High,Depression,Neutral,4,Daily,Average,Europe
+29,Prefer not to say,Software Engineer,Retail,34,Onsite,32,10,Low,Burnout,Satisfied,5,Weekly,Poor,Europe
+23,Male,Data Scientist,Finance,14,Remote,29,6,Low,Depression,Unsatisfied,5,None,Good,Europe
+47,Female,Designer,Finance,10,Hybrid,45,2,High,Anxiety,Satisfied,4,None,Average,Europe
+46,Non-binary,Designer,IT,23,Onsite,30,5,Low,None,Satisfied,1,None,Good,Europe
+35,Non-binary,Project Manager,Consulting,17,Onsite,42,15,Low,Depression,Satisfied,3,Daily,Poor,Europe
+52,Non-binary,HR,Education,14,Hybrid,33,4,High,None,Neutral,4,Weekly,Good,Europe
+59,Male,Sales,Healthcare,2,Hybrid,60,2,Low,Anxiety,Satisfied,2,Weekly,Average,Europe
+41,Non-binary,Project Manager,Healthcare,34,Remote,49,8,Medium,Anxiety,Satisfied,3,Weekly,Poor,Europe
+29,Male,Software Engineer,Education,16,Hybrid,31,7,Low,Anxiety,Unsatisfied,3,None,Poor,Europe
+58,Male,HR,IT,4,Hybrid,57,14,Medium,None,Satisfied,3,Weekly,Average,Europe
+24,Non-binary,Project Manager,Healthcare,24,Remote,54,2,Medium,Depression,Neutral,2,Weekly,Good,Europe
+38,Prefer not to say,Sales,IT,22,Onsite,33,5,High,Depression,Neutral,4,None,Poor,Europe
+31,Prefer not to say,Software Engineer,IT,16,Hybrid,45,14,Medium,Burnout,Neutral,3,None,Poor,Europe
+49,Prefer not to say,Software Engineer,Education,15,Onsite,33,11,Low,None,Satisfied,1,Daily,Average,Europe
+56,Prefer not to say,Data Scientist,Retail,30,Hybrid,26,5,Medium,None,Satisfied,1,Weekly,Average,Europe
+45,Female,Marketing,Finance,10,Hybrid,24,13,Low,Burnout,Neutral,3,Daily,Good,Europe
+57,Non-binary,Software Engineer,Finance,11,Remote,25,5,Low,Anxiety,Unsatisfied,3,Daily,Poor,Europe
+39,Prefer not to say,Software Engineer,IT,11,Hybrid,50,10,Low,Anxiety,Neutral,5,None,Good,Europe
+32,Prefer not to say,Software Engineer,Education,9,Hybrid,24,15,Medium,Depression,Neutral,4,Daily,Poor,Europe

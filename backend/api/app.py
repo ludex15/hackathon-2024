@@ -4,20 +4,32 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
+from langchain_community.document_loaders import TextLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain.chains import RetrievalQA
+from langchain_community.chat_models import ChatOpenAI
+from langchain.prompts import PromptTemplate
+from pathlib import Path
+
 load_dotenv()
 api_key=os.getenv("OPENAI_API_KEY")
 
+# Get the path of the current script
+script_dir = Path(__file__).resolve().parent
+DATASETS_PATH = script_dir /  '../data'
 
 # user_query = "How many genders are depressed."
 
-def get_dataset(dataset_name):
-    df = pd.read_csv(dataset_name)
+def get_dataset_info(df):
+
     columns = df.columns.tolist()
     description = df.describe()
 
     non_numeric_columns = df.select_dtypes(exclude=['number'])
     unique_values = {col: non_numeric_columns[col].unique().tolist() for col in non_numeric_columns.columns}
-    return df, columns, description, unique_values
+    return columns, description, unique_values
 
 def generate_pandas_query(columns, description, unique_values, user_query):
     client = OpenAI()
@@ -148,3 +160,82 @@ def generate_additional_text(data, user_query):
 
     return data
 
+
+def get_documents():
+
+    file_paths = [os.path.join(DATASETS_PATH, f) for f in os.listdir(DATASETS_PATH) if f.endswith(".csv")]
+
+    documents = []
+    for path in file_paths:
+        loader = TextLoader(path)  # TextLoader loads the entire file as a single document
+        documents.extend(loader.load())  # Combine all loaded documents
+
+    documents = []
+    for path in file_paths:
+        loader = TextLoader(path)
+        documents.extend(loader.load())
+
+    print(f"Loaded {len(documents)} documents.")
+
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+    chunks = text_splitter.split_documents(documents)
+    embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    vectorstore = FAISS.from_documents(chunks, embedding_model)
+    return vectorstore
+
+def create_llm(vectorstore):
+
+    # Initialize the retriever and language model
+    retriever = vectorstore.as_retriever()
+    llm = ChatOpenAI(model="gpt-4", openai_api_key=api_key)
+
+    # Create a RetrievalQA chain
+    rag_pipeline = RetrievalQA.from_chain_type(
+        llm=llm,
+        retriever=retriever,
+        return_source_documents=True,  # Optional: Include source documents in output
+    )
+    return rag_pipeline
+
+
+def get_document_paths_from_rag(rag_pipeline, query):
+    # Run the query through the RAG pipeline
+    response = rag_pipeline({"query": query})
+
+    # Extract the source paths of the documents used
+    documents = response["source_documents"]
+    needed_documents = {doc.metadata['source'] for doc in documents}
+    
+    # Return the set of document paths
+    return needed_documents
+
+
+def load_and_concatenate_csvs(document_paths):
+    """
+    Loads multiple CSV files from a list of document paths and concatenates them into a single pandas DataFrame.
+
+    Args:
+        document_paths (list): A list of file paths to CSV files.
+
+    Returns:
+        pd.DataFrame: A concatenated DataFrame of all CSV files.
+    """
+    data_frames = []  # List to hold individual dataframes
+
+    for path in document_paths:
+        try:
+            # Load the CSV into a DataFrame
+            df = pd.read_csv(path)
+            # Append the DataFrame to the list
+            data_frames.append(df)
+        except Exception as e:
+            print(f"Error loading {path}: {e}")
+
+    # Concatenate all DataFrames into one
+    if data_frames:
+        concatenated_df = pd.concat(data_frames, ignore_index=True)
+        columns, description, unique_values = get_dataset_info(concatenated_df)
+        return concatenated_df, columns, description, unique_values
+    else:
+        raise ValueError("No valid CSV files to concatenate.")
+        

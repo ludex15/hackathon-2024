@@ -1,0 +1,861 @@
+Age,Gender,Job_Role,Industry,Years_of_Experience,Work_Location,Hours_Worked_Per_Week,Number_of_Virtual_Meetings,Stress_Level,Mental_Health_Condition,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Physical_Activity,Sleep_Quality,Region
+47,Female,Marketing,Consulting,31,Hybrid,26,12,Medium,None,Neutral,3,Weekly,Poor,Africa
+56,Female,Sales,Healthcare,13,Remote,44,11,Low,Anxiety,Satisfied,4,Weekly,Average,Africa
+33,Prefer not to say,HR,Education,3,Onsite,52,9,Medium,None,Satisfied,1,Weekly,Good,Africa
+43,Prefer not to say,Sales,Finance,21,Onsite,57,1,Low,Depression,Satisfied,4,Daily,Average,Africa
+24,Non-binary,Sales,IT,21,Onsite,48,12,Low,Anxiety,Neutral,1,Weekly,Average,Africa
+22,Female,HR,Healthcare,7,Onsite,29,9,Low,None,Neutral,3,Daily,Poor,Africa
+30,Non-binary,Project Manager,Education,8,Hybrid,47,12,Low,Anxiety,Neutral,5,Daily,Good,Africa
+28,Prefer not to say,Designer,Retail,15,Onsite,30,14,High,Burnout,Unsatisfied,1,Weekly,Good,Africa
+23,Non-binary,Software Engineer,IT,29,Hybrid,53,7,High,Anxiety,Neutral,1,None,Poor,Africa
+38,Prefer not to say,Project Manager,Consulting,35,Onsite,57,10,Medium,Burnout,Neutral,3,Weekly,Poor,Africa
+22,Prefer not to say,Data Scientist,Education,26,Hybrid,43,5,Medium,None,Unsatisfied,2,Weekly,Poor,Africa
+57,Female,Data Scientist,Retail,2,Onsite,57,4,Medium,Depression,Unsatisfied,2,Weekly,Average,Africa
+60,Non-binary,Project Manager,Education,11,Onsite,31,11,High,None,Neutral,4,Weekly,Average,Africa
+35,Male,Data Scientist,Healthcare,31,Hybrid,33,11,High,Burnout,Neutral,5,Weekly,Poor,Africa
+53,Male,Project Manager,IT,12,Hybrid,45,10,Medium,None,Satisfied,4,Daily,Good,Africa
+33,Prefer not to say,Sales,Consulting,9,Hybrid,46,12,High,Burnout,Neutral,2,Daily,Poor,Africa
+45,Prefer not to say,Sales,IT,3,Hybrid,22,9,High,Burnout,Satisfied,4,None,Good,Africa
+50,Male,Software Engineer,Finance,18,Hybrid,60,12,High,Depression,Satisfied,5,None,Good,Africa
+41,Female,Designer,Education,30,Hybrid,42,2,Low,Depression,Satisfied,3,Weekly,Average,Africa
+34,Female,Data Scientist,Education,29,Hybrid,29,13,High,Anxiety,Unsatisfied,5,Weekly,Average,Africa
+49,Male,HR,Finance,30,Remote,34,8,Low,Burnout,Unsatisfied,1,Weekly,Good,Africa
+40,Prefer not to say,Project Manager,Consulting,27,Hybrid,34,13,Medium,None,Unsatisfied,5,Daily,Average,Africa
+50,Male,Software Engineer,Healthcare,35,Onsite,30,10,High,Anxiety,Unsatisfied,1,None,Good,Africa
+32,Female,Designer,Education,16,Remote,23,9,Medium,None,Neutral,5,Weekly,Good,Africa
+32,Female,Marketing,Manufacturing,26,Remote,28,15,Low,Burnout,Unsatisfied,4,Weekly,Average,Africa
+32,Non-binary,Project Manager,Education,12,Onsite,44,13,High,Anxiety,Satisfied,5,Weekly,Poor,Africa
+36,Prefer not to say,Software Engineer,Healthcare,3,Hybrid,34,12,Low,Depression,Neutral,3,Daily,Average,Africa
+30,Male,Software Engineer,Healthcare,29,Hybrid,58,15,Medium,Burnout,Unsatisfied,2,Weekly,Poor,Africa
+35,Female,Marketing,IT,34,Hybrid,37,1,Medium,Anxiety,Satisfied,1,None,Average,Africa
+40,Female,Data Scientist,Education,24,Hybrid,38,0,High,None,Neutral,1,None,Average,Africa
+24,Non-binary,Data Scientist,Manufacturing,5,Hybrid,53,14,Medium,None,Neutral,1,Weekly,Average,Africa
+22,Female,Software Engineer,Manufacturing,10,Hybrid,46,1,Low,Anxiety,Neutral,5,Daily,Poor,Africa
+48,Non-binary,Software Engineer,Education,35,Onsite,30,8,Low,Depression,Satisfied,2,None,Average,Africa
+52,Male,Data Scientist,IT,22,Onsite,46,14,High,Depression,Neutral,2,Daily,Good,Africa
+53,Male,Data Scientist,Education,22,Onsite,29,0,Medium,Burnout,Neutral,4,None,Good,Africa
+54,Non-binary,Project Manager,IT,12,Onsite,34,11,Low,Burnout,Unsatisfied,5,Daily,Good,Africa
+47,Prefer not to say,Sales,Consulting,7,Hybrid,21,8,Medium,Anxiety,Unsatisfied,5,None,Average,Africa
+28,Non-binary,Marketing,Retail,29,Hybrid,38,3,High,Anxiety,Satisfied,1,None,Average,Africa
+44,Male,Software Engineer,Retail,4,Onsite,35,3,Low,None,Neutral,1,Weekly,Good,Africa
+52,Male,Marketing,Retail,7,Onsite,45,14,Medium,Burnout,Unsatisfied,4,Daily,Average,Africa
+28,Prefer not to say,Marketing,Manufacturing,19,Hybrid,59,9,Low,Burnout,Unsatisfied,2,Weekly,Poor,Africa
+23,Prefer not to say,Marketing,Retail,9,Onsite,55,12,Low,Burnout,Neutral,5,Daily,Poor,Africa
+36,Prefer not to say,HR,Manufacturing,17,Remote,49,6,Medium,Depression,Neutral,5,None,Average,Africa
+29,Female,Project Manager,Manufacturing,18,Hybrid,20,6,Low,None,Satisfied,2,Weekly,Poor,Africa
+46,Prefer not to say,HR,IT,25,Remote,22,13,Medium,Anxiety,Unsatisfied,3,Weekly,Average,Africa
+42,Prefer not to say,Data Scientist,Education,4,Hybrid,33,11,Medium,Burnout,Neutral,2,Daily,Good,Africa
+37,Male,Sales,Education,18,Onsite,20,15,Medium,Burnout,Neutral,2,None,Average,Africa
+30,Male,Designer,Education,32,Hybrid,48,3,High,Depression,Neutral,4,Daily,Average,Africa
+31,Male,Designer,Finance,19,Onsite,39,1,Medium,None,Unsatisfied,4,Daily,Poor,Africa
+32,Female,HR,Consulting,23,Remote,48,12,Medium,None,Unsatisfied,2,None,Good,Africa
+47,Prefer not to say,Sales,Healthcare,10,Hybrid,51,5,High,None,Neutral,1,None,Good,Africa
+23,Non-binary,Designer,IT,22,Hybrid,39,5,Low,Anxiety,Neutral,2,Weekly,Poor,Africa
+33,Female,Sales,Education,22,Hybrid,31,3,Medium,Burnout,Neutral,3,Weekly,Poor,Africa
+60,Non-binary,Software Engineer,Retail,13,Hybrid,25,10,High,Burnout,Satisfied,2,None,Good,Africa
+49,Prefer not to say,Project Manager,Retail,17,Remote,50,2,Medium,Burnout,Satisfied,5,Daily,Average,Africa
+24,Prefer not to say,Designer,Finance,27,Hybrid,45,11,Low,Anxiety,Satisfied,4,Daily,Good,Africa
+41,Non-binary,Sales,Education,25,Remote,23,8,Medium,None,Satisfied,2,Daily,Poor,Africa
+44,Male,HR,Retail,26,Onsite,23,1,High,Depression,Satisfied,5,Weekly,Good,Africa
+51,Prefer not to say,Project Manager,Education,6,Onsite,42,4,Low,Burnout,Satisfied,5,None,Average,Africa
+43,Female,Marketing,Consulting,25,Hybrid,26,0,Low,Burnout,Neutral,3,Daily,Poor,Africa
+25,Prefer not to say,Software Engineer,Education,28,Remote,55,12,Low,Depression,Satisfied,3,None,Good,Africa
+28,Prefer not to say,Designer,Education,16,Hybrid,40,0,High,Burnout,Satisfied,3,Daily,Good,Africa
+53,Male,Software Engineer,Healthcare,3,Hybrid,49,15,Low,Burnout,Satisfied,4,Daily,Poor,Africa
+23,Non-binary,Marketing,Education,12,Remote,40,12,Medium,None,Unsatisfied,3,Daily,Average,Africa
+24,Female,Sales,Finance,23,Onsite,22,10,High,Burnout,Unsatisfied,3,Weekly,Average,Africa
+60,Prefer not to say,HR,Manufacturing,16,Onsite,41,15,Medium,None,Unsatisfied,4,Weekly,Good,Africa
+43,Prefer not to say,Data Scientist,Consulting,14,Hybrid,53,13,Medium,Depression,Unsatisfied,5,Weekly,Average,Africa
+59,Male,Project Manager,Education,20,Remote,23,13,Medium,Anxiety,Satisfied,3,Daily,Average,Africa
+56,Non-binary,Project Manager,Consulting,23,Hybrid,28,9,Low,None,Neutral,2,Daily,Poor,Africa
+58,Non-binary,Software Engineer,Education,2,Remote,50,0,Low,Burnout,Neutral,5,Daily,Good,Africa
+31,Female,Software Engineer,Education,12,Remote,35,0,High,Depression,Neutral,4,None,Good,Africa
+53,Prefer not to say,Designer,Healthcare,35,Remote,59,8,High,None,Neutral,1,Daily,Good,Africa
+39,Male,Designer,Education,28,Remote,41,4,Medium,None,Unsatisfied,2,Daily,Average,Africa
+28,Female,Sales,Consulting,32,Onsite,21,12,Medium,Depression,Neutral,5,None,Average,Africa
+46,Female,Sales,Finance,20,Hybrid,44,11,High,Depression,Neutral,3,Daily,Poor,Africa
+45,Female,HR,Retail,17,Onsite,41,7,Low,Depression,Neutral,4,Daily,Average,Africa
+39,Non-binary,Marketing,Healthcare,20,Hybrid,22,2,Medium,Anxiety,Satisfied,5,Weekly,Good,Africa
+53,Prefer not to say,Data Scientist,Healthcare,34,Remote,22,6,High,None,Satisfied,3,Weekly,Good,Africa
+58,Male,Data Scientist,Finance,8,Onsite,35,15,Low,Anxiety,Neutral,2,Weekly,Poor,Africa
+48,Female,Marketing,IT,30,Hybrid,49,0,Medium,Anxiety,Neutral,1,Daily,Poor,Africa
+25,Prefer not to say,Software Engineer,Retail,18,Remote,22,4,Low,Anxiety,Neutral,4,None,Poor,Africa
+52,Male,Designer,Healthcare,33,Onsite,48,1,Low,Depression,Unsatisfied,1,Daily,Good,Africa
+34,Female,HR,Healthcare,28,Onsite,22,3,Medium,None,Neutral,5,Weekly,Poor,Africa
+53,Female,Sales,Retail,7,Onsite,20,5,Low,Depression,Unsatisfied,3,None,Average,Africa
+57,Female,Sales,Finance,1,Hybrid,24,14,Low,Depression,Unsatisfied,3,Daily,Poor,Africa
+51,Female,HR,Manufacturing,14,Remote,50,9,High,None,Neutral,2,Daily,Average,Africa
+40,Non-binary,Marketing,Education,33,Remote,37,13,Low,Depression,Satisfied,5,None,Poor,Africa
+32,Male,Marketing,Manufacturing,5,Onsite,54,11,Low,Anxiety,Unsatisfied,4,Daily,Average,Africa
+56,Female,Designer,Retail,25,Remote,58,15,High,Burnout,Satisfied,2,None,Good,Africa
+49,Non-binary,Project Manager,Retail,2,Onsite,53,10,Low,Burnout,Unsatisfied,1,Weekly,Poor,Africa
+38,Male,Sales,Retail,8,Hybrid,27,4,Medium,Anxiety,Unsatisfied,1,Weekly,Poor,Africa
+23,Male,Marketing,Education,16,Remote,20,11,Medium,Burnout,Neutral,3,Weekly,Poor,Africa
+29,Female,Project Manager,Education,21,Remote,25,14,Low,Burnout,Satisfied,3,Weekly,Average,Africa
+42,Male,Project Manager,Manufacturing,1,Hybrid,34,4,Low,Anxiety,Neutral,4,Weekly,Good,Africa
+34,Female,Software Engineer,Consulting,21,Hybrid,33,13,High,Burnout,Unsatisfied,2,None,Average,Africa
+33,Male,HR,Education,27,Onsite,55,11,Medium,Anxiety,Neutral,5,Daily,Good,Africa
+35,Female,Project Manager,IT,32,Remote,36,0,Medium,Depression,Unsatisfied,5,None,Average,Africa
+28,Female,Software Engineer,Healthcare,14,Hybrid,56,1,Medium,Depression,Unsatisfied,3,Weekly,Good,Africa
+44,Male,Sales,Healthcare,25,Onsite,53,7,Low,Depression,Unsatisfied,1,None,Average,Africa
+24,Non-binary,Marketing,Healthcare,2,Hybrid,31,3,High,None,Unsatisfied,5,Daily,Average,Africa
+50,Female,Project Manager,Healthcare,18,Remote,45,1,Low,None,Unsatisfied,2,Weekly,Good,Africa
+33,Male,Project Manager,Retail,18,Onsite,39,10,High,Depression,Satisfied,5,Daily,Good,Africa
+47,Female,Sales,Healthcare,17,Remote,27,8,Medium,Anxiety,Satisfied,3,Daily,Good,Africa
+58,Female,Sales,Education,18,Remote,57,14,Low,None,Unsatisfied,2,Daily,Poor,Africa
+32,Prefer not to say,Sales,IT,10,Remote,53,13,Medium,Anxiety,Unsatisfied,3,Daily,Good,Africa
+36,Male,Designer,IT,22,Hybrid,26,11,Low,None,Neutral,1,Daily,Good,Africa
+39,Prefer not to say,Sales,Education,9,Remote,23,0,High,Depression,Unsatisfied,4,Daily,Average,Africa
+29,Non-binary,Software Engineer,Education,21,Hybrid,28,5,High,None,Neutral,3,None,Poor,Africa
+34,Non-binary,Marketing,Consulting,31,Remote,51,14,Low,Anxiety,Unsatisfied,1,Daily,Good,Africa
+45,Male,Software Engineer,Retail,16,Onsite,52,1,High,Depression,Neutral,2,Daily,Average,Africa
+52,Non-binary,Software Engineer,Finance,16,Hybrid,25,2,High,None,Satisfied,1,Daily,Good,Africa
+25,Female,Software Engineer,Consulting,1,Remote,39,6,Low,Anxiety,Unsatisfied,5,Daily,Average,Africa
+48,Prefer not to say,Software Engineer,IT,3,Onsite,34,11,High,Burnout,Satisfied,3,None,Poor,Africa
+43,Female,Sales,Retail,23,Remote,22,8,High,Burnout,Unsatisfied,5,Daily,Good,Africa
+50,Prefer not to say,Marketing,Manufacturing,12,Hybrid,53,10,Low,None,Neutral,2,Daily,Good,Africa
+42,Prefer not to say,Software Engineer,Retail,30,Remote,37,15,Medium,Depression,Neutral,3,Weekly,Poor,Africa
+40,Non-binary,Sales,Manufacturing,21,Onsite,44,0,Medium,Depression,Neutral,2,None,Average,Africa
+53,Prefer not to say,Data Scientist,IT,28,Remote,60,5,Medium,None,Satisfied,2,None,Good,Africa
+59,Male,Sales,Finance,4,Onsite,27,14,High,Depression,Unsatisfied,4,None,Average,Africa
+57,Non-binary,Data Scientist,IT,31,Remote,31,1,Low,Anxiety,Satisfied,1,Daily,Average,Africa
+43,Female,Project Manager,Manufacturing,21,Hybrid,24,13,High,Burnout,Neutral,2,Weekly,Poor,Africa
+53,Male,Designer,Retail,17,Onsite,60,12,Medium,Depression,Unsatisfied,5,Daily,Good,Africa
+47,Female,Designer,Retail,4,Remote,31,12,Low,Depression,Satisfied,2,None,Average,Africa
+59,Female,Software Engineer,Consulting,7,Remote,22,10,Medium,None,Neutral,4,None,Average,Africa
+56,Male,Data Scientist,Healthcare,4,Onsite,35,9,High,Depression,Satisfied,3,None,Poor,Africa
+55,Prefer not to say,HR,Education,27,Remote,45,10,High,None,Unsatisfied,5,Daily,Poor,Africa
+28,Prefer not to say,Project Manager,Retail,21,Hybrid,37,7,Low,None,Satisfied,2,Weekly,Poor,Africa
+42,Female,Marketing,Manufacturing,10,Remote,32,2,High,None,Satisfied,2,None,Good,Africa
+36,Male,HR,Healthcare,12,Hybrid,20,4,Medium,Depression,Neutral,1,Weekly,Good,Africa
+33,Male,Project Manager,IT,26,Hybrid,44,4,High,Depression,Unsatisfied,1,None,Good,Africa
+29,Male,Project Manager,Manufacturing,30,Hybrid,21,15,Medium,Anxiety,Neutral,4,Weekly,Poor,Africa
+24,Non-binary,Data Scientist,Consulting,8,Onsite,26,8,Low,None,Satisfied,4,Daily,Poor,Africa
+30,Non-binary,Project Manager,Manufacturing,19,Hybrid,58,7,Medium,Anxiety,Unsatisfied,3,Daily,Good,Africa
+22,Non-binary,Marketing,Healthcare,21,Remote,48,5,High,None,Neutral,5,Daily,Average,Africa
+46,Non-binary,Marketing,Healthcare,24,Remote,24,11,Medium,None,Unsatisfied,2,None,Good,Africa
+42,Female,Software Engineer,IT,28,Hybrid,39,13,Low,Burnout,Unsatisfied,1,Daily,Average,Africa
+58,Male,Data Scientist,IT,14,Remote,50,1,Medium,Burnout,Unsatisfied,1,None,Good,Africa
+36,Female,Marketing,Consulting,7,Onsite,20,8,Low,Depression,Unsatisfied,3,Daily,Poor,Africa
+24,Male,Data Scientist,Manufacturing,24,Hybrid,45,7,High,None,Unsatisfied,4,None,Average,Africa
+35,Non-binary,Sales,Retail,23,Remote,53,4,Low,Burnout,Unsatisfied,3,Daily,Good,Africa
+35,Male,Marketing,Education,9,Remote,51,7,Medium,Anxiety,Neutral,2,Daily,Average,Africa
+39,Male,Project Manager,Finance,5,Hybrid,31,5,Low,Depression,Unsatisfied,1,Daily,Poor,Africa
+58,Prefer not to say,Data Scientist,Finance,32,Onsite,25,15,High,Anxiety,Neutral,4,Daily,Good,Africa
+35,Prefer not to say,HR,Consulting,32,Hybrid,24,13,Low,None,Unsatisfied,1,Weekly,Average,Africa
+50,Non-binary,Data Scientist,Healthcare,29,Remote,29,14,Medium,Anxiety,Neutral,1,Weekly,Poor,Africa
+57,Non-binary,Designer,Healthcare,35,Hybrid,48,9,High,Burnout,Neutral,1,Weekly,Poor,Africa
+35,Male,HR,Consulting,8,Hybrid,48,7,High,Depression,Neutral,4,None,Good,Africa
+42,Female,Marketing,Retail,22,Onsite,59,8,High,Anxiety,Unsatisfied,1,Daily,Average,Africa
+53,Non-binary,Project Manager,Education,17,Onsite,30,10,Low,None,Satisfied,4,Weekly,Poor,Africa
+31,Female,Project Manager,Education,25,Remote,21,10,High,Depression,Unsatisfied,5,Weekly,Poor,Africa
+46,Prefer not to say,Marketing,IT,25,Remote,31,14,Low,Anxiety,Unsatisfied,4,Weekly,Average,Africa
+39,Female,Software Engineer,Manufacturing,19,Hybrid,49,0,Medium,Burnout,Satisfied,5,Weekly,Good,Africa
+60,Female,Sales,Finance,8,Onsite,22,14,Medium,Depression,Neutral,1,Weekly,Average,Africa
+60,Non-binary,HR,Consulting,32,Hybrid,28,1,High,Anxiety,Unsatisfied,1,Daily,Average,Africa
+48,Non-binary,Designer,Consulting,3,Remote,34,13,Medium,None,Neutral,3,Daily,Poor,Africa
+60,Male,Software Engineer,Retail,9,Hybrid,28,12,Medium,Anxiety,Unsatisfied,3,Weekly,Good,Africa
+45,Female,Software Engineer,Retail,15,Onsite,37,12,Low,Burnout,Satisfied,5,Weekly,Poor,Africa
+47,Prefer not to say,Software Engineer,Education,23,Remote,28,10,Low,None,Satisfied,1,None,Average,Africa
+34,Male,Software Engineer,Healthcare,25,Remote,54,8,Medium,Depression,Neutral,1,Daily,Average,Africa
+50,Prefer not to say,Designer,Education,7,Hybrid,29,8,High,Anxiety,Unsatisfied,5,Daily,Good,Africa
+30,Male,HR,Retail,23,Remote,36,3,Low,Depression,Neutral,3,Weekly,Poor,Africa
+32,Female,Designer,IT,33,Onsite,55,10,High,Anxiety,Satisfied,3,Weekly,Good,Africa
+30,Male,Data Scientist,Manufacturing,31,Remote,36,6,High,None,Neutral,2,Daily,Average,Africa
+45,Prefer not to say,Sales,Finance,9,Hybrid,42,5,Medium,Burnout,Unsatisfied,5,Weekly,Poor,Africa
+30,Female,Software Engineer,Finance,22,Remote,48,5,Medium,None,Unsatisfied,3,None,Good,Africa
+52,Prefer not to say,Sales,Manufacturing,3,Remote,38,7,Medium,Burnout,Unsatisfied,2,None,Average,Africa
+51,Male,HR,IT,9,Remote,39,4,Low,Burnout,Unsatisfied,1,Weekly,Average,Africa
+42,Non-binary,Project Manager,Education,13,Remote,50,1,Medium,Burnout,Satisfied,3,Daily,Poor,Africa
+23,Female,Project Manager,Healthcare,12,Onsite,21,14,Low,Depression,Neutral,5,Daily,Good,Africa
+42,Female,Sales,Finance,2,Hybrid,49,9,High,Depression,Unsatisfied,2,Weekly,Average,Africa
+49,Female,HR,Healthcare,26,Hybrid,37,7,Medium,Depression,Neutral,4,Weekly,Average,Africa
+24,Male,Sales,IT,5,Remote,54,0,Medium,None,Neutral,3,None,Good,Africa
+43,Male,Software Engineer,Retail,20,Remote,60,4,High,None,Unsatisfied,3,Daily,Good,Africa
+27,Non-binary,Designer,Retail,25,Hybrid,47,4,Low,Anxiety,Satisfied,5,Weekly,Average,Africa
+58,Non-binary,Software Engineer,IT,21,Onsite,58,15,Low,Burnout,Unsatisfied,5,None,Good,Africa
+38,Male,HR,Education,6,Hybrid,25,14,Low,Anxiety,Neutral,3,Daily,Good,Africa
+59,Non-binary,Sales,Finance,14,Hybrid,50,6,Medium,Burnout,Unsatisfied,3,Daily,Good,Africa
+53,Non-binary,Data Scientist,Healthcare,34,Remote,22,8,High,Depression,Satisfied,4,Daily,Poor,Africa
+41,Female,Marketing,Finance,7,Onsite,20,11,Low,Burnout,Neutral,4,Weekly,Good,Africa
+59,Male,Project Manager,Retail,27,Remote,30,5,High,Depression,Neutral,3,Weekly,Average,Africa
+50,Male,Designer,Manufacturing,17,Onsite,23,15,Medium,Anxiety,Unsatisfied,3,None,Average,Africa
+29,Male,Project Manager,IT,4,Remote,41,12,Medium,Burnout,Unsatisfied,4,Daily,Good,Africa
+36,Non-binary,HR,Manufacturing,24,Onsite,20,8,Medium,None,Unsatisfied,2,None,Good,Africa
+52,Male,Project Manager,Education,10,Hybrid,41,0,Medium,Burnout,Unsatisfied,2,Weekly,Good,Africa
+50,Non-binary,Software Engineer,Healthcare,5,Remote,48,2,Medium,None,Neutral,2,None,Good,Africa
+51,Non-binary,Designer,Consulting,24,Hybrid,60,15,Medium,Depression,Satisfied,5,Daily,Good,Africa
+41,Female,Software Engineer,Education,30,Hybrid,40,15,High,Anxiety,Unsatisfied,2,Weekly,Average,Africa
+60,Female,Designer,Manufacturing,35,Remote,50,4,Low,None,Unsatisfied,5,Weekly,Good,Africa
+33,Male,Marketing,Consulting,25,Hybrid,56,5,High,Anxiety,Satisfied,1,None,Poor,Africa
+52,Prefer not to say,Project Manager,IT,1,Onsite,34,13,High,Burnout,Unsatisfied,5,Weekly,Poor,Africa
+31,Prefer not to say,Marketing,Education,2,Remote,34,4,Low,Anxiety,Unsatisfied,3,Daily,Average,Africa
+23,Female,HR,Healthcare,8,Hybrid,45,6,Medium,Depression,Satisfied,5,None,Poor,Africa
+53,Male,Sales,Healthcare,16,Remote,45,13,High,Depression,Satisfied,5,Daily,Good,Africa
+35,Male,Designer,Finance,19,Onsite,29,10,Low,Anxiety,Neutral,2,Weekly,Good,Africa
+51,Female,Project Manager,Education,28,Onsite,58,10,Medium,Depression,Unsatisfied,5,None,Average,Africa
+39,Non-binary,Sales,Education,26,Onsite,39,10,Medium,Depression,Neutral,1,Daily,Poor,Africa
+56,Non-binary,Designer,Healthcare,22,Hybrid,39,7,Medium,None,Satisfied,1,Weekly,Poor,Africa
+52,Non-binary,Marketing,IT,1,Remote,36,11,Low,Depression,Neutral,1,Weekly,Good,Africa
+35,Male,Designer,Retail,33,Hybrid,50,10,Medium,None,Satisfied,4,Daily,Good,Africa
+30,Male,Marketing,Consulting,25,Hybrid,20,4,Low,Burnout,Neutral,4,Weekly,Good,Africa
+26,Non-binary,HR,Healthcare,11,Onsite,36,14,High,Anxiety,Neutral,5,Weekly,Average,Africa
+40,Female,HR,Retail,11,Hybrid,55,5,High,Depression,Neutral,3,Weekly,Average,Africa
+35,Non-binary,Sales,Consulting,7,Onsite,37,9,Medium,Burnout,Neutral,3,None,Average,Africa
+23,Female,Project Manager,Finance,5,Hybrid,49,15,Medium,Anxiety,Satisfied,4,Weekly,Good,Africa
+46,Prefer not to say,Sales,Finance,31,Onsite,54,8,Low,Anxiety,Satisfied,2,Weekly,Poor,Africa
+30,Non-binary,Project Manager,Education,33,Remote,45,10,Medium,Burnout,Unsatisfied,3,Daily,Average,Africa
+56,Male,Marketing,Consulting,27,Hybrid,54,14,Low,None,Satisfied,4,None,Poor,Africa
+60,Female,Sales,Finance,9,Remote,38,8,Medium,Depression,Satisfied,2,None,Average,Africa
+30,Female,Designer,Finance,17,Onsite,23,13,Low,None,Unsatisfied,3,None,Average,Africa
+25,Prefer not to say,Project Manager,Retail,29,Remote,58,14,Low,Anxiety,Neutral,1,Weekly,Average,Africa
+49,Prefer not to say,Software Engineer,Manufacturing,1,Onsite,45,6,Low,Burnout,Satisfied,5,Daily,Poor,Africa
+23,Male,HR,Healthcare,24,Onsite,60,15,Low,Depression,Satisfied,4,None,Good,Africa
+30,Prefer not to say,Software Engineer,IT,10,Remote,41,0,Low,Burnout,Satisfied,2,None,Average,Africa
+44,Prefer not to say,Software Engineer,Manufacturing,9,Onsite,23,14,High,None,Satisfied,3,Weekly,Poor,Africa
+49,Male,HR,Healthcare,24,Hybrid,46,2,High,Anxiety,Unsatisfied,3,Daily,Good,Africa
+28,Non-binary,HR,Retail,8,Hybrid,44,3,Low,Depression,Neutral,4,Weekly,Good,Africa
+39,Female,Marketing,Finance,30,Hybrid,46,13,High,None,Neutral,2,None,Average,Africa
+27,Male,Project Manager,Consulting,10,Remote,49,12,High,Anxiety,Unsatisfied,5,Weekly,Good,Africa
+55,Female,Marketing,Finance,33,Remote,43,0,High,None,Unsatisfied,2,Weekly,Good,Africa
+38,Female,Marketing,IT,2,Hybrid,48,6,High,Anxiety,Unsatisfied,4,Daily,Poor,Africa
+32,Prefer not to say,Project Manager,Consulting,7,Remote,49,15,High,Burnout,Neutral,1,None,Average,Africa
+45,Male,Sales,Manufacturing,24,Onsite,47,9,High,None,Unsatisfied,2,None,Good,Africa
+48,Prefer not to say,Data Scientist,Retail,14,Hybrid,25,13,Low,None,Neutral,4,Daily,Average,Africa
+31,Non-binary,Designer,Healthcare,9,Hybrid,25,6,Low,Anxiety,Unsatisfied,5,Weekly,Average,Africa
+59,Non-binary,Marketing,Finance,13,Onsite,48,3,High,None,Satisfied,2,None,Poor,Africa
+42,Prefer not to say,Project Manager,Consulting,3,Remote,31,0,High,Anxiety,Neutral,3,None,Average,Africa
+51,Male,Designer,Healthcare,31,Remote,37,3,Low,None,Satisfied,5,Weekly,Good,Africa
+49,Non-binary,HR,Finance,17,Onsite,34,5,Low,Anxiety,Unsatisfied,1,None,Average,Africa
+45,Prefer not to say,Designer,IT,10,Onsite,39,2,Low,None,Unsatisfied,3,Weekly,Poor,Africa
+25,Prefer not to say,Software Engineer,IT,35,Remote,54,5,High,Burnout,Satisfied,2,Weekly,Average,Africa
+57,Non-binary,Project Manager,Healthcare,8,Onsite,22,15,Medium,None,Satisfied,3,None,Poor,Africa
+32,Male,Data Scientist,Education,23,Hybrid,35,1,High,Burnout,Unsatisfied,5,Daily,Average,Africa
+27,Female,Project Manager,Retail,18,Hybrid,32,1,Low,None,Unsatisfied,1,Weekly,Average,Africa
+32,Male,Sales,Education,13,Remote,42,4,High,Anxiety,Unsatisfied,5,Daily,Poor,Africa
+32,Female,Project Manager,Retail,20,Hybrid,55,9,Low,Depression,Satisfied,4,Daily,Good,Africa
+49,Non-binary,Sales,Retail,32,Onsite,21,5,High,Burnout,Satisfied,3,Daily,Good,Africa
+39,Prefer not to say,Marketing,Healthcare,10,Onsite,49,13,High,Depression,Unsatisfied,2,Daily,Average,Africa
+58,Male,Sales,Consulting,20,Remote,20,5,Medium,None,Neutral,3,Daily,Good,Africa
+60,Male,Data Scientist,Education,28,Onsite,23,10,High,Depression,Neutral,4,Weekly,Poor,Africa
+24,Male,HR,IT,9,Hybrid,43,9,Low,Anxiety,Satisfied,2,None,Average,Africa
+49,Prefer not to say,Designer,Retail,21,Remote,39,0,High,Anxiety,Neutral,4,None,Good,Africa
+56,Male,Sales,IT,17,Remote,22,15,High,Depression,Unsatisfied,5,Daily,Average,Africa
+34,Non-binary,Designer,IT,29,Remote,21,13,High,Anxiety,Satisfied,4,Weekly,Average,Africa
+37,Non-binary,Software Engineer,IT,1,Onsite,28,3,Low,Depression,Satisfied,4,None,Poor,Africa
+23,Female,Data Scientist,Manufacturing,5,Remote,52,9,Low,Burnout,Unsatisfied,5,None,Good,Africa
+37,Female,Designer,Consulting,1,Hybrid,54,13,Low,None,Neutral,1,None,Good,Africa
+56,Non-binary,Marketing,Consulting,2,Onsite,36,9,Medium,None,Unsatisfied,2,Weekly,Good,Africa
+51,Female,Designer,Retail,34,Hybrid,36,9,High,None,Satisfied,1,Daily,Average,Africa
+23,Prefer not to say,Designer,Finance,1,Onsite,27,12,Medium,Anxiety,Neutral,1,Daily,Poor,Africa
+27,Female,Designer,Consulting,17,Onsite,50,7,Low,Anxiety,Unsatisfied,5,None,Good,Africa
+40,Prefer not to say,Data Scientist,IT,6,Onsite,53,4,High,Burnout,Neutral,3,Daily,Poor,Africa
+24,Prefer not to say,Software Engineer,Retail,31,Onsite,47,10,Low,Burnout,Neutral,2,Daily,Poor,Africa
+43,Male,Software Engineer,Healthcare,29,Onsite,44,14,Medium,Depression,Unsatisfied,4,Daily,Average,Africa
+26,Female,Designer,Education,17,Onsite,46,5,Medium,Burnout,Satisfied,1,None,Poor,Africa
+24,Prefer not to say,HR,IT,3,Remote,39,6,Medium,Anxiety,Neutral,4,Weekly,Good,Africa
+32,Female,HR,Consulting,14,Remote,37,8,High,Depression,Unsatisfied,3,None,Average,Africa
+49,Prefer not to say,Software Engineer,Finance,8,Hybrid,27,0,High,Depression,Neutral,5,None,Poor,Africa
+53,Female,Data Scientist,IT,31,Onsite,42,13,Medium,Anxiety,Satisfied,2,None,Good,Africa
+59,Male,Data Scientist,IT,8,Onsite,42,11,Low,Anxiety,Satisfied,1,Weekly,Good,Africa
+26,Non-binary,HR,Finance,2,Remote,40,9,High,Anxiety,Unsatisfied,5,Daily,Poor,Africa
+48,Prefer not to say,Software Engineer,Consulting,25,Onsite,28,1,High,Depression,Neutral,4,Weekly,Poor,Africa
+44,Prefer not to say,HR,Retail,21,Hybrid,24,0,High,Depression,Neutral,3,None,Average,Africa
+22,Female,Designer,Consulting,20,Remote,47,8,Medium,Anxiety,Neutral,2,Weekly,Average,Africa
+40,Prefer not to say,Marketing,Consulting,11,Remote,50,10,Low,Depression,Neutral,1,Weekly,Good,Africa
+54,Female,Sales,Healthcare,23,Hybrid,25,8,High,Depression,Neutral,3,Daily,Poor,Africa
+26,Male,Software Engineer,IT,3,Onsite,33,8,High,None,Unsatisfied,4,Daily,Poor,Africa
+34,Female,Data Scientist,IT,1,Remote,29,2,High,Depression,Neutral,2,None,Poor,Africa
+55,Male,Marketing,Consulting,6,Hybrid,23,11,Low,None,Satisfied,3,None,Poor,Africa
+36,Male,Data Scientist,Manufacturing,1,Onsite,24,0,Medium,Burnout,Unsatisfied,4,Daily,Good,Africa
+23,Male,Designer,Finance,7,Remote,54,10,Low,None,Satisfied,5,Daily,Good,Africa
+54,Non-binary,Designer,Manufacturing,27,Remote,24,2,Medium,None,Unsatisfied,5,Weekly,Poor,Africa
+32,Female,HR,Consulting,15,Hybrid,37,10,High,Burnout,Satisfied,4,Weekly,Poor,Africa
+42,Non-binary,Marketing,Manufacturing,23,Hybrid,22,8,Low,Burnout,Neutral,3,Weekly,Poor,Africa
+40,Prefer not to say,Marketing,Finance,14,Onsite,43,12,High,None,Neutral,2,None,Average,Africa
+46,Female,Sales,Healthcare,4,Onsite,57,0,High,Burnout,Neutral,5,None,Average,Africa
+53,Non-binary,Data Scientist,Manufacturing,20,Remote,23,13,Medium,Anxiety,Neutral,4,None,Poor,Africa
+24,Male,Designer,Finance,19,Hybrid,26,2,High,Burnout,Unsatisfied,3,None,Good,Africa
+39,Prefer not to say,HR,Finance,10,Hybrid,29,12,Low,Burnout,Satisfied,5,Daily,Average,Africa
+34,Non-binary,Project Manager,Retail,21,Onsite,41,6,Low,Depression,Unsatisfied,4,Weekly,Good,Africa
+31,Prefer not to say,Designer,Consulting,7,Onsite,53,1,Medium,Burnout,Unsatisfied,5,None,Poor,Africa
+53,Prefer not to say,Project Manager,Manufacturing,2,Remote,21,1,Low,Depression,Neutral,5,None,Good,Africa
+34,Male,Project Manager,Retail,30,Onsite,46,9,Medium,Depression,Satisfied,3,Daily,Poor,Africa
+50,Female,Sales,Manufacturing,3,Hybrid,41,11,High,Anxiety,Satisfied,5,Daily,Poor,Africa
+60,Male,Software Engineer,IT,15,Hybrid,60,15,Low,Anxiety,Neutral,4,Weekly,Good,Africa
+30,Non-binary,Marketing,Education,22,Onsite,21,6,Low,Depression,Neutral,1,Daily,Good,Africa
+35,Prefer not to say,HR,Manufacturing,35,Remote,20,0,High,Burnout,Neutral,2,Daily,Good,Africa
+37,Male,Designer,Consulting,10,Remote,48,14,Medium,Depression,Neutral,2,Weekly,Good,Africa
+38,Non-binary,Designer,Education,1,Onsite,38,4,Low,Burnout,Unsatisfied,1,Daily,Good,Africa
+38,Male,Project Manager,Manufacturing,19,Remote,40,8,High,Depression,Unsatisfied,2,Daily,Poor,Africa
+45,Male,Sales,Healthcare,25,Onsite,42,14,Medium,Burnout,Unsatisfied,4,None,Average,Africa
+44,Prefer not to say,Software Engineer,Healthcare,24,Remote,34,4,Medium,Depression,Satisfied,4,Daily,Good,Africa
+60,Prefer not to say,Software Engineer,Manufacturing,8,Hybrid,53,10,High,Depression,Neutral,2,Weekly,Good,Africa
+53,Non-binary,Marketing,Retail,27,Hybrid,33,5,Medium,Anxiety,Satisfied,5,Daily,Good,Africa
+46,Male,Software Engineer,Healthcare,28,Remote,50,2,Low,None,Unsatisfied,4,Daily,Poor,Africa
+51,Non-binary,Software Engineer,Consulting,32,Hybrid,32,4,Medium,Burnout,Satisfied,5,Weekly,Poor,Africa
+33,Female,Software Engineer,Healthcare,13,Onsite,59,4,Medium,Burnout,Unsatisfied,3,Weekly,Average,Africa
+56,Male,Designer,Healthcare,30,Hybrid,60,10,Low,Depression,Neutral,3,None,Average,Africa
+31,Female,HR,Finance,33,Hybrid,35,3,Low,None,Neutral,5,Daily,Poor,Africa
+48,Prefer not to say,Project Manager,Education,9,Hybrid,28,3,High,None,Unsatisfied,5,Daily,Good,Africa
+55,Non-binary,Sales,Finance,12,Hybrid,54,3,Medium,None,Satisfied,1,Weekly,Average,Africa
+23,Prefer not to say,HR,Finance,7,Remote,54,14,Low,Anxiety,Satisfied,1,Daily,Poor,Africa
+33,Non-binary,Project Manager,Education,17,Remote,33,9,High,Burnout,Neutral,5,None,Poor,Africa
+24,Non-binary,Designer,Retail,23,Hybrid,32,9,Low,Anxiety,Unsatisfied,5,None,Average,Africa
+38,Male,Marketing,Retail,28,Hybrid,21,7,High,Depression,Satisfied,3,None,Poor,Africa
+58,Non-binary,Software Engineer,Healthcare,6,Remote,30,12,Medium,Depression,Satisfied,3,Daily,Poor,Africa
+43,Male,Project Manager,Healthcare,30,Onsite,49,10,High,Anxiety,Satisfied,2,Daily,Poor,Africa
+55,Female,Marketing,Consulting,3,Onsite,32,13,Medium,None,Unsatisfied,4,Weekly,Good,Africa
+24,Female,Project Manager,Manufacturing,3,Hybrid,53,3,Low,Anxiety,Satisfied,2,Weekly,Poor,Africa
+23,Prefer not to say,Data Scientist,Finance,31,Hybrid,27,8,Low,Burnout,Satisfied,3,None,Good,Africa
+34,Female,Project Manager,Manufacturing,12,Onsite,36,2,High,Depression,Unsatisfied,3,Daily,Average,Africa
+58,Male,Marketing,Education,5,Hybrid,31,10,Low,Depression,Neutral,3,None,Average,Africa
+35,Female,Project Manager,Manufacturing,14,Hybrid,25,1,Low,None,Unsatisfied,1,Weekly,Good,Africa
+52,Non-binary,Sales,Consulting,1,Onsite,23,5,High,Burnout,Satisfied,1,Weekly,Good,Africa
+59,Male,Marketing,Finance,21,Onsite,50,11,High,Anxiety,Unsatisfied,1,Daily,Poor,Africa
+46,Female,Marketing,Healthcare,27,Hybrid,27,14,High,None,Unsatisfied,4,None,Good,Africa
+52,Prefer not to say,Sales,Healthcare,17,Remote,28,9,Low,Burnout,Unsatisfied,3,Daily,Average,Africa
+44,Prefer not to say,Sales,Healthcare,31,Remote,59,3,Medium,Depression,Neutral,3,Weekly,Good,Africa
+34,Male,Project Manager,Consulting,8,Remote,21,1,High,Burnout,Neutral,5,Weekly,Average,Africa
+33,Female,HR,Education,7,Onsite,36,10,Medium,Burnout,Satisfied,4,None,Poor,Africa
+28,Female,Marketing,Manufacturing,19,Remote,37,13,Medium,Anxiety,Unsatisfied,4,Daily,Good,Africa
+51,Non-binary,Designer,Manufacturing,30,Remote,35,13,High,Depression,Satisfied,4,Weekly,Good,Africa
+29,Male,Marketing,Education,7,Remote,43,3,Medium,Anxiety,Neutral,3,Weekly,Average,Africa
+37,Male,HR,Healthcare,26,Remote,54,7,Medium,Burnout,Neutral,1,None,Poor,Africa
+50,Non-binary,Software Engineer,Retail,3,Remote,48,14,Low,Depression,Neutral,3,Weekly,Good,Africa
+44,Non-binary,Data Scientist,Manufacturing,23,Remote,23,6,Medium,Anxiety,Neutral,5,Weekly,Average,Africa
+45,Female,HR,IT,13,Hybrid,56,7,Medium,Anxiety,Unsatisfied,3,Daily,Good,Africa
+38,Male,Marketing,IT,6,Hybrid,47,7,Low,Depression,Satisfied,5,Daily,Average,Africa
+57,Male,Software Engineer,Education,19,Hybrid,60,3,Low,Burnout,Neutral,1,None,Average,Africa
+31,Non-binary,Project Manager,Healthcare,31,Onsite,55,13,High,Burnout,Neutral,5,Daily,Good,Africa
+40,Female,Marketing,IT,25,Onsite,29,6,Low,Depression,Neutral,4,None,Average,Africa
+27,Female,HR,Consulting,10,Hybrid,30,5,Medium,Depression,Unsatisfied,1,Weekly,Average,Africa
+30,Female,Data Scientist,IT,34,Remote,21,0,Low,Burnout,Neutral,4,Daily,Average,Africa
+27,Prefer not to say,Marketing,Retail,20,Remote,33,9,Low,Burnout,Neutral,4,None,Poor,Africa
+34,Female,Software Engineer,Manufacturing,34,Hybrid,22,4,Low,Depression,Satisfied,4,Weekly,Good,Africa
+36,Male,Marketing,Healthcare,24,Onsite,56,10,High,Burnout,Neutral,1,Daily,Average,Africa
+49,Non-binary,Project Manager,Finance,12,Remote,50,7,Medium,Burnout,Unsatisfied,3,Weekly,Good,Africa
+32,Female,Sales,IT,19,Remote,48,11,Medium,Burnout,Satisfied,4,Weekly,Average,Africa
+24,Prefer not to say,Marketing,Manufacturing,10,Onsite,22,11,Medium,Burnout,Satisfied,2,Weekly,Average,Africa
+56,Non-binary,Software Engineer,Finance,6,Hybrid,45,5,Low,None,Unsatisfied,4,Daily,Poor,Africa
+52,Female,HR,Retail,30,Remote,30,13,High,Depression,Neutral,5,Daily,Poor,Africa
+47,Non-binary,Data Scientist,Retail,31,Remote,47,6,High,None,Unsatisfied,4,Daily,Average,Africa
+39,Female,Software Engineer,Finance,7,Onsite,32,12,High,Burnout,Unsatisfied,4,None,Poor,Africa
+38,Non-binary,Sales,Education,7,Onsite,28,14,Medium,Depression,Neutral,2,Daily,Poor,Africa
+55,Non-binary,Marketing,Retail,27,Onsite,49,12,High,Depression,Unsatisfied,1,None,Good,Africa
+35,Male,Designer,Finance,6,Remote,43,0,High,Anxiety,Unsatisfied,1,None,Good,Africa
+58,Female,Sales,Retail,10,Remote,45,4,High,None,Neutral,4,None,Good,Africa
+24,Male,Data Scientist,Education,12,Onsite,35,11,Medium,Depression,Unsatisfied,2,None,Good,Africa
+30,Prefer not to say,HR,IT,29,Hybrid,25,3,Medium,None,Satisfied,3,Weekly,Good,Africa
+36,Prefer not to say,HR,Consulting,1,Remote,25,12,High,Depression,Satisfied,1,None,Poor,Africa
+43,Prefer not to say,Software Engineer,Finance,25,Onsite,52,10,High,None,Neutral,4,Weekly,Poor,Africa
+25,Non-binary,HR,IT,29,Hybrid,20,4,Low,Depression,Neutral,4,Daily,Average,Africa
+39,Male,Marketing,IT,13,Remote,21,0,High,None,Unsatisfied,5,Daily,Average,Africa
+52,Non-binary,HR,Healthcare,20,Onsite,25,8,High,Burnout,Satisfied,3,Weekly,Average,Africa
+29,Non-binary,Project Manager,Manufacturing,34,Remote,32,6,Medium,Burnout,Neutral,3,None,Good,Africa
+56,Male,Software Engineer,Healthcare,6,Remote,56,15,Low,Depression,Unsatisfied,2,None,Good,Africa
+36,Female,Data Scientist,Education,16,Onsite,25,0,High,Anxiety,Unsatisfied,5,Weekly,Poor,Africa
+55,Male,Sales,Education,23,Hybrid,35,1,Medium,Burnout,Satisfied,2,Weekly,Good,Africa
+42,Prefer not to say,HR,Consulting,21,Hybrid,50,3,High,None,Neutral,3,Weekly,Poor,Africa
+29,Non-binary,Sales,Finance,29,Remote,24,4,Low,Anxiety,Unsatisfied,4,Daily,Poor,Africa
+53,Male,Designer,Consulting,26,Remote,38,10,Medium,Depression,Satisfied,4,Weekly,Good,Africa
+23,Prefer not to say,Data Scientist,Education,4,Hybrid,28,5,Medium,Depression,Satisfied,5,Daily,Good,Africa
+36,Female,Designer,Finance,34,Hybrid,56,6,High,None,Satisfied,3,None,Poor,Africa
+23,Female,Project Manager,Finance,24,Hybrid,25,5,High,Depression,Unsatisfied,4,Daily,Poor,Africa
+46,Prefer not to say,Designer,Retail,8,Onsite,33,6,High,Anxiety,Unsatisfied,2,Weekly,Average,Africa
+39,Female,HR,Finance,21,Remote,32,6,Low,None,Satisfied,5,None,Good,Africa
+42,Non-binary,Software Engineer,IT,25,Onsite,59,3,Low,None,Unsatisfied,4,None,Average,Africa
+34,Male,Sales,Retail,1,Remote,20,4,Low,None,Neutral,3,None,Average,Africa
+38,Prefer not to say,Project Manager,Finance,22,Onsite,58,0,Medium,Anxiety,Neutral,2,Daily,Poor,Africa
+42,Male,Designer,Retail,5,Hybrid,32,15,Medium,Anxiety,Satisfied,3,None,Poor,Africa
+37,Male,Designer,Finance,23,Hybrid,46,1,High,None,Satisfied,2,None,Average,Africa
+26,Non-binary,Project Manager,Manufacturing,2,Hybrid,28,7,Low,Burnout,Satisfied,1,Weekly,Poor,Africa
+42,Prefer not to say,Project Manager,Retail,33,Remote,29,7,Medium,Anxiety,Unsatisfied,4,Weekly,Poor,Africa
+56,Prefer not to say,Marketing,IT,2,Onsite,27,1,Medium,Anxiety,Neutral,3,Weekly,Poor,Africa
+48,Male,Software Engineer,Retail,13,Onsite,55,8,Medium,Anxiety,Unsatisfied,5,Weekly,Average,Africa
+22,Prefer not to say,HR,Manufacturing,11,Remote,54,0,High,Anxiety,Satisfied,3,Weekly,Poor,Africa
+52,Male,Data Scientist,Retail,34,Onsite,32,8,High,Anxiety,Neutral,5,None,Average,Africa
+30,Prefer not to say,HR,Consulting,25,Onsite,46,11,High,Depression,Satisfied,5,Weekly,Good,Africa
+43,Non-binary,Sales,IT,23,Onsite,54,15,Medium,Burnout,Unsatisfied,3,None,Poor,Africa
+43,Non-binary,Designer,Healthcare,24,Hybrid,41,3,Medium,Depression,Neutral,1,None,Poor,Africa
+43,Prefer not to say,Project Manager,Finance,5,Hybrid,45,10,High,Burnout,Satisfied,3,Daily,Poor,Africa
+23,Male,Project Manager,Education,30,Hybrid,28,12,Medium,Anxiety,Satisfied,2,Daily,Good,Africa
+49,Prefer not to say,Project Manager,Consulting,13,Onsite,39,15,Medium,Anxiety,Satisfied,2,None,Average,Africa
+36,Non-binary,HR,Manufacturing,23,Remote,44,13,Medium,None,Neutral,4,Daily,Poor,Africa
+59,Prefer not to say,Sales,IT,3,Onsite,32,9,High,Anxiety,Unsatisfied,3,Daily,Poor,Africa
+35,Prefer not to say,Project Manager,Retail,25,Remote,34,3,Low,None,Unsatisfied,2,Daily,Poor,Africa
+56,Non-binary,Software Engineer,Healthcare,34,Onsite,20,4,Medium,None,Neutral,1,None,Poor,Africa
+47,Female,Software Engineer,Healthcare,32,Hybrid,52,2,Low,Burnout,Neutral,5,None,Average,Africa
+50,Female,Project Manager,Manufacturing,17,Onsite,26,14,High,None,Satisfied,1,Daily,Poor,Africa
+30,Female,Designer,Retail,12,Remote,36,3,High,Depression,Unsatisfied,2,Daily,Good,Africa
+41,Female,Data Scientist,IT,8,Hybrid,47,15,Low,None,Satisfied,5,Daily,Average,Africa
+22,Male,Marketing,Finance,2,Hybrid,32,7,High,Anxiety,Satisfied,1,Weekly,Good,Africa
+34,Prefer not to say,Project Manager,Healthcare,4,Onsite,31,3,High,None,Satisfied,2,None,Average,Africa
+46,Female,Data Scientist,Education,8,Onsite,54,10,Low,Anxiety,Satisfied,5,None,Good,Africa
+59,Male,Project Manager,Healthcare,31,Hybrid,48,11,Low,Anxiety,Neutral,4,None,Average,Africa
+25,Prefer not to say,Software Engineer,IT,15,Onsite,56,1,High,Anxiety,Neutral,4,None,Average,Africa
+53,Prefer not to say,Marketing,Finance,14,Remote,38,0,Low,Depression,Neutral,5,None,Poor,Africa
+59,Female,Marketing,Consulting,14,Remote,46,2,Low,None,Unsatisfied,1,None,Average,Africa
+22,Non-binary,Data Scientist,Education,17,Hybrid,56,4,High,Burnout,Satisfied,2,Daily,Poor,Africa
+39,Female,Software Engineer,IT,32,Onsite,20,14,High,Anxiety,Unsatisfied,1,None,Average,Africa
+35,Female,Sales,Education,23,Hybrid,29,11,High,Depression,Satisfied,5,None,Good,Africa
+40,Female,Sales,Healthcare,2,Hybrid,44,0,Medium,Depression,Unsatisfied,1,Weekly,Poor,Africa
+23,Prefer not to say,Sales,IT,21,Remote,46,6,High,Anxiety,Neutral,5,Daily,Average,Africa
+43,Male,Designer,Education,33,Remote,34,14,Low,Burnout,Satisfied,3,Daily,Good,Africa
+38,Male,Marketing,Retail,11,Hybrid,21,11,Medium,None,Unsatisfied,4,Weekly,Good,Africa
+25,Male,HR,IT,21,Remote,26,13,Medium,Anxiety,Unsatisfied,3,Weekly,Good,Africa
+29,Prefer not to say,Project Manager,Consulting,30,Remote,34,0,Low,Burnout,Unsatisfied,5,Weekly,Average,Africa
+33,Non-binary,Software Engineer,Healthcare,31,Remote,44,8,Low,Depression,Neutral,5,Weekly,Average,Africa
+28,Female,HR,Consulting,34,Hybrid,28,12,Medium,Depression,Neutral,3,Weekly,Poor,Africa
+24,Non-binary,Sales,Healthcare,13,Onsite,53,7,Medium,Depression,Satisfied,3,None,Good,Africa
+28,Prefer not to say,Project Manager,IT,14,Hybrid,45,9,Low,Burnout,Satisfied,3,None,Good,Africa
+57,Prefer not to say,Data Scientist,Retail,27,Hybrid,59,15,Medium,Anxiety,Satisfied,5,Daily,Good,Africa
+26,Male,Sales,Finance,26,Onsite,32,8,Low,Anxiety,Satisfied,2,Weekly,Poor,Africa
+52,Non-binary,Data Scientist,Retail,12,Remote,44,0,High,Anxiety,Satisfied,4,Weekly,Poor,Africa
+40,Male,HR,IT,21,Onsite,60,5,Medium,Anxiety,Neutral,2,None,Average,Africa
+53,Female,Marketing,Healthcare,2,Hybrid,37,13,High,Depression,Satisfied,2,None,Good,Africa
+46,Non-binary,Designer,Education,22,Onsite,36,13,High,None,Unsatisfied,5,None,Average,Africa
+30,Prefer not to say,Software Engineer,IT,1,Hybrid,36,0,Medium,Anxiety,Neutral,5,None,Average,Africa
+51,Female,HR,Manufacturing,6,Remote,23,6,Medium,Anxiety,Satisfied,2,Daily,Good,Africa
+44,Prefer not to say,Software Engineer,Retail,13,Onsite,52,7,High,Anxiety,Unsatisfied,5,Weekly,Good,Africa
+24,Female,Data Scientist,Finance,28,Hybrid,20,15,Low,Depression,Unsatisfied,4,Weekly,Average,Africa
+26,Female,Software Engineer,Education,33,Remote,29,5,High,Depression,Satisfied,2,Weekly,Average,Africa
+40,Non-binary,Software Engineer,Finance,34,Remote,48,1,Medium,Burnout,Neutral,1,Weekly,Average,Africa
+49,Prefer not to say,Designer,Healthcare,12,Onsite,33,13,Low,Depression,Neutral,1,None,Good,Africa
+23,Non-binary,Software Engineer,Manufacturing,26,Onsite,25,11,High,None,Unsatisfied,3,Daily,Poor,Africa
+40,Non-binary,Software Engineer,Retail,24,Hybrid,57,4,Medium,Burnout,Satisfied,3,None,Poor,Africa
+49,Female,Marketing,Education,29,Hybrid,25,7,High,Anxiety,Neutral,4,Weekly,Poor,Africa
+24,Non-binary,Designer,Manufacturing,3,Remote,27,1,High,Anxiety,Unsatisfied,5,None,Poor,Africa
+23,Female,Data Scientist,Manufacturing,25,Onsite,28,2,Low,Burnout,Satisfied,4,None,Average,Africa
+48,Non-binary,Designer,Healthcare,5,Remote,31,13,High,Burnout,Neutral,1,Weekly,Average,Africa
+54,Male,Data Scientist,Consulting,2,Hybrid,32,1,Medium,Burnout,Unsatisfied,5,Daily,Average,Africa
+45,Non-binary,Sales,IT,15,Onsite,26,2,Medium,Burnout,Satisfied,4,Weekly,Poor,Africa
+59,Prefer not to say,Data Scientist,Healthcare,18,Hybrid,26,9,High,Burnout,Unsatisfied,3,Daily,Poor,Africa
+59,Non-binary,Designer,Healthcare,2,Hybrid,47,2,Medium,Burnout,Unsatisfied,3,Daily,Good,Africa
+54,Female,Marketing,Finance,23,Hybrid,59,8,Low,Anxiety,Neutral,4,None,Good,Africa
+48,Male,Data Scientist,Retail,3,Onsite,21,2,Low,Burnout,Satisfied,3,Weekly,Good,Africa
+47,Prefer not to say,Marketing,Consulting,29,Hybrid,22,7,Low,Depression,Satisfied,1,None,Poor,Africa
+48,Prefer not to say,HR,Finance,9,Remote,37,13,Low,Depression,Neutral,1,Daily,Good,Africa
+41,Prefer not to say,Data Scientist,IT,1,Onsite,53,14,Medium,Anxiety,Unsatisfied,4,Daily,Average,Africa
+31,Male,Marketing,IT,16,Hybrid,48,15,Medium,None,Unsatisfied,3,Daily,Good,Africa
+27,Non-binary,Project Manager,Education,9,Remote,52,2,High,Burnout,Unsatisfied,5,Weekly,Average,Africa
+43,Prefer not to say,Designer,Finance,13,Remote,31,1,High,None,Neutral,2,Weekly,Good,Africa
+30,Non-binary,Designer,Manufacturing,25,Remote,22,10,Low,None,Satisfied,1,Daily,Average,Africa
+30,Prefer not to say,HR,Retail,1,Remote,54,1,High,Anxiety,Neutral,2,Daily,Good,Africa
+52,Prefer not to say,HR,Education,6,Hybrid,48,4,High,Anxiety,Satisfied,1,Weekly,Poor,Africa
+54,Female,Sales,Consulting,11,Hybrid,29,5,High,None,Neutral,2,None,Poor,Africa
+53,Female,Marketing,Consulting,18,Remote,25,7,Low,Depression,Neutral,5,Daily,Poor,Africa
+53,Female,Project Manager,IT,14,Hybrid,22,0,High,Depression,Satisfied,5,Weekly,Good,Africa
+38,Female,Software Engineer,Education,6,Onsite,48,8,Low,Depression,Unsatisfied,4,Weekly,Average,Africa
+46,Non-binary,Data Scientist,IT,1,Hybrid,49,5,Medium,Depression,Satisfied,4,None,Good,Africa
+58,Female,Designer,Education,33,Hybrid,24,1,Medium,Burnout,Unsatisfied,5,Weekly,Good,Africa
+49,Non-binary,HR,Healthcare,33,Remote,24,2,Medium,Burnout,Neutral,4,Weekly,Average,Africa
+54,Male,HR,Manufacturing,11,Hybrid,33,10,Low,Burnout,Unsatisfied,2,Daily,Good,Africa
+51,Male,Software Engineer,IT,21,Onsite,36,15,Low,None,Satisfied,3,None,Average,Africa
+55,Non-binary,Marketing,Retail,2,Hybrid,22,15,Medium,None,Satisfied,2,Weekly,Good,Africa
+28,Prefer not to say,Marketing,IT,33,Onsite,55,4,Medium,None,Unsatisfied,2,Weekly,Poor,Africa
+58,Non-binary,Software Engineer,Manufacturing,24,Hybrid,42,13,Low,Burnout,Unsatisfied,4,None,Average,Africa
+42,Prefer not to say,Marketing,IT,24,Remote,24,1,Medium,Burnout,Neutral,5,Daily,Poor,Africa
+41,Female,Sales,Consulting,11,Hybrid,24,5,Low,Burnout,Neutral,3,None,Poor,Africa
+25,Non-binary,Data Scientist,Manufacturing,3,Hybrid,25,3,Medium,Depression,Neutral,3,Weekly,Good,Africa
+31,Prefer not to say,Data Scientist,Healthcare,19,Onsite,28,0,Medium,Depression,Satisfied,1,None,Average,Africa
+54,Non-binary,Software Engineer,Manufacturing,27,Onsite,35,1,Low,Anxiety,Unsatisfied,4,Daily,Average,Africa
+29,Non-binary,Designer,Education,28,Hybrid,55,7,Low,None,Neutral,2,Daily,Poor,Africa
+32,Non-binary,Sales,IT,4,Hybrid,38,5,High,Depression,Unsatisfied,2,Weekly,Good,Africa
+46,Non-binary,HR,Consulting,21,Remote,36,10,Low,Anxiety,Unsatisfied,4,None,Average,Africa
+45,Male,Designer,Education,1,Onsite,25,9,Low,None,Unsatisfied,2,Weekly,Poor,Africa
+24,Female,Marketing,Finance,5,Remote,35,1,Low,Anxiety,Neutral,1,Daily,Average,Africa
+35,Female,Marketing,Education,25,Onsite,20,2,High,Burnout,Neutral,3,Weekly,Poor,Africa
+46,Male,Sales,Consulting,24,Onsite,37,6,Medium,Burnout,Unsatisfied,4,Weekly,Good,Africa
+55,Female,Sales,Retail,31,Hybrid,32,0,Low,Burnout,Neutral,3,Daily,Good,Africa
+39,Prefer not to say,Sales,Healthcare,4,Onsite,42,15,Low,Burnout,Unsatisfied,2,Daily,Poor,Africa
+27,Male,Marketing,Retail,16,Hybrid,40,11,Medium,None,Satisfied,1,Daily,Good,Africa
+49,Male,Marketing,Education,34,Onsite,21,0,High,None,Neutral,5,Weekly,Poor,Africa
+55,Male,Marketing,Healthcare,20,Onsite,47,15,High,Depression,Unsatisfied,3,Weekly,Good,Africa
+32,Non-binary,HR,Healthcare,9,Onsite,50,5,Low,Burnout,Satisfied,2,Daily,Good,Africa
+50,Non-binary,Sales,Consulting,23,Hybrid,26,1,High,Depression,Satisfied,1,Daily,Good,Africa
+50,Prefer not to say,Sales,Healthcare,13,Hybrid,48,14,High,Burnout,Unsatisfied,3,None,Poor,Africa
+47,Female,HR,Finance,26,Hybrid,47,6,Medium,Burnout,Neutral,3,Daily,Poor,Africa
+47,Male,Project Manager,Healthcare,7,Hybrid,49,8,High,Anxiety,Unsatisfied,5,Weekly,Average,Africa
+37,Non-binary,Data Scientist,IT,26,Remote,27,7,High,None,Unsatisfied,5,None,Average,Africa
+33,Non-binary,Sales,Education,11,Onsite,38,8,High,Depression,Neutral,4,Weekly,Good,Africa
+40,Female,Data Scientist,Manufacturing,12,Onsite,37,5,Low,None,Unsatisfied,4,None,Average,Africa
+53,Non-binary,Software Engineer,Consulting,6,Hybrid,41,2,Medium,None,Satisfied,1,None,Average,Africa
+34,Non-binary,Project Manager,Consulting,21,Remote,32,6,Low,Depression,Satisfied,5,Daily,Good,Africa
+22,Non-binary,Sales,IT,24,Onsite,48,1,Low,None,Satisfied,5,None,Poor,Africa
+57,Male,Data Scientist,Retail,11,Remote,42,14,High,Depression,Neutral,2,None,Poor,Africa
+27,Non-binary,Software Engineer,Healthcare,15,Onsite,59,12,Low,Depression,Neutral,5,None,Average,Africa
+54,Male,Data Scientist,Retail,7,Remote,21,2,High,Depression,Unsatisfied,1,None,Poor,Africa
+54,Female,Project Manager,Manufacturing,29,Hybrid,56,0,High,Anxiety,Neutral,1,None,Average,Africa
+25,Prefer not to say,Software Engineer,Retail,5,Remote,21,4,Medium,Burnout,Unsatisfied,5,Weekly,Good,Africa
+58,Female,Sales,Retail,33,Remote,56,15,Medium,Depression,Satisfied,3,Weekly,Poor,Africa
+33,Male,Project Manager,Finance,3,Remote,53,8,Low,Burnout,Unsatisfied,2,Weekly,Average,Africa
+32,Prefer not to say,HR,IT,28,Remote,50,14,Low,None,Neutral,3,Weekly,Average,Africa
+37,Non-binary,Project Manager,Healthcare,15,Hybrid,57,9,Low,Anxiety,Unsatisfied,3,Weekly,Poor,Africa
+54,Male,HR,IT,27,Onsite,56,6,High,None,Unsatisfied,4,None,Average,Africa
+48,Prefer not to say,Project Manager,IT,17,Remote,28,13,Medium,Depression,Unsatisfied,3,Weekly,Average,Africa
+37,Female,HR,Consulting,2,Hybrid,22,14,Low,Depression,Satisfied,4,Weekly,Poor,Africa
+58,Prefer not to say,Marketing,Education,10,Hybrid,32,4,Medium,Burnout,Satisfied,2,Weekly,Poor,Africa
+29,Prefer not to say,Software Engineer,IT,14,Onsite,51,14,High,Anxiety,Satisfied,3,Weekly,Good,Africa
+22,Prefer not to say,Software Engineer,Education,15,Onsite,27,4,High,Depression,Satisfied,1,Weekly,Good,Africa
+30,Non-binary,Data Scientist,Finance,5,Hybrid,27,4,High,Depression,Neutral,1,None,Poor,Africa
+42,Male,HR,Manufacturing,1,Onsite,39,2,High,Anxiety,Neutral,1,None,Poor,Africa
+27,Male,Software Engineer,IT,22,Remote,36,1,Low,Anxiety,Unsatisfied,4,Weekly,Poor,Africa
+32,Prefer not to say,HR,IT,35,Hybrid,42,4,Medium,Anxiety,Satisfied,1,Daily,Poor,Africa
+33,Female,Data Scientist,Education,18,Remote,55,0,High,Burnout,Unsatisfied,4,Weekly,Good,Africa
+35,Non-binary,Sales,Healthcare,6,Onsite,37,13,High,Anxiety,Neutral,4,Daily,Good,Africa
+46,Non-binary,Project Manager,Healthcare,18,Onsite,38,1,Medium,None,Satisfied,3,Daily,Good,Africa
+40,Non-binary,Data Scientist,Manufacturing,15,Hybrid,49,1,Medium,Depression,Neutral,1,Daily,Good,Africa
+47,Non-binary,HR,Manufacturing,15,Onsite,56,13,Low,Anxiety,Neutral,4,None,Poor,Africa
+39,Female,Data Scientist,Retail,21,Onsite,53,14,Medium,Burnout,Unsatisfied,5,Daily,Poor,Africa
+50,Female,Sales,Manufacturing,31,Hybrid,59,2,Medium,None,Unsatisfied,2,Daily,Poor,Africa
+40,Prefer not to say,Sales,Education,16,Hybrid,59,5,Low,Burnout,Unsatisfied,4,None,Average,Africa
+53,Non-binary,Designer,Manufacturing,33,Hybrid,54,2,Low,Anxiety,Neutral,5,Daily,Average,Africa
+51,Male,Marketing,Retail,33,Onsite,49,0,Low,Burnout,Neutral,2,None,Poor,Africa
+53,Female,Software Engineer,Finance,30,Onsite,48,3,Low,None,Satisfied,3,Daily,Average,Africa
+56,Non-binary,Marketing,Education,18,Hybrid,36,6,Low,Anxiety,Neutral,2,Weekly,Poor,Africa
+43,Male,Data Scientist,Manufacturing,29,Onsite,52,1,High,Burnout,Unsatisfied,4,Weekly,Good,Africa
+45,Prefer not to say,Designer,Manufacturing,24,Hybrid,36,7,Medium,None,Neutral,1,Daily,Poor,Africa
+25,Prefer not to say,Sales,Retail,7,Hybrid,38,2,Medium,Anxiety,Neutral,3,None,Good,Africa
+52,Prefer not to say,Software Engineer,Retail,6,Hybrid,45,6,Medium,None,Unsatisfied,1,None,Poor,Africa
+46,Male,HR,Finance,23,Onsite,59,12,Medium,Depression,Unsatisfied,3,None,Poor,Africa
+26,Non-binary,Software Engineer,Consulting,12,Hybrid,55,5,Medium,Anxiety,Unsatisfied,4,Daily,Poor,Africa
+29,Male,Marketing,IT,10,Remote,26,10,Medium,Burnout,Neutral,5,Weekly,Average,Africa
+27,Male,Sales,Healthcare,20,Onsite,32,6,Low,None,Neutral,3,Weekly,Good,Africa
+47,Male,HR,Retail,30,Hybrid,48,7,Medium,None,Unsatisfied,3,Daily,Good,Africa
+42,Prefer not to say,Sales,Healthcare,19,Onsite,37,11,Low,Burnout,Neutral,2,Weekly,Poor,Africa
+48,Male,HR,IT,24,Hybrid,31,3,Medium,Depression,Unsatisfied,1,Weekly,Poor,Africa
+49,Female,Software Engineer,Manufacturing,6,Remote,40,8,Medium,Anxiety,Unsatisfied,5,None,Good,Africa
+53,Female,Data Scientist,Manufacturing,17,Remote,32,11,High,Anxiety,Unsatisfied,3,Weekly,Good,Africa
+41,Non-binary,Project Manager,IT,6,Onsite,48,4,High,None,Neutral,1,Weekly,Poor,Africa
+54,Non-binary,Sales,Consulting,5,Onsite,33,14,Low,Anxiety,Unsatisfied,3,None,Good,Africa
+38,Female,Software Engineer,IT,21,Hybrid,26,1,High,Burnout,Satisfied,5,None,Average,Africa
+30,Female,Sales,Manufacturing,21,Hybrid,21,10,High,None,Satisfied,3,Daily,Good,Africa
+51,Non-binary,Data Scientist,Retail,7,Onsite,26,7,Low,None,Unsatisfied,4,None,Average,Africa
+23,Female,Designer,Education,24,Hybrid,49,2,Low,Burnout,Satisfied,4,None,Good,Africa
+47,Male,HR,IT,6,Onsite,50,15,Medium,Depression,Satisfied,4,None,Average,Africa
+45,Prefer not to say,HR,Consulting,18,Hybrid,55,10,High,Depression,Satisfied,2,None,Poor,Africa
+25,Male,Sales,Retail,17,Remote,53,12,High,None,Neutral,4,None,Poor,Africa
+28,Prefer not to say,Sales,Healthcare,13,Remote,20,2,High,None,Neutral,2,Daily,Poor,Africa
+55,Prefer not to say,Designer,Finance,11,Onsite,41,3,High,Depression,Neutral,1,None,Average,Africa
+48,Prefer not to say,Designer,Consulting,29,Onsite,49,1,Low,Depression,Neutral,1,None,Good,Africa
+55,Non-binary,Marketing,Education,12,Remote,58,0,High,Burnout,Satisfied,5,Daily,Average,Africa
+31,Female,Marketing,Retail,8,Remote,29,14,High,Anxiety,Satisfied,3,None,Poor,Africa
+28,Male,Project Manager,IT,26,Onsite,22,15,Medium,None,Unsatisfied,3,Weekly,Average,Africa
+22,Non-binary,Project Manager,Retail,30,Remote,50,10,High,Anxiety,Satisfied,3,Daily,Average,Africa
+50,Prefer not to say,HR,IT,6,Hybrid,51,11,High,Burnout,Unsatisfied,4,None,Average,Africa
+25,Female,Software Engineer,Healthcare,13,Hybrid,57,3,High,Depression,Satisfied,2,Weekly,Poor,Africa
+33,Male,Designer,Education,6,Onsite,60,8,Low,Burnout,Neutral,3,Weekly,Poor,Africa
+36,Male,Designer,IT,30,Remote,30,11,High,Anxiety,Satisfied,4,Daily,Poor,Africa
+49,Non-binary,Data Scientist,Finance,13,Remote,22,2,Low,Depression,Satisfied,4,None,Poor,Africa
+31,Non-binary,Data Scientist,Education,18,Onsite,31,4,High,Depression,Satisfied,4,Weekly,Average,Africa
+46,Female,Marketing,Education,5,Remote,28,15,High,None,Satisfied,3,None,Good,Africa
+42,Female,Software Engineer,IT,24,Hybrid,21,0,Low,Depression,Satisfied,5,Daily,Average,Africa
+23,Male,Sales,Manufacturing,27,Remote,45,11,Medium,Depression,Unsatisfied,1,Weekly,Good,Africa
+49,Prefer not to say,Sales,Healthcare,16,Remote,34,4,High,Anxiety,Neutral,3,Weekly,Average,Africa
+39,Prefer not to say,Sales,Manufacturing,19,Onsite,35,14,High,Anxiety,Unsatisfied,1,Daily,Good,Africa
+22,Prefer not to say,HR,IT,11,Remote,49,8,High,Burnout,Satisfied,1,Daily,Average,Africa
+55,Prefer not to say,Project Manager,Healthcare,31,Remote,59,6,High,None,Satisfied,3,Daily,Average,Africa
+44,Male,Data Scientist,Healthcare,23,Onsite,29,7,Low,Anxiety,Satisfied,3,None,Poor,Africa
+22,Male,Sales,Manufacturing,22,Remote,47,12,High,Depression,Satisfied,5,Daily,Average,Africa
+32,Male,Software Engineer,Manufacturing,22,Onsite,33,7,Medium,Anxiety,Unsatisfied,3,Daily,Poor,Africa
+47,Prefer not to say,HR,Healthcare,18,Remote,58,8,Medium,None,Satisfied,5,Daily,Good,Africa
+40,Female,HR,Education,23,Remote,26,4,Low,Depression,Neutral,1,Weekly,Average,Africa
+22,Prefer not to say,HR,Consulting,34,Remote,29,13,Low,Burnout,Unsatisfied,1,Weekly,Good,Africa
+59,Non-binary,Marketing,Manufacturing,20,Onsite,21,11,High,Burnout,Neutral,1,Weekly,Average,Africa
+57,Female,Sales,Manufacturing,16,Onsite,32,10,High,Depression,Unsatisfied,3,Daily,Poor,Africa
+37,Female,Software Engineer,Healthcare,12,Remote,23,15,High,None,Satisfied,3,Weekly,Average,Africa
+25,Male,Project Manager,Consulting,12,Remote,20,10,Medium,Anxiety,Unsatisfied,2,Daily,Average,Africa
+24,Male,HR,Finance,16,Hybrid,44,7,High,Burnout,Neutral,3,Weekly,Average,Africa
+32,Female,Project Manager,Manufacturing,18,Remote,25,8,Medium,Depression,Unsatisfied,3,Weekly,Good,Africa
+41,Non-binary,Sales,Consulting,34,Hybrid,37,12,Medium,None,Unsatisfied,1,Daily,Average,Africa
+30,Female,Data Scientist,Finance,11,Hybrid,54,0,Low,Depression,Satisfied,1,Weekly,Poor,Africa
+28,Prefer not to say,Project Manager,Education,20,Remote,56,9,Low,Depression,Unsatisfied,5,None,Good,Africa
+36,Prefer not to say,Software Engineer,Finance,9,Remote,58,9,Medium,Burnout,Satisfied,4,None,Good,Africa
+22,Female,Designer,Education,11,Hybrid,25,0,Low,None,Neutral,1,Weekly,Average,Africa
+40,Non-binary,Software Engineer,Retail,14,Hybrid,53,4,Low,Burnout,Neutral,3,Daily,Poor,Africa
+41,Female,Designer,Healthcare,4,Hybrid,28,11,Low,Burnout,Satisfied,1,Daily,Poor,Africa
+34,Female,Data Scientist,Healthcare,8,Onsite,27,15,Medium,Burnout,Unsatisfied,5,Daily,Good,Africa
+32,Non-binary,Designer,Manufacturing,17,Remote,44,11,Medium,Depression,Neutral,3,Daily,Poor,Africa
+42,Male,Software Engineer,Education,33,Remote,46,12,High,None,Unsatisfied,3,Weekly,Good,Africa
+46,Male,HR,IT,24,Remote,26,4,Low,None,Satisfied,2,Daily,Poor,Africa
+23,Female,HR,Education,13,Onsite,59,2,Medium,Anxiety,Satisfied,3,Daily,Average,Africa
+48,Male,Marketing,Retail,18,Remote,40,13,High,Anxiety,Neutral,3,Weekly,Average,Africa
+33,Female,Sales,Consulting,16,Hybrid,57,12,Low,None,Unsatisfied,4,Daily,Average,Africa
+28,Male,Sales,Healthcare,19,Hybrid,29,13,Medium,Burnout,Unsatisfied,3,Weekly,Average,Africa
+23,Prefer not to say,Data Scientist,Finance,29,Remote,50,12,High,None,Satisfied,4,None,Average,Africa
+49,Male,Sales,Consulting,27,Onsite,31,11,Medium,Depression,Unsatisfied,1,Weekly,Poor,Africa
+58,Female,Data Scientist,Healthcare,8,Onsite,40,1,High,None,Unsatisfied,1,None,Poor,Africa
+26,Prefer not to say,Sales,Retail,29,Remote,49,0,Low,Burnout,Satisfied,3,None,Poor,Africa
+30,Non-binary,Software Engineer,Manufacturing,33,Onsite,39,2,Medium,Burnout,Neutral,3,Daily,Good,Africa
+40,Prefer not to say,Marketing,IT,25,Remote,41,11,High,Depression,Satisfied,2,Weekly,Good,Africa
+25,Female,HR,Healthcare,18,Remote,28,5,High,Depression,Satisfied,2,None,Average,Africa
+39,Non-binary,Data Scientist,Manufacturing,22,Hybrid,33,11,Low,Burnout,Neutral,4,Weekly,Good,Africa
+44,Female,Marketing,Retail,23,Hybrid,46,1,Low,Depression,Satisfied,5,None,Good,Africa
+53,Female,Marketing,Consulting,7,Onsite,26,12,Low,Depression,Unsatisfied,2,Weekly,Poor,Africa
+41,Non-binary,Sales,Retail,23,Hybrid,24,0,Medium,Burnout,Unsatisfied,4,Weekly,Good,Africa
+32,Non-binary,HR,Manufacturing,15,Hybrid,24,1,Low,Depression,Unsatisfied,1,Daily,Good,Africa
+52,Female,Marketing,Education,16,Remote,24,0,High,Depression,Satisfied,3,Weekly,Poor,Africa
+43,Female,Designer,Manufacturing,28,Hybrid,49,14,Low,None,Satisfied,2,Daily,Good,Africa
+41,Prefer not to say,Project Manager,IT,9,Onsite,50,8,High,None,Neutral,5,Weekly,Average,Africa
+52,Non-binary,Sales,Consulting,21,Hybrid,59,10,Low,Depression,Satisfied,4,Weekly,Good,Africa
+59,Female,Software Engineer,Finance,20,Hybrid,23,5,Medium,None,Satisfied,5,Weekly,Average,Africa
+29,Male,Software Engineer,Healthcare,29,Remote,53,6,High,Anxiety,Satisfied,5,Daily,Poor,Africa
+55,Female,Designer,Education,3,Onsite,59,2,Medium,None,Unsatisfied,1,Daily,Good,Africa
+48,Male,Software Engineer,IT,17,Remote,44,12,Low,Anxiety,Satisfied,1,Daily,Good,Africa
+51,Prefer not to say,Sales,Manufacturing,24,Remote,45,1,Medium,Burnout,Neutral,1,Daily,Poor,Africa
+33,Prefer not to say,HR,Manufacturing,16,Hybrid,43,3,High,None,Neutral,3,Weekly,Average,Africa
+29,Non-binary,Marketing,Education,9,Onsite,39,5,High,Anxiety,Unsatisfied,1,Daily,Poor,Africa
+46,Non-binary,Marketing,Manufacturing,13,Hybrid,31,3,High,Anxiety,Neutral,3,Daily,Average,Africa
+35,Non-binary,Software Engineer,Manufacturing,18,Remote,33,6,Low,Anxiety,Satisfied,5,Weekly,Good,Africa
+26,Female,HR,Finance,20,Remote,53,8,High,None,Satisfied,1,Daily,Good,Africa
+37,Female,Designer,Healthcare,21,Remote,43,5,Medium,Anxiety,Neutral,2,Weekly,Good,Africa
+47,Prefer not to say,Project Manager,Consulting,34,Remote,21,7,High,Anxiety,Neutral,3,None,Good,Africa
+34,Female,Data Scientist,Consulting,8,Onsite,51,2,Low,Burnout,Satisfied,1,Weekly,Average,Africa
+33,Prefer not to say,Software Engineer,Healthcare,11,Remote,56,7,High,Depression,Satisfied,1,Weekly,Poor,Africa
+47,Prefer not to say,Project Manager,Manufacturing,28,Remote,38,6,Medium,Burnout,Unsatisfied,3,Weekly,Poor,Africa
+34,Male,Marketing,IT,26,Remote,36,2,High,Burnout,Unsatisfied,4,None,Average,Africa
+50,Prefer not to say,Project Manager,Consulting,4,Remote,41,12,Medium,Burnout,Satisfied,3,Weekly,Poor,Africa
+45,Prefer not to say,Software Engineer,Manufacturing,4,Remote,59,5,Medium,Burnout,Unsatisfied,4,Daily,Good,Africa
+53,Female,Project Manager,Manufacturing,5,Remote,34,2,High,Anxiety,Satisfied,2,Weekly,Average,Africa
+60,Non-binary,Data Scientist,Consulting,20,Remote,34,13,Low,Anxiety,Unsatisfied,3,Daily,Good,Africa
+23,Prefer not to say,Project Manager,IT,34,Remote,50,3,Low,None,Neutral,1,Weekly,Average,Africa
+23,Male,Data Scientist,IT,23,Hybrid,50,11,Low,None,Satisfied,2,None,Good,Africa
+36,Non-binary,Sales,Manufacturing,7,Hybrid,60,6,High,Burnout,Unsatisfied,5,Daily,Average,Africa
+35,Prefer not to say,Software Engineer,IT,4,Remote,36,3,Medium,Anxiety,Satisfied,3,Daily,Average,Africa
+34,Prefer not to say,Software Engineer,Education,32,Remote,49,0,High,Anxiety,Unsatisfied,2,Weekly,Average,Africa
+32,Prefer not to say,Designer,Manufacturing,15,Onsite,39,10,Low,Burnout,Unsatisfied,1,None,Good,Africa
+44,Male,HR,Finance,29,Remote,32,9,Medium,Depression,Neutral,3,Daily,Poor,Africa
+31,Female,Software Engineer,IT,18,Onsite,24,1,High,Depression,Unsatisfied,1,Weekly,Good,Africa
+41,Prefer not to say,Project Manager,Manufacturing,29,Onsite,56,13,Medium,Burnout,Satisfied,4,Daily,Good,Africa
+60,Male,Marketing,Manufacturing,11,Remote,56,4,Medium,None,Satisfied,4,Daily,Good,Africa
+57,Female,Software Engineer,Education,4,Remote,45,1,High,Depression,Neutral,4,None,Average,Africa
+53,Female,Data Scientist,Consulting,29,Remote,59,5,High,Burnout,Unsatisfied,4,Daily,Poor,Africa
+36,Female,Sales,IT,6,Onsite,35,10,Medium,Anxiety,Unsatisfied,2,Weekly,Good,Africa
+44,Male,Sales,Consulting,1,Remote,43,5,High,Anxiety,Neutral,2,Weekly,Average,Africa
+36,Female,Sales,Consulting,18,Remote,50,9,High,None,Satisfied,2,None,Average,Africa
+26,Female,Sales,Education,1,Onsite,26,0,Low,Burnout,Unsatisfied,3,Daily,Poor,Africa
+52,Prefer not to say,Sales,Education,7,Onsite,31,12,Low,None,Neutral,2,Daily,Average,Africa
+40,Female,Project Manager,Finance,3,Remote,57,13,High,Anxiety,Unsatisfied,5,None,Average,Africa
+25,Prefer not to say,HR,Retail,1,Remote,23,7,High,Burnout,Neutral,5,None,Poor,Africa
+43,Non-binary,Project Manager,Healthcare,9,Onsite,43,4,Medium,Depression,Satisfied,5,Weekly,Good,Africa
+60,Prefer not to say,Software Engineer,IT,3,Remote,47,12,High,Anxiety,Neutral,1,None,Average,Africa
+60,Male,Sales,Consulting,33,Remote,40,12,Medium,Anxiety,Neutral,4,Daily,Good,Africa
+57,Non-binary,Software Engineer,Retail,21,Onsite,29,14,High,None,Unsatisfied,3,None,Good,Africa
+55,Prefer not to say,Data Scientist,Education,34,Onsite,48,15,Low,Burnout,Neutral,1,Weekly,Good,Africa
+41,Male,Software Engineer,Retail,23,Hybrid,52,9,High,None,Satisfied,4,None,Good,Africa
+53,Female,Software Engineer,Consulting,35,Remote,22,6,Low,Burnout,Neutral,5,Weekly,Good,Africa
+48,Male,Project Manager,IT,7,Remote,32,8,Medium,None,Neutral,4,Daily,Average,Africa
+43,Prefer not to say,Software Engineer,Retail,8,Remote,59,14,Low,Anxiety,Neutral,4,Daily,Good,Africa
+56,Prefer not to say,Sales,Healthcare,14,Hybrid,28,15,Medium,None,Satisfied,2,Weekly,Poor,Africa
+22,Male,HR,Manufacturing,30,Remote,40,2,High,Anxiety,Satisfied,5,Daily,Poor,Africa
+56,Non-binary,HR,Manufacturing,25,Hybrid,48,9,Medium,Anxiety,Unsatisfied,1,Daily,Average,Africa
+60,Female,Data Scientist,Education,32,Onsite,41,5,High,Anxiety,Satisfied,5,Weekly,Good,Africa
+34,Prefer not to say,Project Manager,Manufacturing,11,Onsite,32,14,High,None,Neutral,3,Daily,Poor,Africa
+47,Prefer not to say,Marketing,Healthcare,17,Remote,50,6,Low,None,Unsatisfied,4,None,Good,Africa
+28,Male,HR,Retail,6,Hybrid,31,1,Medium,Anxiety,Neutral,1,Weekly,Average,Africa
+49,Non-binary,Designer,Healthcare,26,Remote,28,2,Medium,None,Unsatisfied,2,Weekly,Poor,Africa
+24,Prefer not to say,Sales,Healthcare,31,Onsite,59,15,Medium,Burnout,Neutral,4,None,Good,Africa
+22,Male,Marketing,IT,20,Hybrid,41,9,Low,None,Neutral,3,Weekly,Good,Africa
+60,Non-binary,Sales,IT,1,Onsite,57,15,High,Burnout,Satisfied,4,Daily,Good,Africa
+58,Female,HR,Finance,6,Hybrid,25,15,Low,Burnout,Unsatisfied,2,Daily,Poor,Africa
+41,Female,HR,Healthcare,30,Hybrid,48,2,High,Burnout,Unsatisfied,1,Daily,Poor,Africa
+37,Female,Designer,Education,31,Onsite,28,13,Medium,Depression,Unsatisfied,3,Weekly,Good,Africa
+31,Male,Project Manager,Finance,29,Onsite,42,9,Low,Depression,Unsatisfied,1,None,Poor,Africa
+42,Male,HR,Consulting,32,Onsite,40,15,Medium,Burnout,Unsatisfied,3,None,Good,Africa
+60,Non-binary,Marketing,Retail,32,Remote,59,6,High,Anxiety,Unsatisfied,5,Daily,Poor,Africa
+48,Non-binary,Marketing,Consulting,19,Hybrid,33,0,High,None,Neutral,3,Daily,Good,Africa
+40,Prefer not to say,Designer,Healthcare,11,Remote,56,9,High,None,Satisfied,5,Daily,Good,Africa
+44,Female,Designer,Consulting,29,Hybrid,22,15,Medium,Anxiety,Satisfied,2,Weekly,Good,Africa
+29,Female,HR,Finance,15,Hybrid,40,1,Low,Depression,Neutral,1,None,Average,Africa
+48,Prefer not to say,Project Manager,Healthcare,16,Onsite,57,2,Medium,Anxiety,Neutral,5,None,Good,Africa
+52,Prefer not to say,Data Scientist,Education,6,Remote,30,12,High,None,Neutral,5,Daily,Average,Africa
+47,Non-binary,Project Manager,Education,34,Onsite,26,1,Low,Burnout,Neutral,5,Daily,Good,Africa
+44,Female,HR,Retail,11,Remote,46,5,Medium,Anxiety,Neutral,4,Daily,Good,Africa
+49,Non-binary,Designer,Retail,2,Onsite,53,12,High,Burnout,Satisfied,3,None,Good,Africa
+31,Male,Project Manager,Finance,25,Onsite,57,9,Low,None,Unsatisfied,4,Daily,Average,Africa
+42,Prefer not to say,Designer,Healthcare,8,Remote,44,11,Low,None,Neutral,5,Weekly,Average,Africa
+28,Female,Designer,Manufacturing,22,Remote,56,13,High,Burnout,Satisfied,2,None,Poor,Africa
+32,Female,Data Scientist,Healthcare,17,Hybrid,59,9,Low,None,Unsatisfied,2,Weekly,Average,Africa
+42,Non-binary,Designer,IT,15,Onsite,41,12,Low,Depression,Unsatisfied,4,Daily,Average,Africa
+37,Non-binary,Sales,IT,3,Hybrid,25,8,Medium,None,Satisfied,3,Weekly,Good,Africa
+27,Female,Sales,IT,27,Hybrid,23,10,High,None,Unsatisfied,2,Weekly,Average,Africa
+26,Male,HR,Consulting,1,Hybrid,36,12,High,Burnout,Neutral,3,Daily,Good,Africa
+27,Male,Marketing,Consulting,30,Hybrid,37,0,Low,Depression,Satisfied,4,None,Poor,Africa
+56,Female,Marketing,Finance,9,Remote,36,12,Low,None,Unsatisfied,2,None,Good,Africa
+60,Female,Sales,Manufacturing,28,Remote,47,1,Medium,Anxiety,Satisfied,2,None,Average,Africa
+27,Non-binary,HR,Healthcare,2,Remote,46,15,Low,None,Neutral,3,Weekly,Poor,Africa
+47,Male,HR,IT,25,Onsite,27,2,Medium,None,Satisfied,1,None,Poor,Africa
+45,Prefer not to say,Sales,Healthcare,28,Hybrid,52,3,High,Anxiety,Unsatisfied,2,Daily,Good,Africa
+36,Prefer not to say,HR,IT,23,Hybrid,50,15,High,Anxiety,Satisfied,2,None,Good,Africa
+22,Female,Software Engineer,Finance,16,Hybrid,36,15,High,Depression,Unsatisfied,5,Weekly,Poor,Africa
+27,Prefer not to say,Project Manager,Healthcare,6,Onsite,60,10,High,Anxiety,Neutral,5,Daily,Good,Africa
+39,Non-binary,HR,Education,3,Onsite,60,15,Low,None,Neutral,1,Daily,Poor,Africa
+29,Female,Marketing,Education,23,Remote,54,9,High,Anxiety,Neutral,3,None,Good,Africa
+23,Male,Designer,Consulting,10,Remote,36,1,Low,None,Satisfied,3,Daily,Good,Africa
+51,Non-binary,Data Scientist,Healthcare,6,Remote,26,14,Low,Anxiety,Neutral,2,None,Average,Africa
+45,Prefer not to say,Sales,Retail,25,Remote,21,15,High,Anxiety,Unsatisfied,4,Weekly,Good,Africa
+29,Male,Project Manager,Healthcare,28,Onsite,41,2,Medium,None,Satisfied,3,Weekly,Good,Africa
+40,Male,Project Manager,Retail,2,Remote,20,12,Low,Burnout,Neutral,5,Daily,Poor,Africa
+39,Male,Designer,Retail,9,Remote,25,14,Medium,None,Neutral,5,None,Poor,Africa
+43,Male,HR,Consulting,18,Remote,50,2,Medium,Burnout,Neutral,3,Weekly,Poor,Africa
+36,Female,HR,Education,1,Remote,27,13,Medium,Burnout,Unsatisfied,5,Daily,Good,Africa
+58,Female,Software Engineer,Finance,12,Remote,45,12,Low,Anxiety,Unsatisfied,2,None,Good,Africa
+37,Female,Sales,Healthcare,14,Hybrid,28,11,Low,Anxiety,Satisfied,2,Weekly,Good,Africa
+46,Prefer not to say,Data Scientist,Manufacturing,14,Onsite,55,10,Medium,Burnout,Satisfied,1,None,Good,Africa
+33,Male,Project Manager,Education,6,Remote,49,7,Low,Burnout,Neutral,1,Weekly,Average,Africa
+54,Prefer not to say,Data Scientist,IT,2,Remote,21,5,Low,Burnout,Neutral,4,None,Average,Africa
+34,Non-binary,Project Manager,IT,25,Remote,52,6,High,Anxiety,Satisfied,4,Daily,Average,Africa
+33,Non-binary,HR,Consulting,29,Hybrid,48,0,Medium,Anxiety,Unsatisfied,2,None,Poor,Africa
+25,Male,Designer,IT,29,Hybrid,52,13,Medium,Depression,Unsatisfied,1,Daily,Good,Africa
+30,Non-binary,Software Engineer,Education,13,Remote,32,8,High,Anxiety,Unsatisfied,4,None,Average,Africa
+53,Prefer not to say,Data Scientist,IT,32,Hybrid,43,2,High,Anxiety,Neutral,2,Weekly,Average,Africa
+47,Non-binary,Project Manager,Consulting,24,Remote,26,6,Medium,Anxiety,Satisfied,5,Weekly,Poor,Africa
+37,Prefer not to say,Designer,Retail,1,Onsite,39,3,High,Anxiety,Satisfied,1,Daily,Good,Africa
+40,Non-binary,HR,IT,17,Hybrid,28,4,Low,Anxiety,Satisfied,1,Weekly,Poor,Africa
+44,Non-binary,HR,IT,3,Onsite,59,0,Low,Depression,Unsatisfied,5,Daily,Good,Africa
+36,Male,Data Scientist,Retail,34,Hybrid,20,4,Low,Burnout,Unsatisfied,1,None,Average,Africa
+47,Male,Sales,IT,9,Onsite,34,4,Medium,None,Satisfied,5,Weekly,Good,Africa
+28,Prefer not to say,HR,Consulting,14,Onsite,60,11,Low,Burnout,Satisfied,5,None,Average,Africa
+50,Prefer not to say,HR,Education,17,Onsite,60,13,Low,Burnout,Neutral,2,Daily,Poor,Africa
+45,Female,Software Engineer,Healthcare,25,Hybrid,34,14,Low,Anxiety,Unsatisfied,4,Weekly,Good,Africa
+52,Female,Project Manager,Retail,22,Onsite,49,3,High,Depression,Unsatisfied,3,None,Poor,Africa
+30,Female,Designer,Healthcare,3,Hybrid,32,10,Low,None,Unsatisfied,5,Daily,Good,Africa
+38,Prefer not to say,Data Scientist,Consulting,12,Hybrid,37,11,High,Anxiety,Satisfied,3,Weekly,Average,Africa
+29,Male,Data Scientist,Healthcare,30,Hybrid,31,14,Low,Depression,Neutral,1,None,Poor,Africa
+44,Male,Marketing,Healthcare,10,Remote,35,9,High,Burnout,Neutral,2,None,Good,Africa
+38,Non-binary,Designer,Education,23,Remote,58,4,Low,Burnout,Unsatisfied,5,Weekly,Poor,Africa
+35,Female,Project Manager,Consulting,17,Hybrid,43,14,High,Depression,Unsatisfied,4,None,Good,Africa
+50,Prefer not to say,Sales,IT,11,Onsite,59,1,Low,Depression,Neutral,3,None,Good,Africa
+60,Non-binary,Data Scientist,Consulting,10,Hybrid,50,14,High,None,Unsatisfied,2,Weekly,Good,Africa
+31,Male,Software Engineer,Consulting,9,Remote,34,2,Medium,None,Neutral,3,Daily,Poor,Africa
+46,Prefer not to say,Designer,Finance,18,Hybrid,39,10,High,Burnout,Satisfied,1,Daily,Good,Africa
+30,Male,Project Manager,IT,24,Remote,27,7,Low,Depression,Neutral,4,None,Good,Africa
+24,Male,Marketing,Consulting,15,Onsite,28,13,Medium,None,Neutral,4,None,Average,Africa
+26,Non-binary,Data Scientist,Retail,9,Remote,55,8,Medium,Burnout,Unsatisfied,4,Weekly,Good,Africa
+48,Female,Marketing,Finance,1,Onsite,57,11,Low,Anxiety,Unsatisfied,2,Weekly,Good,Africa
+26,Male,Sales,IT,2,Hybrid,51,13,High,Burnout,Satisfied,2,Weekly,Good,Africa
+58,Female,Designer,Education,22,Onsite,25,12,High,None,Neutral,1,None,Average,Africa
+25,Non-binary,Software Engineer,Retail,26,Hybrid,56,0,Low,Depression,Unsatisfied,4,Weekly,Poor,Africa
+52,Female,Designer,Finance,14,Remote,29,7,High,Burnout,Satisfied,4,Daily,Average,Africa
+26,Non-binary,Designer,Manufacturing,14,Hybrid,35,3,Low,Anxiety,Unsatisfied,1,Daily,Good,Africa
+46,Male,Project Manager,IT,8,Onsite,44,10,High,Anxiety,Satisfied,3,Weekly,Average,Africa
+45,Non-binary,HR,Consulting,15,Onsite,53,10,Low,Burnout,Neutral,1,Weekly,Average,Africa
+33,Female,Sales,Consulting,4,Onsite,55,14,High,Anxiety,Unsatisfied,2,None,Average,Africa
+35,Non-binary,Marketing,Manufacturing,18,Onsite,54,11,Medium,Anxiety,Neutral,3,Daily,Good,Africa
+55,Non-binary,Sales,Retail,2,Hybrid,40,9,High,None,Neutral,5,Weekly,Poor,Africa
+45,Male,Project Manager,Retail,7,Remote,21,15,Low,Depression,Unsatisfied,5,None,Good,Africa
+30,Male,Sales,IT,2,Onsite,41,0,High,None,Neutral,1,Weekly,Good,Africa
+34,Female,Sales,Finance,12,Remote,41,0,Medium,Anxiety,Unsatisfied,3,None,Average,Africa
+36,Male,Sales,Retail,16,Onsite,60,1,High,Burnout,Unsatisfied,2,Weekly,Average,Africa
+37,Female,Sales,IT,3,Remote,53,0,Low,Depression,Neutral,2,Daily,Poor,Africa
+59,Non-binary,Software Engineer,IT,3,Remote,56,13,High,Anxiety,Neutral,1,None,Average,Africa
+36,Female,Project Manager,Manufacturing,34,Onsite,33,5,High,None,Satisfied,3,Daily,Poor,Africa
+43,Male,Marketing,Healthcare,19,Remote,46,2,Medium,Depression,Neutral,1,None,Poor,Africa
+36,Prefer not to say,Sales,Finance,1,Remote,31,8,Medium,None,Neutral,1,None,Good,Africa
+24,Female,Project Manager,Education,15,Remote,46,14,Medium,Depression,Satisfied,4,Weekly,Good,Africa
+45,Female,Project Manager,Education,26,Remote,57,11,Medium,None,Neutral,3,Weekly,Poor,Africa
+29,Male,Software Engineer,Finance,26,Remote,34,15,Medium,Depression,Neutral,4,Daily,Good,Africa
+42,Non-binary,Data Scientist,Healthcare,11,Remote,29,12,Medium,Burnout,Neutral,1,Weekly,Good,Africa
+47,Male,Software Engineer,Healthcare,24,Remote,45,1,Medium,None,Satisfied,2,Daily,Poor,Africa
+32,Non-binary,Marketing,Consulting,1,Onsite,49,7,Medium,Burnout,Satisfied,3,Weekly,Poor,Africa
+54,Female,Project Manager,Retail,7,Remote,38,10,Low,Depression,Unsatisfied,2,Weekly,Poor,Africa
+40,Non-binary,Sales,Consulting,34,Onsite,37,9,High,None,Satisfied,2,Daily,Average,Africa
+35,Prefer not to say,Sales,IT,9,Onsite,29,8,High,Burnout,Satisfied,4,Weekly,Poor,Africa
+51,Prefer not to say,Software Engineer,Manufacturing,23,Onsite,28,4,High,Anxiety,Satisfied,4,Weekly,Average,Africa
+53,Male,Designer,Consulting,7,Hybrid,29,2,Low,Anxiety,Neutral,1,Weekly,Average,Africa
+40,Non-binary,Software Engineer,Retail,3,Remote,42,10,Low,Anxiety,Unsatisfied,2,Weekly,Poor,Africa
+28,Male,Designer,Healthcare,6,Remote,27,7,Medium,Depression,Satisfied,2,Daily,Good,Africa
+55,Male,Software Engineer,Finance,9,Onsite,42,9,Medium,Anxiety,Satisfied,1,Weekly,Average,Africa
+48,Non-binary,Marketing,IT,13,Hybrid,43,6,Low,Depression,Neutral,4,Weekly,Average,Africa
+35,Female,Software Engineer,Finance,31,Onsite,58,0,Medium,Depression,Neutral,5,Weekly,Good,Africa
+30,Female,Marketing,Manufacturing,30,Remote,32,12,Medium,None,Unsatisfied,4,Weekly,Average,Africa
+46,Non-binary,Software Engineer,Finance,19,Hybrid,22,12,Medium,None,Neutral,4,None,Poor,Africa
+23,Non-binary,Sales,Manufacturing,17,Onsite,49,9,Medium,Burnout,Neutral,4,Daily,Good,Africa
+45,Non-binary,Marketing,Finance,16,Onsite,24,13,High,Anxiety,Neutral,3,Daily,Average,Africa
+49,Male,Designer,Manufacturing,28,Remote,38,15,Low,Depression,Unsatisfied,4,Weekly,Average,Africa
+36,Female,Data Scientist,IT,32,Remote,45,15,High,Depression,Unsatisfied,1,Daily,Average,Africa
+35,Prefer not to say,HR,Healthcare,5,Onsite,39,13,Low,Depression,Neutral,2,Weekly,Average,Africa
+34,Prefer not to say,Software Engineer,Healthcare,30,Hybrid,59,5,Low,Depression,Satisfied,4,None,Poor,Africa
+46,Non-binary,HR,Finance,27,Remote,39,0,High,Anxiety,Neutral,1,Daily,Good,Africa
+28,Prefer not to say,Marketing,IT,32,Hybrid,50,8,Low,Burnout,Unsatisfied,2,Daily,Average,Africa
+57,Prefer not to say,Sales,Manufacturing,27,Hybrid,45,0,Medium,Anxiety,Neutral,2,Weekly,Poor,Africa
+36,Non-binary,Designer,Retail,22,Remote,51,7,High,None,Neutral,4,Weekly,Good,Africa
+30,Male,Project Manager,Finance,22,Remote,41,15,High,Depression,Satisfied,2,None,Average,Africa
+48,Non-binary,Sales,IT,22,Hybrid,55,8,High,None,Satisfied,1,Weekly,Poor,Africa
+22,Female,Software Engineer,Finance,22,Hybrid,39,7,Medium,None,Satisfied,3,Daily,Average,Africa
+29,Non-binary,Designer,Consulting,2,Onsite,33,6,Low,Anxiety,Neutral,1,Daily,Poor,Africa
+38,Prefer not to say,Data Scientist,Education,14,Remote,33,2,High,Anxiety,Satisfied,4,Daily,Average,Africa
+41,Male,Data Scientist,Finance,11,Remote,39,10,Medium,Anxiety,Unsatisfied,4,Weekly,Average,Africa
+55,Male,Project Manager,Retail,32,Remote,34,4,High,Anxiety,Neutral,5,Weekly,Average,Africa
+25,Female,Designer,Manufacturing,32,Hybrid,21,12,Low,Depression,Neutral,1,Weekly,Average,Africa
+43,Female,Sales,Healthcare,6,Remote,58,15,High,Anxiety,Neutral,4,Daily,Good,Africa
+46,Male,Software Engineer,IT,7,Onsite,33,7,Low,Burnout,Unsatisfied,4,Weekly,Good,Africa
+58,Prefer not to say,Designer,Healthcare,34,Hybrid,55,12,Low,None,Neutral,1,None,Average,Africa
+25,Non-binary,Project Manager,Healthcare,33,Onsite,53,13,High,Burnout,Unsatisfied,1,Weekly,Good,Africa
+56,Male,Data Scientist,Finance,4,Remote,37,14,Low,None,Unsatisfied,1,Daily,Average,Africa
+28,Non-binary,Designer,Healthcare,8,Remote,39,5,High,None,Unsatisfied,5,Weekly,Poor,Africa
+27,Female,Marketing,Finance,18,Onsite,41,7,Low,Depression,Neutral,3,None,Poor,Africa
+45,Male,Marketing,Retail,20,Hybrid,34,0,Low,Depression,Satisfied,1,Weekly,Good,Africa
+29,Non-binary,Software Engineer,Manufacturing,27,Hybrid,50,3,Medium,Burnout,Unsatisfied,4,None,Good,Africa
+45,Female,Project Manager,Finance,34,Hybrid,40,3,High,Anxiety,Satisfied,5,None,Good,Africa
+55,Prefer not to say,Data Scientist,Healthcare,5,Remote,35,1,High,Burnout,Unsatisfied,4,Daily,Average,Africa
+47,Prefer not to say,Designer,Healthcare,27,Remote,27,2,High,Depression,Unsatisfied,4,Weekly,Poor,Africa
+31,Female,Sales,Education,30,Hybrid,25,2,Medium,Depression,Neutral,1,Daily,Good,Africa
+50,Prefer not to say,Marketing,Consulting,25,Remote,44,3,High,Depression,Neutral,4,None,Poor,Africa
+56,Female,Project Manager,Manufacturing,5,Hybrid,33,0,Medium,Anxiety,Satisfied,4,Weekly,Poor,Africa
+55,Female,Marketing,Finance,32,Onsite,34,6,Medium,None,Satisfied,4,None,Poor,Africa
+42,Female,HR,IT,27,Remote,36,3,Low,Depression,Unsatisfied,5,Weekly,Average,Africa
+26,Prefer not to say,Software Engineer,Consulting,12,Remote,24,1,Low,Anxiety,Neutral,3,None,Poor,Africa
+33,Prefer not to say,Data Scientist,Finance,21,Onsite,21,12,Low,Depression,Neutral,5,None,Poor,Africa
+36,Female,HR,Finance,10,Remote,20,15,Low,Depression,Neutral,5,None,Good,Africa
+51,Male,Project Manager,Manufacturing,27,Hybrid,54,0,High,Anxiety,Satisfied,3,Weekly,Poor,Africa
+48,Female,Project Manager,Consulting,32,Onsite,21,12,Medium,Burnout,Unsatisfied,2,None,Good,Africa
+58,Prefer not to say,HR,Manufacturing,10,Hybrid,43,2,Low,Anxiety,Unsatisfied,2,Daily,Good,Africa
+25,Non-binary,Project Manager,Retail,18,Onsite,21,1,Low,None,Satisfied,5,None,Average,Africa
+33,Prefer not to say,Project Manager,Manufacturing,19,Hybrid,40,3,Low,Depression,Neutral,3,Weekly,Good,Africa
+56,Prefer not to say,HR,Education,32,Hybrid,24,2,Low,Burnout,Satisfied,1,None,Average,Africa
+55,Non-binary,Project Manager,Healthcare,33,Hybrid,24,11,High,Burnout,Neutral,3,Daily,Poor,Africa
+36,Male,Project Manager,IT,16,Onsite,49,13,High,Depression,Neutral,4,Weekly,Good,Africa
+34,Male,Data Scientist,Manufacturing,30,Hybrid,51,7,High,Depression,Satisfied,1,Weekly,Poor,Africa
+27,Female,Project Manager,Retail,10,Hybrid,21,3,High,Anxiety,Satisfied,2,None,Average,Africa
+34,Male,Project Manager,Finance,18,Hybrid,57,14,Low,None,Neutral,3,Daily,Good,Africa
+51,Male,Marketing,Healthcare,30,Hybrid,46,6,High,Burnout,Unsatisfied,2,Weekly,Good,Africa
+39,Female,Marketing,Retail,18,Onsite,43,14,Low,None,Neutral,2,Weekly,Good,Africa
+40,Prefer not to say,Project Manager,Education,4,Remote,53,12,Low,Anxiety,Neutral,1,Weekly,Poor,Africa
+52,Prefer not to say,Marketing,Finance,1,Remote,49,5,Low,Depression,Neutral,4,Weekly,Average,Africa
+30,Non-binary,Software Engineer,Consulting,4,Onsite,47,8,Medium,None,Neutral,4,Weekly,Poor,Africa
+60,Male,Marketing,Manufacturing,7,Onsite,57,15,Medium,Depression,Unsatisfied,2,Daily,Good,Africa
+39,Prefer not to say,Marketing,Education,6,Onsite,42,9,Medium,Anxiety,Neutral,1,Daily,Good,Africa
+27,Male,Software Engineer,Retail,13,Hybrid,29,9,High,Burnout,Satisfied,3,None,Poor,Africa
+50,Prefer not to say,HR,Finance,8,Onsite,56,8,High,Anxiety,Unsatisfied,5,None,Average,Africa
+34,Female,Software Engineer,Manufacturing,33,Remote,46,9,High,None,Satisfied,2,Weekly,Good,Africa
+22,Female,Software Engineer,Finance,6,Remote,44,11,High,None,Unsatisfied,5,Weekly,Good,Africa
+38,Non-binary,HR,Manufacturing,13,Onsite,35,10,Low,Burnout,Unsatisfied,2,None,Average,Africa
+23,Non-binary,Data Scientist,Healthcare,33,Hybrid,51,15,Medium,None,Neutral,1,None,Good,Africa
+26,Non-binary,Data Scientist,Retail,3,Remote,37,12,Low,Anxiety,Unsatisfied,4,Daily,Poor,Africa
+38,Female,Data Scientist,Retail,14,Hybrid,33,5,High,Burnout,Neutral,3,Daily,Average,Africa
+24,Prefer not to say,HR,Manufacturing,29,Hybrid,48,3,High,Burnout,Neutral,4,None,Poor,Africa
+23,Female,Sales,Healthcare,19,Onsite,31,13,Medium,Burnout,Satisfied,1,Daily,Good,Africa
+57,Prefer not to say,Sales,IT,17,Onsite,40,0,High,Burnout,Satisfied,5,None,Good,Africa
+58,Female,Software Engineer,IT,1,Onsite,60,7,Medium,None,Satisfied,2,Daily,Average,Africa
+33,Non-binary,Designer,Manufacturing,21,Remote,38,12,High,Depression,Unsatisfied,2,Weekly,Poor,Africa
+60,Male,HR,Manufacturing,32,Hybrid,20,2,Medium,Depression,Satisfied,5,Daily,Poor,Africa
+34,Male,Sales,Manufacturing,2,Remote,58,5,High,None,Unsatisfied,5,Daily,Good,Africa
+25,Female,Sales,Retail,3,Hybrid,23,4,High,Depression,Unsatisfied,5,Weekly,Good,Africa
+56,Male,Project Manager,Finance,12,Remote,55,3,Low,Depression,Neutral,3,None,Poor,Africa
+52,Prefer not to say,Designer,Finance,34,Remote,34,1,High,None,Unsatisfied,1,None,Poor,Africa
+29,Female,Sales,Consulting,28,Hybrid,41,11,High,Burnout,Satisfied,2,Weekly,Good,Africa
+30,Prefer not to say,Data Scientist,Finance,34,Remote,47,14,Low,Burnout,Satisfied,5,Daily,Poor,Africa
+27,Prefer not to say,Project Manager,IT,19,Hybrid,25,8,High,Anxiety,Satisfied,2,Weekly,Average,Africa
+45,Female,Data Scientist,Consulting,6,Remote,36,3,Medium,Burnout,Unsatisfied,1,None,Average,Africa
+24,Female,Project Manager,Healthcare,15,Remote,40,11,High,Burnout,Neutral,1,Weekly,Good,Africa
+40,Non-binary,Project Manager,Manufacturing,33,Hybrid,42,11,Medium,Burnout,Unsatisfied,4,Daily,Poor,Africa
+26,Male,Sales,Retail,26,Hybrid,34,10,Medium,Burnout,Satisfied,4,Weekly,Poor,Africa
+37,Prefer not to say,HR,Manufacturing,28,Hybrid,59,2,High,Burnout,Neutral,3,Daily,Poor,Africa
+54,Non-binary,Designer,IT,8,Onsite,49,0,Medium,None,Satisfied,3,None,Poor,Africa
+31,Prefer not to say,Sales,Manufacturing,5,Onsite,52,10,Low,None,Satisfied,2,Weekly,Good,Africa
+53,Prefer not to say,Sales,IT,21,Remote,26,0,Medium,None,Neutral,3,Weekly,Poor,Africa
+58,Prefer not to say,Project Manager,Consulting,10,Onsite,45,10,High,None,Unsatisfied,3,None,Poor,Africa
+55,Prefer not to say,Project Manager,Consulting,21,Hybrid,45,7,High,Anxiety,Satisfied,3,Daily,Poor,Africa
+39,Female,Sales,Healthcare,27,Onsite,48,15,Low,Depression,Satisfied,1,None,Average,Africa

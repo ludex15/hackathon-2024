@@ -1,0 +1,830 @@
+Age,Gender,Job_Role,Industry,Years_of_Experience,Work_Location,Hours_Worked_Per_Week,Number_of_Virtual_Meetings,Stress_Level,Mental_Health_Condition,Satisfaction_with_Remote_Work,Company_Support_for_Remote_Work,Physical_Activity,Sleep_Quality,Region
+40,Female,Data Scientist,IT,3,Remote,52,4,Medium,Anxiety,Satisfied,2,Weekly,Good,Asia
+31,Prefer not to say,Sales,IT,24,Remote,51,7,Low,Anxiety,Neutral,3,Daily,Poor,Asia
+53,Non-binary,Marketing,Consulting,11,Onsite,22,12,Low,Depression,Neutral,3,Weekly,Poor,Asia
+22,Female,Data Scientist,IT,22,Onsite,20,11,Low,Anxiety,Neutral,2,Weekly,Average,Asia
+48,Male,Sales,Finance,10,Onsite,30,12,Low,Depression,Satisfied,3,None,Poor,Asia
+31,Female,Designer,Healthcare,18,Remote,47,14,Low,None,Satisfied,5,Daily,Good,Asia
+49,Male,Marketing,Consulting,20,Hybrid,20,1,High,None,Unsatisfied,5,Weekly,Poor,Asia
+60,Prefer not to say,Project Manager,Healthcare,34,Onsite,46,15,Medium,Depression,Neutral,1,None,Average,Asia
+26,Female,Software Engineer,Education,5,Hybrid,55,6,Medium,Burnout,Satisfied,1,Daily,Poor,Asia
+42,Male,Software Engineer,IT,14,Remote,48,13,Low,Depression,Neutral,5,None,Good,Asia
+25,Non-binary,Project Manager,Finance,20,Hybrid,28,4,Medium,Depression,Satisfied,2,None,Poor,Asia
+42,Male,Marketing,Retail,27,Onsite,49,3,High,Anxiety,Satisfied,3,None,Good,Asia
+27,Male,Project Manager,Consulting,21,Hybrid,21,7,Low,Burnout,Unsatisfied,3,Weekly,Average,Asia
+54,Female,Data Scientist,Education,5,Hybrid,21,10,High,Burnout,Satisfied,4,None,Poor,Asia
+50,Male,Designer,Finance,20,Hybrid,44,8,Low,Burnout,Unsatisfied,4,Daily,Poor,Asia
+41,Male,Data Scientist,IT,31,Onsite,29,0,Medium,Burnout,Satisfied,5,None,Poor,Asia
+44,Female,Project Manager,Manufacturing,2,Remote,54,8,Low,Burnout,Satisfied,3,None,Good,Asia
+31,Prefer not to say,Data Scientist,Healthcare,19,Onsite,21,15,Low,Burnout,Satisfied,5,Daily,Good,Asia
+32,Prefer not to say,Designer,Manufacturing,32,Onsite,53,5,Medium,Depression,Satisfied,1,None,Poor,Asia
+36,Male,Data Scientist,Finance,4,Remote,22,7,Low,Burnout,Neutral,5,Daily,Good,Asia
+49,Non-binary,Project Manager,Education,11,Hybrid,48,3,Low,Anxiety,Satisfied,1,Weekly,Average,Asia
+49,Female,Project Manager,Healthcare,29,Hybrid,49,15,Low,Burnout,Neutral,4,None,Poor,Asia
+47,Non-binary,HR,Education,18,Remote,35,15,High,Anxiety,Unsatisfied,2,Daily,Average,Asia
+23,Female,Data Scientist,Consulting,31,Remote,26,9,Medium,Depression,Unsatisfied,2,None,Poor,Asia
+60,Non-binary,Software Engineer,Retail,27,Remote,50,8,High,Anxiety,Satisfied,3,Daily,Poor,Asia
+40,Non-binary,Designer,Consulting,12,Remote,32,9,Medium,Depression,Unsatisfied,1,None,Average,Asia
+52,Male,Sales,Retail,2,Remote,40,1,Medium,Anxiety,Neutral,3,Weekly,Good,Asia
+55,Female,Project Manager,IT,32,Hybrid,28,8,Low,Depression,Satisfied,1,None,Poor,Asia
+51,Prefer not to say,Software Engineer,IT,14,Onsite,41,5,Medium,Burnout,Unsatisfied,2,None,Good,Asia
+56,Female,HR,Education,5,Remote,60,9,Low,Anxiety,Satisfied,4,Weekly,Average,Asia
+30,Female,HR,IT,20,Hybrid,39,6,High,None,Neutral,5,None,Average,Asia
+33,Male,Software Engineer,Consulting,6,Onsite,23,6,High,Anxiety,Unsatisfied,2,Weekly,Good,Asia
+23,Male,Project Manager,IT,8,Onsite,28,15,Medium,Depression,Satisfied,3,Weekly,Poor,Asia
+31,Prefer not to say,Software Engineer,Consulting,18,Remote,31,6,High,None,Neutral,2,Weekly,Average,Asia
+53,Non-binary,Software Engineer,Education,11,Remote,25,9,Medium,Burnout,Neutral,5,Weekly,Average,Asia
+50,Non-binary,Project Manager,Finance,20,Onsite,32,13,Low,Burnout,Neutral,1,None,Good,Asia
+58,Female,Project Manager,Retail,8,Hybrid,35,5,Medium,Depression,Neutral,5,Daily,Poor,Asia
+60,Female,Marketing,Healthcare,17,Remote,55,7,Medium,Burnout,Unsatisfied,4,None,Poor,Asia
+58,Non-binary,Designer,Finance,35,Hybrid,28,3,High,Depression,Neutral,2,None,Good,Asia
+38,Female,Sales,Manufacturing,18,Remote,54,7,High,Anxiety,Satisfied,1,None,Average,Asia
+56,Male,Marketing,Healthcare,8,Remote,33,8,Low,Burnout,Neutral,5,None,Poor,Asia
+41,Female,Software Engineer,Education,2,Hybrid,48,4,Low,Anxiety,Unsatisfied,1,Weekly,Average,Asia
+49,Male,Data Scientist,IT,35,Remote,24,1,Medium,None,Neutral,4,None,Good,Asia
+23,Non-binary,Data Scientist,Healthcare,18,Remote,28,7,High,Burnout,Unsatisfied,3,None,Average,Asia
+41,Prefer not to say,Project Manager,Finance,35,Onsite,28,14,Medium,Anxiety,Unsatisfied,1,Weekly,Good,Asia
+42,Prefer not to say,HR,IT,10,Hybrid,44,13,High,Burnout,Neutral,1,None,Average,Asia
+40,Male,Designer,Healthcare,3,Onsite,58,2,Low,Depression,Satisfied,3,Weekly,Average,Asia
+22,Non-binary,Sales,Healthcare,7,Remote,35,14,Medium,Burnout,Neutral,5,None,Average,Asia
+35,Prefer not to say,Marketing,Manufacturing,14,Hybrid,27,10,Low,Depression,Unsatisfied,5,None,Average,Asia
+41,Prefer not to say,Designer,IT,32,Onsite,42,14,Low,None,Neutral,1,Weekly,Good,Asia
+48,Non-binary,Designer,Manufacturing,16,Remote,51,8,Medium,Anxiety,Neutral,5,Weekly,Poor,Asia
+45,Male,Marketing,IT,2,Onsite,46,1,Low,Depression,Neutral,1,Daily,Good,Asia
+32,Male,Marketing,Education,1,Onsite,58,0,Low,Anxiety,Neutral,5,None,Poor,Asia
+44,Non-binary,HR,Consulting,29,Hybrid,52,7,Medium,Burnout,Unsatisfied,2,Daily,Poor,Asia
+31,Female,Software Engineer,Manufacturing,21,Onsite,24,7,Medium,None,Neutral,4,None,Good,Asia
+54,Prefer not to say,Sales,IT,32,Hybrid,59,3,Low,Anxiety,Satisfied,1,Weekly,Poor,Asia
+41,Female,HR,Finance,6,Hybrid,48,0,Low,Burnout,Satisfied,4,None,Good,Asia
+41,Prefer not to say,Project Manager,Consulting,34,Hybrid,44,9,Low,None,Neutral,5,Weekly,Good,Asia
+31,Non-binary,HR,Finance,9,Remote,26,7,Low,None,Neutral,2,Daily,Good,Asia
+28,Male,Designer,Manufacturing,23,Remote,46,7,Medium,None,Unsatisfied,3,Daily,Poor,Asia
+56,Non-binary,Sales,Retail,30,Onsite,28,15,Medium,Burnout,Satisfied,5,Daily,Poor,Asia
+56,Male,Designer,IT,27,Remote,50,8,High,Burnout,Neutral,4,None,Poor,Asia
+56,Non-binary,HR,IT,13,Remote,58,14,High,Anxiety,Neutral,2,Daily,Poor,Asia
+46,Non-binary,Data Scientist,Consulting,14,Remote,29,13,Medium,Anxiety,Unsatisfied,1,Daily,Average,Asia
+25,Prefer not to say,Sales,Healthcare,9,Hybrid,26,12,High,Depression,Unsatisfied,3,Daily,Good,Asia
+60,Female,HR,Education,34,Remote,38,7,High,Depression,Neutral,4,Weekly,Good,Asia
+28,Male,HR,IT,32,Remote,49,0,Medium,Burnout,Satisfied,2,Weekly,Poor,Asia
+52,Non-binary,Sales,Finance,30,Remote,33,14,Medium,Anxiety,Neutral,5,Weekly,Good,Asia
+32,Prefer not to say,Software Engineer,Consulting,28,Onsite,41,13,Medium,Depression,Neutral,1,Daily,Average,Asia
+48,Prefer not to say,Project Manager,Education,7,Onsite,55,1,Medium,Depression,Neutral,1,Weekly,Good,Asia
+22,Non-binary,Software Engineer,Retail,7,Onsite,47,10,Medium,Burnout,Neutral,1,None,Average,Asia
+51,Male,HR,Finance,22,Hybrid,41,7,Low,Burnout,Unsatisfied,5,None,Average,Asia
+36,Female,Marketing,Education,10,Remote,32,7,Medium,None,Unsatisfied,3,Weekly,Good,Asia
+51,Non-binary,Data Scientist,Manufacturing,2,Remote,58,14,Low,Depression,Satisfied,4,None,Average,Asia
+53,Prefer not to say,Marketing,Consulting,1,Onsite,42,14,High,Depression,Satisfied,3,Daily,Poor,Asia
+37,Prefer not to say,HR,Education,14,Hybrid,40,13,Low,Burnout,Satisfied,1,Weekly,Average,Asia
+35,Female,Sales,Consulting,26,Hybrid,35,15,Medium,Depression,Unsatisfied,2,None,Poor,Asia
+39,Non-binary,Sales,Healthcare,22,Remote,21,2,Low,Burnout,Unsatisfied,1,Daily,Poor,Asia
+52,Non-binary,Project Manager,Retail,10,Onsite,47,3,Medium,Depression,Neutral,3,Daily,Average,Asia
+41,Male,Software Engineer,Education,14,Remote,56,8,Medium,Anxiety,Satisfied,4,Daily,Average,Asia
+34,Male,Designer,Education,23,Hybrid,40,1,High,Anxiety,Satisfied,5,Daily,Average,Asia
+43,Non-binary,Designer,Finance,20,Remote,55,11,Low,Anxiety,Neutral,5,None,Poor,Asia
+60,Prefer not to say,Data Scientist,Healthcare,8,Onsite,51,14,Medium,Depression,Neutral,5,Weekly,Good,Asia
+42,Prefer not to say,Designer,Consulting,22,Hybrid,45,6,High,Anxiety,Neutral,4,Daily,Average,Asia
+46,Prefer not to say,Designer,Education,4,Onsite,48,4,Low,Anxiety,Neutral,3,None,Good,Asia
+35,Female,Project Manager,Finance,8,Hybrid,25,14,High,Anxiety,Unsatisfied,4,Daily,Poor,Asia
+25,Male,Sales,Manufacturing,31,Hybrid,31,6,Low,Depression,Unsatisfied,5,Weekly,Good,Asia
+48,Prefer not to say,Software Engineer,Retail,25,Remote,39,3,High,Anxiety,Unsatisfied,2,Daily,Good,Asia
+57,Female,Designer,Healthcare,17,Hybrid,40,15,Low,Depression,Satisfied,2,Weekly,Average,Asia
+25,Non-binary,Marketing,Retail,34,Onsite,47,6,High,None,Neutral,1,None,Poor,Asia
+55,Prefer not to say,Project Manager,Healthcare,11,Onsite,37,3,Medium,Depression,Satisfied,1,Weekly,Poor,Asia
+47,Female,Data Scientist,Retail,1,Hybrid,25,10,High,Depression,Satisfied,3,Weekly,Average,Asia
+46,Female,Sales,Retail,35,Hybrid,38,11,High,None,Satisfied,3,Weekly,Average,Asia
+26,Male,HR,IT,6,Hybrid,27,10,Medium,Depression,Neutral,1,Daily,Poor,Asia
+25,Male,Marketing,Consulting,35,Remote,54,15,Medium,Depression,Satisfied,3,None,Average,Asia
+38,Prefer not to say,Sales,Finance,20,Remote,60,11,Medium,Depression,Unsatisfied,3,Daily,Good,Asia
+38,Male,Marketing,Healthcare,34,Onsite,45,7,Medium,Burnout,Satisfied,2,None,Poor,Asia
+23,Non-binary,Software Engineer,Finance,1,Onsite,47,8,Medium,Depression,Satisfied,3,None,Good,Asia
+29,Male,Project Manager,Healthcare,18,Onsite,49,14,Low,Burnout,Satisfied,4,Weekly,Poor,Asia
+42,Non-binary,Project Manager,Healthcare,7,Hybrid,32,3,High,Depression,Unsatisfied,3,Daily,Average,Asia
+24,Male,Sales,Finance,16,Hybrid,48,13,Low,Burnout,Unsatisfied,3,None,Good,Asia
+41,Female,Marketing,IT,13,Remote,33,10,Low,Depression,Satisfied,5,Weekly,Good,Asia
+58,Male,Sales,Consulting,31,Onsite,27,13,Low,Anxiety,Satisfied,3,Weekly,Good,Asia
+55,Male,Software Engineer,Retail,1,Hybrid,44,5,High,Anxiety,Satisfied,1,Weekly,Poor,Asia
+35,Female,Designer,Retail,2,Hybrid,32,9,Low,None,Satisfied,1,None,Average,Asia
+22,Female,HR,Retail,11,Hybrid,36,13,High,Anxiety,Neutral,2,Weekly,Good,Asia
+60,Female,Sales,IT,6,Onsite,25,6,Medium,Depression,Unsatisfied,1,None,Poor,Asia
+58,Prefer not to say,Sales,Manufacturing,2,Remote,25,7,Low,None,Neutral,2,Weekly,Poor,Asia
+39,Prefer not to say,Data Scientist,Healthcare,20,Remote,39,1,Low,None,Unsatisfied,2,Weekly,Good,Asia
+45,Prefer not to say,Software Engineer,Education,5,Hybrid,21,10,Medium,Burnout,Satisfied,4,Weekly,Good,Asia
+59,Male,Project Manager,Consulting,35,Remote,48,0,Medium,None,Unsatisfied,1,Weekly,Average,Asia
+31,Female,Project Manager,IT,3,Onsite,60,15,High,Burnout,Satisfied,1,None,Good,Asia
+43,Male,Designer,Finance,2,Hybrid,54,9,High,Burnout,Neutral,3,Weekly,Poor,Asia
+24,Female,Sales,IT,7,Remote,44,7,High,Burnout,Neutral,5,Daily,Poor,Asia
+51,Male,Software Engineer,Finance,7,Remote,27,0,High,Burnout,Unsatisfied,3,None,Average,Asia
+41,Non-binary,Designer,Consulting,30,Remote,26,6,Low,Burnout,Satisfied,1,None,Average,Asia
+52,Female,Data Scientist,Manufacturing,1,Onsite,28,12,Low,None,Unsatisfied,1,Daily,Good,Asia
+60,Prefer not to say,Designer,Finance,32,Remote,51,14,Medium,None,Neutral,5,Daily,Average,Asia
+42,Prefer not to say,Designer,Education,13,Hybrid,23,3,High,Burnout,Unsatisfied,2,Daily,Good,Asia
+40,Female,Software Engineer,Retail,3,Onsite,31,6,High,None,Satisfied,4,None,Poor,Asia
+49,Male,Designer,Retail,30,Hybrid,35,3,Medium,Depression,Satisfied,1,Weekly,Average,Asia
+42,Prefer not to say,Sales,Manufacturing,17,Remote,41,12,Medium,Burnout,Satisfied,3,None,Average,Asia
+55,Male,Marketing,Consulting,14,Hybrid,40,4,Medium,Depression,Unsatisfied,4,None,Average,Asia
+29,Male,HR,Finance,30,Onsite,56,11,High,Depression,Satisfied,4,Weekly,Good,Asia
+33,Prefer not to say,Designer,Healthcare,23,Remote,35,12,Medium,None,Unsatisfied,2,None,Poor,Asia
+30,Prefer not to say,Designer,Education,23,Remote,45,9,Medium,Depression,Satisfied,2,Weekly,Good,Asia
+55,Female,Marketing,Finance,12,Onsite,38,6,Medium,None,Satisfied,4,Daily,Poor,Asia
+31,Male,Designer,Retail,6,Remote,59,15,High,Burnout,Unsatisfied,1,Daily,Poor,Asia
+22,Prefer not to say,HR,Healthcare,34,Hybrid,46,0,Medium,None,Satisfied,2,Weekly,Poor,Asia
+26,Prefer not to say,Data Scientist,Finance,5,Onsite,26,8,Low,Burnout,Satisfied,2,Weekly,Average,Asia
+55,Male,Marketing,Consulting,18,Remote,53,3,High,Anxiety,Neutral,3,Daily,Average,Asia
+40,Non-binary,Data Scientist,Retail,23,Hybrid,32,11,High,Burnout,Neutral,4,Weekly,Average,Asia
+46,Male,Project Manager,Retail,14,Onsite,59,14,High,Burnout,Unsatisfied,5,None,Poor,Asia
+45,Prefer not to say,Software Engineer,Healthcare,21,Remote,38,12,Medium,Depression,Neutral,1,Weekly,Poor,Asia
+33,Female,Software Engineer,Retail,4,Onsite,38,7,Medium,None,Neutral,1,None,Poor,Asia
+25,Non-binary,Project Manager,Consulting,10,Onsite,22,9,Medium,None,Unsatisfied,5,Daily,Poor,Asia
+46,Female,Software Engineer,Retail,12,Remote,40,10,Low,Anxiety,Neutral,2,Daily,Poor,Asia
+59,Male,Sales,Healthcare,23,Onsite,20,15,Medium,Burnout,Neutral,3,None,Average,Asia
+52,Prefer not to say,Sales,IT,18,Remote,56,12,High,Burnout,Satisfied,3,None,Average,Asia
+52,Male,Marketing,Manufacturing,16,Onsite,27,7,Low,Depression,Unsatisfied,3,Weekly,Average,Asia
+51,Non-binary,HR,Healthcare,17,Onsite,29,15,High,Anxiety,Neutral,3,None,Average,Asia
+24,Male,Data Scientist,IT,10,Remote,52,3,High,Depression,Satisfied,3,Weekly,Average,Asia
+43,Female,Data Scientist,Consulting,4,Hybrid,57,12,High,Anxiety,Unsatisfied,1,Daily,Average,Asia
+54,Female,HR,Retail,9,Onsite,51,1,Medium,Anxiety,Neutral,4,Weekly,Poor,Asia
+41,Prefer not to say,Designer,Finance,25,Remote,56,15,High,Burnout,Neutral,2,Weekly,Poor,Asia
+57,Prefer not to say,HR,Retail,5,Onsite,42,1,Medium,Burnout,Neutral,5,Weekly,Good,Asia
+28,Prefer not to say,HR,Finance,19,Remote,58,9,Medium,None,Neutral,4,None,Poor,Asia
+45,Non-binary,Designer,Manufacturing,28,Remote,56,5,High,Burnout,Unsatisfied,1,Weekly,Average,Asia
+46,Female,Project Manager,Retail,29,Hybrid,26,8,High,Depression,Neutral,4,Weekly,Good,Asia
+24,Non-binary,Data Scientist,Healthcare,6,Onsite,43,11,High,Depression,Satisfied,1,Daily,Poor,Asia
+60,Non-binary,Marketing,Finance,12,Onsite,43,3,High,Burnout,Satisfied,2,None,Poor,Asia
+51,Female,Marketing,Retail,19,Onsite,60,10,Medium,Depression,Neutral,2,Weekly,Average,Asia
+45,Male,Marketing,Retail,9,Remote,42,2,Medium,Burnout,Neutral,2,None,Average,Asia
+56,Male,Marketing,Retail,1,Onsite,39,10,High,Depression,Satisfied,5,Weekly,Good,Asia
+39,Non-binary,Software Engineer,Manufacturing,22,Onsite,26,7,Medium,Depression,Satisfied,5,Weekly,Poor,Asia
+58,Male,Data Scientist,Healthcare,20,Remote,25,11,High,Burnout,Neutral,1,Daily,Good,Asia
+42,Non-binary,Data Scientist,Retail,3,Remote,32,0,Medium,Depression,Satisfied,5,Weekly,Good,Asia
+44,Non-binary,Sales,Retail,28,Hybrid,56,10,Low,Anxiety,Satisfied,1,Daily,Poor,Asia
+43,Prefer not to say,Data Scientist,IT,34,Onsite,42,7,Medium,Burnout,Satisfied,3,Daily,Poor,Asia
+49,Female,Software Engineer,Finance,34,Hybrid,59,0,High,None,Neutral,1,Daily,Average,Asia
+27,Female,HR,Consulting,4,Hybrid,21,3,Low,Burnout,Unsatisfied,2,Weekly,Good,Asia
+46,Male,Sales,Retail,14,Remote,56,2,Low,Anxiety,Satisfied,1,Weekly,Average,Asia
+59,Prefer not to say,Sales,IT,27,Onsite,27,7,Medium,Depression,Neutral,4,Weekly,Good,Asia
+41,Prefer not to say,Designer,Education,23,Remote,34,8,Low,Depression,Neutral,2,Weekly,Poor,Asia
+34,Male,Software Engineer,Manufacturing,8,Remote,51,5,Medium,Anxiety,Satisfied,2,Daily,Average,Asia
+47,Male,Marketing,IT,2,Onsite,55,9,Low,Anxiety,Satisfied,5,None,Good,Asia
+35,Non-binary,Project Manager,Retail,34,Hybrid,20,12,Medium,None,Satisfied,2,Daily,Good,Asia
+45,Non-binary,Software Engineer,Healthcare,5,Remote,33,12,Low,Anxiety,Neutral,2,None,Good,Asia
+42,Prefer not to say,Data Scientist,Finance,22,Hybrid,50,2,High,None,Neutral,1,None,Good,Asia
+31,Male,Marketing,Healthcare,3,Hybrid,53,6,Low,None,Neutral,1,Daily,Poor,Asia
+51,Female,HR,Manufacturing,35,Hybrid,20,11,Medium,Burnout,Unsatisfied,2,Daily,Poor,Asia
+33,Male,Software Engineer,Finance,30,Remote,26,9,Low,Burnout,Unsatisfied,4,Daily,Average,Asia
+35,Prefer not to say,Designer,Manufacturing,32,Onsite,28,14,Medium,Depression,Satisfied,1,Weekly,Poor,Asia
+52,Prefer not to say,HR,Consulting,3,Onsite,35,5,High,Depression,Neutral,4,None,Poor,Asia
+48,Female,Marketing,Manufacturing,27,Remote,43,8,Medium,None,Unsatisfied,2,None,Good,Asia
+41,Non-binary,Designer,Healthcare,11,Onsite,55,12,Medium,Depression,Satisfied,5,Weekly,Poor,Asia
+24,Prefer not to say,Sales,Consulting,20,Onsite,40,5,High,Depression,Unsatisfied,1,Weekly,Good,Asia
+26,Non-binary,Designer,Consulting,28,Hybrid,32,9,Low,Burnout,Satisfied,5,None,Average,Asia
+22,Male,HR,Education,23,Onsite,30,13,Low,Depression,Unsatisfied,3,None,Poor,Asia
+37,Male,Sales,Healthcare,31,Remote,55,1,Low,Depression,Neutral,3,Daily,Poor,Asia
+54,Male,Data Scientist,Finance,10,Remote,41,0,Low,Burnout,Unsatisfied,5,None,Poor,Asia
+47,Male,Marketing,Manufacturing,3,Onsite,23,2,Low,Anxiety,Satisfied,3,Weekly,Good,Asia
+23,Prefer not to say,Software Engineer,Finance,11,Hybrid,41,15,Low,Burnout,Neutral,2,None,Poor,Asia
+28,Male,Project Manager,Education,10,Onsite,49,15,High,Anxiety,Neutral,2,Weekly,Poor,Asia
+26,Male,Sales,Consulting,29,Remote,33,1,Medium,None,Satisfied,4,Daily,Good,Asia
+54,Non-binary,HR,Manufacturing,27,Onsite,23,13,Low,Anxiety,Neutral,3,Weekly,Average,Asia
+27,Female,HR,Manufacturing,16,Remote,57,15,High,Anxiety,Unsatisfied,3,Daily,Average,Asia
+27,Female,Software Engineer,Education,19,Hybrid,60,7,High,None,Neutral,4,Daily,Average,Asia
+47,Male,Data Scientist,Education,19,Remote,50,2,Medium,Anxiety,Unsatisfied,4,Weekly,Poor,Asia
+42,Non-binary,Data Scientist,Education,19,Onsite,33,7,Low,Burnout,Neutral,2,None,Average,Asia
+28,Female,Marketing,Finance,5,Onsite,52,0,Low,Burnout,Unsatisfied,1,Weekly,Poor,Asia
+49,Female,Sales,Retail,26,Remote,23,13,High,Anxiety,Satisfied,1,None,Poor,Asia
+22,Non-binary,Designer,Finance,31,Remote,30,8,Medium,Anxiety,Satisfied,2,Daily,Average,Asia
+58,Male,HR,IT,10,Remote,45,12,Low,Depression,Unsatisfied,2,Weekly,Poor,Asia
+34,Prefer not to say,Data Scientist,Retail,18,Remote,59,1,Medium,Anxiety,Neutral,5,None,Poor,Asia
+31,Non-binary,Marketing,Manufacturing,27,Remote,42,15,Low,Depression,Neutral,4,None,Poor,Asia
+28,Female,Software Engineer,Healthcare,25,Hybrid,31,11,High,Depression,Satisfied,3,None,Good,Asia
+56,Non-binary,Marketing,Healthcare,23,Onsite,39,1,Medium,Anxiety,Neutral,5,Daily,Average,Asia
+57,Non-binary,HR,IT,10,Hybrid,49,0,Low,Burnout,Unsatisfied,4,None,Poor,Asia
+22,Male,Designer,Consulting,33,Remote,32,2,Medium,Anxiety,Neutral,4,Daily,Good,Asia
+48,Female,Designer,Retail,20,Hybrid,35,8,High,Anxiety,Satisfied,5,None,Poor,Asia
+49,Prefer not to say,Project Manager,Retail,13,Remote,36,2,High,None,Unsatisfied,4,Weekly,Good,Asia
+57,Prefer not to say,Sales,Finance,4,Onsite,49,13,High,Depression,Neutral,3,Weekly,Poor,Asia
+48,Prefer not to say,Marketing,Consulting,26,Hybrid,41,7,High,Burnout,Neutral,1,Weekly,Good,Asia
+24,Female,Designer,IT,5,Hybrid,23,5,High,None,Satisfied,4,None,Average,Asia
+46,Female,Software Engineer,Consulting,9,Hybrid,42,5,Low,Anxiety,Neutral,4,Weekly,Average,Asia
+25,Prefer not to say,Software Engineer,Finance,28,Hybrid,40,4,Low,Anxiety,Neutral,4,Weekly,Good,Asia
+24,Non-binary,Sales,Finance,34,Remote,40,13,High,None,Satisfied,4,Daily,Average,Asia
+54,Prefer not to say,Software Engineer,Retail,20,Hybrid,22,10,Low,Depression,Satisfied,1,None,Good,Asia
+33,Male,Data Scientist,IT,11,Hybrid,45,8,High,Burnout,Neutral,2,Weekly,Poor,Asia
+30,Prefer not to say,Data Scientist,Finance,31,Remote,41,11,High,Anxiety,Neutral,4,Daily,Average,Asia
+41,Male,Project Manager,Education,14,Hybrid,59,4,Medium,None,Unsatisfied,2,Daily,Poor,Asia
+41,Male,Project Manager,Education,33,Remote,46,8,Medium,Anxiety,Satisfied,5,Daily,Poor,Asia
+55,Non-binary,Sales,IT,35,Remote,44,12,Low,None,Unsatisfied,5,Daily,Average,Asia
+55,Female,Data Scientist,Retail,31,Onsite,58,15,Low,Burnout,Unsatisfied,2,None,Poor,Asia
+47,Male,HR,Finance,17,Onsite,38,1,Medium,Anxiety,Satisfied,4,None,Average,Asia
+41,Male,Sales,Manufacturing,13,Onsite,41,8,Low,Anxiety,Unsatisfied,2,Daily,Average,Asia
+60,Female,Data Scientist,Healthcare,21,Hybrid,50,7,Low,None,Unsatisfied,2,Daily,Good,Asia
+39,Non-binary,Project Manager,Consulting,17,Remote,34,8,High,Depression,Satisfied,3,Daily,Good,Asia
+40,Male,Designer,Finance,26,Remote,24,5,High,None,Unsatisfied,4,None,Average,Asia
+58,Male,HR,Consulting,25,Onsite,32,13,Low,Depression,Unsatisfied,4,Weekly,Average,Asia
+56,Male,Software Engineer,Finance,6,Remote,39,11,Medium,None,Unsatisfied,3,Daily,Average,Asia
+41,Female,Sales,Finance,30,Hybrid,46,4,Medium,Burnout,Satisfied,1,Daily,Poor,Asia
+47,Prefer not to say,Data Scientist,Consulting,1,Onsite,46,6,Medium,Anxiety,Satisfied,4,Daily,Poor,Asia
+56,Non-binary,Project Manager,IT,33,Hybrid,56,13,Low,None,Unsatisfied,5,None,Poor,Asia
+42,Non-binary,Designer,Healthcare,19,Onsite,41,15,Low,None,Satisfied,4,Daily,Average,Asia
+56,Female,Sales,Education,1,Remote,20,15,Medium,None,Neutral,2,Daily,Poor,Asia
+55,Non-binary,Marketing,Manufacturing,8,Remote,28,12,High,None,Unsatisfied,1,None,Good,Asia
+33,Non-binary,Data Scientist,IT,19,Remote,41,5,Medium,Burnout,Neutral,2,None,Average,Asia
+45,Non-binary,Project Manager,Manufacturing,6,Remote,51,3,Low,Burnout,Neutral,4,None,Good,Asia
+44,Male,Project Manager,Finance,14,Onsite,59,10,High,Burnout,Neutral,1,None,Good,Asia
+22,Prefer not to say,Data Scientist,Retail,34,Hybrid,24,4,Medium,Anxiety,Satisfied,1,None,Average,Asia
+43,Prefer not to say,Data Scientist,Finance,32,Hybrid,35,1,Medium,Anxiety,Satisfied,1,None,Average,Asia
+49,Non-binary,Designer,IT,14,Hybrid,41,10,Low,Depression,Unsatisfied,5,Weekly,Poor,Asia
+48,Male,Project Manager,Retail,23,Remote,41,5,High,Anxiety,Satisfied,1,Weekly,Poor,Asia
+49,Non-binary,Data Scientist,Consulting,29,Remote,27,6,Medium,Depression,Neutral,2,Weekly,Average,Asia
+42,Female,HR,Retail,5,Remote,43,2,High,None,Neutral,3,Daily,Average,Asia
+43,Non-binary,Designer,Retail,29,Hybrid,37,15,Low,None,Neutral,4,Weekly,Poor,Asia
+46,Female,Project Manager,Education,17,Onsite,51,3,Low,Burnout,Unsatisfied,5,Daily,Average,Asia
+36,Non-binary,HR,Healthcare,14,Onsite,56,5,Medium,Depression,Satisfied,1,Weekly,Average,Asia
+55,Prefer not to say,Project Manager,IT,35,Hybrid,42,2,Medium,Depression,Unsatisfied,5,None,Average,Asia
+30,Prefer not to say,Software Engineer,Finance,17,Onsite,58,4,High,Depression,Neutral,3,Daily,Poor,Asia
+59,Male,Designer,Healthcare,15,Hybrid,24,8,Low,Burnout,Satisfied,5,None,Poor,Asia
+26,Female,Software Engineer,Consulting,22,Onsite,41,4,Low,Anxiety,Satisfied,5,Weekly,Poor,Asia
+42,Male,HR,IT,10,Onsite,34,8,Medium,Anxiety,Unsatisfied,1,None,Average,Asia
+52,Prefer not to say,Software Engineer,Manufacturing,17,Remote,20,5,High,Anxiety,Satisfied,1,None,Good,Asia
+44,Male,Software Engineer,IT,17,Remote,36,7,Low,Burnout,Satisfied,2,Weekly,Average,Asia
+38,Male,Designer,Education,12,Remote,36,1,Low,Burnout,Satisfied,1,Weekly,Average,Asia
+51,Prefer not to say,Data Scientist,Retail,6,Remote,31,10,High,Anxiety,Neutral,1,Daily,Poor,Asia
+60,Male,Software Engineer,IT,33,Onsite,36,4,Medium,Anxiety,Unsatisfied,1,Daily,Good,Asia
+29,Prefer not to say,Sales,Education,8,Hybrid,29,8,Medium,Depression,Satisfied,3,Daily,Good,Asia
+48,Non-binary,Sales,Finance,23,Remote,39,3,Low,Burnout,Unsatisfied,4,Weekly,Good,Asia
+52,Prefer not to say,Project Manager,IT,16,Remote,26,12,High,Depression,Satisfied,5,None,Good,Asia
+46,Male,HR,Finance,14,Onsite,23,8,High,Burnout,Satisfied,3,Daily,Average,Asia
+57,Prefer not to say,Software Engineer,Retail,17,Hybrid,44,13,Medium,Burnout,Satisfied,5,Daily,Poor,Asia
+39,Non-binary,Marketing,IT,19,Remote,59,15,Medium,Burnout,Unsatisfied,4,None,Average,Asia
+56,Non-binary,Sales,Retail,34,Remote,51,9,High,Depression,Neutral,5,Weekly,Average,Asia
+34,Non-binary,Project Manager,Education,30,Remote,54,11,Low,Anxiety,Unsatisfied,5,Weekly,Average,Asia
+37,Male,Software Engineer,Healthcare,20,Onsite,45,7,Medium,Burnout,Unsatisfied,3,None,Poor,Asia
+24,Prefer not to say,Marketing,Finance,18,Onsite,47,9,High,None,Neutral,4,None,Average,Asia
+39,Prefer not to say,HR,Finance,32,Onsite,59,7,High,Burnout,Satisfied,4,Weekly,Poor,Asia
+51,Prefer not to say,Software Engineer,Education,26,Hybrid,60,1,Medium,Anxiety,Satisfied,4,Daily,Good,Asia
+35,Non-binary,HR,Finance,6,Remote,51,0,High,Burnout,Neutral,3,Weekly,Good,Asia
+41,Female,Project Manager,Healthcare,29,Hybrid,24,2,High,Depression,Neutral,4,None,Poor,Asia
+38,Prefer not to say,Data Scientist,Consulting,26,Remote,54,15,Low,Anxiety,Unsatisfied,3,None,Good,Asia
+28,Prefer not to say,Data Scientist,Retail,7,Remote,51,10,High,Anxiety,Neutral,1,Daily,Good,Asia
+49,Female,Data Scientist,Retail,16,Remote,37,3,Low,Burnout,Neutral,3,None,Good,Asia
+25,Female,Software Engineer,Consulting,26,Onsite,38,8,Low,Burnout,Neutral,3,Daily,Good,Asia
+37,Non-binary,Data Scientist,Manufacturing,30,Onsite,51,15,High,None,Satisfied,3,Daily,Poor,Asia
+41,Non-binary,Software Engineer,Manufacturing,14,Onsite,23,15,High,Depression,Unsatisfied,4,Daily,Average,Asia
+43,Female,Designer,Consulting,27,Hybrid,44,15,High,None,Satisfied,5,None,Poor,Asia
+47,Male,Software Engineer,Retail,33,Onsite,23,9,High,Depression,Neutral,1,Daily,Poor,Asia
+43,Female,Sales,Healthcare,24,Onsite,55,7,High,None,Unsatisfied,2,Weekly,Average,Asia
+41,Female,Sales,Education,26,Onsite,51,12,Medium,Depression,Satisfied,1,Daily,Average,Asia
+51,Prefer not to say,Sales,Manufacturing,14,Remote,53,7,Medium,Burnout,Unsatisfied,4,Daily,Poor,Asia
+50,Prefer not to say,Software Engineer,IT,32,Remote,34,4,Medium,Anxiety,Neutral,2,None,Poor,Asia
+57,Female,Designer,Healthcare,23,Onsite,41,0,High,None,Neutral,5,Daily,Average,Asia
+24,Male,Data Scientist,Retail,23,Onsite,43,1,Medium,None,Satisfied,5,Weekly,Poor,Asia
+50,Female,HR,Manufacturing,12,Remote,41,15,Low,Depression,Satisfied,3,Weekly,Poor,Asia
+56,Non-binary,Project Manager,Manufacturing,3,Remote,47,15,High,Depression,Unsatisfied,4,None,Good,Asia
+47,Non-binary,Data Scientist,Retail,33,Remote,41,8,High,Anxiety,Neutral,5,Weekly,Average,Asia
+38,Female,Project Manager,Manufacturing,10,Hybrid,25,0,Low,None,Unsatisfied,4,Weekly,Poor,Asia
+40,Prefer not to say,Designer,Manufacturing,28,Onsite,36,0,Low,Depression,Neutral,2,None,Poor,Asia
+55,Prefer not to say,Software Engineer,Retail,16,Onsite,36,10,Medium,Depression,Neutral,4,None,Poor,Asia
+38,Female,Software Engineer,Manufacturing,18,Hybrid,24,12,Low,Depression,Unsatisfied,5,Daily,Poor,Asia
+52,Male,Project Manager,Healthcare,23,Hybrid,28,13,Low,None,Unsatisfied,1,Daily,Average,Asia
+25,Non-binary,Marketing,Finance,22,Onsite,29,0,Low,Burnout,Unsatisfied,2,None,Poor,Asia
+26,Non-binary,Sales,Manufacturing,4,Hybrid,56,7,Low,None,Satisfied,1,None,Poor,Asia
+24,Prefer not to say,Project Manager,IT,21,Remote,60,6,Medium,Depression,Neutral,5,Weekly,Average,Asia
+24,Non-binary,Data Scientist,Education,29,Hybrid,40,0,High,Burnout,Unsatisfied,4,Weekly,Average,Asia
+33,Male,Data Scientist,Retail,4,Hybrid,28,14,Medium,Depression,Unsatisfied,3,None,Average,Asia
+52,Prefer not to say,Software Engineer,Finance,20,Onsite,23,10,Medium,Anxiety,Satisfied,2,Weekly,Poor,Asia
+44,Female,HR,Finance,3,Hybrid,42,2,High,None,Unsatisfied,1,None,Poor,Asia
+41,Non-binary,Software Engineer,Healthcare,11,Remote,42,8,Medium,None,Neutral,5,Weekly,Average,Asia
+56,Prefer not to say,HR,Finance,8,Remote,34,3,Low,Anxiety,Unsatisfied,1,Daily,Average,Asia
+50,Non-binary,Sales,Healthcare,16,Remote,49,12,High,None,Unsatisfied,5,Weekly,Average,Asia
+34,Non-binary,Project Manager,Retail,3,Remote,53,14,Low,None,Satisfied,5,None,Poor,Asia
+41,Prefer not to say,HR,Education,8,Hybrid,36,13,High,Anxiety,Neutral,1,Weekly,Good,Asia
+49,Non-binary,Marketing,Consulting,33,Hybrid,20,4,Medium,None,Satisfied,3,Daily,Good,Asia
+51,Non-binary,HR,Consulting,20,Remote,34,12,Low,None,Unsatisfied,4,Daily,Poor,Asia
+43,Male,Project Manager,Finance,28,Onsite,28,12,Medium,Depression,Satisfied,1,Weekly,Good,Asia
+25,Prefer not to say,Data Scientist,Consulting,31,Hybrid,55,13,Low,Depression,Satisfied,3,None,Good,Asia
+51,Female,Designer,Consulting,5,Hybrid,54,3,High,Burnout,Satisfied,4,None,Average,Asia
+50,Prefer not to say,Software Engineer,Finance,18,Hybrid,36,5,Low,Anxiety,Unsatisfied,2,Weekly,Average,Asia
+29,Non-binary,Data Scientist,Healthcare,23,Remote,46,1,High,Depression,Satisfied,3,Weekly,Average,Asia
+54,Prefer not to say,Designer,IT,19,Remote,43,1,Medium,Anxiety,Unsatisfied,4,Daily,Poor,Asia
+27,Female,Sales,Finance,23,Remote,34,14,Medium,Depression,Satisfied,5,Daily,Poor,Asia
+39,Non-binary,Software Engineer,Retail,5,Onsite,52,15,High,None,Neutral,3,Weekly,Average,Asia
+40,Non-binary,Project Manager,Manufacturing,35,Onsite,34,3,Low,Anxiety,Neutral,5,None,Poor,Asia
+32,Male,Designer,Consulting,14,Onsite,22,2,Medium,Depression,Satisfied,4,Weekly,Poor,Asia
+44,Male,Data Scientist,Retail,9,Remote,30,3,Medium,Depression,Satisfied,5,None,Average,Asia
+37,Non-binary,Sales,Finance,32,Hybrid,58,0,Medium,Anxiety,Satisfied,2,None,Good,Asia
+38,Non-binary,Data Scientist,IT,2,Hybrid,45,8,High,Anxiety,Unsatisfied,2,Weekly,Poor,Asia
+26,Male,Marketing,Manufacturing,7,Remote,41,8,High,None,Unsatisfied,4,Daily,Average,Asia
+52,Non-binary,Marketing,Manufacturing,23,Onsite,42,15,Low,Burnout,Neutral,5,Weekly,Average,Asia
+48,Prefer not to say,Software Engineer,Finance,33,Onsite,45,13,High,None,Neutral,4,None,Poor,Asia
+52,Male,Sales,IT,5,Hybrid,26,13,Low,None,Neutral,4,Weekly,Poor,Asia
+45,Male,HR,Consulting,1,Hybrid,30,2,High,Depression,Satisfied,5,None,Good,Asia
+49,Male,Marketing,Manufacturing,31,Remote,50,1,Low,None,Unsatisfied,3,None,Good,Asia
+57,Female,Software Engineer,Finance,29,Onsite,24,7,Medium,Burnout,Satisfied,1,Daily,Poor,Asia
+53,Male,Data Scientist,Retail,1,Remote,57,15,Low,Burnout,Unsatisfied,2,None,Good,Asia
+38,Female,Data Scientist,Retail,14,Hybrid,38,1,Low,Depression,Neutral,3,None,Poor,Asia
+53,Female,Data Scientist,Education,26,Remote,22,5,High,Burnout,Neutral,1,Weekly,Average,Asia
+51,Female,HR,IT,26,Remote,28,13,Medium,Burnout,Unsatisfied,5,None,Average,Asia
+29,Non-binary,Project Manager,Finance,2,Hybrid,45,8,Medium,Burnout,Unsatisfied,5,Weekly,Poor,Asia
+40,Female,Data Scientist,Consulting,3,Onsite,21,11,Medium,Anxiety,Unsatisfied,3,Weekly,Good,Asia
+58,Prefer not to say,Designer,Consulting,27,Onsite,22,7,Medium,Burnout,Unsatisfied,1,Daily,Average,Asia
+52,Prefer not to say,Marketing,Finance,8,Remote,28,5,Low,Burnout,Satisfied,5,Daily,Poor,Asia
+57,Male,Project Manager,Consulting,12,Hybrid,34,6,Medium,Burnout,Unsatisfied,4,Weekly,Poor,Asia
+52,Female,Marketing,Healthcare,13,Onsite,57,13,Medium,Depression,Neutral,3,None,Good,Asia
+59,Prefer not to say,Project Manager,IT,13,Hybrid,38,0,Medium,Depression,Satisfied,5,None,Average,Asia
+39,Prefer not to say,Sales,Finance,34,Onsite,42,11,Low,Burnout,Unsatisfied,3,Weekly,Good,Asia
+25,Female,Sales,IT,30,Remote,20,8,Low,Anxiety,Satisfied,4,Weekly,Average,Asia
+30,Female,Data Scientist,Healthcare,30,Hybrid,28,1,Low,None,Unsatisfied,5,Weekly,Good,Asia
+24,Female,HR,Manufacturing,27,Remote,33,13,Medium,Depression,Satisfied,4,Daily,Good,Asia
+50,Female,Data Scientist,Finance,5,Remote,48,5,High,Burnout,Unsatisfied,2,Daily,Good,Asia
+33,Male,Sales,Education,34,Onsite,56,1,Low,Anxiety,Unsatisfied,1,None,Poor,Asia
+39,Male,Software Engineer,Consulting,24,Remote,55,3,Low,Anxiety,Unsatisfied,2,Daily,Poor,Asia
+32,Non-binary,Sales,IT,19,Onsite,46,1,Low,Depression,Neutral,4,Weekly,Average,Asia
+44,Female,Designer,Retail,7,Hybrid,48,1,High,None,Neutral,2,None,Poor,Asia
+60,Female,Software Engineer,Retail,21,Onsite,21,11,Medium,Burnout,Unsatisfied,4,None,Good,Asia
+22,Prefer not to say,Project Manager,Consulting,13,Remote,58,3,Medium,None,Satisfied,5,Weekly,Good,Asia
+45,Male,Sales,Healthcare,16,Onsite,36,4,Low,Burnout,Unsatisfied,3,Daily,Good,Asia
+53,Female,Sales,Manufacturing,20,Remote,39,10,High,Burnout,Neutral,3,Daily,Average,Asia
+56,Male,HR,Retail,4,Remote,26,10,High,Anxiety,Satisfied,1,Weekly,Good,Asia
+23,Male,Marketing,Manufacturing,34,Hybrid,40,8,Medium,Anxiety,Unsatisfied,4,Daily,Poor,Asia
+23,Male,Sales,Manufacturing,33,Hybrid,36,14,Low,None,Unsatisfied,4,None,Good,Asia
+27,Female,Designer,Finance,16,Onsite,32,2,Medium,None,Satisfied,3,Weekly,Good,Asia
+24,Prefer not to say,Project Manager,Finance,8,Hybrid,27,13,Low,Burnout,Neutral,1,Daily,Poor,Asia
+57,Male,HR,Finance,34,Hybrid,51,9,High,Burnout,Satisfied,4,None,Average,Asia
+46,Male,Software Engineer,Healthcare,2,Remote,29,11,Low,Burnout,Neutral,5,None,Poor,Asia
+46,Male,Software Engineer,Education,13,Onsite,50,13,Medium,Depression,Neutral,3,Weekly,Good,Asia
+55,Non-binary,Software Engineer,Education,26,Onsite,28,8,Medium,Depression,Neutral,4,None,Poor,Asia
+30,Prefer not to say,Marketing,Finance,13,Onsite,30,13,Medium,Burnout,Neutral,2,Daily,Poor,Asia
+41,Male,Sales,Education,27,Remote,55,11,High,Burnout,Unsatisfied,3,Daily,Average,Asia
+57,Female,Marketing,Education,26,Remote,49,3,Medium,None,Unsatisfied,5,None,Poor,Asia
+51,Non-binary,Data Scientist,Retail,22,Remote,25,4,Low,None,Unsatisfied,3,Daily,Average,Asia
+34,Female,HR,Finance,28,Remote,55,11,High,Anxiety,Unsatisfied,4,None,Poor,Asia
+48,Non-binary,Marketing,Consulting,14,Hybrid,27,6,High,None,Unsatisfied,1,None,Good,Asia
+59,Non-binary,Project Manager,Consulting,13,Hybrid,35,7,Medium,Anxiety,Satisfied,3,None,Good,Asia
+31,Non-binary,Designer,Finance,5,Remote,49,7,High,None,Unsatisfied,3,None,Poor,Asia
+44,Prefer not to say,Project Manager,Healthcare,20,Onsite,44,15,High,Anxiety,Neutral,5,None,Average,Asia
+40,Non-binary,Sales,Manufacturing,9,Remote,51,14,Low,Burnout,Unsatisfied,5,Daily,Average,Asia
+52,Male,Designer,Education,2,Remote,49,5,Low,Depression,Satisfied,5,Weekly,Average,Asia
+57,Male,Sales,Retail,28,Onsite,59,10,Low,Burnout,Neutral,3,Daily,Poor,Asia
+29,Female,Designer,Finance,30,Hybrid,57,0,Low,Depression,Satisfied,5,Weekly,Good,Asia
+41,Prefer not to say,Project Manager,Retail,7,Onsite,51,2,Low,Anxiety,Unsatisfied,4,None,Good,Asia
+22,Male,Designer,Finance,12,Hybrid,26,7,High,Burnout,Neutral,3,Daily,Good,Asia
+57,Female,Software Engineer,Education,12,Hybrid,21,1,Low,Burnout,Neutral,1,Weekly,Poor,Asia
+27,Female,Data Scientist,Consulting,27,Onsite,53,3,Low,Burnout,Satisfied,3,Weekly,Good,Asia
+48,Female,Data Scientist,Finance,14,Onsite,56,7,Medium,Depression,Satisfied,3,None,Good,Asia
+46,Male,HR,Manufacturing,31,Remote,37,4,Low,Anxiety,Satisfied,3,Weekly,Poor,Asia
+48,Male,Marketing,IT,31,Hybrid,48,5,Medium,Anxiety,Unsatisfied,1,Weekly,Good,Asia
+44,Non-binary,Sales,Consulting,8,Hybrid,24,8,Medium,Depression,Neutral,4,None,Good,Asia
+46,Female,HR,Manufacturing,20,Onsite,44,2,Medium,None,Unsatisfied,3,Weekly,Average,Asia
+50,Male,Project Manager,Consulting,26,Onsite,36,13,High,Anxiety,Unsatisfied,5,None,Good,Asia
+23,Female,Marketing,Education,10,Remote,53,11,Medium,Anxiety,Neutral,4,Daily,Good,Asia
+59,Female,Data Scientist,Education,25,Onsite,29,14,Low,Burnout,Satisfied,1,Weekly,Average,Asia
+60,Male,Data Scientist,Retail,19,Onsite,31,5,Medium,None,Unsatisfied,5,None,Poor,Asia
+39,Prefer not to say,Data Scientist,Retail,27,Remote,29,6,Medium,Anxiety,Satisfied,3,Weekly,Good,Asia
+42,Non-binary,Marketing,IT,19,Hybrid,47,1,Medium,Burnout,Satisfied,5,Weekly,Poor,Asia
+38,Prefer not to say,Designer,Manufacturing,19,Hybrid,52,4,High,Burnout,Neutral,1,Daily,Average,Asia
+29,Male,Data Scientist,IT,33,Remote,56,15,High,Burnout,Satisfied,2,Weekly,Poor,Asia
+39,Male,Project Manager,Consulting,23,Hybrid,30,14,Medium,Anxiety,Unsatisfied,2,Daily,Poor,Asia
+55,Male,Project Manager,Finance,29,Hybrid,52,5,Medium,Depression,Satisfied,4,Weekly,Poor,Asia
+47,Non-binary,Software Engineer,Finance,12,Hybrid,45,9,Medium,Burnout,Neutral,5,Daily,Poor,Asia
+41,Prefer not to say,HR,IT,26,Remote,60,0,High,Burnout,Unsatisfied,2,Daily,Average,Asia
+22,Prefer not to say,Project Manager,Retail,28,Hybrid,58,5,Low,Burnout,Neutral,5,Weekly,Average,Asia
+37,Female,Marketing,IT,31,Onsite,23,14,Low,None,Satisfied,3,None,Good,Asia
+51,Male,HR,Healthcare,27,Hybrid,50,0,Low,Burnout,Unsatisfied,4,Daily,Good,Asia
+56,Prefer not to say,Software Engineer,Education,3,Remote,44,0,Low,None,Neutral,2,None,Average,Asia
+24,Non-binary,HR,Consulting,31,Remote,40,10,Low,None,Unsatisfied,1,None,Good,Asia
+34,Male,Sales,Retail,7,Onsite,38,3,Low,Anxiety,Satisfied,2,Weekly,Good,Asia
+32,Male,Data Scientist,Retail,11,Remote,35,12,High,Burnout,Satisfied,1,Daily,Average,Asia
+56,Prefer not to say,Designer,Finance,27,Hybrid,28,7,Medium,Anxiety,Unsatisfied,2,Daily,Average,Asia
+53,Male,HR,Retail,33,Hybrid,32,4,Low,Depression,Neutral,3,Daily,Good,Asia
+43,Female,Designer,Finance,30,Remote,24,15,High,Burnout,Neutral,3,None,Poor,Asia
+28,Male,Sales,Healthcare,11,Onsite,45,7,Medium,Anxiety,Neutral,1,None,Good,Asia
+26,Non-binary,Project Manager,IT,12,Remote,49,6,Medium,Anxiety,Satisfied,4,Weekly,Good,Asia
+52,Prefer not to say,Designer,Education,33,Remote,42,1,Medium,Depression,Neutral,1,None,Poor,Asia
+57,Female,Software Engineer,Education,29,Remote,52,0,High,Anxiety,Satisfied,3,Daily,Average,Asia
+40,Female,Designer,Finance,33,Onsite,56,6,Low,Burnout,Unsatisfied,1,Daily,Good,Asia
+27,Prefer not to say,Designer,Healthcare,13,Remote,43,14,High,None,Neutral,5,Weekly,Poor,Asia
+33,Male,Designer,IT,14,Hybrid,22,14,High,None,Neutral,3,None,Good,Asia
+48,Female,Software Engineer,Retail,31,Hybrid,45,9,Medium,Burnout,Satisfied,1,Daily,Poor,Asia
+24,Prefer not to say,Marketing,Retail,17,Remote,21,5,Low,Anxiety,Satisfied,4,Weekly,Poor,Asia
+34,Prefer not to say,Designer,IT,30,Hybrid,42,10,Low,Anxiety,Unsatisfied,2,None,Good,Asia
+43,Non-binary,Designer,Healthcare,1,Hybrid,27,8,High,Burnout,Satisfied,1,None,Poor,Asia
+59,Non-binary,Marketing,Finance,26,Hybrid,47,7,Medium,Depression,Neutral,2,None,Average,Asia
+45,Male,Data Scientist,Finance,15,Remote,46,0,High,Depression,Unsatisfied,5,None,Poor,Asia
+33,Female,Marketing,Healthcare,25,Remote,49,11,High,Burnout,Unsatisfied,5,None,Good,Asia
+60,Female,Data Scientist,Retail,33,Remote,23,7,Medium,Burnout,Satisfied,3,Daily,Good,Asia
+37,Male,Software Engineer,Manufacturing,8,Remote,49,3,High,None,Neutral,4,Weekly,Poor,Asia
+59,Prefer not to say,HR,IT,9,Hybrid,56,8,Low,Depression,Neutral,4,Daily,Poor,Asia
+42,Non-binary,Marketing,Healthcare,9,Hybrid,50,15,Medium,None,Satisfied,3,Daily,Poor,Asia
+56,Non-binary,HR,Healthcare,12,Remote,37,9,Medium,Burnout,Unsatisfied,5,None,Poor,Asia
+42,Prefer not to say,Designer,Healthcare,9,Remote,40,5,Medium,Depression,Unsatisfied,3,Daily,Average,Asia
+31,Male,Data Scientist,IT,20,Onsite,48,0,High,Anxiety,Unsatisfied,3,Daily,Good,Asia
+57,Prefer not to say,Sales,Education,32,Hybrid,32,3,High,None,Satisfied,2,Weekly,Good,Asia
+55,Prefer not to say,Marketing,IT,32,Onsite,35,7,Medium,None,Satisfied,3,Weekly,Poor,Asia
+56,Prefer not to say,Sales,Healthcare,27,Remote,20,15,Low,None,Satisfied,3,Weekly,Good,Asia
+23,Non-binary,Project Manager,Consulting,26,Onsite,29,9,Medium,Depression,Unsatisfied,3,Weekly,Poor,Asia
+37,Prefer not to say,HR,Manufacturing,5,Onsite,41,4,Low,Anxiety,Unsatisfied,1,Weekly,Poor,Asia
+39,Prefer not to say,Designer,Manufacturing,13,Hybrid,30,2,High,Burnout,Neutral,4,None,Poor,Asia
+25,Female,Software Engineer,Finance,25,Remote,21,15,Low,None,Neutral,1,Daily,Average,Asia
+43,Non-binary,Designer,Finance,17,Hybrid,22,14,Medium,Burnout,Neutral,4,None,Good,Asia
+55,Non-binary,Software Engineer,IT,16,Remote,27,11,Medium,Anxiety,Satisfied,4,None,Average,Asia
+53,Male,Designer,Consulting,1,Hybrid,47,4,Medium,Depression,Neutral,2,None,Poor,Asia
+42,Male,Project Manager,IT,5,Onsite,39,2,Medium,Burnout,Neutral,4,Daily,Poor,Asia
+51,Prefer not to say,Sales,Healthcare,3,Remote,54,0,High,None,Satisfied,5,Daily,Poor,Asia
+47,Female,HR,Consulting,25,Onsite,56,10,Medium,None,Satisfied,2,Weekly,Poor,Asia
+52,Prefer not to say,Marketing,Finance,11,Onsite,49,0,Low,None,Satisfied,2,None,Good,Asia
+30,Non-binary,Designer,Healthcare,31,Hybrid,23,15,Medium,Anxiety,Unsatisfied,2,Weekly,Average,Asia
+58,Non-binary,Sales,IT,1,Remote,36,10,High,Depression,Neutral,4,Daily,Good,Asia
+26,Male,Project Manager,Education,3,Onsite,51,0,Medium,Burnout,Unsatisfied,3,None,Poor,Asia
+59,Female,Marketing,Education,26,Remote,49,8,High,None,Satisfied,2,Daily,Poor,Asia
+35,Male,Marketing,Education,24,Hybrid,21,2,Medium,None,Unsatisfied,5,Weekly,Good,Asia
+27,Male,Sales,Manufacturing,10,Onsite,54,4,Low,Burnout,Neutral,2,Daily,Average,Asia
+24,Prefer not to say,Sales,Finance,20,Hybrid,30,5,High,Burnout,Neutral,3,Weekly,Poor,Asia
+48,Non-binary,Project Manager,Consulting,32,Onsite,47,12,Medium,Burnout,Neutral,1,None,Poor,Asia
+58,Male,Marketing,Consulting,34,Onsite,50,1,Low,Anxiety,Neutral,3,Daily,Good,Asia
+44,Female,Marketing,Healthcare,2,Onsite,44,9,High,Anxiety,Unsatisfied,5,None,Good,Asia
+50,Prefer not to say,Designer,Finance,7,Remote,50,7,Medium,Anxiety,Neutral,1,Daily,Good,Asia
+53,Female,Project Manager,Consulting,2,Hybrid,59,0,Low,Burnout,Neutral,3,None,Poor,Asia
+47,Female,Sales,Healthcare,8,Hybrid,55,9,Medium,None,Unsatisfied,1,Weekly,Good,Asia
+55,Male,Data Scientist,Finance,31,Hybrid,31,10,Low,Anxiety,Neutral,5,None,Poor,Asia
+45,Non-binary,HR,Education,26,Remote,42,2,Low,Depression,Neutral,2,Daily,Poor,Asia
+29,Non-binary,Marketing,Retail,2,Onsite,48,11,High,Burnout,Unsatisfied,1,None,Average,Asia
+37,Female,Designer,IT,1,Onsite,51,5,Low,Depression,Satisfied,4,Daily,Average,Asia
+34,Male,Project Manager,Retail,21,Onsite,57,10,Medium,Burnout,Neutral,3,Weekly,Poor,Asia
+40,Prefer not to say,Project Manager,Education,6,Onsite,60,0,High,Burnout,Neutral,2,Weekly,Good,Asia
+33,Male,Designer,Healthcare,5,Remote,40,1,Low,Burnout,Neutral,4,None,Good,Asia
+58,Male,Designer,Finance,32,Remote,60,6,High,Burnout,Unsatisfied,3,None,Average,Asia
+46,Female,Data Scientist,IT,30,Hybrid,40,8,High,Burnout,Satisfied,5,Weekly,Poor,Asia
+49,Prefer not to say,Sales,IT,7,Onsite,28,10,Low,Anxiety,Neutral,4,Daily,Average,Asia
+26,Male,Marketing,Retail,8,Remote,43,7,High,Anxiety,Satisfied,5,Weekly,Good,Asia
+38,Female,Sales,IT,15,Onsite,50,4,High,Burnout,Satisfied,1,Weekly,Poor,Asia
+58,Non-binary,Marketing,Retail,6,Onsite,34,9,High,Burnout,Unsatisfied,5,Daily,Good,Asia
+51,Prefer not to say,Designer,Retail,29,Onsite,58,2,High,Burnout,Neutral,3,Daily,Average,Asia
+34,Female,HR,Education,2,Hybrid,48,7,Low,Depression,Satisfied,5,None,Good,Asia
+27,Non-binary,Designer,IT,24,Remote,53,10,High,Depression,Unsatisfied,3,Daily,Average,Asia
+46,Prefer not to say,Software Engineer,Consulting,6,Hybrid,30,15,Low,Anxiety,Satisfied,4,Weekly,Poor,Asia
+30,Non-binary,Project Manager,Finance,16,Hybrid,27,9,Medium,Anxiety,Neutral,5,Weekly,Average,Asia
+33,Female,Designer,Finance,24,Onsite,27,13,Medium,Depression,Neutral,4,None,Good,Asia
+33,Prefer not to say,Data Scientist,Consulting,16,Hybrid,27,1,High,None,Neutral,3,None,Average,Asia
+48,Non-binary,Sales,Education,13,Onsite,31,8,Medium,None,Neutral,1,None,Average,Asia
+48,Non-binary,Designer,Education,2,Onsite,41,13,Medium,Anxiety,Unsatisfied,1,Weekly,Poor,Asia
+36,Prefer not to say,HR,Retail,28,Onsite,38,7,Low,Burnout,Unsatisfied,5,None,Poor,Asia
+48,Male,Sales,Manufacturing,26,Remote,36,4,Medium,Burnout,Unsatisfied,4,Daily,Poor,Asia
+37,Male,Marketing,Manufacturing,27,Remote,24,5,Low,None,Satisfied,1,Daily,Good,Asia
+31,Non-binary,Data Scientist,Manufacturing,22,Remote,52,6,Medium,Anxiety,Neutral,4,Weekly,Good,Asia
+36,Female,HR,Retail,19,Hybrid,29,9,Medium,None,Neutral,4,Weekly,Poor,Asia
+40,Non-binary,Data Scientist,Healthcare,3,Remote,59,7,Medium,Depression,Unsatisfied,2,Weekly,Poor,Asia
+42,Female,Designer,Education,21,Remote,26,6,Medium,None,Unsatisfied,1,Weekly,Poor,Asia
+47,Male,Sales,Consulting,34,Hybrid,44,6,Medium,Depression,Satisfied,5,Weekly,Average,Asia
+56,Prefer not to say,HR,IT,9,Remote,34,7,Medium,Depression,Unsatisfied,2,None,Average,Asia
+46,Male,Project Manager,Healthcare,26,Remote,41,6,Medium,None,Neutral,3,Daily,Average,Asia
+48,Female,Project Manager,Healthcare,33,Onsite,45,0,Low,Burnout,Neutral,2,Weekly,Poor,Asia
+60,Male,Project Manager,Healthcare,21,Onsite,23,14,High,Burnout,Satisfied,5,Daily,Good,Asia
+50,Non-binary,Marketing,Healthcare,1,Hybrid,31,2,High,Anxiety,Satisfied,2,None,Good,Asia
+31,Male,Software Engineer,Finance,28,Hybrid,42,1,High,Burnout,Neutral,5,Daily,Poor,Asia
+23,Female,Sales,Manufacturing,11,Onsite,33,7,Low,None,Unsatisfied,1,None,Average,Asia
+44,Male,Software Engineer,Consulting,34,Hybrid,56,7,Low,Depression,Satisfied,1,Weekly,Good,Asia
+26,Male,Data Scientist,Retail,20,Onsite,46,4,Low,Anxiety,Neutral,3,None,Good,Asia
+39,Female,Data Scientist,Education,18,Onsite,38,15,High,None,Satisfied,4,None,Average,Asia
+24,Prefer not to say,Designer,Education,33,Remote,24,10,Medium,Anxiety,Satisfied,5,None,Poor,Asia
+50,Female,Data Scientist,Retail,23,Onsite,51,11,High,Depression,Satisfied,1,None,Poor,Asia
+51,Prefer not to say,Project Manager,Manufacturing,25,Remote,58,1,Medium,Anxiety,Neutral,4,Weekly,Average,Asia
+45,Non-binary,Data Scientist,Education,9,Hybrid,24,12,Low,Burnout,Satisfied,2,Weekly,Average,Asia
+41,Female,Data Scientist,Finance,30,Hybrid,49,13,Low,Anxiety,Neutral,4,None,Good,Asia
+34,Female,HR,Consulting,23,Hybrid,22,9,High,Burnout,Unsatisfied,5,None,Good,Asia
+49,Female,Sales,IT,35,Hybrid,52,12,Medium,Depression,Neutral,2,Weekly,Good,Asia
+51,Male,Data Scientist,Finance,2,Hybrid,25,9,Low,Burnout,Unsatisfied,5,Daily,Average,Asia
+54,Prefer not to say,Project Manager,Finance,1,Remote,41,8,Medium,Anxiety,Neutral,1,None,Average,Asia
+52,Female,HR,Retail,7,Remote,52,7,Medium,Anxiety,Neutral,3,None,Average,Asia
+41,Non-binary,Data Scientist,Retail,26,Onsite,58,7,Medium,Burnout,Unsatisfied,4,Weekly,Average,Asia
+38,Non-binary,Software Engineer,Education,11,Onsite,60,13,Medium,Depression,Neutral,5,Weekly,Good,Asia
+35,Male,Sales,Consulting,34,Onsite,24,12,Medium,Burnout,Neutral,5,None,Average,Asia
+46,Prefer not to say,Project Manager,Finance,29,Remote,20,12,Medium,None,Neutral,4,Daily,Good,Asia
+30,Female,Software Engineer,Consulting,35,Hybrid,54,8,Low,Burnout,Unsatisfied,5,Weekly,Poor,Asia
+57,Prefer not to say,Marketing,Healthcare,13,Onsite,46,3,Low,None,Satisfied,5,Daily,Good,Asia
+36,Female,Software Engineer,IT,29,Remote,43,13,High,Anxiety,Satisfied,3,None,Good,Asia
+22,Male,HR,Healthcare,28,Remote,39,15,Low,None,Unsatisfied,2,None,Good,Asia
+24,Male,Data Scientist,Consulting,1,Remote,21,10,Medium,Depression,Satisfied,1,None,Average,Asia
+39,Non-binary,Project Manager,Retail,6,Onsite,49,15,Low,Anxiety,Unsatisfied,5,Daily,Poor,Asia
+59,Prefer not to say,Designer,IT,32,Hybrid,54,1,Medium,Depression,Neutral,4,Weekly,Average,Asia
+52,Female,Marketing,IT,22,Remote,22,5,High,Burnout,Unsatisfied,4,Daily,Poor,Asia
+39,Prefer not to say,Marketing,Retail,12,Onsite,40,9,High,None,Unsatisfied,4,Daily,Good,Asia
+52,Non-binary,Data Scientist,Retail,7,Hybrid,21,5,Medium,Depression,Neutral,3,Weekly,Average,Asia
+28,Male,Data Scientist,Healthcare,15,Hybrid,56,5,High,Depression,Unsatisfied,2,None,Average,Asia
+32,Male,Project Manager,Healthcare,15,Onsite,26,6,High,Depression,Unsatisfied,1,Daily,Poor,Asia
+22,Male,Marketing,Consulting,26,Onsite,46,1,Medium,Anxiety,Satisfied,3,Daily,Good,Asia
+47,Female,HR,Consulting,22,Hybrid,30,4,High,Anxiety,Unsatisfied,4,Weekly,Poor,Asia
+36,Female,Data Scientist,Manufacturing,12,Remote,34,12,Low,Burnout,Neutral,3,Daily,Good,Asia
+33,Male,Data Scientist,Consulting,25,Remote,37,3,Low,Burnout,Neutral,5,Weekly,Good,Asia
+41,Prefer not to say,HR,Manufacturing,35,Hybrid,32,4,Medium,None,Neutral,4,Weekly,Poor,Asia
+35,Male,Sales,Consulting,33,Hybrid,37,6,Medium,Anxiety,Satisfied,1,None,Average,Asia
+35,Non-binary,Designer,Manufacturing,34,Remote,28,8,Low,Depression,Satisfied,2,Weekly,Poor,Asia
+39,Male,Sales,Retail,24,Hybrid,26,3,Low,Burnout,Unsatisfied,2,None,Average,Asia
+38,Female,Project Manager,Finance,19,Hybrid,21,0,Low,Burnout,Unsatisfied,3,None,Average,Asia
+28,Female,HR,Consulting,27,Onsite,56,9,High,None,Satisfied,1,Daily,Average,Asia
+58,Prefer not to say,Designer,Retail,31,Remote,23,6,Medium,Depression,Unsatisfied,1,Daily,Good,Asia
+36,Male,Designer,IT,24,Onsite,50,5,Low,Depression,Unsatisfied,2,None,Good,Asia
+48,Female,Project Manager,Manufacturing,13,Hybrid,52,12,Low,Anxiety,Neutral,2,Daily,Average,Asia
+31,Non-binary,Data Scientist,Finance,4,Hybrid,27,1,Medium,Burnout,Satisfied,3,None,Poor,Asia
+23,Female,Data Scientist,Retail,10,Onsite,60,14,High,Anxiety,Unsatisfied,5,Daily,Average,Asia
+31,Male,Data Scientist,Healthcare,4,Remote,44,6,High,Anxiety,Neutral,5,Daily,Average,Asia
+30,Male,Software Engineer,Retail,34,Hybrid,52,4,Medium,Depression,Neutral,1,Weekly,Poor,Asia
+23,Female,Software Engineer,Retail,5,Hybrid,47,9,High,Depression,Neutral,4,None,Good,Asia
+31,Prefer not to say,Data Scientist,Healthcare,24,Hybrid,35,8,High,Anxiety,Satisfied,5,None,Poor,Asia
+54,Non-binary,Marketing,Manufacturing,11,Remote,27,14,Medium,None,Unsatisfied,4,Daily,Good,Asia
+50,Non-binary,Marketing,Consulting,3,Onsite,31,12,Medium,None,Unsatisfied,3,Daily,Poor,Asia
+49,Male,Sales,IT,26,Onsite,30,10,High,Burnout,Unsatisfied,2,None,Poor,Asia
+37,Male,Sales,Consulting,31,Hybrid,58,2,Medium,Depression,Satisfied,5,None,Poor,Asia
+24,Male,Project Manager,Healthcare,10,Onsite,23,10,High,Anxiety,Neutral,4,Daily,Poor,Asia
+55,Prefer not to say,Data Scientist,IT,26,Remote,31,6,Low,Depression,Satisfied,3,None,Average,Asia
+37,Female,Designer,IT,19,Onsite,28,8,Medium,Burnout,Neutral,1,None,Good,Asia
+50,Female,Data Scientist,Manufacturing,26,Onsite,40,15,Low,None,Satisfied,1,None,Poor,Asia
+35,Male,Data Scientist,Healthcare,21,Hybrid,36,15,Low,None,Unsatisfied,4,None,Average,Asia
+53,Non-binary,Project Manager,Healthcare,16,Remote,21,9,High,Burnout,Unsatisfied,5,None,Poor,Asia
+53,Female,Sales,Healthcare,16,Hybrid,40,13,High,Burnout,Neutral,4,Weekly,Good,Asia
+57,Non-binary,Project Manager,Retail,16,Onsite,53,13,High,Anxiety,Satisfied,4,Weekly,Poor,Asia
+58,Female,Sales,Healthcare,31,Remote,38,10,High,Anxiety,Neutral,5,None,Good,Asia
+60,Male,Marketing,IT,14,Hybrid,46,11,Medium,Burnout,Neutral,3,Daily,Average,Asia
+53,Female,Data Scientist,Retail,29,Onsite,47,0,High,Anxiety,Unsatisfied,5,Daily,Poor,Asia
+52,Non-binary,Data Scientist,Healthcare,25,Hybrid,27,10,Low,Burnout,Satisfied,3,Daily,Average,Asia
+54,Female,Software Engineer,IT,20,Hybrid,27,8,Low,Burnout,Neutral,5,None,Good,Asia
+31,Prefer not to say,Data Scientist,IT,4,Hybrid,50,0,Low,Burnout,Unsatisfied,1,Daily,Good,Asia
+56,Female,Designer,Retail,12,Hybrid,46,1,High,Depression,Unsatisfied,1,Weekly,Poor,Asia
+22,Non-binary,Sales,Manufacturing,21,Onsite,36,10,High,None,Neutral,4,Weekly,Poor,Asia
+22,Non-binary,Sales,Finance,23,Hybrid,55,10,Low,None,Unsatisfied,4,Weekly,Average,Asia
+55,Male,Data Scientist,Healthcare,29,Hybrid,41,15,Low,Anxiety,Neutral,3,None,Average,Asia
+32,Prefer not to say,Project Manager,Retail,7,Remote,38,6,Medium,Burnout,Satisfied,1,Daily,Average,Asia
+41,Female,Software Engineer,Healthcare,5,Onsite,31,13,High,Anxiety,Unsatisfied,2,Daily,Average,Asia
+36,Female,HR,Finance,9,Onsite,21,15,High,Anxiety,Unsatisfied,1,Weekly,Average,Asia
+46,Non-binary,Sales,Retail,4,Hybrid,42,5,Medium,Depression,Unsatisfied,5,None,Poor,Asia
+54,Prefer not to say,Project Manager,Education,6,Remote,57,3,High,None,Neutral,5,Daily,Good,Asia
+44,Prefer not to say,Marketing,Manufacturing,10,Hybrid,53,11,High,Depression,Neutral,5,Weekly,Average,Asia
+42,Female,HR,Healthcare,19,Hybrid,24,15,Medium,Burnout,Satisfied,2,Daily,Average,Asia
+35,Prefer not to say,HR,Retail,15,Hybrid,59,6,Medium,Anxiety,Unsatisfied,4,Daily,Poor,Asia
+38,Female,Software Engineer,Consulting,22,Remote,49,9,High,None,Unsatisfied,3,None,Average,Asia
+23,Female,Marketing,Manufacturing,9,Hybrid,40,9,Medium,Anxiety,Neutral,1,None,Good,Asia
+37,Prefer not to say,Software Engineer,Healthcare,12,Remote,47,7,Medium,Burnout,Satisfied,2,Daily,Average,Asia
+46,Female,Project Manager,Retail,9,Hybrid,22,13,High,Anxiety,Satisfied,4,Daily,Average,Asia
+41,Prefer not to say,Project Manager,Manufacturing,30,Onsite,59,4,Medium,Depression,Satisfied,3,Daily,Average,Asia
+53,Prefer not to say,Designer,Healthcare,32,Hybrid,34,14,Low,Depression,Satisfied,1,None,Average,Asia
+31,Non-binary,Sales,Manufacturing,1,Remote,52,0,Medium,None,Unsatisfied,4,Daily,Good,Asia
+52,Male,Data Scientist,Healthcare,26,Remote,54,3,Low,Anxiety,Unsatisfied,1,Daily,Average,Asia
+38,Female,Designer,Manufacturing,30,Onsite,30,0,Low,None,Neutral,4,Daily,Poor,Asia
+53,Non-binary,Designer,Healthcare,14,Onsite,41,13,Low,None,Neutral,2,None,Good,Asia
+60,Female,Marketing,Finance,35,Onsite,52,5,Low,Anxiety,Neutral,3,Daily,Average,Asia
+37,Male,Software Engineer,Retail,9,Remote,45,11,High,None,Neutral,3,Weekly,Average,Asia
+55,Male,HR,Education,8,Remote,20,12,Medium,None,Unsatisfied,3,Daily,Average,Asia
+44,Prefer not to say,HR,Consulting,31,Onsite,49,13,Low,Anxiety,Neutral,2,Weekly,Average,Asia
+25,Female,Software Engineer,Finance,14,Remote,35,7,Low,None,Unsatisfied,2,Weekly,Average,Asia
+51,Female,Marketing,IT,26,Hybrid,22,7,High,None,Satisfied,1,Weekly,Poor,Asia
+41,Non-binary,Data Scientist,IT,31,Hybrid,51,0,Medium,Depression,Satisfied,4,Weekly,Good,Asia
+24,Male,HR,IT,15,Onsite,56,12,Medium,Anxiety,Neutral,3,Weekly,Good,Asia
+43,Non-binary,Software Engineer,Healthcare,33,Remote,25,2,Low,Burnout,Neutral,5,None,Poor,Asia
+48,Male,HR,Manufacturing,15,Hybrid,21,10,Low,Anxiety,Neutral,1,Daily,Poor,Asia
+28,Non-binary,HR,Healthcare,16,Onsite,24,13,Low,None,Satisfied,1,Daily,Good,Asia
+41,Female,Data Scientist,Finance,1,Onsite,23,1,Low,Burnout,Unsatisfied,1,Weekly,Poor,Asia
+39,Male,Sales,Consulting,32,Remote,35,6,Medium,Anxiety,Neutral,4,Weekly,Good,Asia
+26,Prefer not to say,Data Scientist,Consulting,6,Hybrid,38,10,Low,Burnout,Neutral,1,None,Good,Asia
+53,Prefer not to say,Designer,IT,10,Onsite,38,15,High,None,Satisfied,4,None,Poor,Asia
+24,Female,Project Manager,Healthcare,33,Remote,24,6,Medium,Burnout,Satisfied,4,None,Good,Asia
+31,Non-binary,Data Scientist,IT,12,Hybrid,51,7,High,Depression,Satisfied,5,Daily,Good,Asia
+53,Female,Software Engineer,Manufacturing,19,Hybrid,49,14,High,None,Unsatisfied,1,Weekly,Good,Asia
+32,Prefer not to say,Sales,Retail,24,Remote,56,13,Medium,Burnout,Neutral,4,Daily,Good,Asia
+32,Non-binary,Designer,IT,23,Onsite,47,3,Low,Depression,Unsatisfied,1,None,Poor,Asia
+57,Prefer not to say,Data Scientist,Manufacturing,7,Remote,54,0,High,Depression,Unsatisfied,3,None,Average,Asia
+40,Non-binary,HR,IT,22,Remote,22,1,High,Anxiety,Satisfied,4,Weekly,Average,Asia
+54,Non-binary,Sales,IT,25,Hybrid,28,11,Medium,Anxiety,Satisfied,3,Weekly,Good,Asia
+49,Female,Data Scientist,Consulting,29,Hybrid,55,9,Low,Burnout,Satisfied,3,Weekly,Poor,Asia
+36,Male,Software Engineer,Education,34,Remote,48,10,Low,Burnout,Neutral,1,None,Good,Asia
+60,Non-binary,Software Engineer,Manufacturing,14,Hybrid,24,8,Medium,Depression,Neutral,1,Daily,Good,Asia
+31,Female,Sales,Education,24,Remote,41,12,High,None,Unsatisfied,4,None,Good,Asia
+22,Prefer not to say,Marketing,IT,29,Remote,24,7,Medium,Depression,Unsatisfied,1,Weekly,Poor,Asia
+28,Prefer not to say,Project Manager,Healthcare,19,Onsite,40,8,High,Anxiety,Unsatisfied,3,Weekly,Poor,Asia
+48,Male,Project Manager,Education,24,Hybrid,29,1,Low,None,Satisfied,1,Daily,Average,Asia
+55,Prefer not to say,Data Scientist,Healthcare,13,Onsite,52,5,High,Burnout,Neutral,5,Weekly,Good,Asia
+38,Non-binary,Marketing,IT,25,Remote,21,6,Low,Depression,Unsatisfied,5,None,Average,Asia
+23,Male,Marketing,Healthcare,14,Hybrid,59,3,High,None,Neutral,4,Weekly,Poor,Asia
+59,Prefer not to say,Marketing,Finance,20,Hybrid,47,2,Low,Anxiety,Unsatisfied,1,Daily,Average,Asia
+46,Non-binary,Sales,Manufacturing,30,Hybrid,37,6,Low,None,Satisfied,4,Daily,Poor,Asia
+53,Non-binary,HR,Finance,30,Hybrid,46,12,High,Anxiety,Satisfied,2,Weekly,Average,Asia
+22,Prefer not to say,Designer,Healthcare,9,Hybrid,34,10,Medium,Depression,Unsatisfied,5,Daily,Good,Asia
+55,Female,Marketing,Healthcare,7,Hybrid,58,4,Low,None,Satisfied,2,Daily,Average,Asia
+27,Female,Project Manager,Manufacturing,10,Hybrid,33,5,Low,Depression,Satisfied,1,None,Poor,Asia
+23,Prefer not to say,HR,Retail,17,Onsite,42,8,Low,Burnout,Unsatisfied,3,Weekly,Good,Asia
+31,Male,HR,Consulting,25,Hybrid,47,10,Low,Anxiety,Satisfied,5,None,Poor,Asia
+30,Male,Project Manager,IT,7,Remote,58,12,Low,Burnout,Neutral,1,None,Poor,Asia
+39,Male,Data Scientist,Finance,34,Remote,39,0,High,Anxiety,Unsatisfied,2,Daily,Good,Asia
+35,Prefer not to say,Data Scientist,Manufacturing,12,Hybrid,24,0,Medium,None,Neutral,3,None,Good,Asia
+26,Male,Sales,Consulting,12,Remote,54,4,High,Anxiety,Satisfied,2,Weekly,Good,Asia
+23,Female,Data Scientist,Healthcare,22,Remote,39,14,Medium,Burnout,Neutral,1,Daily,Poor,Asia
+53,Prefer not to say,Project Manager,IT,14,Hybrid,59,3,Medium,Depression,Satisfied,2,Daily,Good,Asia
+45,Male,HR,IT,1,Hybrid,45,8,High,Anxiety,Neutral,2,Daily,Good,Asia
+55,Male,Project Manager,Education,29,Remote,51,4,Medium,Anxiety,Unsatisfied,1,Daily,Good,Asia
+39,Male,HR,Consulting,27,Remote,20,1,High,Depression,Satisfied,4,Daily,Poor,Asia
+23,Male,Project Manager,Retail,23,Onsite,21,7,Medium,Depression,Neutral,1,None,Poor,Asia
+51,Male,Project Manager,Finance,17,Onsite,26,3,High,None,Satisfied,5,Daily,Poor,Asia
+41,Female,Project Manager,IT,13,Onsite,30,6,Medium,Depression,Unsatisfied,2,Daily,Good,Asia
+28,Male,Sales,Retail,14,Remote,37,9,High,Depression,Unsatisfied,1,Daily,Good,Asia
+34,Female,Software Engineer,Manufacturing,13,Remote,24,2,Medium,Anxiety,Unsatisfied,1,Weekly,Good,Asia
+57,Non-binary,Software Engineer,Healthcare,5,Onsite,37,5,Medium,Depression,Unsatisfied,3,None,Average,Asia
+43,Prefer not to say,Project Manager,Consulting,34,Hybrid,36,9,Medium,Anxiety,Neutral,3,Weekly,Poor,Asia
+49,Non-binary,Designer,Consulting,17,Onsite,54,10,High,Depression,Unsatisfied,3,Daily,Good,Asia
+25,Male,Sales,IT,25,Remote,47,0,Low,Anxiety,Satisfied,4,Weekly,Average,Asia
+53,Prefer not to say,Sales,Finance,35,Remote,30,15,Low,Depression,Unsatisfied,1,Daily,Average,Asia
+56,Female,Sales,IT,18,Hybrid,52,0,High,Burnout,Satisfied,5,Weekly,Good,Asia
+51,Prefer not to say,Sales,IT,20,Hybrid,48,5,Low,None,Satisfied,1,None,Poor,Asia
+45,Non-binary,Software Engineer,IT,12,Hybrid,43,9,Low,Anxiety,Neutral,4,Daily,Good,Asia
+50,Prefer not to say,Project Manager,Consulting,22,Remote,37,10,High,None,Satisfied,3,Weekly,Poor,Asia
+57,Female,Data Scientist,Education,8,Onsite,41,0,Medium,Burnout,Satisfied,2,None,Good,Asia
+59,Non-binary,Project Manager,Education,15,Hybrid,58,1,High,Depression,Neutral,2,Weekly,Poor,Asia
+57,Female,HR,IT,16,Onsite,41,11,Low,Burnout,Unsatisfied,4,Weekly,Average,Asia
+34,Male,Software Engineer,Education,35,Remote,33,13,Low,Burnout,Unsatisfied,2,None,Poor,Asia
+22,Male,HR,Consulting,28,Hybrid,23,4,High,Depression,Unsatisfied,3,None,Poor,Asia
+50,Prefer not to say,Project Manager,Healthcare,34,Onsite,50,10,Medium,Depression,Neutral,2,None,Poor,Asia
+30,Prefer not to say,Marketing,Consulting,9,Remote,37,9,Medium,Depression,Unsatisfied,4,Weekly,Poor,Asia
+34,Prefer not to say,HR,Manufacturing,24,Onsite,20,7,Medium,Anxiety,Satisfied,3,Daily,Poor,Asia
+23,Male,Data Scientist,Healthcare,18,Remote,54,7,Low,Burnout,Satisfied,2,None,Poor,Asia
+59,Non-binary,Designer,Retail,15,Remote,35,13,High,Anxiety,Satisfied,2,None,Poor,Asia
+45,Male,Project Manager,Healthcare,20,Onsite,54,9,Low,Burnout,Neutral,1,None,Good,Asia
+57,Non-binary,Marketing,Healthcare,15,Remote,38,8,Low,None,Satisfied,3,None,Good,Asia
+56,Male,Data Scientist,Finance,6,Onsite,38,14,Low,Burnout,Unsatisfied,3,None,Poor,Asia
+49,Prefer not to say,Designer,Finance,10,Hybrid,21,2,Medium,None,Neutral,1,Weekly,Average,Asia
+24,Female,Software Engineer,Consulting,30,Hybrid,23,13,Medium,None,Neutral,1,Weekly,Average,Asia
+54,Female,Marketing,IT,22,Onsite,36,4,High,None,Unsatisfied,2,None,Poor,Asia
+34,Prefer not to say,Marketing,Retail,22,Remote,46,0,High,Burnout,Satisfied,4,Daily,Poor,Asia
+58,Non-binary,Marketing,Finance,5,Hybrid,45,12,High,None,Satisfied,3,Weekly,Poor,Asia
+50,Male,Project Manager,Consulting,11,Onsite,56,10,Medium,Anxiety,Satisfied,1,Weekly,Average,Asia
+54,Female,Sales,Consulting,16,Remote,22,10,Low,Anxiety,Satisfied,5,Daily,Average,Asia
+25,Male,Sales,IT,27,Remote,41,8,High,Anxiety,Unsatisfied,3,None,Poor,Asia
+38,Female,Designer,Manufacturing,22,Remote,29,0,Medium,Anxiety,Neutral,1,Daily,Poor,Asia
+40,Female,Data Scientist,Consulting,8,Onsite,25,11,Medium,None,Unsatisfied,1,None,Good,Asia
+35,Non-binary,Project Manager,Finance,24,Hybrid,29,5,Medium,Anxiety,Neutral,3,Weekly,Good,Asia
+39,Female,HR,Healthcare,3,Hybrid,23,4,High,Depression,Satisfied,5,Weekly,Average,Asia
+32,Prefer not to say,Project Manager,Healthcare,21,Hybrid,57,1,Low,None,Neutral,1,Weekly,Poor,Asia
+59,Male,Marketing,IT,2,Hybrid,35,0,Low,Anxiety,Neutral,3,Daily,Good,Asia
+30,Non-binary,Software Engineer,IT,4,Onsite,51,1,Medium,Burnout,Neutral,5,Weekly,Average,Asia
+37,Non-binary,HR,Education,29,Onsite,31,9,High,Anxiety,Neutral,3,None,Poor,Asia
+58,Female,Project Manager,Finance,27,Hybrid,31,8,High,None,Neutral,4,Daily,Good,Asia
+28,Male,Project Manager,Manufacturing,15,Onsite,41,1,High,Burnout,Unsatisfied,3,Daily,Good,Asia
+54,Prefer not to say,Software Engineer,Healthcare,32,Hybrid,44,2,Low,None,Satisfied,3,None,Good,Asia
+56,Prefer not to say,Marketing,Consulting,11,Onsite,40,2,Low,Anxiety,Satisfied,1,Daily,Poor,Asia
+49,Male,Project Manager,IT,35,Remote,20,12,Medium,Depression,Neutral,2,Weekly,Average,Asia
+59,Female,Data Scientist,Finance,8,Hybrid,34,11,High,Anxiety,Unsatisfied,2,Weekly,Poor,Asia
+50,Non-binary,Software Engineer,Finance,14,Onsite,31,15,Medium,Anxiety,Unsatisfied,1,Weekly,Average,Asia
+54,Female,Data Scientist,Finance,20,Onsite,35,12,Medium,Anxiety,Unsatisfied,4,Weekly,Average,Asia
+52,Prefer not to say,Project Manager,IT,35,Hybrid,27,15,Medium,Depression,Satisfied,5,Daily,Average,Asia
+50,Non-binary,Project Manager,Retail,20,Hybrid,20,10,Medium,None,Neutral,4,Weekly,Poor,Asia
+51,Prefer not to say,Designer,Retail,26,Hybrid,28,6,Low,None,Satisfied,5,Weekly,Poor,Asia
+42,Male,Marketing,Finance,18,Remote,22,10,Low,Anxiety,Satisfied,4,Daily,Poor,Asia
+53,Non-binary,Software Engineer,Consulting,34,Onsite,48,8,High,Anxiety,Satisfied,4,None,Poor,Asia
+59,Male,Marketing,Consulting,12,Hybrid,47,12,Medium,Burnout,Satisfied,5,None,Average,Asia
+30,Male,Project Manager,Finance,12,Onsite,33,9,High,Anxiety,Unsatisfied,3,Daily,Average,Asia
+43,Male,HR,Retail,18,Onsite,57,12,Medium,Burnout,Neutral,2,Weekly,Good,Asia
+53,Non-binary,Project Manager,Healthcare,25,Onsite,32,6,High,Depression,Satisfied,2,None,Average,Asia
+43,Prefer not to say,Marketing,Retail,32,Remote,53,2,Medium,None,Unsatisfied,5,Weekly,Good,Asia
+22,Prefer not to say,HR,Healthcare,5,Onsite,51,15,Medium,Depression,Unsatisfied,5,None,Average,Asia
+40,Male,Software Engineer,Education,8,Hybrid,48,3,Low,Depression,Unsatisfied,3,None,Good,Asia
+51,Male,Sales,Education,26,Onsite,51,5,Medium,Depression,Satisfied,2,Weekly,Good,Asia
+50,Prefer not to say,Sales,IT,13,Remote,37,10,Medium,None,Unsatisfied,2,None,Good,Asia
+45,Male,Sales,Consulting,19,Onsite,49,14,High,Burnout,Unsatisfied,4,None,Good,Asia
+57,Female,Software Engineer,Education,13,Remote,20,0,High,None,Neutral,1,Weekly,Good,Asia
+49,Female,Designer,Education,7,Remote,22,0,High,Anxiety,Unsatisfied,4,Weekly,Good,Asia
+34,Non-binary,Data Scientist,Consulting,6,Hybrid,49,0,Low,Depression,Unsatisfied,1,Weekly,Average,Asia
+57,Prefer not to say,Software Engineer,Education,21,Onsite,24,13,High,Anxiety,Unsatisfied,5,Weekly,Average,Asia
+29,Prefer not to say,Software Engineer,Retail,13,Hybrid,41,8,Low,Anxiety,Unsatisfied,4,None,Average,Asia
+24,Prefer not to say,Software Engineer,Retail,33,Hybrid,55,1,Medium,Depression,Unsatisfied,2,None,Average,Asia
+23,Female,Designer,Finance,7,Onsite,24,9,Medium,Anxiety,Satisfied,1,Daily,Good,Asia
+44,Prefer not to say,Project Manager,IT,33,Remote,30,8,High,Depression,Neutral,3,Weekly,Good,Asia
+41,Prefer not to say,Designer,Retail,20,Onsite,43,8,Low,Anxiety,Unsatisfied,1,None,Poor,Asia
+47,Prefer not to say,Software Engineer,Retail,9,Remote,50,12,Low,Burnout,Unsatisfied,2,Daily,Poor,Asia
+59,Prefer not to say,HR,Finance,34,Hybrid,36,7,High,Anxiety,Unsatisfied,2,None,Good,Asia
+38,Non-binary,HR,Manufacturing,23,Remote,37,2,Medium,Anxiety,Satisfied,1,Daily,Poor,Asia
+38,Non-binary,Project Manager,Manufacturing,31,Remote,55,9,Low,Burnout,Satisfied,2,Daily,Average,Asia
+51,Prefer not to say,Designer,IT,12,Onsite,44,2,Low,Depression,Satisfied,4,Weekly,Good,Asia
+56,Male,Data Scientist,Retail,19,Onsite,46,5,Medium,Burnout,Satisfied,2,Weekly,Poor,Asia
+24,Male,Sales,Finance,12,Onsite,30,13,Low,None,Neutral,5,None,Average,Asia
+43,Female,Marketing,IT,7,Hybrid,31,14,Medium,None,Unsatisfied,3,None,Average,Asia
+53,Non-binary,Marketing,Manufacturing,19,Hybrid,46,11,High,Anxiety,Unsatisfied,2,Daily,Poor,Asia
+53,Male,Sales,Finance,18,Remote,48,10,Medium,Burnout,Neutral,4,None,Poor,Asia
+34,Prefer not to say,Marketing,Consulting,4,Remote,56,14,High,Burnout,Satisfied,3,None,Average,Asia
+37,Female,Designer,Consulting,29,Remote,26,10,Medium,None,Satisfied,4,None,Poor,Asia
+47,Female,Designer,Consulting,20,Hybrid,21,0,Medium,Burnout,Unsatisfied,4,None,Average,Asia
+23,Female,HR,Education,28,Remote,39,10,Low,None,Unsatisfied,1,Daily,Good,Asia
+22,Prefer not to say,Marketing,Manufacturing,1,Hybrid,39,12,Low,None,Satisfied,4,Daily,Poor,Asia
+25,Female,Designer,Healthcare,31,Remote,36,8,Low,Anxiety,Satisfied,1,Daily,Poor,Asia
+42,Non-binary,Data Scientist,IT,32,Hybrid,37,10,High,Depression,Satisfied,3,None,Poor,Asia
+22,Non-binary,Sales,Consulting,18,Onsite,37,2,Low,Anxiety,Satisfied,2,Weekly,Good,Asia
+32,Male,Marketing,Manufacturing,34,Remote,43,9,Low,Anxiety,Unsatisfied,3,Weekly,Average,Asia
+56,Non-binary,Designer,Education,17,Remote,53,11,Medium,None,Unsatisfied,1,Daily,Good,Asia
+37,Prefer not to say,Sales,Manufacturing,18,Remote,20,5,Low,None,Unsatisfied,2,None,Poor,Asia
+54,Prefer not to say,Marketing,IT,12,Onsite,21,0,Low,Burnout,Unsatisfied,3,Weekly,Poor,Asia
+38,Male,Designer,Manufacturing,29,Onsite,24,5,Medium,None,Satisfied,3,Weekly,Good,Asia
+50,Prefer not to say,Designer,Healthcare,33,Remote,58,4,High,Burnout,Unsatisfied,2,Daily,Average,Asia
+38,Non-binary,Software Engineer,Consulting,19,Onsite,23,10,High,Depression,Satisfied,3,None,Poor,Asia
+24,Non-binary,Project Manager,Education,30,Onsite,20,2,High,Anxiety,Unsatisfied,1,Weekly,Poor,Asia
+59,Female,Designer,Healthcare,16,Hybrid,47,7,Low,Burnout,Neutral,1,None,Poor,Asia
+24,Male,HR,IT,4,Remote,56,13,Medium,Burnout,Unsatisfied,4,Daily,Good,Asia
+25,Prefer not to say,Project Manager,Retail,26,Onsite,23,8,Low,Burnout,Neutral,2,Weekly,Average,Asia
+30,Prefer not to say,Data Scientist,Education,12,Remote,26,11,Low,Burnout,Satisfied,3,Daily,Good,Asia
+32,Female,Marketing,Consulting,4,Remote,58,3,Medium,None,Unsatisfied,3,None,Good,Asia
+45,Male,HR,Finance,28,Remote,49,12,High,Burnout,Neutral,5,None,Poor,Asia
+24,Female,Designer,Finance,13,Remote,28,6,High,Depression,Satisfied,3,Weekly,Good,Asia
+37,Male,Project Manager,Healthcare,27,Onsite,52,2,High,None,Neutral,1,Daily,Poor,Asia
+37,Non-binary,Software Engineer,IT,13,Onsite,50,15,High,Depression,Neutral,3,Daily,Average,Asia
+24,Female,Sales,Manufacturing,1,Hybrid,47,2,Low,Anxiety,Neutral,2,Daily,Poor,Asia
+39,Non-binary,Software Engineer,IT,26,Hybrid,26,9,High,Depression,Neutral,2,Daily,Good,Asia
+56,Prefer not to say,Data Scientist,Manufacturing,6,Onsite,43,8,Medium,Anxiety,Satisfied,2,Daily,Average,Asia
+38,Non-binary,Sales,Healthcare,26,Hybrid,56,12,High,None,Satisfied,3,Daily,Average,Asia
+52,Female,Designer,Manufacturing,34,Onsite,37,15,Low,Anxiety,Neutral,4,Daily,Good,Asia
+28,Prefer not to say,HR,Finance,29,Onsite,37,8,Low,Depression,Unsatisfied,4,Daily,Good,Asia
+30,Non-binary,Designer,Manufacturing,28,Remote,47,6,High,Depression,Neutral,4,Weekly,Poor,Asia
+53,Female,Data Scientist,Healthcare,6,Remote,37,4,Low,Depression,Unsatisfied,3,Weekly,Poor,Asia
+51,Male,Project Manager,IT,3,Onsite,55,4,High,Anxiety,Unsatisfied,1,Weekly,Average,Asia
+36,Female,Marketing,Finance,30,Remote,54,14,Medium,Burnout,Unsatisfied,1,Daily,Good,Asia
+34,Prefer not to say,HR,Education,9,Hybrid,51,8,Low,None,Neutral,4,Weekly,Average,Asia
+39,Non-binary,Sales,IT,34,Remote,31,14,Low,Depression,Unsatisfied,3,Weekly,Good,Asia
+58,Prefer not to say,Software Engineer,Retail,18,Hybrid,33,13,Low,Burnout,Satisfied,3,Weekly,Average,Asia
+60,Female,Designer,Healthcare,5,Hybrid,57,0,Low,Anxiety,Unsatisfied,2,Daily,Good,Asia
+52,Non-binary,Marketing,Healthcare,35,Hybrid,27,5,Low,Anxiety,Satisfied,3,Weekly,Good,Asia
+45,Prefer not to say,Data Scientist,Retail,12,Remote,42,14,Medium,Burnout,Unsatisfied,2,Weekly,Good,Asia
+26,Male,Project Manager,Manufacturing,21,Remote,42,5,Medium,Depression,Neutral,4,None,Poor,Asia
+56,Male,Designer,Retail,8,Hybrid,52,3,Medium,Anxiety,Unsatisfied,4,None,Good,Asia
+51,Male,Software Engineer,IT,17,Remote,45,14,Low,Depression,Unsatisfied,5,None,Poor,Asia
+50,Male,Sales,Healthcare,7,Hybrid,48,7,Low,None,Satisfied,4,Daily,Average,Asia
+38,Female,Software Engineer,Healthcare,1,Onsite,20,12,Low,Depression,Unsatisfied,1,Weekly,Average,Asia
+56,Prefer not to say,Software Engineer,Education,5,Hybrid,35,3,Medium,Anxiety,Neutral,5,None,Average,Asia
+40,Prefer not to say,Data Scientist,Finance,7,Hybrid,60,10,High,Burnout,Unsatisfied,3,Weekly,Poor,Asia
+48,Non-binary,Designer,Consulting,25,Hybrid,50,7,Low,Depression,Satisfied,2,Weekly,Good,Asia
+29,Female,Designer,Finance,34,Onsite,28,15,Medium,Anxiety,Satisfied,2,Weekly,Poor,Asia
+25,Non-binary,Data Scientist,Healthcare,31,Onsite,39,14,Low,Anxiety,Neutral,1,Weekly,Good,Asia
+22,Non-binary,Project Manager,Education,21,Hybrid,42,13,Medium,None,Unsatisfied,3,Weekly,Good,Asia
+34,Female,Sales,Healthcare,6,Hybrid,55,11,Low,Anxiety,Unsatisfied,5,Daily,Average,Asia
+49,Non-binary,Software Engineer,Retail,3,Onsite,23,15,High,Anxiety,Neutral,3,Weekly,Good,Asia
+53,Prefer not to say,Sales,Retail,19,Remote,48,1,High,Anxiety,Unsatisfied,4,Daily,Average,Asia
+45,Male,Project Manager,Retail,17,Onsite,36,4,High,Anxiety,Unsatisfied,4,None,Good,Asia
+23,Female,Marketing,Manufacturing,7,Remote,50,12,Medium,Anxiety,Unsatisfied,1,Weekly,Good,Asia
+53,Non-binary,Designer,Education,21,Remote,28,2,Medium,Burnout,Unsatisfied,2,Weekly,Poor,Asia
+56,Non-binary,Sales,Consulting,25,Onsite,36,10,Low,Burnout,Unsatisfied,2,Weekly,Average,Asia
+38,Non-binary,Marketing,Consulting,7,Hybrid,20,9,Medium,None,Satisfied,5,Daily,Average,Asia
+40,Non-binary,HR,IT,18,Onsite,21,3,Low,None,Neutral,2,Weekly,Good,Asia
+55,Non-binary,Sales,Healthcare,3,Remote,35,8,High,Depression,Unsatisfied,2,Daily,Good,Asia
+48,Prefer not to say,Software Engineer,Manufacturing,35,Onsite,22,14,High,None,Neutral,5,Weekly,Average,Asia
+29,Non-binary,Software Engineer,IT,3,Remote,43,4,Medium,Anxiety,Unsatisfied,1,None,Average,Asia
+23,Female,Designer,IT,16,Onsite,57,3,High,Burnout,Unsatisfied,1,Daily,Good,Asia
+57,Prefer not to say,Software Engineer,Healthcare,17,Hybrid,28,9,Medium,Anxiety,Unsatisfied,2,None,Average,Asia
+45,Female,Marketing,Manufacturing,23,Onsite,33,9,Low,Depression,Satisfied,4,Weekly,Average,Asia
+54,Non-binary,HR,Finance,4,Onsite,20,13,Medium,Burnout,Satisfied,1,Daily,Average,Asia
+22,Female,HR,Retail,8,Onsite,58,2,Medium,Anxiety,Unsatisfied,3,Weekly,Poor,Asia
+38,Female,Project Manager,IT,26,Onsite,20,4,High,None,Satisfied,3,None,Good,Asia
+32,Prefer not to say,Designer,Manufacturing,17,Remote,41,11,Low,Anxiety,Neutral,1,Daily,Poor,Asia
+39,Non-binary,Data Scientist,Manufacturing,21,Remote,31,0,Medium,None,Neutral,5,None,Poor,Asia
+57,Female,Data Scientist,Retail,20,Onsite,52,11,High,Anxiety,Neutral,2,Weekly,Good,Asia
+50,Male,Data Scientist,Education,2,Remote,33,15,Low,Depression,Unsatisfied,1,None,Good,Asia
+53,Female,Marketing,Manufacturing,12,Remote,43,14,Low,Anxiety,Satisfied,2,None,Average,Asia
+53,Prefer not to say,Software Engineer,Education,20,Hybrid,45,10,Medium,None,Satisfied,5,Weekly,Good,Asia
+30,Female,Data Scientist,Manufacturing,33,Remote,53,14,Low,Burnout,Satisfied,1,Weekly,Average,Asia
+46,Female,Sales,Manufacturing,19,Hybrid,49,5,Low,Anxiety,Neutral,2,Weekly,Average,Asia
+48,Non-binary,Software Engineer,Consulting,31,Remote,20,7,High,Burnout,Neutral,3,None,Good,Asia
+39,Male,Designer,Consulting,16,Remote,23,11,High,Anxiety,Satisfied,4,Weekly,Good,Asia
+60,Prefer not to say,Project Manager,Retail,7,Onsite,25,6,Medium,Anxiety,Neutral,1,None,Average,Asia
+51,Female,Project Manager,Education,23,Remote,27,14,Medium,Burnout,Neutral,2,Daily,Poor,Asia
+55,Prefer not to say,Software Engineer,Manufacturing,22,Hybrid,20,8,Low,Burnout,Neutral,3,None,Good,Asia
+23,Female,Project Manager,Education,14,Hybrid,44,12,Medium,None,Neutral,1,Weekly,Poor,Asia
+23,Female,HR,IT,1,Onsite,47,15,Medium,Anxiety,Neutral,3,Daily,Poor,Asia
+51,Female,Data Scientist,IT,29,Hybrid,48,10,High,Anxiety,Neutral,4,None,Good,Asia
+31,Female,Project Manager,Education,23,Remote,45,14,Low,Anxiety,Neutral,3,Weekly,Good,Asia
+24,Female,Project Manager,IT,33,Remote,31,2,Low,Burnout,Neutral,3,Weekly,Average,Asia
+30,Non-binary,Designer,Education,34,Hybrid,46,15,Medium,None,Unsatisfied,1,Weekly,Poor,Asia
+37,Non-binary,Project Manager,IT,3,Remote,51,1,Low,Depression,Neutral,3,None,Poor,Asia
+29,Male,Marketing,Consulting,3,Remote,55,10,Medium,Burnout,Neutral,1,Daily,Poor,Asia
+49,Female,Marketing,Retail,5,Remote,30,14,Medium,Depression,Unsatisfied,2,Weekly,Average,Asia
+24,Female,Marketing,IT,10,Onsite,37,5,High,Anxiety,Satisfied,4,None,Poor,Asia
+47,Non-binary,Designer,IT,26,Onsite,37,13,Medium,Anxiety,Satisfied,1,Daily,Good,Asia
+56,Male,Software Engineer,Finance,22,Remote,60,6,High,None,Satisfied,5,None,Average,Asia
+34,Non-binary,Project Manager,Retail,8,Hybrid,38,8,Low,Depression,Neutral,5,None,Good,Asia
+44,Male,Designer,Manufacturing,18,Onsite,59,5,High,Depression,Unsatisfied,2,Weekly,Poor,Asia
+58,Male,Designer,Retail,7,Hybrid,42,4,Medium,None,Satisfied,5,Daily,Poor,Asia
+35,Female,Designer,Healthcare,25,Remote,40,14,Low,None,Neutral,4,None,Average,Asia
+42,Female,Project Manager,Retail,7,Remote,38,4,Medium,Anxiety,Satisfied,2,Daily,Good,Asia
+36,Male,Sales,Retail,27,Hybrid,31,6,Medium,Anxiety,Satisfied,5,Weekly,Average,Asia
+32,Male,Sales,Consulting,10,Remote,21,3,Low,Depression,Neutral,4,None,Poor,Asia
+58,Male,Sales,Manufacturing,21,Hybrid,45,1,Medium,Depression,Neutral,3,Daily,Good,Asia
+27,Male,Project Manager,Finance,25,Onsite,41,6,High,Burnout,Unsatisfied,4,Weekly,Poor,Asia
+33,Non-binary,Sales,Education,13,Onsite,42,13,High,Depression,Neutral,3,Weekly,Average,Asia
+24,Female,Sales,Healthcare,33,Onsite,24,1,Medium,None,Unsatisfied,4,Weekly,Average,Asia
+34,Prefer not to say,Marketing,Education,28,Remote,57,15,High,Burnout,Unsatisfied,1,Daily,Average,Asia
+55,Male,Data Scientist,Education,6,Hybrid,57,3,Medium,Burnout,Neutral,5,Weekly,Poor,Asia
+43,Non-binary,Sales,Finance,2,Hybrid,38,8,Medium,Depression,Neutral,3,None,Good,Asia
+22,Female,Project Manager,Healthcare,4,Onsite,22,14,Low,Anxiety,Unsatisfied,3,Weekly,Good,Asia
+28,Non-binary,Data Scientist,Consulting,22,Hybrid,42,2,Low,Anxiety,Satisfied,4,Daily,Good,Asia
+41,Male,Designer,Finance,29,Onsite,28,10,Low,Depression,Neutral,5,None,Poor,Asia
+46,Male,Designer,Manufacturing,8,Onsite,33,8,Low,Burnout,Unsatisfied,2,Daily,Poor,Asia
+46,Non-binary,Marketing,Education,23,Remote,53,5,Medium,Burnout,Unsatisfied,4,None,Poor,Asia
+41,Female,HR,Consulting,16,Remote,51,9,Low,Anxiety,Neutral,2,Weekly,Average,Asia
+46,Male,Sales,Consulting,9,Remote,22,5,Low,Anxiety,Neutral,3,Weekly,Poor,Asia
+40,Male,Data Scientist,Retail,19,Remote,49,7,Medium,Anxiety,Unsatisfied,5,None,Average,Asia
+53,Male,Designer,Education,22,Onsite,44,0,Low,Burnout,Neutral,3,Daily,Poor,Asia
+35,Non-binary,Designer,Retail,19,Hybrid,48,3,Medium,Anxiety,Unsatisfied,5,Weekly,Good,Asia
+55,Non-binary,Marketing,Retail,18,Hybrid,23,6,Low,Anxiety,Satisfied,5,Daily,Good,Asia
+35,Non-binary,Marketing,Retail,12,Hybrid,32,13,Medium,None,Satisfied,3,Daily,Good,Asia
+32,Male,Sales,Consulting,4,Onsite,24,2,High,Burnout,Neutral,1,Weekly,Average,Asia
+27,Female,Sales,Healthcare,26,Remote,58,0,Low,None,Unsatisfied,4,Daily,Average,Asia
+29,Male,HR,IT,30,Onsite,20,15,Low,Depression,Unsatisfied,5,None,Poor,Asia
