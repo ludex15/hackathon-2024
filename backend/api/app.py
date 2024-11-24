@@ -57,11 +57,16 @@ def structure_data_with_format(query_result):
     }
     '''
 
-    context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Raw formatting is must.".format(context_type)
+    context = (
+        "Given the following data, structure it according to the following format: {}. "
+        "If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. "
+        "If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. "
+        "Return only the structured JSON object without any additional text, backticks, or formatting markers."
+    ).format(context_type)
 
     # Send the request to the OpenAI API
     response = client.chat.completions.create(
-        model="o1-preview",
+        model="o1-mini",
         messages=[
             {
                 "role": "user",
@@ -69,9 +74,18 @@ def structure_data_with_format(query_result):
             }
         ]
     )
-    
+    print(response.choices[0].message.content)
+    raw_output = response.choices[0].message.content
+    # Remove unwanted backticks or "json" markers
+    if raw_output.startswith("```json"):
+        raw_output = raw_output[7:]  # Remove the ```json prefix
+    elif raw_output.startswith("```"):
+        raw_output = raw_output[3:]  # Remove the ``` prefix
+    if raw_output.endswith("```"):
+        raw_output = raw_output[:-3]  # Remove the closing backticks
+
     # Extract and return the formatted output
-    return json.loads(response.choices[0].message.content)
+    return json.loads(raw_output)
 
 
 def generate_additional_text(data, user_query):
