@@ -1,17 +1,17 @@
 import pandas as pd
 import json
-from openai import OpenAI, embeddings, completions
+from openai import OpenAI
 import os
 from dotenv import load_dotenv
-import numpy as np
 
-# Load environment variables from .env file
-load_dotenv("/Volumes/Git/hackathon-2024/backend/api/.env")
+load_dotenv(".env")
 api_key=os.getenv("OPENAI_API_KEY")
+
+
 # user_query = "How many genders are depressed."
 
 def get_dataset(dataset_name):
-    df = pd.read_csv('/Volumes/Git/hackathon-2024/backend/data/dataset.csv')
+    df = pd.read_csv(dataset_name)
     columns = df.columns.tolist()
     description = df.describe()
 
@@ -94,7 +94,6 @@ def generate_additional_text(data, user_query):
                 ]
             )
             # Output the generated text
-            print(response)
             generated_text = response.choices[0].message.content
             data['data'][idx]['data'] = generated_text
     return data
