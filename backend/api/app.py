@@ -21,10 +21,22 @@ def get_dataset(dataset_name):
 
 def generate_pandas_query(columns, description, unique_values, user_query):
     client = OpenAI()
-    context = "You are writting python duckdb query to use on pandas dataset called 'df'. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable duckdb sql string. Conditions: No formatting. Returned output should be able to run. Oneliner only. Absolutely make sure to select everything that is asked in prompt if it is possible!".format(columns, description,unique_values)
+    # context = "You are writting python duckdb query to use on pandas dataset called 'df'. Use no schema. Use only 'from df'. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable duckdb sql string. Conditions: No formatting. Returned output should be able to run. Oneliner only. Absolutely make sure to select everything that is asked in prompt if it is possible!".format(columns, description,unique_values)
+
+    context = (
+        "You are writting python duckdb query to use on pandas dataset called 'df'."
+        "Use no information_schema."
+        "Use only 'FROM df'."
+        "Columns list: {}. Must keep the structure."
+        "Here is short statistics of dataframe {}."
+        "Here is information about unique values in non-numeric columns: {}."
+        "Convert natural language query into a raw runnable duckdb sql string."
+        "Conditions: No formatting. Returned output should be able to run. Oneliner only. Absolutely make sure to select everything that is asked in prompt if it is possible!"
+        "Output is raw string, which will be then filled in duckdb.query(str(RAWSTRINGQUERY)).df()"
+    ).format(columns, description, unique_values)
 
     response = client.chat.completions.create(
-        model="o1-preview",
+        model="gpt-4o",
         messages=[
             {
                 "role": "user", 
@@ -51,7 +63,7 @@ def generate_pandas_query(columns, description, unique_values, user_query):
 
     return raw_output
 
-def structure_data_with_format(query_result):
+def structure_data_with_format(query_result, user_prompt):
     client = OpenAI()
     context_type = '''{
     "content": [
@@ -73,15 +85,16 @@ def structure_data_with_format(query_result):
 
     context = (
         "Given the following data, structure it according to the following format: {}. "
-        "If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. "
+        "If the data is a single value (number, string, list of simple types, etc.), it should be considered as type 'simple' data."
         "If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. "
         "Return only the structured JSON object without any additional text, backticks, or formatting markers. Must keep the structure."
         "Absolutely make sure to follow predefined structure! Do not add new keys, that are not defined. No Null data!"
-    ).format(context_type)
+        "Structure data with attention to user prompt: {}"
+    ).format(context_type, user_prompt)
 
     # Send the request to the OpenAI API
     response = client.chat.completions.create(
-        model="o1-preview",
+        model="gpt-4o",
         messages=[
             {
                 "role": "user",
@@ -114,7 +127,7 @@ def generate_additional_text(data, user_query):
             prompt = "You have previously done quering dataset. Given value from last query: {}, generate answer to asked question about dataset {}.".format(simple_value, user_query)
             
             response = client.chat.completions.create(
-                model="o1-preview",
+                model="gpt-4o",
                 messages=[
                     {
                     "role": "user", 
