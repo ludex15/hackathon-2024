@@ -6,12 +6,12 @@ from dotenv import load_dotenv
 import numpy as np
 
 # Load environment variables from .env file
-load_dotenv(".env")
+load_dotenv("/Volumes/Git/hackathon-2024/backend/api/.env")
 api_key=os.getenv("OPENAI_API_KEY")
-user_query = "How many genders are depressed."
+# user_query = "How many genders are depressed."
 
-def get_dataset():
-    df = pd.read_csv('../data/dataset.csv')
+def get_dataset(dataset_name):
+    df = pd.read_csv('/Volumes/Git/hackathon-2024/backend/data/dataset.csv')
     columns = df.columns.tolist()
     description = df.describe()
 
@@ -43,7 +43,7 @@ def structure_data_with_format(query_result):
     "data": [
         {
         "type": "simple",
-        "value": <simple_data_value>
+        "data": <simple_data_value>
         },
         {
         "type": "complex",
@@ -72,3 +72,29 @@ def structure_data_with_format(query_result):
     
     # Extract and return the formatted output
     return json.loads(response.choices[0].message.content)
+
+
+def generate_additional_text(data, user_query):
+    client = OpenAI()
+    for idx, item in enumerate(data['data']):
+        if item['type'] == 'simple':
+            # Extract the simple value
+            simple_value = item['data']
+            
+            # Use the simple value in a prompt
+            prompt = "You have previously done quering dataset. Given value from last query: {}, generate answer to asked question about dataset {}.".format(simple_value, user_query)
+            
+            response = client.chat.completions.create(
+                model="o1-preview",
+                messages=[
+                    {
+                    "role": "user", 
+                    "content": "{}".format(prompt)
+                    }
+                ]
+            )
+            # Output the generated text
+            print(response)
+            generated_text = response.choices[0].message.content
+            data['data'][idx]['data'] = generated_text
+    return data

@@ -4,8 +4,6 @@ import json
 from openai import OpenAI, embeddings, completions
 import os
 from dotenv import load_dotenv
-import numpy as np
-import tiktoken
 
 # Load environment variables from .env file
 load_dotenv(".env")
@@ -31,9 +29,9 @@ print(unique_values)
 from openai import OpenAI
 client = OpenAI()
 
-context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}. Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description)
+context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}. Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description,unique_values)
 
-user_query = "How many genders are depressed."
+user_query = "What is average male age?"
 
 
 response = client.chat.completions.create(
@@ -57,7 +55,7 @@ context_type = '''{
   "data": [
     {
       "type": "simple",
-      "value": <simple_data_value>
+      "data": <simple_data_value>
     },
     {
       "type": "complex",
@@ -71,7 +69,7 @@ context_type = '''{
 }
 '''
 
-context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Format it in raw json".format(context_type)
+context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Raw formatting is must".format(context_type)
 
 
 response = client.chat.completions.create(
@@ -84,5 +82,50 @@ response = client.chat.completions.create(
     ]
 )
 print(response.choices[0].message.content)
+data = json.loads(response.choices[0].message.content)
+
+#%%
+data = {
+  "data": [
+    {
+      "type": "simple",
+      "data": 40.83622047244094
+    },
+    {
+      "type": "simple",
+      "data": 11.83622047244094
+    }
+  ]
+}
+
+#%%
+
+for idx, item in enumerate(data['data']):
+    print(data['data'][idx]['data'])
+
+#%%
+
+# Loop through the 'data' list to check for simple data
+for idx, item in enumerate(data['data']):
+    if item['type'] == 'simple':
+        # Extract the simple value
+        simple_value = item['data']
+        
+        # Use the simple value in a prompt
+        prompt = "You have previously done quering dataset. Given value from last query: {}, generate answer to asked question about dataset {}.".format(simple_value, user_query)
+        
+        response = client.chat.completions.create(
+            model="o1-preview",
+            messages=[
+                {
+                "role": "user", 
+                "content": "{}".format(prompt)
+                }
+            ]
+        )
+        # Output the generated text
+        generated_text = response.choices[0].message.content
+        data['data'][idx]['data'] = generated_text
+        print(generated_text)
 
 # %%
