@@ -36,10 +36,14 @@ def process_text():
 
         df, columns, description, unique_values = openaiservice.get_dataset(dataset_path)
         prompt1_result = openaiservice.generate_pandas_query(columns, description, unique_values, user_prompt)
+        print(prompt1_result)
         evaluated_prompt1 = eval(prompt1_result)
+        print(evaluated_prompt1)
         data_struct = openaiservice.structure_data_with_format(str(evaluated_prompt1))
+        print(data_struct)
         final_data = openaiservice.generate_additional_text(data_struct, user_prompt)
-        return jsonify({"message": final_data}), 200
+        print(final_data)
+        return jsonify(final_data), 200
 
     except KeyError as e:
         # Handle specific KeyError issues
