@@ -37,7 +37,6 @@ const UploadComponent = ({ onUploadSuccess }) => {
 
   return (
     <div className="upload-component">
-      <input type="file" onChange={handleFileChange} accept=".csv" />
       <button onClick={handleUpload} disabled={uploading || !selectedFile}>
         {uploading ? 'Uploading...' : 'Upload CSV'}
       </button>

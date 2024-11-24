@@ -107,8 +107,14 @@ const Question = ({ onNewQuestion, onResponse }) => {
           type="file"
           accept=".csv"
           onChange={handleFileChange}
-          disabled={uploading}
+          id="files"
+          style={{ display: 'none' }}
         />
+        <label
+        htmlFor="files"
+        >
+        {selectedFile ? selectedFile.name : 'Select file'}
+      </label>
         <button onClick={handleFileUpload} disabled={uploading || !selectedFile}>
           {uploading ? 'Uploading...' : 'Upload'}
         </button>
