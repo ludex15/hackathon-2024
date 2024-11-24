@@ -4,7 +4,7 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 
-load_dotenv(".env")
+load_dotenv()
 api_key=os.getenv("OPENAI_API_KEY")
 
 
@@ -40,7 +40,7 @@ def generate_pandas_query(columns, description, unique_values, user_query):
 def structure_data_with_format(query_result):
     client = OpenAI()
     context_type = '''{
-    "data": [
+    "content": [
         {
         "type": "simple",
         "data": <simple_data_value>
@@ -57,7 +57,7 @@ def structure_data_with_format(query_result):
     }
     '''
 
-    context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Raw formatting is must".format(context_type)
+    context = "Given the following data, structure it according to the following format: {}. If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. Raw formatting is must.".format(context_type)
 
     # Send the request to the OpenAI API
     response = client.chat.completions.create(
@@ -76,7 +76,7 @@ def structure_data_with_format(query_result):
 
 def generate_additional_text(data, user_query):
     client = OpenAI()
-    for idx, item in enumerate(data['data']):
+    for idx, item in enumerate(data['content']):
         if item['type'] == 'simple':
             # Extract the simple value
             simple_value = item['data']
@@ -95,5 +95,5 @@ def generate_additional_text(data, user_query):
             )
             # Output the generated text
             generated_text = response.choices[0].message.content
-            data['data'][idx]['data'] = generated_text
+            data['content'][idx]['data'] = generated_text
     return data
