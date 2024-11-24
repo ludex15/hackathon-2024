@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from app import query_openai
+from app import get_dataset, generate_pandas_query, structure_data_with_format, generate_additional_text
 
 
 app = Flask(__name__)
@@ -19,18 +19,20 @@ def process_text():
             return error_response("Request must be in JSON format", 400)
 
         # Extract data from JSON payload
-        data = request.get_json()
-        if 'prompt' not in data:
+        request_data = request.get_json()
+        if 'prompt' not in request_data:
             return error_response("Missing 'prompt' field in request body", 400)
 
         # Process the 'prompt' field
-        user_prompt = data['prompt']
-        openai_response = query_openai(user_prompt)
+        user_prompt = request_data['prompt']
+        user_dataset = request_data['datasetName']
 
-        if openai_response["return_code"] != 0:
-            return error_response("Openai error", 400) 
-
-        return jsonify({"message": openai_response["content"]}), 200
+        df, columns, description, unique_values = get_dataset(user_dataset)
+        prompt1_result = generate_pandas_query(columns, description, unique_values, user_prompt)
+        evaluated_prompt1 = eval(prompt1_result)
+        data_struct = structure_data_with_format(str(evaluated_prompt1))
+        final_data = generate_additional_text(data_struct, user_prompt)
+        return jsonify({"message": final_data}), 200
 
     except KeyError as e:
         # Handle specific KeyError issues
