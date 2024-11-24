@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const Question = ({ onResponse }) => {
+const Question = ({ onNewQuestion, onResponse }) => {
   const [inputValue, setInputValue] = useState('');
 
   const handleInputChange = (event) => {
@@ -8,21 +8,27 @@ const Question = ({ onResponse }) => {
   };
 
   const handleSubmit = async (event) => {
-    const question = inputValue;
-    setInputValue('')
     event.preventDefault();
-    try{
+    const question = inputValue.trim();
+    if (!question) return;
+
+    onNewQuestion(question);
+    setInputValue(''); 
+
+    try {
       const response = await fetch('http://127.0.0.1:5000/api/prompt', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ prompt: question }),
+        body: JSON.stringify({ datasetName: 'dataset.csv', prompt: question }),
       });
+
       const data = await response.json();
-      onResponse(inputValue, data)  
-    }catch(error){
-      console.error('Error fething data: ', error)
+
+      onResponse(question, data);
+    } catch (error) {
+      console.error('Error fetching data: ', error);
     }
   };
 

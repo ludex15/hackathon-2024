@@ -1,40 +1,20 @@
 import React from "react";
 import { Chart } from "react-google-charts";
 
-const GoogleChart = ({
-  // supported chart types
-  // BarChart
-  // LineChart
-  // PieChart
-  // ColumnChart
-  // AreaChart
-  chartType = "BarChart",
-  data = [],
-  title = "Sample Chart",
-  hAxisTitle = "Horizontal Axis",
-  vAxisTitle = "Vertical Axis",
-  colors = ["#9ABF80"],
-  width = "100%",
-  height = "400px",
-}) => {
-
-  const options = {
-    title,
-    chartArea: { width: "60%" },
-    hAxis: { title: hAxisTitle, minValue: 0 },
-    vAxis: { title: vAxisTitle },
-    colors,
-  };
-
+const GoogleChart = ({ chartType, data }) => {
   return (
-    <div style={{ display: "flex", justifyContent: "center", marginTop: "20px" }}>
+    <div style={{ 
+      borderRadius: '15px',
+      overflow: 'hidden',
+      border: '2px solid #ccc',
+      boxShadow: '0 2px 10px rgba(0, 0, 0, 0.1)',
+    }}>
       <Chart
         chartType={chartType}
         data={data}
-        options={options}
-        width={width}
-        height={height}
-        loader={<div>Loading Chart...</div>}
+        width="35vw"
+        height="30vh"
+        options={{legend: { position: 'none' }}}
       />
     </div>
   );
