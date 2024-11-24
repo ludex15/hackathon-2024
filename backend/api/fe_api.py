@@ -3,7 +3,8 @@ from flask_cors import CORS
 import app as openaiservice
 import os
 from pathlib import Path
-import pandas as pd
+import duckdb
+import time
 
 # Get the path of the current script
 script_dir = Path(__file__).resolve().parent
@@ -11,6 +12,7 @@ DATASETS_PATH = script_dir /  '../data'
 
 app = Flask(__name__)
 CORS(app)
+
 
 # Custom error messages
 def error_response(message, status_code):
@@ -21,7 +23,16 @@ def error_response(message, status_code):
 @app.route('/api/prompt', methods=['POST'])
 def process_text():
     try:
+        start_time = time.time()  # Start timer for the entire function
+
+        # Check if the request has a JSON body
+        step_start = time.time()  # Timer for this step
+        if not request.is_json:
+            return error_response("Request must be in JSON format", 400)
+        print(f"Step: Check JSON format took {time.time() - step_start:.4f} seconds")
+
         # Extract data from JSON payload
+        step_start = time.time()
         request_data = request.get_json()
 
         # Define allowed keys
@@ -32,18 +43,43 @@ def process_text():
             return error_response("Too many parameters in the request body", 400)
 
         # Process the 'prompt' and 'datasetName' fields
+        step_start = time.time()
         user_prompt = request_data['prompt']
         user_dataset = request_data['datasetName']
+        print(f"Step: Extract 'prompt' and 'datasetName' took {time.time() - step_start:.4f} seconds")
 
+        # Load dataset
+        step_start = time.time()
         df, columns, description, unique_values = openaiservice.get_dataset(DATASETS_PATH / '{}'.format(user_dataset))
-        dataset_path = script_dir / '../data/{}'.format(user_dataset)
+        print(f"Step: Load dataset took {time.time() - step_start:.4f} seconds")
 
-        df, columns, description, unique_values = openaiservice.get_dataset(dataset_path)
+        # Generate query
+        step_start = time.time()
         prompt1_result = openaiservice.generate_pandas_query(columns, description, unique_values, user_prompt)
+        print(prompt1_result)
+        print(f"Step: Generate Pandas query took {time.time() - step_start:.4f} seconds")
 
-        evaluated_prompt1 = eval(prompt1_result)
-        data_struct = openaiservice.structure_data_with_format(str(evaluated_prompt1))
+        # Execute query
+        step_start = time.time()
+        evaluated_prompt1 = duckdb.query(str(prompt1_result)).df()
+        print(evaluated_prompt1)
+        print(f"Step: Execute query with DuckDB took {time.time() - step_start:.4f} seconds")
+
+        # Structure data
+        step_start = time.time()
+        data_struct = openaiservice.structure_data_with_format(evaluated_prompt1)
+        print(data_struct)
+        print(f"Step: Structure data took {time.time() - step_start:.4f} seconds")
+
+        # Generate additional text
+        step_start = time.time()
         final_data = openaiservice.generate_additional_text(data_struct, user_prompt)
+        print(final_data)
+        print(f"Step: Generate additional text took {time.time() - step_start:.4f} seconds")
+
+        # Return response
+        total_time = time.time() - start_time
+        print(f"Total execution time: {total_time:.4f} seconds")
         return jsonify(final_data), 200
 
     except KeyError as e:
