@@ -47,6 +47,7 @@ const Answer = ({ answers, previousPrompt }) => {
                 value={chartType}
                 style={{
                   marginBottom: '20px',
+                  borderRadius: '4px',
                   padding: '5px',
                   fontSize: '16px',
                   display: 'block',
