@@ -21,7 +21,7 @@ def get_dataset(dataset_name):
 
 def generate_pandas_query(columns, description, unique_values, user_query):
     client = OpenAI()
-    context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python.".format(columns, description,unique_values)
+    context = "You are writting pandas query from dataset df. Columns list: {}. Here is short statistics of dataframe {}.  Here is information about unique values in non-numeric columns: {} Convert natural language query into a raw runnable pandas query string without any formatting. Returned output should be able to run in eval function in python. Only one query.".format(columns, description,unique_values)
 
     response = client.chat.completions.create(
         model="o1-preview",
@@ -34,8 +34,22 @@ def generate_pandas_query(columns, description, unique_values, user_query):
     )
 
     # Extract and return the generated query
-    query = response.choices[0].message.content.strip('"')
-    return query
+    raw_output = response.choices[0].message.content.strip('"')
+
+    # Remove unwanted backticks or "json" markers
+    if raw_output.startswith("```python"):
+        raw_output = raw_output[7:]  # Remove the ```json prefix
+    elif raw_output.startswith("```"):
+        raw_output = raw_output[3:]  # Remove the ``` prefix
+    elif raw_output.startswith("`"):
+        raw_output = raw_output[1:]  # Remove the ` prefix
+    if raw_output.endswith("```"):
+        raw_output = raw_output[:-3]  # Remove the closing backticks
+    elif raw_output.endswith("`"):
+        raw_output = raw_output[:-1]  # Remove the closing backticks
+
+
+    return raw_output
 
 def structure_data_with_format(query_result):
     client = OpenAI()
@@ -61,7 +75,7 @@ def structure_data_with_format(query_result):
         "Given the following data, structure it according to the following format: {}. "
         "If the data is a single value (number, string, list of simple types, etc.), it should be considered as 'simple' data. "
         "If the data consists of categories or multiple values (such as a list of complex items or counts), it should be considered as 'complex' data with category counts. "
-        "Return only the structured JSON object without any additional text, backticks, or formatting markers."
+        "Return only the structured JSON object without any additional text, backticks, or formatting markers. Must keep the structure."
     ).format(context_type)
 
     # Send the request to the OpenAI API
@@ -74,7 +88,7 @@ def structure_data_with_format(query_result):
             }
         ]
     )
-    #print(response.choices[0].message.content)
+    # print(response.choices[0].message.content)
     raw_output = response.choices[0].message.content
     # Remove unwanted backticks or "json" markers
     if raw_output.startswith("```json"):
