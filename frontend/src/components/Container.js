@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import Question from './Question';
 import Answer from './Answer';
 import LoadingDots from './LoadingDots';
+import GoogleChart from './GoogleChart';
 
 const Container = () => {
   const [questions, setQuestions] = useState([]); // Stores all questions
@@ -21,14 +22,16 @@ const Container = () => {
         }
         return prevAnswers; 
       });
-    }, 30000); 
+    }, 40000); 
   };
-
 
   const handleAnswerResponse = (question, data) => {
     setAnswers((prevAnswers) => ({
       ...prevAnswers,
-      [question]: data.content[0].data,
+      [question]: data.content.map(item => ({
+        data: item.data,
+        type: item.type,
+      })),
     }));
   };
 
@@ -43,13 +46,15 @@ const Container = () => {
       <div className="list qa" ref={listRef}>
         {questions.map((question, index) => (
           <div key={index} className="qa-item">
-            <p className="question">
-              <strong>Question:</strong> {question}
-            </p>
+            <div className="question">
+              <strong>Question:</strong> <p>{question}</p>
+            </div>
             {answers[question] ? (
-              <Answer type="text" data={answers[question]} />
+              <div className="answer">
+                <Answer answers={answers[question]} />
+              </div>
             ) : (
-              <p className="answer"><LoadingDots/></p>
+              <div className="answer"><LoadingDots/></div>
             )}
           </div>
         ))}
