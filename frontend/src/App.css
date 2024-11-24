@@ -1,0 +1,131 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #E5E3D4;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  height: 100vh;
+  padding: 20px;
+}
+
+.list {
+  top: 20px;
+  left: 5%; 
+  width: 90%; 
+  min-height: 85vh;
+  max-height: 85vh;
+  padding: 15px;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  align-items: center;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.qa {
+  max-width: 30%;
+}
+
+.qa-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.question {
+  max-width: 60%;
+  margin: 10px 0; 
+  padding: 10px 15px;
+  background-color: #6A669D; 
+  color: white; 
+  border-radius: 15px; 
+  border-top-left-radius: 0;
+  align-self: flex-start; 
+  text-align: flex-start;
+}
+
+.answer {
+  max-width: 60%;
+  margin: 10px 0; 
+  padding: 10px 15px;
+  background-color: #1C325B;
+  color: white;
+  border-radius: 15px;
+  border-top-right-radius: 0;
+  align-self: flex-end;
+  text-align: right;
+}
+
+.visuals {
+  max-width: 65%;
+}
+
+.prompt {
+  position: fixed;
+  bottom: 20px; 
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 90%; 
+  max-width: 600px;
+  padding: 15px;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.prompt form {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+}
+
+.prompt input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 24px;
+  outline: none;
+}
+
+.prompt button {
+  padding: 8px 12px;
+  background-color: #6A669D;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 24px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for button */
+.prompt button:hover {
+  background-color: #514c9b;
+}
+
+/* Focus effect for input */
+.prompt input:focus {
+  border-color: #514c9b;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* @media (max-width: 768px) {
+  .prompt input {
+    width: 60%;
+  }
+  .prompt button {
+    width: 30%;
+  }
+} */
